@@ -3,4 +3,6 @@
 See notebook analysis:
 - https://rawcdn.githack.com/conorheffron/nba-stats/1c86c0694c21891c29fa314d52f71eadab7cfb5c/assignment-1-part2.html
 
+<script src="https://gist.github.com/conorheffron/312fdee6923dd568313bebeed20a34ea.js"></script>
+
 
