@@ -12,6 +12,9 @@ This includes:
 
 `Note`: require.js may be needed to view interactive plots in HTML files so internet connection or the same file stored in local cache should suffice.
 
-See notebook analysis:
+### See notebook analysis:
+[nba-stats-part2.pdf](https://github.com/conorheffron/nba-stats/files/14726643/nba-stats-part2.pdf)
+
+### Link:
 https://rawcdn.githack.com/conorheffron/nba-stats/1c86c0694c21891c29fa314d52f71eadab7cfb5c/assignment-1-part2.html
 
