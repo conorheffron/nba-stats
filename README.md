@@ -16,4 +16,5 @@ This includes:
 [Notebook 2: Analysis & Interactive Plots](https://github.com/conorheffron/nba-stats/files/14726643/nba-stats-part2.pdf)
 
 ### Link:
-https://rawcdn.githack.com/conorheffron/nba-stats/1c86c0694c21891c29fa314d52f71eadab7cfb5c/assignment-1-part2.html
+- [Static CDN Page](https://rawcdn.githack.com/conorheffron/nba-stats/1c86c0694c21891c29fa314d52f71eadab7cfb5c/assignment-1-part2.html)
+- [Github Pages](https://conorheffron.github.io/nba-stats/assignment-1-part2.html)
