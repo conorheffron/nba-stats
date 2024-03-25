@@ -17,3 +17,5 @@ This includes:
 
 ### Link:
 https://rawcdn.githack.com/conorheffron/nba-stats/1c86c0694c21891c29fa314d52f71eadab7cfb5c/assignment-1-part2.html
+
+<img width="640" alt="Screenshot 2024-02-17 at 00 27 05" src="https://github.com/conorheffron/nba-stats/assets/8218626/780e68f8-42ed-4392-a8b0-785236ceda5e">
