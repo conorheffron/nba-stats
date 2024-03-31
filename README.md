@@ -4,9 +4,9 @@ Please see the inital version of this analysis in 2 parts (Jupyter notebooks usi
 
 This includes:
 
-- assignment-1-part1.ipynb (Part 1 Notebook - download data for analysis via sports API - NBA V2)
+- [Part 1](https://conorheffron.github.io/nba-stats/assignment-1-part1.html) assignment-1-part1.ipynb (Part 1 Notebook - download data for analysis via sports API - NBA V2)
 
-- assignment-1-part2.ipynb (Part 2 Notebook - read, clean, analyse and visualise data stored on disk)
+- [Part 2](https://conorheffron.github.io/nba-stats/assignment-1-part2.html) assignment-1-part2.ipynb (Part 2 Notebook - read, clean, analyse and visualise data stored on disk)
 
 - Subset of the data used ( `/raw` dir with `Boston Celtics` data only), please contact me for more data samples or to collaborate on this analysis etc.
 
