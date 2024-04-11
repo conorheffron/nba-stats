@@ -15,10 +15,3 @@ This includes:
 - Subset of the data used ( `/raw` dir with `Boston Celtics` data only), please contact me for more data samples or to collaborate on this analysis etc.
 
 `Note`: require.js may be needed to view interactive plots in HTML files so internet connection or the same file stored in local cache should suffice.
-
-### Part 2 (Analysis & Visualisations Notebook) Links:
-- [Static CDN Page](https://rawcdn.githack.com/conorheffron/nba-stats/1c86c0694c21891c29fa314d52f71eadab7cfb5c/assignment-1-part2.html)
-- [Github Pages](https://conorheffron.github.io/nba-stats/assignment-1-part2.html)
-
-### See Notebook Analysis for Download in PDF format (Part 2)
-[Notebook 2: Analysis & Interactive Plots](https://github.com/conorheffron/nba-stats/files/14726643/nba-stats-part2.pdf)
