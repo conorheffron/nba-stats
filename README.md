@@ -1,3 +1,5 @@
+![Auto Assign](https://github.com/cph39/nba-stats/actions/workflows/auto-assign.yml/badge.svg)
+
 # nba-stats
 
 <p align="center">
