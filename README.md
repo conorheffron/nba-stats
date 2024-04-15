@@ -13,5 +13,3 @@ This includes:
 - [Part 2](https://cph39.github.io/nba-stats/assignment-1-part2.html) assignment-1-part2.ipynb (Part 2 Notebook - read, clean, analyse and visualise data stored on disk)
 
 - Subset of the data used ( `/raw` dir with `Boston Celtics, Orlando Magic, & Atlanta Hawks` data), please contact me for more data samples or to collaborate on this analysis etc.
-
-`Note`: require.js may be needed to view interactive plots in HTML files so internet connection or the same file stored in local cache should suffice.
