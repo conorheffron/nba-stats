@@ -12,8 +12,8 @@ Please see the inital version of this analysis in 2 parts (Jupyter notebooks usi
 
 This includes:
 
-- [Part 1](https://cph39.github.io/nba-stats/part1.html) part1.ipynb (Part 1 Notebook - download data for analysis via sports API - NBA V2)
+- [part1.ipynb](https://cph39.github.io/nba-stats/part1.html) (Part 1 Notebook - download data for analysis via sports API - NBA V2)
 
-- [Part 2](https://cph39.github.io/nba-stats/part2.html) part2.ipynb (Part 2 Notebook - read, clean, analyse and visualise data stored on disk)
+- [part2.ipynb](https://cph39.github.io/nba-stats/part2.html) (Part 2 Notebook - read, clean, analyse and visualise data stored on disk)
 
 - Subset of the data used ( `/raw` dir with `Boston Celtics, Orlando Magic, & Atlanta Hawks` data), please contact me for more data samples or to collaborate on this analysis etc.
