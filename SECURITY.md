@@ -10,4 +10,4 @@
 
 ## Reporting a Vulnerability
 
-Submit new issue or contact conorheffron.
+Submit new issue at [issues](https://github.com/cph33/nba-stats/issues) or contact conorheffron.
