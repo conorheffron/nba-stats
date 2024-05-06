@@ -1,7 +1,7 @@
 ![Proof HTML](https://github.com/cph33/nba-stats/actions/workflows/proof-html.yml/badge.svg)
 
 <p align="center">
-  <img width="640" alt="Screenshot 2024-02-17 at 00 27 05" src="https://github.com/conorheffron/nba-stats/assets/8218626/780e68f8-42ed-4392-a8b0-785236ceda5e">
+  <img width="640" alt="Screenshot 2024-02-17 at 00 27 05" src="https://github.com/cph33/nba-stats/assets/8218626/dd2aaff9-f464-4da4-a376-69641e9cdeb4">
 </p>
 
 Please see the inital version of this analysis in 2 parts (Jupyter notebooks using various Python 3 libraries).
