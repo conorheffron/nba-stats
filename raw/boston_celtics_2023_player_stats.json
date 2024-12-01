@@ -29372,7 +29372,1177 @@
             "tpm": 1,
             "tpp": "100.0",
             "turnovers": 3
+        },
+        {
+            "assists": 6,
+            "blocks": 1,
+            "comment": null,
+            "defReb": 6,
+            "fga": 17,
+            "fgm": 8,
+            "fgp": "47.1",
+            "fta": 10,
+            "ftm": 8,
+            "ftp": "80.0",
+            "game": {
+                "id": 13528
+            },
+            "min": "27",
+            "offReb": 0,
+            "pFouls": 1,
+            "player": {
+                "firstname": "Jayson",
+                "id": 882,
+                "lastname": "Tatum"
+            },
+            "plusMinus": "+26",
+            "points": 30,
+            "pos": "SF",
+            "steals": 3,
+            "team": {
+                "code": "BOS",
+                "id": 2,
+                "logo": "https://upload.wikimedia.org/wikipedia/fr/thumb/6/65/Celtics_de_Boston_logo.svg/1024px-Celtics_de_Boston_logo.svg.png",
+                "name": "Boston Celtics",
+                "nickname": "Celtics"
+            },
+            "totReb": 6,
+            "tpa": 12,
+            "tpm": 6,
+            "tpp": "50.0",
+            "turnovers": 2
+        },
+        {
+            "assists": 1,
+            "blocks": 0,
+            "comment": null,
+            "defReb": 6,
+            "fga": 13,
+            "fgm": 10,
+            "fgp": "76.9",
+            "fta": 0,
+            "ftm": 0,
+            "ftp": "0",
+            "game": {
+                "id": 13528
+            },
+            "min": "23",
+            "offReb": 0,
+            "pFouls": 1,
+            "player": {
+                "firstname": "Sam",
+                "id": 2812,
+                "lastname": "Hauser"
+            },
+            "plusMinus": "+18",
+            "points": 30,
+            "pos": "SF",
+            "steals": 1,
+            "team": {
+                "code": "BOS",
+                "id": 2,
+                "logo": "https://upload.wikimedia.org/wikipedia/fr/thumb/6/65/Celtics_de_Boston_logo.svg/1024px-Celtics_de_Boston_logo.svg.png",
+                "name": "Boston Celtics",
+                "nickname": "Celtics"
+            },
+            "totReb": 6,
+            "tpa": 13,
+            "tpm": 10,
+            "tpp": "76.9",
+            "turnovers": 0
+        },
+        {
+            "assists": 2,
+            "blocks": 0,
+            "comment": null,
+            "defReb": 1,
+            "fga": 5,
+            "fgm": 1,
+            "fgp": "20.0",
+            "fta": 6,
+            "ftm": 5,
+            "ftp": "83.3",
+            "game": {
+                "id": 13528
+            },
+            "min": "29",
+            "offReb": 3,
+            "pFouls": 3,
+            "player": {
+                "firstname": "Oshae",
+                "id": 2110,
+                "lastname": "Brissett"
+            },
+            "plusMinus": "+17",
+            "points": 7,
+            "pos": "SF",
+            "steals": 0,
+            "team": {
+                "code": "BOS",
+                "id": 2,
+                "logo": "https://upload.wikimedia.org/wikipedia/fr/thumb/6/65/Celtics_de_Boston_logo.svg/1024px-Celtics_de_Boston_logo.svg.png",
+                "name": "Boston Celtics",
+                "nickname": "Celtics"
+            },
+            "totReb": 4,
+            "tpa": 3,
+            "tpm": 0,
+            "tpp": "0",
+            "turnovers": 1
+        },
+        {
+            "assists": 2,
+            "blocks": 0,
+            "comment": null,
+            "defReb": 2,
+            "fga": 7,
+            "fgm": 5,
+            "fgp": "71.4",
+            "fta": 2,
+            "ftm": 2,
+            "ftp": "100.0",
+            "game": {
+                "id": 13528
+            },
+            "min": "23",
+            "offReb": 2,
+            "pFouls": 3,
+            "player": {
+                "firstname": "Al",
+                "id": 248,
+                "lastname": "Horford"
+            },
+            "plusMinus": "+16",
+            "points": 14,
+            "pos": "C",
+            "steals": 0,
+            "team": {
+                "code": "BOS",
+                "id": 2,
+                "logo": "https://upload.wikimedia.org/wikipedia/fr/thumb/6/65/Celtics_de_Boston_logo.svg/1024px-Celtics_de_Boston_logo.svg.png",
+                "name": "Boston Celtics",
+                "nickname": "Celtics"
+            },
+            "totReb": 4,
+            "tpa": 4,
+            "tpm": 2,
+            "tpp": "50.0",
+            "turnovers": 1
+        },
+        {
+            "assists": 3,
+            "blocks": 2,
+            "comment": null,
+            "defReb": 1,
+            "fga": 7,
+            "fgm": 3,
+            "fgp": "42.9",
+            "fta": 0,
+            "ftm": 0,
+            "ftp": "0",
+            "game": {
+                "id": 13528
+            },
+            "min": "22",
+            "offReb": 0,
+            "pFouls": 2,
+            "player": {
+                "firstname": "Jrue",
+                "id": 242,
+                "lastname": "Holiday"
+            },
+            "plusMinus": "+17",
+            "points": 7,
+            "pos": "PG",
+            "steals": 1,
+            "team": {
+                "code": "BOS",
+                "id": 2,
+                "logo": "https://upload.wikimedia.org/wikipedia/fr/thumb/6/65/Celtics_de_Boston_logo.svg/1024px-Celtics_de_Boston_logo.svg.png",
+                "name": "Boston Celtics",
+                "nickname": "Celtics"
+            },
+            "totReb": 1,
+            "tpa": 2,
+            "tpm": 1,
+            "tpp": "50.0",
+            "turnovers": 3
+        },
+        {
+            "assists": 0,
+            "blocks": 1,
+            "comment": null,
+            "defReb": 1,
+            "fga": 4,
+            "fgm": 1,
+            "fgp": "25.0",
+            "fta": 2,
+            "ftm": 1,
+            "ftp": "50.0",
+            "game": {
+                "id": 13528
+            },
+            "min": "15",
+            "offReb": 1,
+            "pFouls": 1,
+            "player": {
+                "firstname": "Xavier",
+                "id": 2656,
+                "lastname": "Tillman"
+            },
+            "plusMinus": "+8",
+            "points": 3,
+            "pos": "F",
+            "steals": 2,
+            "team": {
+                "code": "BOS",
+                "id": 2,
+                "logo": "https://upload.wikimedia.org/wikipedia/fr/thumb/6/65/Celtics_de_Boston_logo.svg/1024px-Celtics_de_Boston_logo.svg.png",
+                "name": "Boston Celtics",
+                "nickname": "Celtics"
+            },
+            "totReb": 2,
+            "tpa": 3,
+            "tpm": 0,
+            "tpp": "0",
+            "turnovers": 1
+        },
+        {
+            "assists": 1,
+            "blocks": 2,
+            "comment": null,
+            "defReb": 3,
+            "fga": 9,
+            "fgm": 5,
+            "fgp": "55.6",
+            "fta": 4,
+            "ftm": 4,
+            "ftp": "100.0",
+            "game": {
+                "id": 13528
+            },
+            "min": "20",
+            "offReb": 3,
+            "pFouls": 1,
+            "player": {
+                "firstname": "Luke",
+                "id": 819,
+                "lastname": "Kornet"
+            },
+            "plusMinus": "+9",
+            "points": 14,
+            "pos": "C",
+            "steals": 0,
+            "team": {
+                "code": "BOS",
+                "id": 2,
+                "logo": "https://upload.wikimedia.org/wikipedia/fr/thumb/6/65/Celtics_de_Boston_logo.svg/1024px-Celtics_de_Boston_logo.svg.png",
+                "name": "Boston Celtics",
+                "nickname": "Celtics"
+            },
+            "totReb": 6,
+            "tpa": 0,
+            "tpm": 0,
+            "tpp": "0",
+            "turnovers": 1
+        },
+        {
+            "assists": 0,
+            "blocks": 0,
+            "comment": null,
+            "defReb": 2,
+            "fga": 0,
+            "fgm": 0,
+            "fgp": "0",
+            "fta": 0,
+            "ftm": 0,
+            "ftp": "0",
+            "game": {
+                "id": 13528
+            },
+            "min": "8",
+            "offReb": 0,
+            "pFouls": 1,
+            "player": {
+                "firstname": "Neemias",
+                "id": 2844,
+                "lastname": "Queta"
+            },
+            "plusMinus": "+2",
+            "points": 0,
+            "pos": "C",
+            "steals": 0,
+            "team": {
+                "code": "BOS",
+                "id": 2,
+                "logo": "https://upload.wikimedia.org/wikipedia/fr/thumb/6/65/Celtics_de_Boston_logo.svg/1024px-Celtics_de_Boston_logo.svg.png",
+                "name": "Boston Celtics",
+                "nickname": "Celtics"
+            },
+            "totReb": 2,
+            "tpa": 0,
+            "tpm": 0,
+            "tpp": "0",
+            "turnovers": 1
+        },
+        {
+            "assists": 13,
+            "blocks": 0,
+            "comment": null,
+            "defReb": 3,
+            "fga": 15,
+            "fgm": 6,
+            "fgp": "40.0",
+            "fta": 0,
+            "ftm": 0,
+            "ftp": "0",
+            "game": {
+                "id": 13528
+            },
+            "min": "35",
+            "offReb": 2,
+            "pFouls": 0,
+            "player": {
+                "firstname": "Payton",
+                "id": 2635,
+                "lastname": "Pritchard"
+            },
+            "plusMinus": "+16",
+            "points": 14,
+            "pos": "PG",
+            "steals": 1,
+            "team": {
+                "code": "BOS",
+                "id": 2,
+                "logo": "https://upload.wikimedia.org/wikipedia/fr/thumb/6/65/Celtics_de_Boston_logo.svg/1024px-Celtics_de_Boston_logo.svg.png",
+                "name": "Boston Celtics",
+                "nickname": "Celtics"
+            },
+            "totReb": 5,
+            "tpa": 5,
+            "tpm": 2,
+            "tpp": "40.0",
+            "turnovers": 1
+        },
+        {
+            "assists": 2,
+            "blocks": 0,
+            "comment": null,
+            "defReb": 5,
+            "fga": 7,
+            "fgm": 3,
+            "fgp": "42.9",
+            "fta": 0,
+            "ftm": 0,
+            "ftp": "0",
+            "game": {
+                "id": 13528
+            },
+            "min": "23",
+            "offReb": 0,
+            "pFouls": 0,
+            "player": {
+                "firstname": "Svi",
+                "id": 1006,
+                "lastname": "Mykhailiuk"
+            },
+            "plusMinus": "+7",
+            "points": 9,
+            "pos": "SG",
+            "steals": 0,
+            "team": {
+                "code": "BOS",
+                "id": 2,
+                "logo": "https://upload.wikimedia.org/wikipedia/fr/thumb/6/65/Celtics_de_Boston_logo.svg/1024px-Celtics_de_Boston_logo.svg.png",
+                "name": "Boston Celtics",
+                "nickname": "Celtics"
+            },
+            "totReb": 5,
+            "tpa": 6,
+            "tpm": 3,
+            "tpp": "50.0",
+            "turnovers": 0
+        },
+        {
+            "assists": 0,
+            "blocks": 0,
+            "comment": null,
+            "defReb": 1,
+            "fga": 3,
+            "fgm": 1,
+            "fgp": "33.3",
+            "fta": 0,
+            "ftm": 0,
+            "ftp": "0",
+            "game": {
+                "id": 13528
+            },
+            "min": "16",
+            "offReb": 1,
+            "pFouls": 4,
+            "player": {
+                "firstname": "Jaden",
+                "id": 2851,
+                "lastname": "Springer"
+            },
+            "plusMinus": "-6",
+            "points": 2,
+            "pos": "G",
+            "steals": 1,
+            "team": {
+                "code": "BOS",
+                "id": 2,
+                "logo": "https://upload.wikimedia.org/wikipedia/fr/thumb/6/65/Celtics_de_Boston_logo.svg/1024px-Celtics_de_Boston_logo.svg.png",
+                "name": "Boston Celtics",
+                "nickname": "Celtics"
+            },
+            "totReb": 2,
+            "tpa": 2,
+            "tpm": 0,
+            "tpp": "0",
+            "turnovers": 3
+        },
+        {
+            "assists": 0,
+            "blocks": 3,
+            "comment": null,
+            "defReb": 4,
+            "fga": 4,
+            "fgm": 2,
+            "fgp": "50.0",
+            "fta": 0,
+            "ftm": 0,
+            "ftp": "0",
+            "game": {
+                "id": 13532
+            },
+            "min": "28",
+            "offReb": 6,
+            "pFouls": 1,
+            "player": {
+                "firstname": "Luke",
+                "id": 819,
+                "lastname": "Kornet"
+            },
+            "plusMinus": "+9",
+            "points": 4,
+            "pos": "C",
+            "steals": 2,
+            "team": {
+                "code": "BOS",
+                "id": 2,
+                "logo": "https://upload.wikimedia.org/wikipedia/fr/thumb/6/65/Celtics_de_Boston_logo.svg/1024px-Celtics_de_Boston_logo.svg.png",
+                "name": "Boston Celtics",
+                "nickname": "Celtics"
+            },
+            "totReb": 10,
+            "tpa": 0,
+            "tpm": 0,
+            "tpp": "0",
+            "turnovers": 0
+        },
+        {
+            "assists": 1,
+            "blocks": 1,
+            "comment": null,
+            "defReb": 7,
+            "fga": 14,
+            "fgm": 7,
+            "fgp": "50.0",
+            "fta": 1,
+            "ftm": 1,
+            "ftp": "100.0",
+            "game": {
+                "id": 13532
+            },
+            "min": "21",
+            "offReb": 1,
+            "pFouls": 2,
+            "player": {
+                "firstname": "Kristaps",
+                "id": 432,
+                "lastname": "Porzingis"
+            },
+            "plusMinus": "+14",
+            "points": 20,
+            "pos": "C",
+            "steals": 1,
+            "team": {
+                "code": "BOS",
+                "id": 2,
+                "logo": "https://upload.wikimedia.org/wikipedia/fr/thumb/6/65/Celtics_de_Boston_logo.svg/1024px-Celtics_de_Boston_logo.svg.png",
+                "name": "Boston Celtics",
+                "nickname": "Celtics"
+            },
+            "totReb": 8,
+            "tpa": 9,
+            "tpm": 5,
+            "tpp": "55.6",
+            "turnovers": 0
+        },
+        {
+            "assists": 10,
+            "blocks": 1,
+            "comment": null,
+            "defReb": 10,
+            "fga": 20,
+            "fgm": 8,
+            "fgp": "40.0",
+            "fta": 0,
+            "ftm": 0,
+            "ftp": "0",
+            "game": {
+                "id": 13532
+            },
+            "min": "37",
+            "offReb": 0,
+            "pFouls": 0,
+            "player": {
+                "firstname": "Derrick",
+                "id": 897,
+                "lastname": "White"
+            },
+            "plusMinus": "+17",
+            "points": 22,
+            "pos": "PG",
+            "steals": 2,
+            "team": {
+                "code": "BOS",
+                "id": 2,
+                "logo": "https://upload.wikimedia.org/wikipedia/fr/thumb/6/65/Celtics_de_Boston_logo.svg/1024px-Celtics_de_Boston_logo.svg.png",
+                "name": "Boston Celtics",
+                "nickname": "Celtics"
+            },
+            "totReb": 10,
+            "tpa": 12,
+            "tpm": 6,
+            "tpp": "50.0",
+            "turnovers": 3
+        },
+        {
+            "assists": 7,
+            "blocks": 0,
+            "comment": null,
+            "defReb": 1,
+            "fga": 14,
+            "fgm": 8,
+            "fgp": "57.1",
+            "fta": 2,
+            "ftm": 2,
+            "ftp": "100.0",
+            "game": {
+                "id": 13532
+            },
+            "min": "38",
+            "offReb": 1,
+            "pFouls": 1,
+            "player": {
+                "firstname": "Payton",
+                "id": 2635,
+                "lastname": "Pritchard"
+            },
+            "plusMinus": "+19",
+            "points": 23,
+            "pos": "PG",
+            "steals": 0,
+            "team": {
+                "code": "BOS",
+                "id": 2,
+                "logo": "https://upload.wikimedia.org/wikipedia/fr/thumb/6/65/Celtics_de_Boston_logo.svg/1024px-Celtics_de_Boston_logo.svg.png",
+                "name": "Boston Celtics",
+                "nickname": "Celtics"
+            },
+            "totReb": 2,
+            "tpa": 9,
+            "tpm": 5,
+            "tpp": "55.6",
+            "turnovers": 2
+        },
+        {
+            "assists": 3,
+            "blocks": 0,
+            "comment": null,
+            "defReb": 7,
+            "fga": 20,
+            "fgm": 11,
+            "fgp": "55.0",
+            "fta": 8,
+            "ftm": 6,
+            "ftp": "75.0",
+            "game": {
+                "id": 13532
+            },
+            "min": "30",
+            "offReb": 0,
+            "pFouls": 2,
+            "player": {
+                "firstname": "Jaylen",
+                "id": 75,
+                "lastname": "Brown"
+            },
+            "plusMinus": "+22",
+            "points": 31,
+            "pos": "SG",
+            "steals": 1,
+            "team": {
+                "code": "BOS",
+                "id": 2,
+                "logo": "https://upload.wikimedia.org/wikipedia/fr/thumb/6/65/Celtics_de_Boston_logo.svg/1024px-Celtics_de_Boston_logo.svg.png",
+                "name": "Boston Celtics",
+                "nickname": "Celtics"
+            },
+            "totReb": 7,
+            "tpa": 6,
+            "tpm": 3,
+            "tpp": "50.0",
+            "turnovers": 3
+        },
+        {
+            "assists": 1,
+            "blocks": 1,
+            "comment": null,
+            "defReb": 4,
+            "fga": 2,
+            "fgm": 1,
+            "fgp": "50.0",
+            "fta": 0,
+            "ftm": 0,
+            "ftp": "0",
+            "game": {
+                "id": 13532
+            },
+            "min": "17",
+            "offReb": 0,
+            "pFouls": 0,
+            "player": {
+                "firstname": "Xavier",
+                "id": 2656,
+                "lastname": "Tillman"
+            },
+            "plusMinus": "+19",
+            "points": 2,
+            "pos": "F",
+            "steals": 0,
+            "team": {
+                "code": "BOS",
+                "id": 2,
+                "logo": "https://upload.wikimedia.org/wikipedia/fr/thumb/6/65/Celtics_de_Boston_logo.svg/1024px-Celtics_de_Boston_logo.svg.png",
+                "name": "Boston Celtics",
+                "nickname": "Celtics"
+            },
+            "totReb": 4,
+            "tpa": 1,
+            "tpm": 0,
+            "tpp": "0",
+            "turnovers": 0
+        },
+        {
+            "assists": 0,
+            "blocks": 0,
+            "comment": null,
+            "defReb": 2,
+            "fga": 7,
+            "fgm": 1,
+            "fgp": "14.3",
+            "fta": 0,
+            "ftm": 0,
+            "ftp": "0",
+            "game": {
+                "id": 13532
+            },
+            "min": "19",
+            "offReb": 2,
+            "pFouls": 1,
+            "player": {
+                "firstname": "Oshae",
+                "id": 2110,
+                "lastname": "Brissett"
+            },
+            "plusMinus": "-1",
+            "points": 3,
+            "pos": "SF",
+            "steals": 0,
+            "team": {
+                "code": "BOS",
+                "id": 2,
+                "logo": "https://upload.wikimedia.org/wikipedia/fr/thumb/6/65/Celtics_de_Boston_logo.svg/1024px-Celtics_de_Boston_logo.svg.png",
+                "name": "Boston Celtics",
+                "nickname": "Celtics"
+            },
+            "totReb": 4,
+            "tpa": 2,
+            "tpm": 1,
+            "tpp": "50.0",
+            "turnovers": 0
+        },
+        {
+            "assists": 2,
+            "blocks": 0,
+            "comment": null,
+            "defReb": 2,
+            "fga": 8,
+            "fgm": 2,
+            "fgp": "25.0",
+            "fta": 0,
+            "ftm": 0,
+            "ftp": "0",
+            "game": {
+                "id": 13532
+            },
+            "min": "24",
+            "offReb": 0,
+            "pFouls": 0,
+            "player": {
+                "firstname": "Svi",
+                "id": 1006,
+                "lastname": "Mykhailiuk"
+            },
+            "plusMinus": "+13",
+            "points": 6,
+            "pos": "SG",
+            "steals": 2,
+            "team": {
+                "code": "BOS",
+                "id": 2,
+                "logo": "https://upload.wikimedia.org/wikipedia/fr/thumb/6/65/Celtics_de_Boston_logo.svg/1024px-Celtics_de_Boston_logo.svg.png",
+                "name": "Boston Celtics",
+                "nickname": "Celtics"
+            },
+            "totReb": 2,
+            "tpa": 8,
+            "tpm": 2,
+            "tpp": "25.0",
+            "turnovers": 1
+        },
+        {
+            "assists": 4,
+            "blocks": 2,
+            "comment": null,
+            "defReb": 0,
+            "fga": 5,
+            "fgm": 2,
+            "fgp": "40.0",
+            "fta": 2,
+            "ftm": 2,
+            "ftp": "100.0",
+            "game": {
+                "id": 13532
+            },
+            "min": "22",
+            "offReb": 4,
+            "pFouls": 2,
+            "player": {
+                "firstname": "Jaden",
+                "id": 2851,
+                "lastname": "Springer"
+            },
+            "plusMinus": "+10",
+            "points": 6,
+            "pos": "G",
+            "steals": 0,
+            "team": {
+                "code": "BOS",
+                "id": 2,
+                "logo": "https://upload.wikimedia.org/wikipedia/fr/thumb/6/65/Celtics_de_Boston_logo.svg/1024px-Celtics_de_Boston_logo.svg.png",
+                "name": "Boston Celtics",
+                "nickname": "Celtics"
+            },
+            "totReb": 4,
+            "tpa": 2,
+            "tpm": 0,
+            "tpp": "0",
+            "turnovers": 0
+        },
+        {
+            "assists": 2,
+            "blocks": 0,
+            "comment": null,
+            "defReb": 1,
+            "fga": 1,
+            "fgm": 1,
+            "fgp": "100.0",
+            "fta": 0,
+            "ftm": 0,
+            "ftp": "0",
+            "game": {
+                "id": 13532
+            },
+            "min": "4",
+            "offReb": 1,
+            "pFouls": 0,
+            "player": {
+                "firstname": "Jordan",
+                "id": 3943,
+                "lastname": "Walsh"
+            },
+            "plusMinus": "+3",
+            "points": 2,
+            "pos": "G",
+            "steals": 0,
+            "team": {
+                "code": "BOS",
+                "id": 2,
+                "logo": "https://upload.wikimedia.org/wikipedia/fr/thumb/6/65/Celtics_de_Boston_logo.svg/1024px-Celtics_de_Boston_logo.svg.png",
+                "name": "Boston Celtics",
+                "nickname": "Celtics"
+            },
+            "totReb": 2,
+            "tpa": 0,
+            "tpm": 0,
+            "tpp": "0",
+            "turnovers": 0
+        },
+        {
+            "assists": 4,
+            "blocks": 2,
+            "comment": null,
+            "defReb": 8,
+            "fga": 19,
+            "fgm": 9,
+            "fgp": "47.4",
+            "fta": 10,
+            "ftm": 9,
+            "ftp": "90.0",
+            "game": {
+                "id": 13546
+            },
+            "min": "39",
+            "offReb": 0,
+            "pFouls": 2,
+            "player": {
+                "firstname": "Jayson",
+                "id": 882,
+                "lastname": "Tatum"
+            },
+            "plusMinus": "+2",
+            "points": 31,
+            "pos": "SF",
+            "steals": 3,
+            "team": {
+                "code": "BOS",
+                "id": 2,
+                "logo": "https://upload.wikimedia.org/wikipedia/fr/thumb/6/65/Celtics_de_Boston_logo.svg/1024px-Celtics_de_Boston_logo.svg.png",
+                "name": "Boston Celtics",
+                "nickname": "Celtics"
+            },
+            "totReb": 8,
+            "tpa": 7,
+            "tpm": 4,
+            "tpp": "57.1",
+            "turnovers": 2
+        },
+        {
+            "assists": 4,
+            "blocks": 1,
+            "comment": null,
+            "defReb": 3,
+            "fga": 3,
+            "fgm": 3,
+            "fgp": "100.0",
+            "fta": 0,
+            "ftm": 0,
+            "ftp": "0",
+            "game": {
+                "id": 13546
+            },
+            "min": "38",
+            "offReb": 1,
+            "pFouls": 2,
+            "player": {
+                "firstname": "Al",
+                "id": 248,
+                "lastname": "Horford"
+            },
+            "plusMinus": "+15",
+            "points": 8,
+            "pos": "C",
+            "steals": 1,
+            "team": {
+                "code": "BOS",
+                "id": 2,
+                "logo": "https://upload.wikimedia.org/wikipedia/fr/thumb/6/65/Celtics_de_Boston_logo.svg/1024px-Celtics_de_Boston_logo.svg.png",
+                "name": "Boston Celtics",
+                "nickname": "Celtics"
+            },
+            "totReb": 4,
+            "tpa": 2,
+            "tpm": 2,
+            "tpp": "100.0",
+            "turnovers": 2
+        },
+        {
+            "assists": 2,
+            "blocks": 0,
+            "comment": null,
+            "defReb": 0,
+            "fga": 16,
+            "fgm": 6,
+            "fgp": "37.5",
+            "fta": 6,
+            "ftm": 5,
+            "ftp": "83.3",
+            "game": {
+                "id": 13546
+            },
+            "min": "28",
+            "offReb": 3,
+            "pFouls": 3,
+            "player": {
+                "firstname": "Kristaps",
+                "id": 432,
+                "lastname": "Porzingis"
+            },
+            "plusMinus": "-8",
+            "points": 17,
+            "pos": "C",
+            "steals": 0,
+            "team": {
+                "code": "BOS",
+                "id": 2,
+                "logo": "https://upload.wikimedia.org/wikipedia/fr/thumb/6/65/Celtics_de_Boston_logo.svg/1024px-Celtics_de_Boston_logo.svg.png",
+                "name": "Boston Celtics",
+                "nickname": "Celtics"
+            },
+            "totReb": 3,
+            "tpa": 5,
+            "tpm": 0,
+            "tpp": "0",
+            "turnovers": 2
+        },
+        {
+            "assists": 8,
+            "blocks": 2,
+            "comment": null,
+            "defReb": 5,
+            "fga": 17,
+            "fgm": 8,
+            "fgp": "47.1",
+            "fta": 3,
+            "ftm": 3,
+            "ftp": "100.0",
+            "game": {
+                "id": 13546
+            },
+            "min": "37",
+            "offReb": 0,
+            "pFouls": 5,
+            "player": {
+                "firstname": "Derrick",
+                "id": 897,
+                "lastname": "White"
+            },
+            "plusMinus": "-7",
+            "points": 23,
+            "pos": "PG",
+            "steals": 0,
+            "team": {
+                "code": "BOS",
+                "id": 2,
+                "logo": "https://upload.wikimedia.org/wikipedia/fr/thumb/6/65/Celtics_de_Boston_logo.svg/1024px-Celtics_de_Boston_logo.svg.png",
+                "name": "Boston Celtics",
+                "nickname": "Celtics"
+            },
+            "totReb": 5,
+            "tpa": 11,
+            "tpm": 4,
+            "tpp": "36.4",
+            "turnovers": 0
+        },
+        {
+            "assists": 2,
+            "blocks": 0,
+            "comment": null,
+            "defReb": 4,
+            "fga": 15,
+            "fgm": 6,
+            "fgp": "40.0",
+            "fta": 10,
+            "ftm": 7,
+            "ftp": "70.0",
+            "game": {
+                "id": 13546
+            },
+            "min": "37",
+            "offReb": 4,
+            "pFouls": 3,
+            "player": {
+                "firstname": "Jaylen",
+                "id": 75,
+                "lastname": "Brown"
+            },
+            "plusMinus": "-2",
+            "points": 21,
+            "pos": "SG",
+            "steals": 1,
+            "team": {
+                "code": "BOS",
+                "id": 2,
+                "logo": "https://upload.wikimedia.org/wikipedia/fr/thumb/6/65/Celtics_de_Boston_logo.svg/1024px-Celtics_de_Boston_logo.svg.png",
+                "name": "Boston Celtics",
+                "nickname": "Celtics"
+            },
+            "totReb": 8,
+            "tpa": 4,
+            "tpm": 2,
+            "tpp": "50.0",
+            "turnovers": 1
+        },
+        {
+            "assists": 2,
+            "blocks": 0,
+            "comment": null,
+            "defReb": 2,
+            "fga": 2,
+            "fgm": 0,
+            "fgp": "0",
+            "fta": 0,
+            "ftm": 0,
+            "ftp": "0",
+            "game": {
+                "id": 13546
+            },
+            "min": "14",
+            "offReb": 1,
+            "pFouls": 1,
+            "player": {
+                "firstname": "Xavier",
+                "id": 2656,
+                "lastname": "Tillman"
+            },
+            "plusMinus": "-4",
+            "points": 0,
+            "pos": "F",
+            "steals": 1,
+            "team": {
+                "code": "BOS",
+                "id": 2,
+                "logo": "https://upload.wikimedia.org/wikipedia/fr/thumb/6/65/Celtics_de_Boston_logo.svg/1024px-Celtics_de_Boston_logo.svg.png",
+                "name": "Boston Celtics",
+                "nickname": "Celtics"
+            },
+            "totReb": 3,
+            "tpa": 2,
+            "tpm": 0,
+            "tpp": "0",
+            "turnovers": 1
+        },
+        {
+            "assists": 0,
+            "blocks": 0,
+            "comment": null,
+            "defReb": 0,
+            "fga": 1,
+            "fgm": 0,
+            "fgp": "0",
+            "fta": 0,
+            "ftm": 0,
+            "ftp": "0",
+            "game": {
+                "id": 13546
+            },
+            "min": "9",
+            "offReb": 0,
+            "pFouls": 0,
+            "player": {
+                "firstname": "Luke",
+                "id": 819,
+                "lastname": "Kornet"
+            },
+            "plusMinus": "+7",
+            "points": 0,
+            "pos": "C",
+            "steals": 0,
+            "team": {
+                "code": "BOS",
+                "id": 2,
+                "logo": "https://upload.wikimedia.org/wikipedia/fr/thumb/6/65/Celtics_de_Boston_logo.svg/1024px-Celtics_de_Boston_logo.svg.png",
+                "name": "Boston Celtics",
+                "nickname": "Celtics"
+            },
+            "totReb": 0,
+            "tpa": 0,
+            "tpm": 0,
+            "tpp": "0",
+            "turnovers": 0
+        },
+        {
+            "assists": 3,
+            "blocks": 0,
+            "comment": null,
+            "defReb": 4,
+            "fga": 11,
+            "fgm": 7,
+            "fgp": "63.6",
+            "fta": 0,
+            "ftm": 0,
+            "ftp": "0",
+            "game": {
+                "id": 13546
+            },
+            "min": "31",
+            "offReb": 2,
+            "pFouls": 2,
+            "player": {
+                "firstname": "Payton",
+                "id": 2635,
+                "lastname": "Pritchard"
+            },
+            "plusMinus": "+2",
+            "points": 19,
+            "pos": "PG",
+            "steals": 0,
+            "team": {
+                "code": "BOS",
+                "id": 2,
+                "logo": "https://upload.wikimedia.org/wikipedia/fr/thumb/6/65/Celtics_de_Boston_logo.svg/1024px-Celtics_de_Boston_logo.svg.png",
+                "name": "Boston Celtics",
+                "nickname": "Celtics"
+            },
+            "totReb": 6,
+            "tpa": 8,
+            "tpm": 5,
+            "tpp": "62.5",
+            "turnovers": 1
+        },
+        {
+            "assists": 0,
+            "blocks": 0,
+            "comment": null,
+            "defReb": 0,
+            "fga": 1,
+            "fgm": 1,
+            "fgp": "100.0",
+            "fta": 0,
+            "ftm": 0,
+            "ftp": "0",
+            "game": {
+                "id": 13546
+            },
+            "min": "5",
+            "offReb": 0,
+            "pFouls": 0,
+            "player": {
+                "firstname": "Svi",
+                "id": 1006,
+                "lastname": "Mykhailiuk"
+            },
+            "plusMinus": "+10",
+            "points": 3,
+            "pos": "SG",
+            "steals": 0,
+            "team": {
+                "code": "BOS",
+                "id": 2,
+                "logo": "https://upload.wikimedia.org/wikipedia/fr/thumb/6/65/Celtics_de_Boston_logo.svg/1024px-Celtics_de_Boston_logo.svg.png",
+                "name": "Boston Celtics",
+                "nickname": "Celtics"
+            },
+            "totReb": 0,
+            "tpa": 1,
+            "tpm": 1,
+            "tpp": "100.0",
+            "turnovers": 0
         }
     ],
-    "results": 753
+    "results": 783
 }
