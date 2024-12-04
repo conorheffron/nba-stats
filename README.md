@@ -8,10 +8,10 @@ Please see the inital version of this analysis in 2 parts (Jupyter notebooks usi
 
 This includes:
 
-- [part1.ipynb](https://nbviewer.org/github/conorheffron/nba-stats/blob/main/part1.ipynb) (Part 1 Notebook - download data for analysis via sports API - NBA V2)
+- [part1.ipynb](https://nbviewer.org/github/conorheffron/nba-stats/blob/main/part1.html) (Part 1 Notebook - download data for analysis via sports API - NBA V2)
 
-- [part2-V1.ipynb](https://nbviewer.org/github/conorheffron/nba-stats/blob/main/part2-V1.ipynb) (Part 2 Notebook - read, clean, analyse and visualise data stored on disk)
+- [part2-V1.ipynb](https://nbviewer.org/github/conorheffron/nba-stats/blob/main/part2-V1.html) (Part 2 Notebook - read, clean, analyse and visualise data stored on disk)
 
 - Data used available at `/raw` dir with all teams/seasons data, please contact `conorheffron` to collaborate on this analysis etc.
 
-- [part2-V2.ipynb](https://nbviewer.org/github/conorheffron/nba-stats/blob/main/part2-V2.ipynb) (Part 2 Notebook - read, clean, analyse and visualise data stored on disk)
+- [part2-V2.ipynb](https://nbviewer.org/github/conorheffron/nba-stats/blob/main/part2-V2.html) (Part 2 Notebook - read, clean, analyse and visualise data stored on disk)
