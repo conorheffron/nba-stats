@@ -10,6 +10,8 @@ This includes:
 
 - [part1.ipynb](https://nbviewer.org/github/conorheffron/nba-stats/blob/main/part1.ipynb) (Part 1 Notebook - download data for analysis via sports API - NBA V2)
 
-- [part2.ipynb](https://nbviewer.org/github/conorheffron/nba-stats/blob/main/part2.ipynb) (Part 2 Notebook - read, clean, analyse and visualise data stored on disk)
+- [part2-V1.ipynb](https://nbviewer.org/github/conorheffron/nba-stats/blob/main/part2-V1.ipynb) (Part 2 Notebook - read, clean, analyse and visualise data stored on disk)
 
-- Subset of the data used ( `/raw` dir with `Boston Celtics, Orlando Magic, & Atlanta Hawks` data), please contact me for more data samples or to collaborate on this analysis etc.
+- Data used available at `/raw` dir with all teams/seasons data, please contact `conorheffron` to collaborate on this analysis etc.
+
+- [part2-V2.ipynb](https://nbviewer.org/github/conorheffron/nba-stats/blob/main/part2-V2.ipynb) (Part 2 Notebook - read, clean, analyse and visualise data stored on disk)
