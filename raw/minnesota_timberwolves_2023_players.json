@@ -660,6 +660,37 @@
                 "country": null,
                 "date": null
             },
+            "college": "UCLA",
+            "firstname": "Jaylen",
+            "height": {
+                "feets": "6",
+                "inches": null,
+                "meters": null
+            },
+            "id": 4000,
+            "lastname": "Clark",
+            "leagues": {
+                "standard": {
+                    "active": true,
+                    "jersey": null,
+                    "pos": "G"
+                }
+            },
+            "nba": {
+                "pro": 0,
+                "start": 0
+            },
+            "weight": {
+                "kilograms": null,
+                "pounds": "205"
+            }
+        },
+        {
+            "affiliation": null,
+            "birth": {
+                "country": null,
+                "date": null
+            },
             "college": null,
             "firstname": "Leonard",
             "height": {
@@ -810,5 +841,5 @@
             }
         }
     ],
-    "results": 23
+    "results": 24
 }

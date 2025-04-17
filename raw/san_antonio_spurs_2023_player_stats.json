@@ -32960,7 +32960,5155 @@
             "tpm": 0,
             "tpp": "0",
             "turnovers": 1
+        },
+        {
+            "assists": 1,
+            "blocks": 2,
+            "comment": null,
+            "defReb": 1,
+            "fga": 2,
+            "fgm": 0,
+            "fgp": "0",
+            "fta": 2,
+            "ftm": 1,
+            "ftp": "50.0",
+            "game": {
+                "id": 13563
+            },
+            "min": "17",
+            "offReb": 0,
+            "pFouls": 1,
+            "player": {
+                "firstname": "Julian",
+                "id": 3425,
+                "lastname": "Champagnie"
+            },
+            "plusMinus": "+8",
+            "points": 1,
+            "pos": "F",
+            "steals": 2,
+            "team": {
+                "code": "SAS",
+                "id": 31,
+                "logo": "https://upload.wikimedia.org/wikipedia/fr/0/0e/San_Antonio_Spurs_2018.png",
+                "name": "San Antonio Spurs",
+                "nickname": "Spurs"
+            },
+            "totReb": 1,
+            "tpa": 2,
+            "tpm": 0,
+            "tpp": "0",
+            "turnovers": 1
+        },
+        {
+            "assists": 4,
+            "blocks": 1,
+            "comment": null,
+            "defReb": 7,
+            "fga": 13,
+            "fgm": 3,
+            "fgp": "23.1",
+            "fta": 0,
+            "ftm": 0,
+            "ftp": "0",
+            "game": {
+                "id": 13563
+            },
+            "min": "31",
+            "offReb": 3,
+            "pFouls": 3,
+            "player": {
+                "firstname": "Jeremy",
+                "id": 3490,
+                "lastname": "Sochan"
+            },
+            "plusMinus": "+3",
+            "points": 6,
+            "pos": "F",
+            "steals": 4,
+            "team": {
+                "code": "SAS",
+                "id": 31,
+                "logo": "https://upload.wikimedia.org/wikipedia/fr/0/0e/San_Antonio_Spurs_2018.png",
+                "name": "San Antonio Spurs",
+                "nickname": "Spurs"
+            },
+            "totReb": 10,
+            "tpa": 4,
+            "tpm": 0,
+            "tpp": "0",
+            "turnovers": 4
+        },
+        {
+            "assists": 5,
+            "blocks": 3,
+            "comment": null,
+            "defReb": 11,
+            "fga": 24,
+            "fgm": 11,
+            "fgp": "45.8",
+            "fta": 10,
+            "ftm": 6,
+            "ftp": "60.0",
+            "game": {
+                "id": 13563
+            },
+            "min": "33",
+            "offReb": 5,
+            "pFouls": 2,
+            "player": {
+                "firstname": "Victor",
+                "id": 4026,
+                "lastname": "Wembanyama"
+            },
+            "plusMinus": "+15",
+            "points": 31,
+            "pos": "C",
+            "steals": 2,
+            "team": {
+                "code": "SAS",
+                "id": 31,
+                "logo": "https://upload.wikimedia.org/wikipedia/fr/0/0e/San_Antonio_Spurs_2018.png",
+                "name": "San Antonio Spurs",
+                "nickname": "Spurs"
+            },
+            "totReb": 16,
+            "tpa": 12,
+            "tpm": 3,
+            "tpp": "25.0",
+            "turnovers": 7
+        },
+        {
+            "assists": 5,
+            "blocks": 0,
+            "comment": null,
+            "defReb": 4,
+            "fga": 13,
+            "fgm": 7,
+            "fgp": "53.8",
+            "fta": 0,
+            "ftm": 0,
+            "ftp": "0",
+            "game": {
+                "id": 13563
+            },
+            "min": "32",
+            "offReb": 3,
+            "pFouls": 3,
+            "player": {
+                "firstname": "Tre",
+                "id": 2606,
+                "lastname": "Jones"
+            },
+            "plusMinus": "+5",
+            "points": 16,
+            "pos": "PG",
+            "steals": 2,
+            "team": {
+                "code": "SAS",
+                "id": 31,
+                "logo": "https://upload.wikimedia.org/wikipedia/fr/0/0e/San_Antonio_Spurs_2018.png",
+                "name": "San Antonio Spurs",
+                "nickname": "Spurs"
+            },
+            "totReb": 7,
+            "tpa": 4,
+            "tpm": 2,
+            "tpp": "50.0",
+            "turnovers": 1
+        },
+        {
+            "assists": 4,
+            "blocks": 0,
+            "comment": null,
+            "defReb": 4,
+            "fga": 17,
+            "fgm": 10,
+            "fgp": "58.8",
+            "fta": 5,
+            "ftm": 5,
+            "ftp": "100.0",
+            "game": {
+                "id": 13563
+            },
+            "min": "38",
+            "offReb": 0,
+            "pFouls": 2,
+            "player": {
+                "firstname": "Devin",
+                "id": 2661,
+                "lastname": "Vassell"
+            },
+            "plusMinus": "-1",
+            "points": 27,
+            "pos": "SG",
+            "steals": 1,
+            "team": {
+                "code": "SAS",
+                "id": 31,
+                "logo": "https://upload.wikimedia.org/wikipedia/fr/0/0e/San_Antonio_Spurs_2018.png",
+                "name": "San Antonio Spurs",
+                "nickname": "Spurs"
+            },
+            "totReb": 4,
+            "tpa": 6,
+            "tpm": 2,
+            "tpp": "33.3",
+            "turnovers": 1
+        },
+        {
+            "assists": 2,
+            "blocks": 1,
+            "comment": null,
+            "defReb": 4,
+            "fga": 3,
+            "fgm": 2,
+            "fgp": "66.7",
+            "fta": 0,
+            "ftm": 0,
+            "ftp": "0",
+            "game": {
+                "id": 13563
+            },
+            "min": "15",
+            "offReb": 0,
+            "pFouls": 6,
+            "player": {
+                "firstname": "Zach",
+                "id": 762,
+                "lastname": "Collins"
+            },
+            "plusMinus": "-17",
+            "points": 4,
+            "pos": "PF",
+            "steals": 0,
+            "team": {
+                "code": "SAS",
+                "id": 31,
+                "logo": "https://upload.wikimedia.org/wikipedia/fr/0/0e/San_Antonio_Spurs_2018.png",
+                "name": "San Antonio Spurs",
+                "nickname": "Spurs"
+            },
+            "totReb": 4,
+            "tpa": 0,
+            "tpm": 0,
+            "tpp": "0",
+            "turnovers": 1
+        },
+        {
+            "assists": 0,
+            "blocks": 0,
+            "comment": null,
+            "defReb": 2,
+            "fga": 3,
+            "fgm": 0,
+            "fgp": "0",
+            "fta": 0,
+            "ftm": 0,
+            "ftp": "0",
+            "game": {
+                "id": 13563
+            },
+            "min": "17",
+            "offReb": 0,
+            "pFouls": 1,
+            "player": {
+                "firstname": "Cedi",
+                "id": 854,
+                "lastname": "Osman"
+            },
+            "plusMinus": "-8",
+            "points": 0,
+            "pos": "SF",
+            "steals": 0,
+            "team": {
+                "code": "SAS",
+                "id": 31,
+                "logo": "https://upload.wikimedia.org/wikipedia/fr/0/0e/San_Antonio_Spurs_2018.png",
+                "name": "San Antonio Spurs",
+                "nickname": "Spurs"
+            },
+            "totReb": 2,
+            "tpa": 2,
+            "tpm": 0,
+            "tpp": "0",
+            "turnovers": 0
+        },
+        {
+            "assists": 1,
+            "blocks": 0,
+            "comment": null,
+            "defReb": 5,
+            "fga": 9,
+            "fgm": 2,
+            "fgp": "22.2",
+            "fta": 6,
+            "ftm": 4,
+            "ftp": "66.7",
+            "game": {
+                "id": 13563
+            },
+            "min": "29",
+            "offReb": 3,
+            "pFouls": 3,
+            "player": {
+                "firstname": "Keldon",
+                "id": 1872,
+                "lastname": "Johnson"
+            },
+            "plusMinus": "-9",
+            "points": 8,
+            "pos": "SF",
+            "steals": 0,
+            "team": {
+                "code": "SAS",
+                "id": 31,
+                "logo": "https://upload.wikimedia.org/wikipedia/fr/0/0e/San_Antonio_Spurs_2018.png",
+                "name": "San Antonio Spurs",
+                "nickname": "Spurs"
+            },
+            "totReb": 8,
+            "tpa": 4,
+            "tpm": 0,
+            "tpp": "0",
+            "turnovers": 0
+        },
+        {
+            "assists": 2,
+            "blocks": 0,
+            "comment": null,
+            "defReb": 3,
+            "fga": 7,
+            "fgm": 2,
+            "fgp": "28.6",
+            "fta": 0,
+            "ftm": 0,
+            "ftp": "0",
+            "game": {
+                "id": 13563
+            },
+            "min": "18",
+            "offReb": 0,
+            "pFouls": 2,
+            "player": {
+                "firstname": "Malaki",
+                "id": 3419,
+                "lastname": "Branham"
+            },
+            "plusMinus": "0",
+            "points": 4,
+            "pos": "G",
+            "steals": 1,
+            "team": {
+                "code": "SAS",
+                "id": 31,
+                "logo": "https://upload.wikimedia.org/wikipedia/fr/0/0e/San_Antonio_Spurs_2018.png",
+                "name": "San Antonio Spurs",
+                "nickname": "Spurs"
+            },
+            "totReb": 3,
+            "tpa": 3,
+            "tpm": 0,
+            "tpp": "0",
+            "turnovers": 0
+        },
+        {
+            "assists": 0,
+            "blocks": 0,
+            "comment": null,
+            "defReb": 0,
+            "fga": 4,
+            "fgm": 0,
+            "fgp": "0",
+            "fta": 0,
+            "ftm": 0,
+            "ftp": "0",
+            "game": {
+                "id": 13563
+            },
+            "min": "10",
+            "offReb": 1,
+            "pFouls": 0,
+            "player": {
+                "firstname": "Blake",
+                "id": 3499,
+                "lastname": "Wesley"
+            },
+            "plusMinus": "-6",
+            "points": 0,
+            "pos": "G",
+            "steals": 0,
+            "team": {
+                "code": "SAS",
+                "id": 31,
+                "logo": "https://upload.wikimedia.org/wikipedia/fr/0/0e/San_Antonio_Spurs_2018.png",
+                "name": "San Antonio Spurs",
+                "nickname": "Spurs"
+            },
+            "totReb": 1,
+            "tpa": 1,
+            "tpm": 0,
+            "tpp": "0",
+            "turnovers": 1
+        },
+        {
+            "assists": 2,
+            "blocks": 2,
+            "comment": null,
+            "defReb": 2,
+            "fga": 4,
+            "fgm": 1,
+            "fgp": "25.0",
+            "fta": 3,
+            "ftm": 2,
+            "ftp": "66.7",
+            "game": {
+                "id": 13573
+            },
+            "min": "25",
+            "offReb": 0,
+            "pFouls": 1,
+            "player": {
+                "firstname": "Julian",
+                "id": 3425,
+                "lastname": "Champagnie"
+            },
+            "plusMinus": "-11",
+            "points": 4,
+            "pos": "F",
+            "steals": 1,
+            "team": {
+                "code": "SAS",
+                "id": 31,
+                "logo": "https://upload.wikimedia.org/wikipedia/fr/0/0e/San_Antonio_Spurs_2018.png",
+                "name": "San Antonio Spurs",
+                "nickname": "Spurs"
+            },
+            "totReb": 2,
+            "tpa": 2,
+            "tpm": 0,
+            "tpp": "0",
+            "turnovers": 1
+        },
+        {
+            "assists": 2,
+            "blocks": 1,
+            "comment": null,
+            "defReb": 3,
+            "fga": 7,
+            "fgm": 3,
+            "fgp": "42.9",
+            "fta": 2,
+            "ftm": 1,
+            "ftp": "50.0",
+            "game": {
+                "id": 13573
+            },
+            "min": "21",
+            "offReb": 0,
+            "pFouls": 0,
+            "player": {
+                "firstname": "Jeremy",
+                "id": 3490,
+                "lastname": "Sochan"
+            },
+            "plusMinus": "-21",
+            "points": 7,
+            "pos": "F",
+            "steals": 0,
+            "team": {
+                "code": "SAS",
+                "id": 31,
+                "logo": "https://upload.wikimedia.org/wikipedia/fr/0/0e/San_Antonio_Spurs_2018.png",
+                "name": "San Antonio Spurs",
+                "nickname": "Spurs"
+            },
+            "totReb": 3,
+            "tpa": 4,
+            "tpm": 0,
+            "tpp": "0",
+            "turnovers": 2
+        },
+        {
+            "assists": 4,
+            "blocks": 1,
+            "comment": null,
+            "defReb": 4,
+            "fga": 7,
+            "fgm": 5,
+            "fgp": "71.4",
+            "fta": 2,
+            "ftm": 2,
+            "ftp": "100.0",
+            "game": {
+                "id": 13573
+            },
+            "min": "21",
+            "offReb": 1,
+            "pFouls": 0,
+            "player": {
+                "firstname": "Victor",
+                "id": 4026,
+                "lastname": "Wembanyama"
+            },
+            "plusMinus": "-13",
+            "points": 13,
+            "pos": "C",
+            "steals": 0,
+            "team": {
+                "code": "SAS",
+                "id": 31,
+                "logo": "https://upload.wikimedia.org/wikipedia/fr/0/0e/San_Antonio_Spurs_2018.png",
+                "name": "San Antonio Spurs",
+                "nickname": "Spurs"
+            },
+            "totReb": 5,
+            "tpa": 2,
+            "tpm": 1,
+            "tpp": "50.0",
+            "turnovers": 5
+        },
+        {
+            "assists": 5,
+            "blocks": 0,
+            "comment": null,
+            "defReb": 1,
+            "fga": 5,
+            "fgm": 4,
+            "fgp": "80.0",
+            "fta": 2,
+            "ftm": 2,
+            "ftp": "100.0",
+            "game": {
+                "id": 13573
+            },
+            "min": "21",
+            "offReb": 0,
+            "pFouls": 0,
+            "player": {
+                "firstname": "Tre",
+                "id": 2606,
+                "lastname": "Jones"
+            },
+            "plusMinus": "-21",
+            "points": 10,
+            "pos": "PG",
+            "steals": 0,
+            "team": {
+                "code": "SAS",
+                "id": 31,
+                "logo": "https://upload.wikimedia.org/wikipedia/fr/0/0e/San_Antonio_Spurs_2018.png",
+                "name": "San Antonio Spurs",
+                "nickname": "Spurs"
+            },
+            "totReb": 1,
+            "tpa": 1,
+            "tpm": 0,
+            "tpp": "0",
+            "turnovers": 1
+        },
+        {
+            "assists": 3,
+            "blocks": 0,
+            "comment": null,
+            "defReb": 3,
+            "fga": 8,
+            "fgm": 1,
+            "fgp": "12.5",
+            "fta": 0,
+            "ftm": 0,
+            "ftp": "0",
+            "game": {
+                "id": 13573
+            },
+            "min": "24",
+            "offReb": 0,
+            "pFouls": 0,
+            "player": {
+                "firstname": "Devin",
+                "id": 2661,
+                "lastname": "Vassell"
+            },
+            "plusMinus": "-27",
+            "points": 2,
+            "pos": "SG",
+            "steals": 0,
+            "team": {
+                "code": "SAS",
+                "id": 31,
+                "logo": "https://upload.wikimedia.org/wikipedia/fr/0/0e/San_Antonio_Spurs_2018.png",
+                "name": "San Antonio Spurs",
+                "nickname": "Spurs"
+            },
+            "totReb": 3,
+            "tpa": 2,
+            "tpm": 0,
+            "tpp": "0",
+            "turnovers": 1
+        },
+        {
+            "assists": 1,
+            "blocks": 1,
+            "comment": null,
+            "defReb": 1,
+            "fga": 9,
+            "fgm": 4,
+            "fgp": "44.4",
+            "fta": 2,
+            "ftm": 1,
+            "ftp": "50.0",
+            "game": {
+                "id": 13573
+            },
+            "min": "19",
+            "offReb": 2,
+            "pFouls": 3,
+            "player": {
+                "firstname": "Zach",
+                "id": 762,
+                "lastname": "Collins"
+            },
+            "plusMinus": "-18",
+            "points": 11,
+            "pos": "PF",
+            "steals": 1,
+            "team": {
+                "code": "SAS",
+                "id": 31,
+                "logo": "https://upload.wikimedia.org/wikipedia/fr/0/0e/San_Antonio_Spurs_2018.png",
+                "name": "San Antonio Spurs",
+                "nickname": "Spurs"
+            },
+            "totReb": 3,
+            "tpa": 2,
+            "tpm": 2,
+            "tpp": "100.0",
+            "turnovers": 2
+        },
+        {
+            "assists": 0,
+            "blocks": 0,
+            "comment": null,
+            "defReb": 2,
+            "fga": 7,
+            "fgm": 5,
+            "fgp": "71.4",
+            "fta": 0,
+            "ftm": 0,
+            "ftp": "0",
+            "game": {
+                "id": 13573
+            },
+            "min": "8",
+            "offReb": 1,
+            "pFouls": 0,
+            "player": {
+                "firstname": "Sandro",
+                "id": 2830,
+                "lastname": "Mamukelashvili"
+            },
+            "plusMinus": "+6",
+            "points": 11,
+            "pos": "PF",
+            "steals": 0,
+            "team": {
+                "code": "SAS",
+                "id": 31,
+                "logo": "https://upload.wikimedia.org/wikipedia/fr/0/0e/San_Antonio_Spurs_2018.png",
+                "name": "San Antonio Spurs",
+                "nickname": "Spurs"
+            },
+            "totReb": 3,
+            "tpa": 2,
+            "tpm": 1,
+            "tpp": "50.0",
+            "turnovers": 1
+        },
+        {
+            "assists": 0,
+            "blocks": 0,
+            "comment": null,
+            "defReb": 1,
+            "fga": 3,
+            "fgm": 1,
+            "fgp": "33.3",
+            "fta": 2,
+            "ftm": 2,
+            "ftp": "100.0",
+            "game": {
+                "id": 13573
+            },
+            "min": "9",
+            "offReb": 2,
+            "pFouls": 0,
+            "player": {
+                "firstname": "Dominick",
+                "id": 3415,
+                "lastname": "Barlow"
+            },
+            "plusMinus": "+6",
+            "points": 4,
+            "pos": "F",
+            "steals": 0,
+            "team": {
+                "code": "SAS",
+                "id": 31,
+                "logo": "https://upload.wikimedia.org/wikipedia/fr/0/0e/San_Antonio_Spurs_2018.png",
+                "name": "San Antonio Spurs",
+                "nickname": "Spurs"
+            },
+            "totReb": 3,
+            "tpa": 0,
+            "tpm": 0,
+            "tpp": "0",
+            "turnovers": 0
+        },
+        {
+            "assists": 1,
+            "blocks": 0,
+            "comment": null,
+            "defReb": 4,
+            "fga": 5,
+            "fgm": 2,
+            "fgp": "40.0",
+            "fta": 0,
+            "ftm": 0,
+            "ftp": "0",
+            "game": {
+                "id": 13573
+            },
+            "min": "19",
+            "offReb": 0,
+            "pFouls": 1,
+            "player": {
+                "firstname": "Cedi",
+                "id": 854,
+                "lastname": "Osman"
+            },
+            "plusMinus": "-10",
+            "points": 5,
+            "pos": "SF",
+            "steals": 0,
+            "team": {
+                "code": "SAS",
+                "id": 31,
+                "logo": "https://upload.wikimedia.org/wikipedia/fr/0/0e/San_Antonio_Spurs_2018.png",
+                "name": "San Antonio Spurs",
+                "nickname": "Spurs"
+            },
+            "totReb": 4,
+            "tpa": 3,
+            "tpm": 1,
+            "tpp": "33.3",
+            "turnovers": 0
+        },
+        {
+            "assists": 1,
+            "blocks": 0,
+            "comment": null,
+            "defReb": 3,
+            "fga": 11,
+            "fgm": 5,
+            "fgp": "45.5",
+            "fta": 5,
+            "ftm": 4,
+            "ftp": "80.0",
+            "game": {
+                "id": 13573
+            },
+            "min": "24",
+            "offReb": 1,
+            "pFouls": 1,
+            "player": {
+                "firstname": "Keldon",
+                "id": 1872,
+                "lastname": "Johnson"
+            },
+            "plusMinus": "-9",
+            "points": 14,
+            "pos": "SF",
+            "steals": 1,
+            "team": {
+                "code": "SAS",
+                "id": 31,
+                "logo": "https://upload.wikimedia.org/wikipedia/fr/0/0e/San_Antonio_Spurs_2018.png",
+                "name": "San Antonio Spurs",
+                "nickname": "Spurs"
+            },
+            "totReb": 4,
+            "tpa": 5,
+            "tpm": 0,
+            "tpp": "0",
+            "turnovers": 1
+        },
+        {
+            "assists": 2,
+            "blocks": 0,
+            "comment": null,
+            "defReb": 2,
+            "fga": 6,
+            "fgm": 2,
+            "fgp": "33.3",
+            "fta": 1,
+            "ftm": 1,
+            "ftp": "100.0",
+            "game": {
+                "id": 13573
+            },
+            "min": "9",
+            "offReb": 0,
+            "pFouls": 0,
+            "player": {
+                "firstname": "Devonte'",
+                "id": 973,
+                "lastname": "Graham"
+            },
+            "plusMinus": "+6",
+            "points": 6,
+            "pos": "PG",
+            "steals": 1,
+            "team": {
+                "code": "SAS",
+                "id": 31,
+                "logo": "https://upload.wikimedia.org/wikipedia/fr/0/0e/San_Antonio_Spurs_2018.png",
+                "name": "San Antonio Spurs",
+                "nickname": "Spurs"
+            },
+            "totReb": 2,
+            "tpa": 5,
+            "tpm": 1,
+            "tpp": "20.0",
+            "turnovers": 1
+        },
+        {
+            "assists": 3,
+            "blocks": 0,
+            "comment": null,
+            "defReb": 0,
+            "fga": 8,
+            "fgm": 3,
+            "fgp": "37.5",
+            "fta": 0,
+            "ftm": 0,
+            "ftp": "0",
+            "game": {
+                "id": 13573
+            },
+            "min": "22",
+            "offReb": 0,
+            "pFouls": 1,
+            "player": {
+                "firstname": "Malaki",
+                "id": 3419,
+                "lastname": "Branham"
+            },
+            "plusMinus": "-15",
+            "points": 7,
+            "pos": "G",
+            "steals": 0,
+            "team": {
+                "code": "SAS",
+                "id": 31,
+                "logo": "https://upload.wikimedia.org/wikipedia/fr/0/0e/San_Antonio_Spurs_2018.png",
+                "name": "San Antonio Spurs",
+                "nickname": "Spurs"
+            },
+            "totReb": 0,
+            "tpa": 3,
+            "tpm": 1,
+            "tpp": "33.3",
+            "turnovers": 0
+        },
+        {
+            "assists": 3,
+            "blocks": 1,
+            "comment": null,
+            "defReb": 0,
+            "fga": 5,
+            "fgm": 4,
+            "fgp": "80.0",
+            "fta": 2,
+            "ftm": 2,
+            "ftp": "100.0",
+            "game": {
+                "id": 13573
+            },
+            "min": "19",
+            "offReb": 1,
+            "pFouls": 2,
+            "player": {
+                "firstname": "Blake",
+                "id": 3499,
+                "lastname": "Wesley"
+            },
+            "plusMinus": "+2",
+            "points": 12,
+            "pos": "G",
+            "steals": 2,
+            "team": {
+                "code": "SAS",
+                "id": 31,
+                "logo": "https://upload.wikimedia.org/wikipedia/fr/0/0e/San_Antonio_Spurs_2018.png",
+                "name": "San Antonio Spurs",
+                "nickname": "Spurs"
+            },
+            "totReb": 1,
+            "tpa": 2,
+            "tpm": 2,
+            "tpp": "100.0",
+            "turnovers": 0
+        },
+        {
+            "assists": 3,
+            "blocks": 0,
+            "comment": null,
+            "defReb": 3,
+            "fga": 14,
+            "fgm": 7,
+            "fgp": "50.0",
+            "fta": 6,
+            "ftm": 4,
+            "ftp": "66.7",
+            "game": {
+                "id": 13587
+            },
+            "min": "30",
+            "offReb": 2,
+            "pFouls": 3,
+            "player": {
+                "firstname": "Zach",
+                "id": 762,
+                "lastname": "Collins"
+            },
+            "plusMinus": "-4",
+            "points": 18,
+            "pos": "PF",
+            "steals": 1,
+            "team": {
+                "code": "SAS",
+                "id": 31,
+                "logo": "https://upload.wikimedia.org/wikipedia/fr/0/0e/San_Antonio_Spurs_2018.png",
+                "name": "San Antonio Spurs",
+                "nickname": "Spurs"
+            },
+            "totReb": 5,
+            "tpa": 3,
+            "tpm": 0,
+            "tpp": "0",
+            "turnovers": 3
+        },
+        {
+            "assists": 0,
+            "blocks": 0,
+            "comment": null,
+            "defReb": 0,
+            "fga": 5,
+            "fgm": 2,
+            "fgp": "40.0",
+            "fta": 2,
+            "ftm": 2,
+            "ftp": "100.0",
+            "game": {
+                "id": 13587
+            },
+            "min": "20",
+            "offReb": 0,
+            "pFouls": 2,
+            "player": {
+                "firstname": "Julian",
+                "id": 3425,
+                "lastname": "Champagnie"
+            },
+            "plusMinus": "+8",
+            "points": 6,
+            "pos": "F",
+            "steals": 1,
+            "team": {
+                "code": "SAS",
+                "id": 31,
+                "logo": "https://upload.wikimedia.org/wikipedia/fr/0/0e/San_Antonio_Spurs_2018.png",
+                "name": "San Antonio Spurs",
+                "nickname": "Spurs"
+            },
+            "totReb": 0,
+            "tpa": 2,
+            "tpm": 0,
+            "tpp": "0",
+            "turnovers": 1
+        },
+        {
+            "assists": 1,
+            "blocks": 1,
+            "comment": null,
+            "defReb": 16,
+            "fga": 19,
+            "fgm": 10,
+            "fgp": "52.6",
+            "fta": 5,
+            "ftm": 5,
+            "ftp": "100.0",
+            "game": {
+                "id": 13587
+            },
+            "min": "36",
+            "offReb": 2,
+            "pFouls": 2,
+            "player": {
+                "firstname": "Jeremy",
+                "id": 3490,
+                "lastname": "Sochan"
+            },
+            "plusMinus": "+3",
+            "points": 26,
+            "pos": "F",
+            "steals": 1,
+            "team": {
+                "code": "SAS",
+                "id": 31,
+                "logo": "https://upload.wikimedia.org/wikipedia/fr/0/0e/San_Antonio_Spurs_2018.png",
+                "name": "San Antonio Spurs",
+                "nickname": "Spurs"
+            },
+            "totReb": 18,
+            "tpa": 7,
+            "tpm": 1,
+            "tpp": "14.3",
+            "turnovers": 0
+        },
+        {
+            "assists": 4,
+            "blocks": 0,
+            "comment": null,
+            "defReb": 2,
+            "fga": 4,
+            "fgm": 1,
+            "fgp": "25.0",
+            "fta": 0,
+            "ftm": 0,
+            "ftp": "0",
+            "game": {
+                "id": 13587
+            },
+            "min": "27",
+            "offReb": 1,
+            "pFouls": 0,
+            "player": {
+                "firstname": "Tre",
+                "id": 2606,
+                "lastname": "Jones"
+            },
+            "plusMinus": "-13",
+            "points": 2,
+            "pos": "PG",
+            "steals": 1,
+            "team": {
+                "code": "SAS",
+                "id": 31,
+                "logo": "https://upload.wikimedia.org/wikipedia/fr/0/0e/San_Antonio_Spurs_2018.png",
+                "name": "San Antonio Spurs",
+                "nickname": "Spurs"
+            },
+            "totReb": 3,
+            "tpa": 0,
+            "tpm": 0,
+            "tpp": "0",
+            "turnovers": 0
+        },
+        {
+            "assists": 7,
+            "blocks": 0,
+            "comment": null,
+            "defReb": 4,
+            "fga": 24,
+            "fgm": 11,
+            "fgp": "45.8",
+            "fta": 2,
+            "ftm": 2,
+            "ftp": "100.0",
+            "game": {
+                "id": 13587
+            },
+            "min": "35",
+            "offReb": 0,
+            "pFouls": 2,
+            "player": {
+                "firstname": "Devin",
+                "id": 2661,
+                "lastname": "Vassell"
+            },
+            "plusMinus": "+9",
+            "points": 26,
+            "pos": "SG",
+            "steals": 3,
+            "team": {
+                "code": "SAS",
+                "id": 31,
+                "logo": "https://upload.wikimedia.org/wikipedia/fr/0/0e/San_Antonio_Spurs_2018.png",
+                "name": "San Antonio Spurs",
+                "nickname": "Spurs"
+            },
+            "totReb": 4,
+            "tpa": 9,
+            "tpm": 2,
+            "tpp": "22.2",
+            "turnovers": 0
+        },
+        {
+            "assists": 0,
+            "blocks": 0,
+            "comment": null,
+            "defReb": 3,
+            "fga": 1,
+            "fgm": 0,
+            "fgp": "0",
+            "fta": 0,
+            "ftm": 0,
+            "ftp": "0",
+            "game": {
+                "id": 13587
+            },
+            "min": "18",
+            "offReb": 0,
+            "pFouls": 2,
+            "player": {
+                "firstname": "Dominick",
+                "id": 3415,
+                "lastname": "Barlow"
+            },
+            "plusMinus": "+6",
+            "points": 0,
+            "pos": "F",
+            "steals": 0,
+            "team": {
+                "code": "SAS",
+                "id": 31,
+                "logo": "https://upload.wikimedia.org/wikipedia/fr/0/0e/San_Antonio_Spurs_2018.png",
+                "name": "San Antonio Spurs",
+                "nickname": "Spurs"
+            },
+            "totReb": 3,
+            "tpa": 0,
+            "tpm": 0,
+            "tpp": "0",
+            "turnovers": 2
+        },
+        {
+            "assists": 0,
+            "blocks": 0,
+            "comment": null,
+            "defReb": 2,
+            "fga": 4,
+            "fgm": 2,
+            "fgp": "50.0",
+            "fta": 2,
+            "ftm": 1,
+            "ftp": "50.0",
+            "game": {
+                "id": 13587
+            },
+            "min": "15",
+            "offReb": 0,
+            "pFouls": 2,
+            "player": {
+                "firstname": "Cedi",
+                "id": 854,
+                "lastname": "Osman"
+            },
+            "plusMinus": "-4",
+            "points": 7,
+            "pos": "SF",
+            "steals": 1,
+            "team": {
+                "code": "SAS",
+                "id": 31,
+                "logo": "https://upload.wikimedia.org/wikipedia/fr/0/0e/San_Antonio_Spurs_2018.png",
+                "name": "San Antonio Spurs",
+                "nickname": "Spurs"
+            },
+            "totReb": 2,
+            "tpa": 4,
+            "tpm": 2,
+            "tpp": "50.0",
+            "turnovers": 0
+        },
+        {
+            "assists": 5,
+            "blocks": 0,
+            "comment": null,
+            "defReb": 3,
+            "fga": 9,
+            "fgm": 5,
+            "fgp": "55.6",
+            "fta": 2,
+            "ftm": 2,
+            "ftp": "100.0",
+            "game": {
+                "id": 13587
+            },
+            "min": "31",
+            "offReb": 0,
+            "pFouls": 2,
+            "player": {
+                "firstname": "Keldon",
+                "id": 1872,
+                "lastname": "Johnson"
+            },
+            "plusMinus": "+1",
+            "points": 14,
+            "pos": "SF",
+            "steals": 1,
+            "team": {
+                "code": "SAS",
+                "id": 31,
+                "logo": "https://upload.wikimedia.org/wikipedia/fr/0/0e/San_Antonio_Spurs_2018.png",
+                "name": "San Antonio Spurs",
+                "nickname": "Spurs"
+            },
+            "totReb": 3,
+            "tpa": 2,
+            "tpm": 2,
+            "tpp": "100.0",
+            "turnovers": 0
+        },
+        {
+            "assists": 0,
+            "blocks": 0,
+            "comment": null,
+            "defReb": 0,
+            "fga": 4,
+            "fgm": 0,
+            "fgp": "0",
+            "fta": 0,
+            "ftm": 0,
+            "ftp": "0",
+            "game": {
+                "id": 13587
+            },
+            "min": "7",
+            "offReb": 0,
+            "pFouls": 0,
+            "player": {
+                "firstname": "Malaki",
+                "id": 3419,
+                "lastname": "Branham"
+            },
+            "plusMinus": "-11",
+            "points": 0,
+            "pos": "G",
+            "steals": 0,
+            "team": {
+                "code": "SAS",
+                "id": 31,
+                "logo": "https://upload.wikimedia.org/wikipedia/fr/0/0e/San_Antonio_Spurs_2018.png",
+                "name": "San Antonio Spurs",
+                "nickname": "Spurs"
+            },
+            "totReb": 0,
+            "tpa": 2,
+            "tpm": 0,
+            "tpp": "0",
+            "turnovers": 0
+        },
+        {
+            "assists": 3,
+            "blocks": 0,
+            "comment": null,
+            "defReb": 2,
+            "fga": 7,
+            "fgm": 2,
+            "fgp": "28.6",
+            "fta": 0,
+            "ftm": 0,
+            "ftp": "0",
+            "game": {
+                "id": 13587
+            },
+            "min": "21",
+            "offReb": 0,
+            "pFouls": 0,
+            "player": {
+                "firstname": "Blake",
+                "id": 3499,
+                "lastname": "Wesley"
+            },
+            "plusMinus": "+15",
+            "points": 5,
+            "pos": "G",
+            "steals": 1,
+            "team": {
+                "code": "SAS",
+                "id": 31,
+                "logo": "https://upload.wikimedia.org/wikipedia/fr/0/0e/San_Antonio_Spurs_2018.png",
+                "name": "San Antonio Spurs",
+                "nickname": "Spurs"
+            },
+            "totReb": 2,
+            "tpa": 2,
+            "tpm": 1,
+            "tpp": "50.0",
+            "turnovers": 1
+        },
+        {
+            "assists": 0,
+            "blocks": 0,
+            "comment": null,
+            "defReb": 3,
+            "fga": 13,
+            "fgm": 7,
+            "fgp": "53.8",
+            "fta": 0,
+            "ftm": 0,
+            "ftp": "0",
+            "game": {
+                "id": 13606
+            },
+            "min": "31",
+            "offReb": 2,
+            "pFouls": 2,
+            "player": {
+                "firstname": "Julian",
+                "id": 3425,
+                "lastname": "Champagnie"
+            },
+            "plusMinus": "+3",
+            "points": 17,
+            "pos": "F",
+            "steals": 1,
+            "team": {
+                "code": "SAS",
+                "id": 31,
+                "logo": "https://upload.wikimedia.org/wikipedia/fr/0/0e/San_Antonio_Spurs_2018.png",
+                "name": "San Antonio Spurs",
+                "nickname": "Spurs"
+            },
+            "totReb": 5,
+            "tpa": 6,
+            "tpm": 3,
+            "tpp": "50.0",
+            "turnovers": 0
+        },
+        {
+            "assists": 2,
+            "blocks": 1,
+            "comment": null,
+            "defReb": 6,
+            "fga": 16,
+            "fgm": 7,
+            "fgp": "43.8",
+            "fta": 2,
+            "ftm": 1,
+            "ftp": "50.0",
+            "game": {
+                "id": 13606
+            },
+            "min": "36",
+            "offReb": 3,
+            "pFouls": 0,
+            "player": {
+                "firstname": "Jeremy",
+                "id": 3490,
+                "lastname": "Sochan"
+            },
+            "plusMinus": "+1",
+            "points": 17,
+            "pos": "F",
+            "steals": 5,
+            "team": {
+                "code": "SAS",
+                "id": 31,
+                "logo": "https://upload.wikimedia.org/wikipedia/fr/0/0e/San_Antonio_Spurs_2018.png",
+                "name": "San Antonio Spurs",
+                "nickname": "Spurs"
+            },
+            "totReb": 9,
+            "tpa": 7,
+            "tpm": 2,
+            "tpp": "28.6",
+            "turnovers": 3
+        },
+        {
+            "assists": 6,
+            "blocks": 5,
+            "comment": null,
+            "defReb": 6,
+            "fga": 15,
+            "fgm": 7,
+            "fgp": "46.7",
+            "fta": 7,
+            "ftm": 4,
+            "ftp": "57.1",
+            "game": {
+                "id": 13606
+            },
+            "min": "30",
+            "offReb": 2,
+            "pFouls": 4,
+            "player": {
+                "firstname": "Victor",
+                "id": 4026,
+                "lastname": "Wembanyama"
+            },
+            "plusMinus": "+10",
+            "points": 19,
+            "pos": "C",
+            "steals": 0,
+            "team": {
+                "code": "SAS",
+                "id": 31,
+                "logo": "https://upload.wikimedia.org/wikipedia/fr/0/0e/San_Antonio_Spurs_2018.png",
+                "name": "San Antonio Spurs",
+                "nickname": "Spurs"
+            },
+            "totReb": 8,
+            "tpa": 4,
+            "tpm": 1,
+            "tpp": "25.0",
+            "turnovers": 6
+        },
+        {
+            "assists": 9,
+            "blocks": 0,
+            "comment": null,
+            "defReb": 4,
+            "fga": 2,
+            "fgm": 0,
+            "fgp": "0",
+            "fta": 4,
+            "ftm": 3,
+            "ftp": "75.0",
+            "game": {
+                "id": 13606
+            },
+            "min": "32",
+            "offReb": 0,
+            "pFouls": 2,
+            "player": {
+                "firstname": "Tre",
+                "id": 2606,
+                "lastname": "Jones"
+            },
+            "plusMinus": "+4",
+            "points": 3,
+            "pos": "PG",
+            "steals": 0,
+            "team": {
+                "code": "SAS",
+                "id": 31,
+                "logo": "https://upload.wikimedia.org/wikipedia/fr/0/0e/San_Antonio_Spurs_2018.png",
+                "name": "San Antonio Spurs",
+                "nickname": "Spurs"
+            },
+            "totReb": 4,
+            "tpa": 0,
+            "tpm": 0,
+            "tpp": "0",
+            "turnovers": 4
+        },
+        {
+            "assists": 6,
+            "blocks": 0,
+            "comment": null,
+            "defReb": 4,
+            "fga": 20,
+            "fgm": 12,
+            "fgp": "60.0",
+            "fta": 4,
+            "ftm": 3,
+            "ftp": "75.0",
+            "game": {
+                "id": 13606
+            },
+            "min": "39",
+            "offReb": 0,
+            "pFouls": 3,
+            "player": {
+                "firstname": "Devin",
+                "id": 2661,
+                "lastname": "Vassell"
+            },
+            "plusMinus": "+2",
+            "points": 31,
+            "pos": "SG",
+            "steals": 1,
+            "team": {
+                "code": "SAS",
+                "id": 31,
+                "logo": "https://upload.wikimedia.org/wikipedia/fr/0/0e/San_Antonio_Spurs_2018.png",
+                "name": "San Antonio Spurs",
+                "nickname": "Spurs"
+            },
+            "totReb": 4,
+            "tpa": 8,
+            "tpm": 4,
+            "tpp": "50.0",
+            "turnovers": 4
+        },
+        {
+            "assists": 6,
+            "blocks": 1,
+            "comment": null,
+            "defReb": 0,
+            "fga": 3,
+            "fgm": 1,
+            "fgp": "33.3",
+            "fta": 2,
+            "ftm": 2,
+            "ftp": "100.0",
+            "game": {
+                "id": 13606
+            },
+            "min": "15",
+            "offReb": 0,
+            "pFouls": 5,
+            "player": {
+                "firstname": "Zach",
+                "id": 762,
+                "lastname": "Collins"
+            },
+            "plusMinus": "-3",
+            "points": 4,
+            "pos": "PF",
+            "steals": 0,
+            "team": {
+                "code": "SAS",
+                "id": 31,
+                "logo": "https://upload.wikimedia.org/wikipedia/fr/0/0e/San_Antonio_Spurs_2018.png",
+                "name": "San Antonio Spurs",
+                "nickname": "Spurs"
+            },
+            "totReb": 0,
+            "tpa": 0,
+            "tpm": 0,
+            "tpp": "0",
+            "turnovers": 1
+        },
+        {
+            "assists": 0,
+            "blocks": 0,
+            "comment": null,
+            "defReb": 1,
+            "fga": 1,
+            "fgm": 0,
+            "fgp": "0",
+            "fta": 0,
+            "ftm": 0,
+            "ftp": "0",
+            "game": {
+                "id": 13606
+            },
+            "min": "2",
+            "offReb": 1,
+            "pFouls": 0,
+            "player": {
+                "firstname": "Dominick",
+                "id": 3415,
+                "lastname": "Barlow"
+            },
+            "plusMinus": "0",
+            "points": 0,
+            "pos": "F",
+            "steals": 0,
+            "team": {
+                "code": "SAS",
+                "id": 31,
+                "logo": "https://upload.wikimedia.org/wikipedia/fr/0/0e/San_Antonio_Spurs_2018.png",
+                "name": "San Antonio Spurs",
+                "nickname": "Spurs"
+            },
+            "totReb": 2,
+            "tpa": 0,
+            "tpm": 0,
+            "tpp": "0",
+            "turnovers": 0
+        },
+        {
+            "assists": 6,
+            "blocks": 0,
+            "comment": null,
+            "defReb": 6,
+            "fga": 5,
+            "fgm": 3,
+            "fgp": "60.0",
+            "fta": 0,
+            "ftm": 0,
+            "ftp": "0",
+            "game": {
+                "id": 13606
+            },
+            "min": "19",
+            "offReb": 1,
+            "pFouls": 4,
+            "player": {
+                "firstname": "Cedi",
+                "id": 854,
+                "lastname": "Osman"
+            },
+            "plusMinus": "+5",
+            "points": 9,
+            "pos": "SF",
+            "steals": 1,
+            "team": {
+                "code": "SAS",
+                "id": 31,
+                "logo": "https://upload.wikimedia.org/wikipedia/fr/0/0e/San_Antonio_Spurs_2018.png",
+                "name": "San Antonio Spurs",
+                "nickname": "Spurs"
+            },
+            "totReb": 7,
+            "tpa": 3,
+            "tpm": 3,
+            "tpp": "100.0",
+            "turnovers": 1
+        },
+        {
+            "assists": 1,
+            "blocks": 0,
+            "comment": null,
+            "defReb": 0,
+            "fga": 11,
+            "fgm": 7,
+            "fgp": "63.6",
+            "fta": 0,
+            "ftm": 0,
+            "ftp": "0",
+            "game": {
+                "id": 13606
+            },
+            "min": "20",
+            "offReb": 0,
+            "pFouls": 1,
+            "player": {
+                "firstname": "Malaki",
+                "id": 3419,
+                "lastname": "Branham"
+            },
+            "plusMinus": "+8",
+            "points": 17,
+            "pos": "G",
+            "steals": 1,
+            "team": {
+                "code": "SAS",
+                "id": 31,
+                "logo": "https://upload.wikimedia.org/wikipedia/fr/0/0e/San_Antonio_Spurs_2018.png",
+                "name": "San Antonio Spurs",
+                "nickname": "Spurs"
+            },
+            "totReb": 0,
+            "tpa": 5,
+            "tpm": 3,
+            "tpp": "60.0",
+            "turnovers": 1
+        },
+        {
+            "assists": 4,
+            "blocks": 0,
+            "comment": null,
+            "defReb": 2,
+            "fga": 0,
+            "fgm": 0,
+            "fgp": "0",
+            "fta": 2,
+            "ftm": 1,
+            "ftp": "50.0",
+            "game": {
+                "id": 13606
+            },
+            "min": "15",
+            "offReb": 0,
+            "pFouls": 0,
+            "player": {
+                "firstname": "Blake",
+                "id": 3499,
+                "lastname": "Wesley"
+            },
+            "plusMinus": "+5",
+            "points": 1,
+            "pos": "G",
+            "steals": 0,
+            "team": {
+                "code": "SAS",
+                "id": 31,
+                "logo": "https://upload.wikimedia.org/wikipedia/fr/0/0e/San_Antonio_Spurs_2018.png",
+                "name": "San Antonio Spurs",
+                "nickname": "Spurs"
+            },
+            "totReb": 2,
+            "tpa": 0,
+            "tpm": 0,
+            "tpp": "0",
+            "turnovers": 1
+        },
+        {
+            "assists": 2,
+            "blocks": 0,
+            "comment": null,
+            "defReb": 4,
+            "fga": 8,
+            "fgm": 4,
+            "fgp": "50.0",
+            "fta": 2,
+            "ftm": 2,
+            "ftp": "100.0",
+            "game": {
+                "id": 13618
+            },
+            "min": "28",
+            "offReb": 1,
+            "pFouls": 1,
+            "player": {
+                "firstname": "Julian",
+                "id": 3425,
+                "lastname": "Champagnie"
+            },
+            "plusMinus": "-6",
+            "points": 12,
+            "pos": "F",
+            "steals": 0,
+            "team": {
+                "code": "SAS",
+                "id": 31,
+                "logo": "https://upload.wikimedia.org/wikipedia/fr/0/0e/San_Antonio_Spurs_2018.png",
+                "name": "San Antonio Spurs",
+                "nickname": "Spurs"
+            },
+            "totReb": 5,
+            "tpa": 4,
+            "tpm": 2,
+            "tpp": "50.0",
+            "turnovers": 2
+        },
+        {
+            "assists": 1,
+            "blocks": 0,
+            "comment": null,
+            "defReb": 0,
+            "fga": 3,
+            "fgm": 2,
+            "fgp": "66.7",
+            "fta": 0,
+            "ftm": 0,
+            "ftp": "0",
+            "game": {
+                "id": 13618
+            },
+            "min": "17",
+            "offReb": 0,
+            "pFouls": 1,
+            "player": {
+                "firstname": "Jeremy",
+                "id": 3490,
+                "lastname": "Sochan"
+            },
+            "plusMinus": "-3",
+            "points": 4,
+            "pos": "F",
+            "steals": 0,
+            "team": {
+                "code": "SAS",
+                "id": 31,
+                "logo": "https://upload.wikimedia.org/wikipedia/fr/0/0e/San_Antonio_Spurs_2018.png",
+                "name": "San Antonio Spurs",
+                "nickname": "Spurs"
+            },
+            "totReb": 0,
+            "tpa": 0,
+            "tpm": 0,
+            "tpp": "0",
+            "turnovers": 0
+        },
+        {
+            "assists": 7,
+            "blocks": 1,
+            "comment": null,
+            "defReb": 15,
+            "fga": 22,
+            "fgm": 13,
+            "fgp": "59.1",
+            "fta": 12,
+            "ftm": 10,
+            "ftp": "83.3",
+            "game": {
+                "id": 13618
+            },
+            "min": "38",
+            "offReb": 5,
+            "pFouls": 2,
+            "player": {
+                "firstname": "Victor",
+                "id": 4026,
+                "lastname": "Wembanyama"
+            },
+            "plusMinus": "+1",
+            "points": 40,
+            "pos": "C",
+            "steals": 2,
+            "team": {
+                "code": "SAS",
+                "id": 31,
+                "logo": "https://upload.wikimedia.org/wikipedia/fr/0/0e/San_Antonio_Spurs_2018.png",
+                "name": "San Antonio Spurs",
+                "nickname": "Spurs"
+            },
+            "totReb": 20,
+            "tpa": 9,
+            "tpm": 4,
+            "tpp": "44.4",
+            "turnovers": 4
+        },
+        {
+            "assists": 4,
+            "blocks": 0,
+            "comment": null,
+            "defReb": 4,
+            "fga": 6,
+            "fgm": 4,
+            "fgp": "66.7",
+            "fta": 2,
+            "ftm": 2,
+            "ftp": "100.0",
+            "game": {
+                "id": 13618
+            },
+            "min": "35",
+            "offReb": 0,
+            "pFouls": 2,
+            "player": {
+                "firstname": "Tre",
+                "id": 2606,
+                "lastname": "Jones"
+            },
+            "plusMinus": "+13",
+            "points": 13,
+            "pos": "PG",
+            "steals": 0,
+            "team": {
+                "code": "SAS",
+                "id": 31,
+                "logo": "https://upload.wikimedia.org/wikipedia/fr/0/0e/San_Antonio_Spurs_2018.png",
+                "name": "San Antonio Spurs",
+                "nickname": "Spurs"
+            },
+            "totReb": 4,
+            "tpa": 5,
+            "tpm": 3,
+            "tpp": "60.0",
+            "turnovers": 2
+        },
+        {
+            "assists": 7,
+            "blocks": 0,
+            "comment": null,
+            "defReb": 2,
+            "fga": 22,
+            "fgm": 10,
+            "fgp": "45.5",
+            "fta": 0,
+            "ftm": 0,
+            "ftp": "0",
+            "game": {
+                "id": 13618
+            },
+            "min": "45",
+            "offReb": 0,
+            "pFouls": 0,
+            "player": {
+                "firstname": "Devin",
+                "id": 2661,
+                "lastname": "Vassell"
+            },
+            "plusMinus": "-9",
+            "points": 23,
+            "pos": "SG",
+            "steals": 1,
+            "team": {
+                "code": "SAS",
+                "id": 31,
+                "logo": "https://upload.wikimedia.org/wikipedia/fr/0/0e/San_Antonio_Spurs_2018.png",
+                "name": "San Antonio Spurs",
+                "nickname": "Spurs"
+            },
+            "totReb": 2,
+            "tpa": 10,
+            "tpm": 3,
+            "tpp": "30.0",
+            "turnovers": 2
+        },
+        {
+            "assists": 2,
+            "blocks": 1,
+            "comment": null,
+            "defReb": 2,
+            "fga": 4,
+            "fgm": 1,
+            "fgp": "25.0",
+            "fta": 2,
+            "ftm": 1,
+            "ftp": "50.0",
+            "game": {
+                "id": 13618
+            },
+            "min": "15",
+            "offReb": 1,
+            "pFouls": 2,
+            "player": {
+                "firstname": "Zach",
+                "id": 762,
+                "lastname": "Collins"
+            },
+            "plusMinus": "+5",
+            "points": 3,
+            "pos": "PF",
+            "steals": 0,
+            "team": {
+                "code": "SAS",
+                "id": 31,
+                "logo": "https://upload.wikimedia.org/wikipedia/fr/0/0e/San_Antonio_Spurs_2018.png",
+                "name": "San Antonio Spurs",
+                "nickname": "Spurs"
+            },
+            "totReb": 3,
+            "tpa": 3,
+            "tpm": 0,
+            "tpp": "0",
+            "turnovers": 1
+        },
+        {
+            "assists": 2,
+            "blocks": 0,
+            "comment": null,
+            "defReb": 0,
+            "fga": 4,
+            "fgm": 2,
+            "fgp": "50.0",
+            "fta": 0,
+            "ftm": 0,
+            "ftp": "0",
+            "game": {
+                "id": 13618
+            },
+            "min": "20",
+            "offReb": 0,
+            "pFouls": 2,
+            "player": {
+                "firstname": "Cedi",
+                "id": 854,
+                "lastname": "Osman"
+            },
+            "plusMinus": "-9",
+            "points": 4,
+            "pos": "SF",
+            "steals": 0,
+            "team": {
+                "code": "SAS",
+                "id": 31,
+                "logo": "https://upload.wikimedia.org/wikipedia/fr/0/0e/San_Antonio_Spurs_2018.png",
+                "name": "San Antonio Spurs",
+                "nickname": "Spurs"
+            },
+            "totReb": 0,
+            "tpa": 1,
+            "tpm": 0,
+            "tpp": "0",
+            "turnovers": 0
+        },
+        {
+            "assists": 4,
+            "blocks": 0,
+            "comment": null,
+            "defReb": 4,
+            "fga": 8,
+            "fgm": 4,
+            "fgp": "50.0",
+            "fta": 8,
+            "ftm": 7,
+            "ftp": "87.5",
+            "game": {
+                "id": 13618
+            },
+            "min": "35",
+            "offReb": 1,
+            "pFouls": 2,
+            "player": {
+                "firstname": "Keldon",
+                "id": 1872,
+                "lastname": "Johnson"
+            },
+            "plusMinus": "+23",
+            "points": 17,
+            "pos": "SF",
+            "steals": 0,
+            "team": {
+                "code": "SAS",
+                "id": 31,
+                "logo": "https://upload.wikimedia.org/wikipedia/fr/0/0e/San_Antonio_Spurs_2018.png",
+                "name": "San Antonio Spurs",
+                "nickname": "Spurs"
+            },
+            "totReb": 5,
+            "tpa": 6,
+            "tpm": 2,
+            "tpp": "33.3",
+            "turnovers": 2
+        },
+        {
+            "assists": 2,
+            "blocks": 0,
+            "comment": null,
+            "defReb": 2,
+            "fga": 4,
+            "fgm": 3,
+            "fgp": "75.0",
+            "fta": 4,
+            "ftm": 2,
+            "ftp": "50.0",
+            "game": {
+                "id": 13618
+            },
+            "min": "19",
+            "offReb": 0,
+            "pFouls": 0,
+            "player": {
+                "firstname": "Malaki",
+                "id": 3419,
+                "lastname": "Branham"
+            },
+            "plusMinus": "+5",
+            "points": 10,
+            "pos": "G",
+            "steals": 0,
+            "team": {
+                "code": "SAS",
+                "id": 31,
+                "logo": "https://upload.wikimedia.org/wikipedia/fr/0/0e/San_Antonio_Spurs_2018.png",
+                "name": "San Antonio Spurs",
+                "nickname": "Spurs"
+            },
+            "totReb": 2,
+            "tpa": 2,
+            "tpm": 2,
+            "tpp": "100.0",
+            "turnovers": 1
+        },
+        {
+            "assists": 3,
+            "blocks": 0,
+            "comment": null,
+            "defReb": 5,
+            "fga": 1,
+            "fgm": 1,
+            "fgp": "100.0",
+            "fta": 2,
+            "ftm": 2,
+            "ftp": "100.0",
+            "game": {
+                "id": 13618
+            },
+            "min": "13",
+            "offReb": 0,
+            "pFouls": 4,
+            "player": {
+                "firstname": "Blake",
+                "id": 3499,
+                "lastname": "Wesley"
+            },
+            "plusMinus": "0",
+            "points": 4,
+            "pos": "G",
+            "steals": 0,
+            "team": {
+                "code": "SAS",
+                "id": 31,
+                "logo": "https://upload.wikimedia.org/wikipedia/fr/0/0e/San_Antonio_Spurs_2018.png",
+                "name": "San Antonio Spurs",
+                "nickname": "Spurs"
+            },
+            "totReb": 5,
+            "tpa": 0,
+            "tpm": 0,
+            "tpp": "0",
+            "turnovers": 1
+        },
+        {
+            "assists": 4,
+            "blocks": 1,
+            "comment": null,
+            "defReb": 4,
+            "fga": 9,
+            "fgm": 3,
+            "fgp": "33.3",
+            "fta": 0,
+            "ftm": 0,
+            "ftp": "0",
+            "game": {
+                "id": 13633
+            },
+            "min": "38",
+            "offReb": 1,
+            "pFouls": 2,
+            "player": {
+                "firstname": "Julian",
+                "id": 3425,
+                "lastname": "Champagnie"
+            },
+            "plusMinus": "-4",
+            "points": 9,
+            "pos": "F",
+            "steals": 1,
+            "team": {
+                "code": "SAS",
+                "id": 31,
+                "logo": "https://upload.wikimedia.org/wikipedia/fr/0/0e/San_Antonio_Spurs_2018.png",
+                "name": "San Antonio Spurs",
+                "nickname": "Spurs"
+            },
+            "totReb": 5,
+            "tpa": 7,
+            "tpm": 3,
+            "tpp": "42.9",
+            "turnovers": 3
+        },
+        {
+            "assists": 1,
+            "blocks": 0,
+            "comment": null,
+            "defReb": 1,
+            "fga": 12,
+            "fgm": 7,
+            "fgp": "58.3",
+            "fta": 0,
+            "ftm": 0,
+            "ftp": "0",
+            "game": {
+                "id": 13633
+            },
+            "min": "36",
+            "offReb": 1,
+            "pFouls": 1,
+            "player": {
+                "firstname": "Cedi",
+                "id": 854,
+                "lastname": "Osman"
+            },
+            "plusMinus": "-9",
+            "points": 18,
+            "pos": "SF",
+            "steals": 1,
+            "team": {
+                "code": "SAS",
+                "id": 31,
+                "logo": "https://upload.wikimedia.org/wikipedia/fr/0/0e/San_Antonio_Spurs_2018.png",
+                "name": "San Antonio Spurs",
+                "nickname": "Spurs"
+            },
+            "totReb": 2,
+            "tpa": 7,
+            "tpm": 4,
+            "tpp": "57.1",
+            "turnovers": 2
+        },
+        {
+            "assists": 5,
+            "blocks": 3,
+            "comment": null,
+            "defReb": 8,
+            "fga": 22,
+            "fgm": 10,
+            "fgp": "45.5",
+            "fta": 10,
+            "ftm": 9,
+            "ftp": "90.0",
+            "game": {
+                "id": 13633
+            },
+            "min": "31",
+            "offReb": 1,
+            "pFouls": 2,
+            "player": {
+                "firstname": "Victor",
+                "id": 4026,
+                "lastname": "Wembanyama"
+            },
+            "plusMinus": "-11",
+            "points": 32,
+            "pos": "C",
+            "steals": 4,
+            "team": {
+                "code": "SAS",
+                "id": 31,
+                "logo": "https://upload.wikimedia.org/wikipedia/fr/0/0e/San_Antonio_Spurs_2018.png",
+                "name": "San Antonio Spurs",
+                "nickname": "Spurs"
+            },
+            "totReb": 9,
+            "tpa": 10,
+            "tpm": 3,
+            "tpp": "30.0",
+            "turnovers": 5
+        },
+        {
+            "assists": 6,
+            "blocks": 0,
+            "comment": null,
+            "defReb": 2,
+            "fga": 11,
+            "fgm": 5,
+            "fgp": "45.5",
+            "fta": 0,
+            "ftm": 0,
+            "ftp": "0",
+            "game": {
+                "id": 13633
+            },
+            "min": "32",
+            "offReb": 3,
+            "pFouls": 1,
+            "player": {
+                "firstname": "Tre",
+                "id": 2606,
+                "lastname": "Jones"
+            },
+            "plusMinus": "-11",
+            "points": 12,
+            "pos": "PG",
+            "steals": 1,
+            "team": {
+                "code": "SAS",
+                "id": 31,
+                "logo": "https://upload.wikimedia.org/wikipedia/fr/0/0e/San_Antonio_Spurs_2018.png",
+                "name": "San Antonio Spurs",
+                "nickname": "Spurs"
+            },
+            "totReb": 5,
+            "tpa": 4,
+            "tpm": 2,
+            "tpp": "50.0",
+            "turnovers": 2
+        },
+        {
+            "assists": 4,
+            "blocks": 0,
+            "comment": null,
+            "defReb": 1,
+            "fga": 14,
+            "fgm": 5,
+            "fgp": "35.7",
+            "fta": 1,
+            "ftm": 1,
+            "ftp": "100.0",
+            "game": {
+                "id": 13633
+            },
+            "min": "31",
+            "offReb": 2,
+            "pFouls": 2,
+            "player": {
+                "firstname": "Malaki",
+                "id": 3419,
+                "lastname": "Branham"
+            },
+            "plusMinus": "+7",
+            "points": 12,
+            "pos": "G",
+            "steals": 0,
+            "team": {
+                "code": "SAS",
+                "id": 31,
+                "logo": "https://upload.wikimedia.org/wikipedia/fr/0/0e/San_Antonio_Spurs_2018.png",
+                "name": "San Antonio Spurs",
+                "nickname": "Spurs"
+            },
+            "totReb": 3,
+            "tpa": 6,
+            "tpm": 1,
+            "tpp": "16.7",
+            "turnovers": 4
+        },
+        {
+            "assists": 2,
+            "blocks": 0,
+            "comment": null,
+            "defReb": 5,
+            "fga": 10,
+            "fgm": 4,
+            "fgp": "40.0",
+            "fta": 3,
+            "ftm": 3,
+            "ftp": "100.0",
+            "game": {
+                "id": 13633
+            },
+            "min": "16",
+            "offReb": 3,
+            "pFouls": 1,
+            "player": {
+                "firstname": "Zach",
+                "id": 762,
+                "lastname": "Collins"
+            },
+            "plusMinus": "+9",
+            "points": 13,
+            "pos": "PF",
+            "steals": 0,
+            "team": {
+                "code": "SAS",
+                "id": 31,
+                "logo": "https://upload.wikimedia.org/wikipedia/fr/0/0e/San_Antonio_Spurs_2018.png",
+                "name": "San Antonio Spurs",
+                "nickname": "Spurs"
+            },
+            "totReb": 8,
+            "tpa": 3,
+            "tpm": 2,
+            "tpp": "66.7",
+            "turnovers": 0
+        },
+        {
+            "assists": 2,
+            "blocks": 1,
+            "comment": null,
+            "defReb": 7,
+            "fga": 6,
+            "fgm": 4,
+            "fgp": "66.7",
+            "fta": 2,
+            "ftm": 2,
+            "ftp": "100.0",
+            "game": {
+                "id": 13633
+            },
+            "min": "25",
+            "offReb": 4,
+            "pFouls": 1,
+            "player": {
+                "firstname": "Sandro",
+                "id": 2830,
+                "lastname": "Mamukelashvili"
+            },
+            "plusMinus": "+3",
+            "points": 10,
+            "pos": "PF",
+            "steals": 0,
+            "team": {
+                "code": "SAS",
+                "id": 31,
+                "logo": "https://upload.wikimedia.org/wikipedia/fr/0/0e/San_Antonio_Spurs_2018.png",
+                "name": "San Antonio Spurs",
+                "nickname": "Spurs"
+            },
+            "totReb": 11,
+            "tpa": 1,
+            "tpm": 0,
+            "tpp": "0",
+            "turnovers": 1
+        },
+        {
+            "assists": 2,
+            "blocks": 0,
+            "comment": null,
+            "defReb": 1,
+            "fga": 4,
+            "fgm": 2,
+            "fgp": "50.0",
+            "fta": 0,
+            "ftm": 0,
+            "ftp": "0",
+            "game": {
+                "id": 13633
+            },
+            "min": "18",
+            "offReb": 0,
+            "pFouls": 1,
+            "player": {
+                "firstname": "Devonte'",
+                "id": 973,
+                "lastname": "Graham"
+            },
+            "plusMinus": "-5",
+            "points": 6,
+            "pos": "PG",
+            "steals": 0,
+            "team": {
+                "code": "SAS",
+                "id": 31,
+                "logo": "https://upload.wikimedia.org/wikipedia/fr/0/0e/San_Antonio_Spurs_2018.png",
+                "name": "San Antonio Spurs",
+                "nickname": "Spurs"
+            },
+            "totReb": 1,
+            "tpa": 4,
+            "tpm": 2,
+            "tpp": "50.0",
+            "turnovers": 2
+        },
+        {
+            "assists": 5,
+            "blocks": 0,
+            "comment": null,
+            "defReb": 0,
+            "fga": 1,
+            "fgm": 0,
+            "fgp": "0",
+            "fta": 2,
+            "ftm": 1,
+            "ftp": "50.0",
+            "game": {
+                "id": 13633
+            },
+            "min": "12",
+            "offReb": 1,
+            "pFouls": 1,
+            "player": {
+                "firstname": "Blake",
+                "id": 3499,
+                "lastname": "Wesley"
+            },
+            "plusMinus": "+1",
+            "points": 1,
+            "pos": "G",
+            "steals": 0,
+            "team": {
+                "code": "SAS",
+                "id": 31,
+                "logo": "https://upload.wikimedia.org/wikipedia/fr/0/0e/San_Antonio_Spurs_2018.png",
+                "name": "San Antonio Spurs",
+                "nickname": "Spurs"
+            },
+            "totReb": 1,
+            "tpa": 1,
+            "tpm": 0,
+            "tpp": "0",
+            "turnovers": 0
+        },
+        {
+            "assists": 2,
+            "blocks": 1,
+            "comment": null,
+            "defReb": 4,
+            "fga": 10,
+            "fgm": 4,
+            "fgp": "40.0",
+            "fta": 3,
+            "ftm": 2,
+            "ftp": "66.7",
+            "game": {
+                "id": 13647
+            },
+            "min": "37",
+            "offReb": 1,
+            "pFouls": 0,
+            "player": {
+                "firstname": "Julian",
+                "id": 3425,
+                "lastname": "Champagnie"
+            },
+            "plusMinus": "-1",
+            "points": 11,
+            "pos": "F",
+            "steals": 1,
+            "team": {
+                "code": "SAS",
+                "id": 31,
+                "logo": "https://upload.wikimedia.org/wikipedia/fr/0/0e/San_Antonio_Spurs_2018.png",
+                "name": "San Antonio Spurs",
+                "nickname": "Spurs"
+            },
+            "totReb": 5,
+            "tpa": 4,
+            "tpm": 1,
+            "tpp": "25.0",
+            "turnovers": 1
+        },
+        {
+            "assists": 1,
+            "blocks": 0,
+            "comment": null,
+            "defReb": 3,
+            "fga": 7,
+            "fgm": 4,
+            "fgp": "57.1",
+            "fta": 0,
+            "ftm": 0,
+            "ftp": "0",
+            "game": {
+                "id": 13647
+            },
+            "min": "18",
+            "offReb": 0,
+            "pFouls": 1,
+            "player": {
+                "firstname": "Cedi",
+                "id": 854,
+                "lastname": "Osman"
+            },
+            "plusMinus": "+2",
+            "points": 10,
+            "pos": "SF",
+            "steals": 0,
+            "team": {
+                "code": "SAS",
+                "id": 31,
+                "logo": "https://upload.wikimedia.org/wikipedia/fr/0/0e/San_Antonio_Spurs_2018.png",
+                "name": "San Antonio Spurs",
+                "nickname": "Spurs"
+            },
+            "totReb": 3,
+            "tpa": 4,
+            "tpm": 2,
+            "tpp": "50.0",
+            "turnovers": 0
+        },
+        {
+            "assists": 8,
+            "blocks": 9,
+            "comment": null,
+            "defReb": 10,
+            "fga": 29,
+            "fgm": 9,
+            "fgp": "31.0",
+            "fta": 6,
+            "ftm": 3,
+            "ftp": "50.0",
+            "game": {
+                "id": 13647
+            },
+            "min": "34",
+            "offReb": 5,
+            "pFouls": 3,
+            "player": {
+                "firstname": "Victor",
+                "id": 4026,
+                "lastname": "Wembanyama"
+            },
+            "plusMinus": "-9",
+            "points": 23,
+            "pos": "C",
+            "steals": 1,
+            "team": {
+                "code": "SAS",
+                "id": 31,
+                "logo": "https://upload.wikimedia.org/wikipedia/fr/0/0e/San_Antonio_Spurs_2018.png",
+                "name": "San Antonio Spurs",
+                "nickname": "Spurs"
+            },
+            "totReb": 15,
+            "tpa": 11,
+            "tpm": 2,
+            "tpp": "18.2",
+            "turnovers": 2
+        },
+        {
+            "assists": 11,
+            "blocks": 1,
+            "comment": null,
+            "defReb": 9,
+            "fga": 11,
+            "fgm": 4,
+            "fgp": "36.4",
+            "fta": 0,
+            "ftm": 0,
+            "ftp": "0",
+            "game": {
+                "id": 13647
+            },
+            "min": "32",
+            "offReb": 3,
+            "pFouls": 1,
+            "player": {
+                "firstname": "Tre",
+                "id": 2606,
+                "lastname": "Jones"
+            },
+            "plusMinus": "+13",
+            "points": 10,
+            "pos": "PG",
+            "steals": 1,
+            "team": {
+                "code": "SAS",
+                "id": 31,
+                "logo": "https://upload.wikimedia.org/wikipedia/fr/0/0e/San_Antonio_Spurs_2018.png",
+                "name": "San Antonio Spurs",
+                "nickname": "Spurs"
+            },
+            "totReb": 12,
+            "tpa": 5,
+            "tpm": 2,
+            "tpp": "40.0",
+            "turnovers": 0
+        },
+        {
+            "assists": 1,
+            "blocks": 0,
+            "comment": null,
+            "defReb": 3,
+            "fga": 19,
+            "fgm": 10,
+            "fgp": "52.6",
+            "fta": 2,
+            "ftm": 1,
+            "ftp": "50.0",
+            "game": {
+                "id": 13647
+            },
+            "min": "37",
+            "offReb": 0,
+            "pFouls": 4,
+            "player": {
+                "firstname": "Malaki",
+                "id": 3419,
+                "lastname": "Branham"
+            },
+            "plusMinus": "-3",
+            "points": 24,
+            "pos": "G",
+            "steals": 0,
+            "team": {
+                "code": "SAS",
+                "id": 31,
+                "logo": "https://upload.wikimedia.org/wikipedia/fr/0/0e/San_Antonio_Spurs_2018.png",
+                "name": "San Antonio Spurs",
+                "nickname": "Spurs"
+            },
+            "totReb": 3,
+            "tpa": 8,
+            "tpm": 3,
+            "tpp": "37.5",
+            "turnovers": 1
+        },
+        {
+            "assists": 2,
+            "blocks": 1,
+            "comment": null,
+            "defReb": 7,
+            "fga": 11,
+            "fgm": 6,
+            "fgp": "54.5",
+            "fta": 1,
+            "ftm": 0,
+            "ftp": "0",
+            "game": {
+                "id": 13647
+            },
+            "min": "18",
+            "offReb": 1,
+            "pFouls": 3,
+            "player": {
+                "firstname": "Zach",
+                "id": 762,
+                "lastname": "Collins"
+            },
+            "plusMinus": "+1",
+            "points": 13,
+            "pos": "PF",
+            "steals": 0,
+            "team": {
+                "code": "SAS",
+                "id": 31,
+                "logo": "https://upload.wikimedia.org/wikipedia/fr/0/0e/San_Antonio_Spurs_2018.png",
+                "name": "San Antonio Spurs",
+                "nickname": "Spurs"
+            },
+            "totReb": 8,
+            "tpa": 3,
+            "tpm": 1,
+            "tpp": "33.3",
+            "turnovers": 0
+        },
+        {
+            "assists": 1,
+            "blocks": 0,
+            "comment": null,
+            "defReb": 4,
+            "fga": 8,
+            "fgm": 3,
+            "fgp": "37.5",
+            "fta": 2,
+            "ftm": 2,
+            "ftp": "100.0",
+            "game": {
+                "id": 13647
+            },
+            "min": "24",
+            "offReb": 5,
+            "pFouls": 1,
+            "player": {
+                "firstname": "Sandro",
+                "id": 2830,
+                "lastname": "Mamukelashvili"
+            },
+            "plusMinus": "0",
+            "points": 10,
+            "pos": "PF",
+            "steals": 0,
+            "team": {
+                "code": "SAS",
+                "id": 31,
+                "logo": "https://upload.wikimedia.org/wikipedia/fr/0/0e/San_Antonio_Spurs_2018.png",
+                "name": "San Antonio Spurs",
+                "nickname": "Spurs"
+            },
+            "totReb": 9,
+            "tpa": 4,
+            "tpm": 2,
+            "tpp": "50.0",
+            "turnovers": 1
+        },
+        {
+            "assists": 3,
+            "blocks": 0,
+            "comment": null,
+            "defReb": 2,
+            "fga": 5,
+            "fgm": 1,
+            "fgp": "20.0",
+            "fta": 0,
+            "ftm": 0,
+            "ftp": "0",
+            "game": {
+                "id": 13647
+            },
+            "min": "19",
+            "offReb": 0,
+            "pFouls": 3,
+            "player": {
+                "firstname": "Devonte'",
+                "id": 973,
+                "lastname": "Graham"
+            },
+            "plusMinus": "-20",
+            "points": 2,
+            "pos": "PG",
+            "steals": 1,
+            "team": {
+                "code": "SAS",
+                "id": 31,
+                "logo": "https://upload.wikimedia.org/wikipedia/fr/0/0e/San_Antonio_Spurs_2018.png",
+                "name": "San Antonio Spurs",
+                "nickname": "Spurs"
+            },
+            "totReb": 2,
+            "tpa": 4,
+            "tpm": 0,
+            "tpp": "0",
+            "turnovers": 0
+        },
+        {
+            "assists": 4,
+            "blocks": 0,
+            "comment": null,
+            "defReb": 1,
+            "fga": 5,
+            "fgm": 1,
+            "fgp": "20.0",
+            "fta": 2,
+            "ftm": 0,
+            "ftp": "0",
+            "game": {
+                "id": 13647
+            },
+            "min": "15",
+            "offReb": 0,
+            "pFouls": 2,
+            "player": {
+                "firstname": "Blake",
+                "id": 3499,
+                "lastname": "Wesley"
+            },
+            "plusMinus": "-8",
+            "points": 2,
+            "pos": "G",
+            "steals": 0,
+            "team": {
+                "code": "SAS",
+                "id": 31,
+                "logo": "https://upload.wikimedia.org/wikipedia/fr/0/0e/San_Antonio_Spurs_2018.png",
+                "name": "San Antonio Spurs",
+                "nickname": "Spurs"
+            },
+            "totReb": 1,
+            "tpa": 1,
+            "tpm": 0,
+            "tpp": "0",
+            "turnovers": 2
+        },
+        {
+            "assists": 0,
+            "blocks": 0,
+            "comment": null,
+            "defReb": 1,
+            "fga": 0,
+            "fgm": 0,
+            "fgp": "0",
+            "fta": 0,
+            "ftm": 0,
+            "ftp": "0",
+            "game": {
+                "id": 13647
+            },
+            "min": "5",
+            "offReb": 0,
+            "pFouls": 1,
+            "player": {
+                "firstname": "Sidy",
+                "id": 4024,
+                "lastname": "Cissoko"
+            },
+            "plusMinus": "0",
+            "points": 0,
+            "pos": "G",
+            "steals": 0,
+            "team": {
+                "code": "SAS",
+                "id": 31,
+                "logo": "https://upload.wikimedia.org/wikipedia/fr/0/0e/San_Antonio_Spurs_2018.png",
+                "name": "San Antonio Spurs",
+                "nickname": "Spurs"
+            },
+            "totReb": 1,
+            "tpa": 0,
+            "tpm": 0,
+            "tpp": "0",
+            "turnovers": 0
+        },
+        {
+            "assists": 2,
+            "blocks": 1,
+            "comment": null,
+            "defReb": 4,
+            "fga": 11,
+            "fgm": 7,
+            "fgp": "63.6",
+            "fta": 1,
+            "ftm": 0,
+            "ftp": "0",
+            "game": {
+                "id": 13671
+            },
+            "min": "27",
+            "offReb": 1,
+            "pFouls": 3,
+            "player": {
+                "firstname": "Sandro",
+                "id": 2830,
+                "lastname": "Mamukelashvili"
+            },
+            "plusMinus": "+6",
+            "points": 15,
+            "pos": "PF",
+            "steals": 1,
+            "team": {
+                "code": "SAS",
+                "id": 31,
+                "logo": "https://upload.wikimedia.org/wikipedia/fr/0/0e/San_Antonio_Spurs_2018.png",
+                "name": "San Antonio Spurs",
+                "nickname": "Spurs"
+            },
+            "totReb": 5,
+            "tpa": 3,
+            "tpm": 1,
+            "tpp": "33.3",
+            "turnovers": 0
+        },
+        {
+            "assists": 4,
+            "blocks": 4,
+            "comment": null,
+            "defReb": 4,
+            "fga": 11,
+            "fgm": 6,
+            "fgp": "54.5",
+            "fta": 1,
+            "ftm": 1,
+            "ftp": "100.0",
+            "game": {
+                "id": 13671
+            },
+            "min": "38",
+            "offReb": 0,
+            "pFouls": 0,
+            "player": {
+                "firstname": "Julian",
+                "id": 3425,
+                "lastname": "Champagnie"
+            },
+            "plusMinus": "-7",
+            "points": 15,
+            "pos": "F",
+            "steals": 1,
+            "team": {
+                "code": "SAS",
+                "id": 31,
+                "logo": "https://upload.wikimedia.org/wikipedia/fr/0/0e/San_Antonio_Spurs_2018.png",
+                "name": "San Antonio Spurs",
+                "nickname": "Spurs"
+            },
+            "totReb": 4,
+            "tpa": 7,
+            "tpm": 2,
+            "tpp": "28.6",
+            "turnovers": 1
+        },
+        {
+            "assists": 9,
+            "blocks": 3,
+            "comment": null,
+            "defReb": 10,
+            "fga": 12,
+            "fgm": 5,
+            "fgp": "41.7",
+            "fta": 4,
+            "ftm": 4,
+            "ftp": "100.0",
+            "game": {
+                "id": 13671
+            },
+            "min": "34",
+            "offReb": 2,
+            "pFouls": 1,
+            "player": {
+                "firstname": "Victor",
+                "id": 4026,
+                "lastname": "Wembanyama"
+            },
+            "plusMinus": "+4",
+            "points": 17,
+            "pos": "C",
+            "steals": 1,
+            "team": {
+                "code": "SAS",
+                "id": 31,
+                "logo": "https://upload.wikimedia.org/wikipedia/fr/0/0e/San_Antonio_Spurs_2018.png",
+                "name": "San Antonio Spurs",
+                "nickname": "Spurs"
+            },
+            "totReb": 12,
+            "tpa": 6,
+            "tpm": 3,
+            "tpp": "50.0",
+            "turnovers": 2
+        },
+        {
+            "assists": 4,
+            "blocks": 0,
+            "comment": null,
+            "defReb": 2,
+            "fga": 9,
+            "fgm": 6,
+            "fgp": "66.7",
+            "fta": 0,
+            "ftm": 0,
+            "ftp": "0",
+            "game": {
+                "id": 13671
+            },
+            "min": "33",
+            "offReb": 0,
+            "pFouls": 2,
+            "player": {
+                "firstname": "Tre",
+                "id": 2606,
+                "lastname": "Jones"
+            },
+            "plusMinus": "0",
+            "points": 14,
+            "pos": "PG",
+            "steals": 2,
+            "team": {
+                "code": "SAS",
+                "id": 31,
+                "logo": "https://upload.wikimedia.org/wikipedia/fr/0/0e/San_Antonio_Spurs_2018.png",
+                "name": "San Antonio Spurs",
+                "nickname": "Spurs"
+            },
+            "totReb": 2,
+            "tpa": 4,
+            "tpm": 2,
+            "tpp": "50.0",
+            "turnovers": 3
+        },
+        {
+            "assists": 2,
+            "blocks": 0,
+            "comment": null,
+            "defReb": 1,
+            "fga": 10,
+            "fgm": 5,
+            "fgp": "50.0",
+            "fta": 0,
+            "ftm": 0,
+            "ftp": "0",
+            "game": {
+                "id": 13671
+            },
+            "min": "34",
+            "offReb": 0,
+            "pFouls": 3,
+            "player": {
+                "firstname": "Malaki",
+                "id": 3419,
+                "lastname": "Branham"
+            },
+            "plusMinus": "+12",
+            "points": 14,
+            "pos": "G",
+            "steals": 1,
+            "team": {
+                "code": "SAS",
+                "id": 31,
+                "logo": "https://upload.wikimedia.org/wikipedia/fr/0/0e/San_Antonio_Spurs_2018.png",
+                "name": "San Antonio Spurs",
+                "nickname": "Spurs"
+            },
+            "totReb": 1,
+            "tpa": 7,
+            "tpm": 4,
+            "tpp": "57.1",
+            "turnovers": 4
+        },
+        {
+            "assists": 3,
+            "blocks": 0,
+            "comment": null,
+            "defReb": 5,
+            "fga": 11,
+            "fgm": 7,
+            "fgp": "63.6",
+            "fta": 1,
+            "ftm": 0,
+            "ftp": "0",
+            "game": {
+                "id": 13671
+            },
+            "min": "27",
+            "offReb": 2,
+            "pFouls": 2,
+            "player": {
+                "firstname": "Zach",
+                "id": 762,
+                "lastname": "Collins"
+            },
+            "plusMinus": "+3",
+            "points": 15,
+            "pos": "PF",
+            "steals": 0,
+            "team": {
+                "code": "SAS",
+                "id": 31,
+                "logo": "https://upload.wikimedia.org/wikipedia/fr/0/0e/San_Antonio_Spurs_2018.png",
+                "name": "San Antonio Spurs",
+                "nickname": "Spurs"
+            },
+            "totReb": 7,
+            "tpa": 3,
+            "tpm": 1,
+            "tpp": "33.3",
+            "turnovers": 1
+        },
+        {
+            "assists": 5,
+            "blocks": 0,
+            "comment": null,
+            "defReb": 1,
+            "fga": 15,
+            "fgm": 6,
+            "fgp": "40.0",
+            "fta": 4,
+            "ftm": 4,
+            "ftp": "100.0",
+            "game": {
+                "id": 13671
+            },
+            "min": "25",
+            "offReb": 1,
+            "pFouls": 1,
+            "player": {
+                "firstname": "Devonte'",
+                "id": 973,
+                "lastname": "Graham"
+            },
+            "plusMinus": "+5",
+            "points": 20,
+            "pos": "PG",
+            "steals": 3,
+            "team": {
+                "code": "SAS",
+                "id": 31,
+                "logo": "https://upload.wikimedia.org/wikipedia/fr/0/0e/San_Antonio_Spurs_2018.png",
+                "name": "San Antonio Spurs",
+                "nickname": "Spurs"
+            },
+            "totReb": 2,
+            "tpa": 12,
+            "tpm": 4,
+            "tpp": "33.3",
+            "turnovers": 0
+        },
+        {
+            "assists": 5,
+            "blocks": 0,
+            "comment": null,
+            "defReb": 1,
+            "fga": 3,
+            "fgm": 0,
+            "fgp": "0",
+            "fta": 2,
+            "ftm": 1,
+            "ftp": "50.0",
+            "game": {
+                "id": 13671
+            },
+            "min": "16",
+            "offReb": 0,
+            "pFouls": 0,
+            "player": {
+                "firstname": "Blake",
+                "id": 3499,
+                "lastname": "Wesley"
+            },
+            "plusMinus": "-5",
+            "points": 1,
+            "pos": "G",
+            "steals": 0,
+            "team": {
+                "code": "SAS",
+                "id": 31,
+                "logo": "https://upload.wikimedia.org/wikipedia/fr/0/0e/San_Antonio_Spurs_2018.png",
+                "name": "San Antonio Spurs",
+                "nickname": "Spurs"
+            },
+            "totReb": 1,
+            "tpa": 3,
+            "tpm": 0,
+            "tpp": "0",
+            "turnovers": 4
+        },
+        {
+            "assists": 0,
+            "blocks": 0,
+            "comment": null,
+            "defReb": 0,
+            "fga": 1,
+            "fgm": 0,
+            "fgp": "0",
+            "fta": 0,
+            "ftm": 0,
+            "ftp": "0",
+            "game": {
+                "id": 13671
+            },
+            "min": "6",
+            "offReb": 0,
+            "pFouls": 1,
+            "player": {
+                "firstname": "Sidy",
+                "id": 4024,
+                "lastname": "Cissoko"
+            },
+            "plusMinus": "-8",
+            "points": 0,
+            "pos": "G",
+            "steals": 0,
+            "team": {
+                "code": "SAS",
+                "id": 31,
+                "logo": "https://upload.wikimedia.org/wikipedia/fr/0/0e/San_Antonio_Spurs_2018.png",
+                "name": "San Antonio Spurs",
+                "nickname": "Spurs"
+            },
+            "totReb": 0,
+            "tpa": 1,
+            "tpm": 0,
+            "tpp": "0",
+            "turnovers": 1
+        },
+        {
+            "assists": 3,
+            "blocks": 0,
+            "comment": null,
+            "defReb": 7,
+            "fga": 10,
+            "fgm": 5,
+            "fgp": "50.0",
+            "fta": 5,
+            "ftm": 4,
+            "ftp": "80.0",
+            "game": {
+                "id": 13688
+            },
+            "min": "40",
+            "offReb": 1,
+            "pFouls": 3,
+            "player": {
+                "firstname": "Julian",
+                "id": 3425,
+                "lastname": "Champagnie"
+            },
+            "plusMinus": "-16",
+            "points": 17,
+            "pos": "F",
+            "steals": 2,
+            "team": {
+                "code": "SAS",
+                "id": 31,
+                "logo": "https://upload.wikimedia.org/wikipedia/fr/0/0e/San_Antonio_Spurs_2018.png",
+                "name": "San Antonio Spurs",
+                "nickname": "Spurs"
+            },
+            "totReb": 8,
+            "tpa": 6,
+            "tpm": 3,
+            "tpp": "50.0",
+            "turnovers": 0
+        },
+        {
+            "assists": 1,
+            "blocks": 1,
+            "comment": null,
+            "defReb": 3,
+            "fga": 8,
+            "fgm": 2,
+            "fgp": "25.0",
+            "fta": 2,
+            "ftm": 2,
+            "ftp": "100.0",
+            "game": {
+                "id": 13688
+            },
+            "min": "24",
+            "offReb": 1,
+            "pFouls": 3,
+            "player": {
+                "firstname": "Keldon",
+                "id": 1872,
+                "lastname": "Johnson"
+            },
+            "plusMinus": "-8",
+            "points": 7,
+            "pos": "SF",
+            "steals": 1,
+            "team": {
+                "code": "SAS",
+                "id": 31,
+                "logo": "https://upload.wikimedia.org/wikipedia/fr/0/0e/San_Antonio_Spurs_2018.png",
+                "name": "San Antonio Spurs",
+                "nickname": "Spurs"
+            },
+            "totReb": 4,
+            "tpa": 5,
+            "tpm": 1,
+            "tpp": "20.0",
+            "turnovers": 3
+        },
+        {
+            "assists": 6,
+            "blocks": 7,
+            "comment": null,
+            "defReb": 15,
+            "fga": 20,
+            "fgm": 11,
+            "fgp": "55.0",
+            "fta": 7,
+            "ftm": 6,
+            "ftp": "85.7",
+            "game": {
+                "id": 13688
+            },
+            "min": "43",
+            "offReb": 3,
+            "pFouls": 1,
+            "player": {
+                "firstname": "Victor",
+                "id": 4026,
+                "lastname": "Wembanyama"
+            },
+            "plusMinus": "-1",
+            "points": 33,
+            "pos": "C",
+            "steals": 0,
+            "team": {
+                "code": "SAS",
+                "id": 31,
+                "logo": "https://upload.wikimedia.org/wikipedia/fr/0/0e/San_Antonio_Spurs_2018.png",
+                "name": "San Antonio Spurs",
+                "nickname": "Spurs"
+            },
+            "totReb": 18,
+            "tpa": 10,
+            "tpm": 5,
+            "tpp": "50.0",
+            "turnovers": 9
+        },
+        {
+            "assists": 9,
+            "blocks": 0,
+            "comment": null,
+            "defReb": 5,
+            "fga": 17,
+            "fgm": 8,
+            "fgp": "47.1",
+            "fta": 2,
+            "ftm": 1,
+            "ftp": "50.0",
+            "game": {
+                "id": 13688
+            },
+            "min": "49",
+            "offReb": 3,
+            "pFouls": 2,
+            "player": {
+                "firstname": "Tre",
+                "id": 2606,
+                "lastname": "Jones"
+            },
+            "plusMinus": "-5",
+            "points": 17,
+            "pos": "PG",
+            "steals": 2,
+            "team": {
+                "code": "SAS",
+                "id": 31,
+                "logo": "https://upload.wikimedia.org/wikipedia/fr/0/0e/San_Antonio_Spurs_2018.png",
+                "name": "San Antonio Spurs",
+                "nickname": "Spurs"
+            },
+            "totReb": 8,
+            "tpa": 3,
+            "tpm": 0,
+            "tpp": "0",
+            "turnovers": 5
+        },
+        {
+            "assists": 1,
+            "blocks": 1,
+            "comment": null,
+            "defReb": 2,
+            "fga": 15,
+            "fgm": 8,
+            "fgp": "53.3",
+            "fta": 2,
+            "ftm": 1,
+            "ftp": "50.0",
+            "game": {
+                "id": 13688
+            },
+            "min": "44",
+            "offReb": 1,
+            "pFouls": 0,
+            "player": {
+                "firstname": "Malaki",
+                "id": 3419,
+                "lastname": "Branham"
+            },
+            "plusMinus": "-3",
+            "points": 22,
+            "pos": "G",
+            "steals": 0,
+            "team": {
+                "code": "SAS",
+                "id": 31,
+                "logo": "https://upload.wikimedia.org/wikipedia/fr/0/0e/San_Antonio_Spurs_2018.png",
+                "name": "San Antonio Spurs",
+                "nickname": "Spurs"
+            },
+            "totReb": 3,
+            "tpa": 8,
+            "tpm": 5,
+            "tpp": "62.5",
+            "turnovers": 2
+        },
+        {
+            "assists": 2,
+            "blocks": 2,
+            "comment": null,
+            "defReb": 1,
+            "fga": 7,
+            "fgm": 3,
+            "fgp": "42.9",
+            "fta": 3,
+            "ftm": 3,
+            "ftp": "100.0",
+            "game": {
+                "id": 13688
+            },
+            "min": "15",
+            "offReb": 3,
+            "pFouls": 3,
+            "player": {
+                "firstname": "Zach",
+                "id": 762,
+                "lastname": "Collins"
+            },
+            "plusMinus": "-6",
+            "points": 9,
+            "pos": "PF",
+            "steals": 0,
+            "team": {
+                "code": "SAS",
+                "id": 31,
+                "logo": "https://upload.wikimedia.org/wikipedia/fr/0/0e/San_Antonio_Spurs_2018.png",
+                "name": "San Antonio Spurs",
+                "nickname": "Spurs"
+            },
+            "totReb": 4,
+            "tpa": 0,
+            "tpm": 0,
+            "tpp": "0",
+            "turnovers": 3
+        },
+        {
+            "assists": 3,
+            "blocks": 0,
+            "comment": null,
+            "defReb": 6,
+            "fga": 6,
+            "fgm": 1,
+            "fgp": "16.7",
+            "fta": 4,
+            "ftm": 4,
+            "ftp": "100.0",
+            "game": {
+                "id": 13688
+            },
+            "min": "24",
+            "offReb": 1,
+            "pFouls": 2,
+            "player": {
+                "firstname": "Sandro",
+                "id": 2830,
+                "lastname": "Mamukelashvili"
+            },
+            "plusMinus": "+17",
+            "points": 6,
+            "pos": "PF",
+            "steals": 0,
+            "team": {
+                "code": "SAS",
+                "id": 31,
+                "logo": "https://upload.wikimedia.org/wikipedia/fr/0/0e/San_Antonio_Spurs_2018.png",
+                "name": "San Antonio Spurs",
+                "nickname": "Spurs"
+            },
+            "totReb": 7,
+            "tpa": 2,
+            "tpm": 0,
+            "tpp": "0",
+            "turnovers": 0
+        },
+        {
+            "assists": 6,
+            "blocks": 0,
+            "comment": null,
+            "defReb": 3,
+            "fga": 11,
+            "fgm": 3,
+            "fgp": "27.3",
+            "fta": 1,
+            "ftm": 1,
+            "ftp": "100.0",
+            "game": {
+                "id": 13688
+            },
+            "min": "35",
+            "offReb": 0,
+            "pFouls": 1,
+            "player": {
+                "firstname": "Devonte'",
+                "id": 973,
+                "lastname": "Graham"
+            },
+            "plusMinus": "-2",
+            "points": 9,
+            "pos": "PG",
+            "steals": 0,
+            "team": {
+                "code": "SAS",
+                "id": 31,
+                "logo": "https://upload.wikimedia.org/wikipedia/fr/0/0e/San_Antonio_Spurs_2018.png",
+                "name": "San Antonio Spurs",
+                "nickname": "Spurs"
+            },
+            "totReb": 3,
+            "tpa": 9,
+            "tpm": 2,
+            "tpp": "22.2",
+            "turnovers": 3
+        },
+        {
+            "assists": 0,
+            "blocks": 0,
+            "comment": null,
+            "defReb": 3,
+            "fga": 4,
+            "fgm": 3,
+            "fgp": "75.0",
+            "fta": 0,
+            "ftm": 0,
+            "ftp": "0",
+            "game": {
+                "id": 13688
+            },
+            "min": "18",
+            "offReb": 1,
+            "pFouls": 2,
+            "player": {
+                "firstname": "Blake",
+                "id": 3499,
+                "lastname": "Wesley"
+            },
+            "plusMinus": "-11",
+            "points": 6,
+            "pos": "G",
+            "steals": 0,
+            "team": {
+                "code": "SAS",
+                "id": 31,
+                "logo": "https://upload.wikimedia.org/wikipedia/fr/0/0e/San_Antonio_Spurs_2018.png",
+                "name": "San Antonio Spurs",
+                "nickname": "Spurs"
+            },
+            "totReb": 4,
+            "tpa": 1,
+            "tpm": 0,
+            "tpp": "0",
+            "turnovers": 0
+        },
+        {
+            "assists": 4,
+            "blocks": 1,
+            "comment": null,
+            "defReb": 12,
+            "fga": 6,
+            "fgm": 4,
+            "fgp": "66.7",
+            "fta": 2,
+            "ftm": 2,
+            "ftp": "100.0",
+            "game": {
+                "id": 13699
+            },
+            "min": "26",
+            "offReb": 4,
+            "pFouls": 1,
+            "player": {
+                "firstname": "Sandro",
+                "id": 2830,
+                "lastname": "Mamukelashvili"
+            },
+            "plusMinus": "+11",
+            "points": 11,
+            "pos": "PF",
+            "steals": 0,
+            "team": {
+                "code": "SAS",
+                "id": 31,
+                "logo": "https://upload.wikimedia.org/wikipedia/fr/0/0e/San_Antonio_Spurs_2018.png",
+                "name": "San Antonio Spurs",
+                "nickname": "Spurs"
+            },
+            "totReb": 16,
+            "tpa": 3,
+            "tpm": 1,
+            "tpp": "33.3",
+            "turnovers": 2
+        },
+        {
+            "assists": 1,
+            "blocks": 0,
+            "comment": null,
+            "defReb": 2,
+            "fga": 12,
+            "fgm": 6,
+            "fgp": "50.0",
+            "fta": 2,
+            "ftm": 2,
+            "ftp": "100.0",
+            "game": {
+                "id": 13699
+            },
+            "min": "30",
+            "offReb": 1,
+            "pFouls": 1,
+            "player": {
+                "firstname": "Julian",
+                "id": 3425,
+                "lastname": "Champagnie"
+            },
+            "plusMinus": "+2",
+            "points": 17,
+            "pos": "F",
+            "steals": 2,
+            "team": {
+                "code": "SAS",
+                "id": 31,
+                "logo": "https://upload.wikimedia.org/wikipedia/fr/0/0e/San_Antonio_Spurs_2018.png",
+                "name": "San Antonio Spurs",
+                "nickname": "Spurs"
+            },
+            "totReb": 3,
+            "tpa": 8,
+            "tpm": 3,
+            "tpp": "37.5",
+            "turnovers": 3
+        },
+        {
+            "assists": 6,
+            "blocks": 7,
+            "comment": null,
+            "defReb": 6,
+            "fga": 19,
+            "fgm": 9,
+            "fgp": "47.4",
+            "fta": 0,
+            "ftm": 0,
+            "ftp": "0",
+            "game": {
+                "id": 13699
+            },
+            "min": "31",
+            "offReb": 1,
+            "pFouls": 1,
+            "player": {
+                "firstname": "Victor",
+                "id": 4026,
+                "lastname": "Wembanyama"
+            },
+            "plusMinus": "+15",
+            "points": 18,
+            "pos": "C",
+            "steals": 0,
+            "team": {
+                "code": "SAS",
+                "id": 31,
+                "logo": "https://upload.wikimedia.org/wikipedia/fr/0/0e/San_Antonio_Spurs_2018.png",
+                "name": "San Antonio Spurs",
+                "nickname": "Spurs"
+            },
+            "totReb": 7,
+            "tpa": 5,
+            "tpm": 0,
+            "tpp": "0",
+            "turnovers": 1
+        },
+        {
+            "assists": 4,
+            "blocks": 0,
+            "comment": null,
+            "defReb": 5,
+            "fga": 10,
+            "fgm": 4,
+            "fgp": "40.0",
+            "fta": 0,
+            "ftm": 0,
+            "ftp": "0",
+            "game": {
+                "id": 13699
+            },
+            "min": "32",
+            "offReb": 2,
+            "pFouls": 0,
+            "player": {
+                "firstname": "Tre",
+                "id": 2606,
+                "lastname": "Jones"
+            },
+            "plusMinus": "+20",
+            "points": 8,
+            "pos": "PG",
+            "steals": 1,
+            "team": {
+                "code": "SAS",
+                "id": 31,
+                "logo": "https://upload.wikimedia.org/wikipedia/fr/0/0e/San_Antonio_Spurs_2018.png",
+                "name": "San Antonio Spurs",
+                "nickname": "Spurs"
+            },
+            "totReb": 7,
+            "tpa": 4,
+            "tpm": 0,
+            "tpp": "0",
+            "turnovers": 0
+        },
+        {
+            "assists": 2,
+            "blocks": 0,
+            "comment": null,
+            "defReb": 4,
+            "fga": 13,
+            "fgm": 4,
+            "fgp": "30.8",
+            "fta": 0,
+            "ftm": 0,
+            "ftp": "0",
+            "game": {
+                "id": 13699
+            },
+            "min": "28",
+            "offReb": 0,
+            "pFouls": 1,
+            "player": {
+                "firstname": "Malaki",
+                "id": 3419,
+                "lastname": "Branham"
+            },
+            "plusMinus": "-1",
+            "points": 10,
+            "pos": "G",
+            "steals": 1,
+            "team": {
+                "code": "SAS",
+                "id": 31,
+                "logo": "https://upload.wikimedia.org/wikipedia/fr/0/0e/San_Antonio_Spurs_2018.png",
+                "name": "San Antonio Spurs",
+                "nickname": "Spurs"
+            },
+            "totReb": 4,
+            "tpa": 8,
+            "tpm": 2,
+            "tpp": "25.0",
+            "turnovers": 1
+        },
+        {
+            "assists": 3,
+            "blocks": 1,
+            "comment": null,
+            "defReb": 7,
+            "fga": 5,
+            "fgm": 2,
+            "fgp": "40.0",
+            "fta": 1,
+            "ftm": 1,
+            "ftp": "100.0",
+            "game": {
+                "id": 13699
+            },
+            "min": "18",
+            "offReb": 0,
+            "pFouls": 0,
+            "player": {
+                "firstname": "Zach",
+                "id": 762,
+                "lastname": "Collins"
+            },
+            "plusMinus": "+1",
+            "points": 5,
+            "pos": "PF",
+            "steals": 0,
+            "team": {
+                "code": "SAS",
+                "id": 31,
+                "logo": "https://upload.wikimedia.org/wikipedia/fr/0/0e/San_Antonio_Spurs_2018.png",
+                "name": "San Antonio Spurs",
+                "nickname": "Spurs"
+            },
+            "totReb": 7,
+            "tpa": 1,
+            "tpm": 0,
+            "tpp": "0",
+            "turnovers": 1
+        },
+        {
+            "assists": 0,
+            "blocks": 0,
+            "comment": null,
+            "defReb": 2,
+            "fga": 0,
+            "fgm": 0,
+            "fgp": "0",
+            "fta": 0,
+            "ftm": 0,
+            "ftp": "0",
+            "game": {
+                "id": 13699
+            },
+            "min": "4",
+            "offReb": 0,
+            "pFouls": 0,
+            "player": {
+                "firstname": "RaiQuan",
+                "id": 2809,
+                "lastname": "Gray"
+            },
+            "plusMinus": "-4",
+            "points": 0,
+            "pos": "F",
+            "steals": 0,
+            "team": {
+                "code": "SAS",
+                "id": 31,
+                "logo": "https://upload.wikimedia.org/wikipedia/fr/0/0e/San_Antonio_Spurs_2018.png",
+                "name": "San Antonio Spurs",
+                "nickname": "Spurs"
+            },
+            "totReb": 2,
+            "tpa": 0,
+            "tpm": 0,
+            "tpp": "0",
+            "turnovers": 1
+        },
+        {
+            "assists": 4,
+            "blocks": 1,
+            "comment": null,
+            "defReb": 0,
+            "fga": 6,
+            "fgm": 1,
+            "fgp": "16.7",
+            "fta": 0,
+            "ftm": 0,
+            "ftp": "0",
+            "game": {
+                "id": 13699
+            },
+            "min": "21",
+            "offReb": 0,
+            "pFouls": 2,
+            "player": {
+                "firstname": "Devonte'",
+                "id": 973,
+                "lastname": "Graham"
+            },
+            "plusMinus": "+14",
+            "points": 3,
+            "pos": "PG",
+            "steals": 0,
+            "team": {
+                "code": "SAS",
+                "id": 31,
+                "logo": "https://upload.wikimedia.org/wikipedia/fr/0/0e/San_Antonio_Spurs_2018.png",
+                "name": "San Antonio Spurs",
+                "nickname": "Spurs"
+            },
+            "totReb": 0,
+            "tpa": 6,
+            "tpm": 1,
+            "tpp": "16.7",
+            "turnovers": 2
+        },
+        {
+            "assists": 0,
+            "blocks": 0,
+            "comment": null,
+            "defReb": 0,
+            "fga": 2,
+            "fgm": 2,
+            "fgp": "100.0",
+            "fta": 0,
+            "ftm": 0,
+            "ftp": "0",
+            "game": {
+                "id": 13699
+            },
+            "min": "3",
+            "offReb": 0,
+            "pFouls": 2,
+            "player": {
+                "firstname": "Jamaree",
+                "id": 3418,
+                "lastname": "Bouyea"
+            },
+            "plusMinus": "-1",
+            "points": 4,
+            "pos": "G",
+            "steals": 0,
+            "team": {
+                "code": "SAS",
+                "id": 31,
+                "logo": "https://upload.wikimedia.org/wikipedia/fr/0/0e/San_Antonio_Spurs_2018.png",
+                "name": "San Antonio Spurs",
+                "nickname": "Spurs"
+            },
+            "totReb": 0,
+            "tpa": 0,
+            "tpm": 0,
+            "tpp": "0",
+            "turnovers": 0
+        },
+        {
+            "assists": 1,
+            "blocks": 0,
+            "comment": null,
+            "defReb": 0,
+            "fga": 1,
+            "fgm": 1,
+            "fgp": "100.0",
+            "fta": 0,
+            "ftm": 0,
+            "ftp": "0",
+            "game": {
+                "id": 13699
+            },
+            "min": "3",
+            "offReb": 0,
+            "pFouls": 0,
+            "player": {
+                "firstname": "David",
+                "id": 2804,
+                "lastname": "Duke Jr."
+            },
+            "plusMinus": "-1",
+            "points": 3,
+            "pos": "G",
+            "steals": 0,
+            "team": {
+                "code": "SAS",
+                "id": 31,
+                "logo": "https://upload.wikimedia.org/wikipedia/fr/0/0e/San_Antonio_Spurs_2018.png",
+                "name": "San Antonio Spurs",
+                "nickname": "Spurs"
+            },
+            "totReb": 0,
+            "tpa": 1,
+            "tpm": 1,
+            "tpp": "100.0",
+            "turnovers": 0
+        },
+        {
+            "assists": 3,
+            "blocks": 0,
+            "comment": null,
+            "defReb": 2,
+            "fga": 7,
+            "fgm": 5,
+            "fgp": "71.4",
+            "fta": 1,
+            "ftm": 1,
+            "ftp": "100.0",
+            "game": {
+                "id": 13699
+            },
+            "min": "23",
+            "offReb": 0,
+            "pFouls": 2,
+            "player": {
+                "firstname": "Blake",
+                "id": 3499,
+                "lastname": "Wesley"
+            },
+            "plusMinus": "+13",
+            "points": 13,
+            "pos": "G",
+            "steals": 0,
+            "team": {
+                "code": "SAS",
+                "id": 31,
+                "logo": "https://upload.wikimedia.org/wikipedia/fr/0/0e/San_Antonio_Spurs_2018.png",
+                "name": "San Antonio Spurs",
+                "nickname": "Spurs"
+            },
+            "totReb": 2,
+            "tpa": 3,
+            "tpm": 2,
+            "tpp": "66.7",
+            "turnovers": 5
+        },
+        {
+            "assists": 2,
+            "blocks": 1,
+            "comment": null,
+            "defReb": 1,
+            "fga": 6,
+            "fgm": 4,
+            "fgp": "66.7",
+            "fta": 2,
+            "ftm": 2,
+            "ftp": "100.0",
+            "game": {
+                "id": 13699
+            },
+            "min": "21",
+            "offReb": 2,
+            "pFouls": 2,
+            "player": {
+                "firstname": "Sidy",
+                "id": 4024,
+                "lastname": "Cissoko"
+            },
+            "plusMinus": "+6",
+            "points": 10,
+            "pos": "G",
+            "steals": 1,
+            "team": {
+                "code": "SAS",
+                "id": 31,
+                "logo": "https://upload.wikimedia.org/wikipedia/fr/0/0e/San_Antonio_Spurs_2018.png",
+                "name": "San Antonio Spurs",
+                "nickname": "Spurs"
+            },
+            "totReb": 3,
+            "tpa": 1,
+            "tpm": 0,
+            "tpp": "0",
+            "turnovers": 0
+        },
+        {
+            "assists": 2,
+            "blocks": 2,
+            "comment": null,
+            "defReb": 7,
+            "fga": 17,
+            "fgm": 8,
+            "fgp": "47.1",
+            "fta": 3,
+            "ftm": 2,
+            "ftp": "66.7",
+            "game": {
+                "id": 13711
+            },
+            "min": "26",
+            "offReb": 0,
+            "pFouls": 3,
+            "player": {
+                "firstname": "Zach",
+                "id": 762,
+                "lastname": "Collins"
+            },
+            "plusMinus": "-30",
+            "points": 20,
+            "pos": "PF",
+            "steals": 1,
+            "team": {
+                "code": "SAS",
+                "id": 31,
+                "logo": "https://upload.wikimedia.org/wikipedia/fr/0/0e/San_Antonio_Spurs_2018.png",
+                "name": "San Antonio Spurs",
+                "nickname": "Spurs"
+            },
+            "totReb": 7,
+            "tpa": 5,
+            "tpm": 2,
+            "tpp": "40.0",
+            "turnovers": 5
+        },
+        {
+            "assists": 2,
+            "blocks": 0,
+            "comment": null,
+            "defReb": 11,
+            "fga": 8,
+            "fgm": 0,
+            "fgp": "0",
+            "fta": 0,
+            "ftm": 0,
+            "ftp": "0",
+            "game": {
+                "id": 13711
+            },
+            "min": "26",
+            "offReb": 0,
+            "pFouls": 0,
+            "player": {
+                "firstname": "Sandro",
+                "id": 2830,
+                "lastname": "Mamukelashvili"
+            },
+            "plusMinus": "-28",
+            "points": 0,
+            "pos": "PF",
+            "steals": 0,
+            "team": {
+                "code": "SAS",
+                "id": 31,
+                "logo": "https://upload.wikimedia.org/wikipedia/fr/0/0e/San_Antonio_Spurs_2018.png",
+                "name": "San Antonio Spurs",
+                "nickname": "Spurs"
+            },
+            "totReb": 11,
+            "tpa": 3,
+            "tpm": 0,
+            "tpp": "0",
+            "turnovers": 1
+        },
+        {
+            "assists": 0,
+            "blocks": 1,
+            "comment": null,
+            "defReb": 3,
+            "fga": 7,
+            "fgm": 1,
+            "fgp": "14.3",
+            "fta": 4,
+            "ftm": 3,
+            "ftp": "75.0",
+            "game": {
+                "id": 13711
+            },
+            "min": "24",
+            "offReb": 0,
+            "pFouls": 3,
+            "player": {
+                "firstname": "Julian",
+                "id": 3425,
+                "lastname": "Champagnie"
+            },
+            "plusMinus": "-35",
+            "points": 5,
+            "pos": "F",
+            "steals": 1,
+            "team": {
+                "code": "SAS",
+                "id": 31,
+                "logo": "https://upload.wikimedia.org/wikipedia/fr/0/0e/San_Antonio_Spurs_2018.png",
+                "name": "San Antonio Spurs",
+                "nickname": "Spurs"
+            },
+            "totReb": 3,
+            "tpa": 6,
+            "tpm": 0,
+            "tpp": "0",
+            "turnovers": 2
+        },
+        {
+            "assists": 7,
+            "blocks": 1,
+            "comment": null,
+            "defReb": 6,
+            "fga": 14,
+            "fgm": 6,
+            "fgp": "42.9",
+            "fta": 0,
+            "ftm": 0,
+            "ftp": "0",
+            "game": {
+                "id": 13711
+            },
+            "min": "28",
+            "offReb": 0,
+            "pFouls": 1,
+            "player": {
+                "firstname": "Tre",
+                "id": 2606,
+                "lastname": "Jones"
+            },
+            "plusMinus": "-23",
+            "points": 13,
+            "pos": "PG",
+            "steals": 3,
+            "team": {
+                "code": "SAS",
+                "id": 31,
+                "logo": "https://upload.wikimedia.org/wikipedia/fr/0/0e/San_Antonio_Spurs_2018.png",
+                "name": "San Antonio Spurs",
+                "nickname": "Spurs"
+            },
+            "totReb": 6,
+            "tpa": 4,
+            "tpm": 1,
+            "tpp": "25.0",
+            "turnovers": 2
+        },
+        {
+            "assists": 1,
+            "blocks": 0,
+            "comment": null,
+            "defReb": 2,
+            "fga": 8,
+            "fgm": 3,
+            "fgp": "37.5",
+            "fta": 0,
+            "ftm": 0,
+            "ftp": "0",
+            "game": {
+                "id": 13711
+            },
+            "min": "20",
+            "offReb": 0,
+            "pFouls": 2,
+            "player": {
+                "firstname": "Malaki",
+                "id": 3419,
+                "lastname": "Branham"
+            },
+            "plusMinus": "-21",
+            "points": 7,
+            "pos": "G",
+            "steals": 0,
+            "team": {
+                "code": "SAS",
+                "id": 31,
+                "logo": "https://upload.wikimedia.org/wikipedia/fr/0/0e/San_Antonio_Spurs_2018.png",
+                "name": "San Antonio Spurs",
+                "nickname": "Spurs"
+            },
+            "totReb": 2,
+            "tpa": 4,
+            "tpm": 1,
+            "tpp": "25.0",
+            "turnovers": 1
+        },
+        {
+            "assists": 2,
+            "blocks": 0,
+            "comment": null,
+            "defReb": 0,
+            "fga": 8,
+            "fgm": 5,
+            "fgp": "62.5",
+            "fta": 0,
+            "ftm": 0,
+            "ftp": "0",
+            "game": {
+                "id": 13711
+            },
+            "min": "13",
+            "offReb": 0,
+            "pFouls": 0,
+            "player": {
+                "firstname": "RaiQuan",
+                "id": 2809,
+                "lastname": "Gray"
+            },
+            "plusMinus": "+3",
+            "points": 13,
+            "pos": "F",
+            "steals": 1,
+            "team": {
+                "code": "SAS",
+                "id": 31,
+                "logo": "https://upload.wikimedia.org/wikipedia/fr/0/0e/San_Antonio_Spurs_2018.png",
+                "name": "San Antonio Spurs",
+                "nickname": "Spurs"
+            },
+            "totReb": 0,
+            "tpa": 5,
+            "tpm": 3,
+            "tpp": "60.0",
+            "turnovers": 0
+        },
+        {
+            "assists": 1,
+            "blocks": 0,
+            "comment": null,
+            "defReb": 3,
+            "fga": 7,
+            "fgm": 1,
+            "fgp": "14.3",
+            "fta": 0,
+            "ftm": 0,
+            "ftp": "0",
+            "game": {
+                "id": 13711
+            },
+            "min": "21",
+            "offReb": 0,
+            "pFouls": 0,
+            "player": {
+                "firstname": "Devonte'",
+                "id": 973,
+                "lastname": "Graham"
+            },
+            "plusMinus": "-21",
+            "points": 2,
+            "pos": "PG",
+            "steals": 0,
+            "team": {
+                "code": "SAS",
+                "id": 31,
+                "logo": "https://upload.wikimedia.org/wikipedia/fr/0/0e/San_Antonio_Spurs_2018.png",
+                "name": "San Antonio Spurs",
+                "nickname": "Spurs"
+            },
+            "totReb": 3,
+            "tpa": 4,
+            "tpm": 0,
+            "tpp": "0",
+            "turnovers": 1
+        },
+        {
+            "assists": 1,
+            "blocks": 0,
+            "comment": null,
+            "defReb": 1,
+            "fga": 1,
+            "fgm": 1,
+            "fgp": "100.0",
+            "fta": 0,
+            "ftm": 0,
+            "ftp": "0",
+            "game": {
+                "id": 13711
+            },
+            "min": "12",
+            "offReb": 0,
+            "pFouls": 0,
+            "player": {
+                "firstname": "Jamaree",
+                "id": 3418,
+                "lastname": "Bouyea"
+            },
+            "plusMinus": "-4",
+            "points": 2,
+            "pos": "G",
+            "steals": 1,
+            "team": {
+                "code": "SAS",
+                "id": 31,
+                "logo": "https://upload.wikimedia.org/wikipedia/fr/0/0e/San_Antonio_Spurs_2018.png",
+                "name": "San Antonio Spurs",
+                "nickname": "Spurs"
+            },
+            "totReb": 1,
+            "tpa": 0,
+            "tpm": 0,
+            "tpp": "0",
+            "turnovers": 0
+        },
+        {
+            "assists": 4,
+            "blocks": 0,
+            "comment": null,
+            "defReb": 6,
+            "fga": 8,
+            "fgm": 2,
+            "fgp": "25.0",
+            "fta": 2,
+            "ftm": 2,
+            "ftp": "100.0",
+            "game": {
+                "id": 13711
+            },
+            "min": "18",
+            "offReb": 1,
+            "pFouls": 1,
+            "player": {
+                "firstname": "David",
+                "id": 2804,
+                "lastname": "Duke Jr."
+            },
+            "plusMinus": "-5",
+            "points": 6,
+            "pos": "G",
+            "steals": 1,
+            "team": {
+                "code": "SAS",
+                "id": 31,
+                "logo": "https://upload.wikimedia.org/wikipedia/fr/0/0e/San_Antonio_Spurs_2018.png",
+                "name": "San Antonio Spurs",
+                "nickname": "Spurs"
+            },
+            "totReb": 7,
+            "tpa": 2,
+            "tpm": 0,
+            "tpp": "0",
+            "turnovers": 1
+        },
+        {
+            "assists": 1,
+            "blocks": 0,
+            "comment": null,
+            "defReb": 2,
+            "fga": 11,
+            "fgm": 1,
+            "fgp": "9.1",
+            "fta": 4,
+            "ftm": 4,
+            "ftp": "100.0",
+            "game": {
+                "id": 13711
+            },
+            "min": "25",
+            "offReb": 0,
+            "pFouls": 1,
+            "player": {
+                "firstname": "Blake",
+                "id": 3499,
+                "lastname": "Wesley"
+            },
+            "plusMinus": "-9",
+            "points": 7,
+            "pos": "G",
+            "steals": 0,
+            "team": {
+                "code": "SAS",
+                "id": 31,
+                "logo": "https://upload.wikimedia.org/wikipedia/fr/0/0e/San_Antonio_Spurs_2018.png",
+                "name": "San Antonio Spurs",
+                "nickname": "Spurs"
+            },
+            "totReb": 2,
+            "tpa": 4,
+            "tpm": 1,
+            "tpp": "25.0",
+            "turnovers": 2
+        },
+        {
+            "assists": 3,
+            "blocks": 0,
+            "comment": null,
+            "defReb": 2,
+            "fga": 7,
+            "fgm": 4,
+            "fgp": "57.1",
+            "fta": 7,
+            "ftm": 5,
+            "ftp": "71.4",
+            "game": {
+                "id": 13711
+            },
+            "min": "28",
+            "offReb": 3,
+            "pFouls": 3,
+            "player": {
+                "firstname": "Sidy",
+                "id": 4024,
+                "lastname": "Cissoko"
+            },
+            "plusMinus": "-17",
+            "points": 14,
+            "pos": "G",
+            "steals": 0,
+            "team": {
+                "code": "SAS",
+                "id": 31,
+                "logo": "https://upload.wikimedia.org/wikipedia/fr/0/0e/San_Antonio_Spurs_2018.png",
+                "name": "San Antonio Spurs",
+                "nickname": "Spurs"
+            },
+            "totReb": 5,
+            "tpa": 3,
+            "tpm": 1,
+            "tpp": "33.3",
+            "turnovers": 0
+        },
+        {
+            "assists": 2,
+            "blocks": 1,
+            "comment": null,
+            "defReb": 10,
+            "fga": 14,
+            "fgm": 8,
+            "fgp": "57.1",
+            "fta": 4,
+            "ftm": 2,
+            "ftp": "50.0",
+            "game": {
+                "id": 13728
+            },
+            "min": "30",
+            "offReb": 2,
+            "pFouls": 3,
+            "player": {
+                "firstname": "Sandro",
+                "id": 2830,
+                "lastname": "Mamukelashvili"
+            },
+            "plusMinus": "-1",
+            "points": 21,
+            "pos": "PF",
+            "steals": 0,
+            "team": {
+                "code": "SAS",
+                "id": 31,
+                "logo": "https://upload.wikimedia.org/wikipedia/fr/0/0e/San_Antonio_Spurs_2018.png",
+                "name": "San Antonio Spurs",
+                "nickname": "Spurs"
+            },
+            "totReb": 12,
+            "tpa": 5,
+            "tpm": 3,
+            "tpp": "60.0",
+            "turnovers": 2
+        },
+        {
+            "assists": 2,
+            "blocks": 0,
+            "comment": null,
+            "defReb": 4,
+            "fga": 5,
+            "fgm": 4,
+            "fgp": "80.0",
+            "fta": 4,
+            "ftm": 4,
+            "ftp": "100.0",
+            "game": {
+                "id": 13728
+            },
+            "min": "37",
+            "offReb": 1,
+            "pFouls": 0,
+            "player": {
+                "firstname": "Julian",
+                "id": 3425,
+                "lastname": "Champagnie"
+            },
+            "plusMinus": "+11",
+            "points": 14,
+            "pos": "F",
+            "steals": 0,
+            "team": {
+                "code": "SAS",
+                "id": 31,
+                "logo": "https://upload.wikimedia.org/wikipedia/fr/0/0e/San_Antonio_Spurs_2018.png",
+                "name": "San Antonio Spurs",
+                "nickname": "Spurs"
+            },
+            "totReb": 5,
+            "tpa": 3,
+            "tpm": 2,
+            "tpp": "66.7",
+            "turnovers": 1
+        },
+        {
+            "assists": 5,
+            "blocks": 2,
+            "comment": null,
+            "defReb": 11,
+            "fga": 27,
+            "fgm": 12,
+            "fgp": "44.4",
+            "fta": 7,
+            "ftm": 5,
+            "ftp": "71.4",
+            "game": {
+                "id": 13728
+            },
+            "min": "37",
+            "offReb": 1,
+            "pFouls": 1,
+            "player": {
+                "firstname": "Victor",
+                "id": 4026,
+                "lastname": "Wembanyama"
+            },
+            "plusMinus": "-11",
+            "points": 34,
+            "pos": "C",
+            "steals": 1,
+            "team": {
+                "code": "SAS",
+                "id": 31,
+                "logo": "https://upload.wikimedia.org/wikipedia/fr/0/0e/San_Antonio_Spurs_2018.png",
+                "name": "San Antonio Spurs",
+                "nickname": "Spurs"
+            },
+            "totReb": 12,
+            "tpa": 12,
+            "tpm": 5,
+            "tpp": "41.7",
+            "turnovers": 7
+        },
+        {
+            "assists": 10,
+            "blocks": 0,
+            "comment": null,
+            "defReb": 6,
+            "fga": 11,
+            "fgm": 6,
+            "fgp": "54.5",
+            "fta": 3,
+            "ftm": 1,
+            "ftp": "33.3",
+            "game": {
+                "id": 13728
+            },
+            "min": "39",
+            "offReb": 0,
+            "pFouls": 1,
+            "player": {
+                "firstname": "Tre",
+                "id": 2606,
+                "lastname": "Jones"
+            },
+            "plusMinus": "+17",
+            "points": 14,
+            "pos": "PG",
+            "steals": 0,
+            "team": {
+                "code": "SAS",
+                "id": 31,
+                "logo": "https://upload.wikimedia.org/wikipedia/fr/0/0e/San_Antonio_Spurs_2018.png",
+                "name": "San Antonio Spurs",
+                "nickname": "Spurs"
+            },
+            "totReb": 6,
+            "tpa": 2,
+            "tpm": 1,
+            "tpp": "50.0",
+            "turnovers": 3
+        },
+        {
+            "assists": 4,
+            "blocks": 0,
+            "comment": null,
+            "defReb": 1,
+            "fga": 2,
+            "fgm": 1,
+            "fgp": "50.0",
+            "fta": 0,
+            "ftm": 0,
+            "ftp": "0",
+            "game": {
+                "id": 13728
+            },
+            "min": "19",
+            "offReb": 0,
+            "pFouls": 2,
+            "player": {
+                "firstname": "Blake",
+                "id": 3499,
+                "lastname": "Wesley"
+            },
+            "plusMinus": "-28",
+            "points": 2,
+            "pos": "G",
+            "steals": 0,
+            "team": {
+                "code": "SAS",
+                "id": 31,
+                "logo": "https://upload.wikimedia.org/wikipedia/fr/0/0e/San_Antonio_Spurs_2018.png",
+                "name": "San Antonio Spurs",
+                "nickname": "Spurs"
+            },
+            "totReb": 1,
+            "tpa": 0,
+            "tpm": 0,
+            "tpp": "0",
+            "turnovers": 1
+        },
+        {
+            "assists": 3,
+            "blocks": 1,
+            "comment": null,
+            "defReb": 3,
+            "fga": 9,
+            "fgm": 5,
+            "fgp": "55.6",
+            "fta": 3,
+            "ftm": 3,
+            "ftp": "100.0",
+            "game": {
+                "id": 13728
+            },
+            "min": "21",
+            "offReb": 3,
+            "pFouls": 0,
+            "player": {
+                "firstname": "Zach",
+                "id": 762,
+                "lastname": "Collins"
+            },
+            "plusMinus": "-4",
+            "points": 15,
+            "pos": "PF",
+            "steals": 1,
+            "team": {
+                "code": "SAS",
+                "id": 31,
+                "logo": "https://upload.wikimedia.org/wikipedia/fr/0/0e/San_Antonio_Spurs_2018.png",
+                "name": "San Antonio Spurs",
+                "nickname": "Spurs"
+            },
+            "totReb": 6,
+            "tpa": 3,
+            "tpm": 2,
+            "tpp": "66.7",
+            "turnovers": 2
+        },
+        {
+            "assists": 5,
+            "blocks": 0,
+            "comment": null,
+            "defReb": 2,
+            "fga": 11,
+            "fgm": 4,
+            "fgp": "36.4",
+            "fta": 2,
+            "ftm": 1,
+            "ftp": "50.0",
+            "game": {
+                "id": 13728
+            },
+            "min": "32",
+            "offReb": 2,
+            "pFouls": 0,
+            "player": {
+                "firstname": "Devonte'",
+                "id": 973,
+                "lastname": "Graham"
+            },
+            "plusMinus": "+6",
+            "points": 11,
+            "pos": "PG",
+            "steals": 0,
+            "team": {
+                "code": "SAS",
+                "id": 31,
+                "logo": "https://upload.wikimedia.org/wikipedia/fr/0/0e/San_Antonio_Spurs_2018.png",
+                "name": "San Antonio Spurs",
+                "nickname": "Spurs"
+            },
+            "totReb": 4,
+            "tpa": 7,
+            "tpm": 2,
+            "tpp": "28.6",
+            "turnovers": 2
+        },
+        {
+            "assists": 0,
+            "blocks": 0,
+            "comment": null,
+            "defReb": 0,
+            "fga": 1,
+            "fgm": 1,
+            "fgp": "100.0",
+            "fta": 0,
+            "ftm": 0,
+            "ftp": "0",
+            "game": {
+                "id": 13728
+            },
+            "min": "8",
+            "offReb": 0,
+            "pFouls": 1,
+            "player": {
+                "firstname": "David",
+                "id": 2804,
+                "lastname": "Duke Jr."
+            },
+            "plusMinus": "+1",
+            "points": 2,
+            "pos": "G",
+            "steals": 0,
+            "team": {
+                "code": "SAS",
+                "id": 31,
+                "logo": "https://upload.wikimedia.org/wikipedia/fr/0/0e/San_Antonio_Spurs_2018.png",
+                "name": "San Antonio Spurs",
+                "nickname": "Spurs"
+            },
+            "totReb": 0,
+            "tpa": 0,
+            "tpm": 0,
+            "tpp": "0",
+            "turnovers": 0
+        },
+        {
+            "assists": 0,
+            "blocks": 0,
+            "comment": null,
+            "defReb": 1,
+            "fga": 5,
+            "fgm": 4,
+            "fgp": "80.0",
+            "fta": 0,
+            "ftm": 0,
+            "ftp": "0",
+            "game": {
+                "id": 13728
+            },
+            "min": "17",
+            "offReb": 2,
+            "pFouls": 5,
+            "player": {
+                "firstname": "Sidy",
+                "id": 4024,
+                "lastname": "Cissoko"
+            },
+            "plusMinus": "+14",
+            "points": 8,
+            "pos": "G",
+            "steals": 0,
+            "team": {
+                "code": "SAS",
+                "id": 31,
+                "logo": "https://upload.wikimedia.org/wikipedia/fr/0/0e/San_Antonio_Spurs_2018.png",
+                "name": "San Antonio Spurs",
+                "nickname": "Spurs"
+            },
+            "totReb": 3,
+            "tpa": 1,
+            "tpm": 0,
+            "tpp": "0",
+            "turnovers": 0
+        },
+        {
+            "assists": 2,
+            "blocks": 0,
+            "comment": null,
+            "defReb": 5,
+            "fga": 11,
+            "fgm": 6,
+            "fgp": "54.5",
+            "fta": 4,
+            "ftm": 4,
+            "ftp": "100.0",
+            "game": {
+                "id": 13745
+            },
+            "min": "16",
+            "offReb": 4,
+            "pFouls": 3,
+            "player": {
+                "firstname": "Zach",
+                "id": 762,
+                "lastname": "Collins"
+            },
+            "plusMinus": "+18",
+            "points": 17,
+            "pos": "PF",
+            "steals": 1,
+            "team": {
+                "code": "SAS",
+                "id": 31,
+                "logo": "https://upload.wikimedia.org/wikipedia/fr/0/0e/San_Antonio_Spurs_2018.png",
+                "name": "San Antonio Spurs",
+                "nickname": "Spurs"
+            },
+            "totReb": 9,
+            "tpa": 2,
+            "tpm": 1,
+            "tpp": "50.0",
+            "turnovers": 0
+        },
+        {
+            "assists": 1,
+            "blocks": 0,
+            "comment": null,
+            "defReb": 6,
+            "fga": 13,
+            "fgm": 7,
+            "fgp": "53.8",
+            "fta": 2,
+            "ftm": 1,
+            "ftp": "50.0",
+            "game": {
+                "id": 13745
+            },
+            "min": "26",
+            "offReb": 2,
+            "pFouls": 0,
+            "player": {
+                "firstname": "Sandro",
+                "id": 2830,
+                "lastname": "Mamukelashvili"
+            },
+            "plusMinus": "+5",
+            "points": 18,
+            "pos": "PF",
+            "steals": 0,
+            "team": {
+                "code": "SAS",
+                "id": 31,
+                "logo": "https://upload.wikimedia.org/wikipedia/fr/0/0e/San_Antonio_Spurs_2018.png",
+                "name": "San Antonio Spurs",
+                "nickname": "Spurs"
+            },
+            "totReb": 8,
+            "tpa": 6,
+            "tpm": 3,
+            "tpp": "50.0",
+            "turnovers": 3
+        },
+        {
+            "assists": 6,
+            "blocks": 0,
+            "comment": null,
+            "defReb": 3,
+            "fga": 9,
+            "fgm": 4,
+            "fgp": "44.4",
+            "fta": 2,
+            "ftm": 1,
+            "ftp": "50.0",
+            "game": {
+                "id": 13745
+            },
+            "min": "26",
+            "offReb": 0,
+            "pFouls": 0,
+            "player": {
+                "firstname": "Julian",
+                "id": 3425,
+                "lastname": "Champagnie"
+            },
+            "plusMinus": "+20",
+            "points": 11,
+            "pos": "F",
+            "steals": 0,
+            "team": {
+                "code": "SAS",
+                "id": 31,
+                "logo": "https://upload.wikimedia.org/wikipedia/fr/0/0e/San_Antonio_Spurs_2018.png",
+                "name": "San Antonio Spurs",
+                "nickname": "Spurs"
+            },
+            "totReb": 3,
+            "tpa": 4,
+            "tpm": 2,
+            "tpp": "50.0",
+            "turnovers": 2
+        },
+        {
+            "assists": 6,
+            "blocks": 0,
+            "comment": null,
+            "defReb": 6,
+            "fga": 12,
+            "fgm": 5,
+            "fgp": "41.7",
+            "fta": 0,
+            "ftm": 0,
+            "ftp": "0",
+            "game": {
+                "id": 13745
+            },
+            "min": "25",
+            "offReb": 0,
+            "pFouls": 1,
+            "player": {
+                "firstname": "Tre",
+                "id": 2606,
+                "lastname": "Jones"
+            },
+            "plusMinus": "+16",
+            "points": 11,
+            "pos": "PG",
+            "steals": 1,
+            "team": {
+                "code": "SAS",
+                "id": 31,
+                "logo": "https://upload.wikimedia.org/wikipedia/fr/0/0e/San_Antonio_Spurs_2018.png",
+                "name": "San Antonio Spurs",
+                "nickname": "Spurs"
+            },
+            "totReb": 6,
+            "tpa": 6,
+            "tpm": 1,
+            "tpp": "16.7",
+            "turnovers": 0
+        },
+        {
+            "assists": 5,
+            "blocks": 0,
+            "comment": null,
+            "defReb": 6,
+            "fga": 9,
+            "fgm": 7,
+            "fgp": "77.8",
+            "fta": 3,
+            "ftm": 2,
+            "ftp": "66.7",
+            "game": {
+                "id": 13745
+            },
+            "min": "30",
+            "offReb": 1,
+            "pFouls": 2,
+            "player": {
+                "firstname": "Blake",
+                "id": 3499,
+                "lastname": "Wesley"
+            },
+            "plusMinus": "+24",
+            "points": 17,
+            "pos": "G",
+            "steals": 3,
+            "team": {
+                "code": "SAS",
+                "id": 31,
+                "logo": "https://upload.wikimedia.org/wikipedia/fr/0/0e/San_Antonio_Spurs_2018.png",
+                "name": "San Antonio Spurs",
+                "nickname": "Spurs"
+            },
+            "totReb": 7,
+            "tpa": 1,
+            "tpm": 1,
+            "tpp": "100.0",
+            "turnovers": 1
+        },
+        {
+            "assists": 4,
+            "blocks": 1,
+            "comment": null,
+            "defReb": 3,
+            "fga": 9,
+            "fgm": 5,
+            "fgp": "55.6",
+            "fta": 0,
+            "ftm": 0,
+            "ftp": "0",
+            "game": {
+                "id": 13745
+            },
+            "min": "23",
+            "offReb": 2,
+            "pFouls": 0,
+            "player": {
+                "firstname": "RaiQuan",
+                "id": 2809,
+                "lastname": "Gray"
+            },
+            "plusMinus": "+15",
+            "points": 10,
+            "pos": "F",
+            "steals": 0,
+            "team": {
+                "code": "SAS",
+                "id": 31,
+                "logo": "https://upload.wikimedia.org/wikipedia/fr/0/0e/San_Antonio_Spurs_2018.png",
+                "name": "San Antonio Spurs",
+                "nickname": "Spurs"
+            },
+            "totReb": 5,
+            "tpa": 2,
+            "tpm": 0,
+            "tpp": "0",
+            "turnovers": 0
+        },
+        {
+            "assists": 2,
+            "blocks": 0,
+            "comment": null,
+            "defReb": 1,
+            "fga": 8,
+            "fgm": 4,
+            "fgp": "50.0",
+            "fta": 0,
+            "ftm": 0,
+            "ftp": "0",
+            "game": {
+                "id": 13745
+            },
+            "min": "19",
+            "offReb": 0,
+            "pFouls": 0,
+            "player": {
+                "firstname": "Devonte'",
+                "id": 973,
+                "lastname": "Graham"
+            },
+            "plusMinus": "+4",
+            "points": 12,
+            "pos": "PG",
+            "steals": 0,
+            "team": {
+                "code": "SAS",
+                "id": 31,
+                "logo": "https://upload.wikimedia.org/wikipedia/fr/0/0e/San_Antonio_Spurs_2018.png",
+                "name": "San Antonio Spurs",
+                "nickname": "Spurs"
+            },
+            "totReb": 1,
+            "tpa": 7,
+            "tpm": 4,
+            "tpp": "57.1",
+            "turnovers": 3
+        },
+        {
+            "assists": 2,
+            "blocks": 0,
+            "comment": null,
+            "defReb": 7,
+            "fga": 4,
+            "fgm": 2,
+            "fgp": "50.0",
+            "fta": 0,
+            "ftm": 0,
+            "ftp": "0",
+            "game": {
+                "id": 13745
+            },
+            "min": "22",
+            "offReb": 1,
+            "pFouls": 5,
+            "player": {
+                "firstname": "Jamaree",
+                "id": 3418,
+                "lastname": "Bouyea"
+            },
+            "plusMinus": "+12",
+            "points": 5,
+            "pos": "G",
+            "steals": 0,
+            "team": {
+                "code": "SAS",
+                "id": 31,
+                "logo": "https://upload.wikimedia.org/wikipedia/fr/0/0e/San_Antonio_Spurs_2018.png",
+                "name": "San Antonio Spurs",
+                "nickname": "Spurs"
+            },
+            "totReb": 8,
+            "tpa": 1,
+            "tpm": 1,
+            "tpp": "100.0",
+            "turnovers": 1
+        },
+        {
+            "assists": 0,
+            "blocks": 0,
+            "comment": null,
+            "defReb": 2,
+            "fga": 8,
+            "fgm": 6,
+            "fgp": "75.0",
+            "fta": 1,
+            "ftm": 1,
+            "ftp": "100.0",
+            "game": {
+                "id": 13745
+            },
+            "min": "22",
+            "offReb": 1,
+            "pFouls": 2,
+            "player": {
+                "firstname": "David",
+                "id": 2804,
+                "lastname": "Duke Jr."
+            },
+            "plusMinus": "+11",
+            "points": 15,
+            "pos": "G",
+            "steals": 1,
+            "team": {
+                "code": "SAS",
+                "id": 31,
+                "logo": "https://upload.wikimedia.org/wikipedia/fr/0/0e/San_Antonio_Spurs_2018.png",
+                "name": "San Antonio Spurs",
+                "nickname": "Spurs"
+            },
+            "totReb": 3,
+            "tpa": 3,
+            "tpm": 2,
+            "tpp": "66.7",
+            "turnovers": 2
+        },
+        {
+            "assists": 5,
+            "blocks": 2,
+            "comment": null,
+            "defReb": 3,
+            "fga": 8,
+            "fgm": 3,
+            "fgp": "37.5",
+            "fta": 2,
+            "ftm": 1,
+            "ftp": "50.0",
+            "game": {
+                "id": 13745
+            },
+            "min": "32",
+            "offReb": 1,
+            "pFouls": 4,
+            "player": {
+                "firstname": "Sidy",
+                "id": 4024,
+                "lastname": "Cissoko"
+            },
+            "plusMinus": "+15",
+            "points": 7,
+            "pos": "G",
+            "steals": 3,
+            "team": {
+                "code": "SAS",
+                "id": 31,
+                "logo": "https://upload.wikimedia.org/wikipedia/fr/0/0e/San_Antonio_Spurs_2018.png",
+                "name": "San Antonio Spurs",
+                "nickname": "Spurs"
+            },
+            "totReb": 4,
+            "tpa": 2,
+            "tpm": 0,
+            "tpp": "0",
+            "turnovers": 1
         }
     ],
-    "results": 845
+    "results": 977
 }

@@ -177,6 +177,42 @@
             }
         },
         {
+            "affiliation": "Michigan/USA",
+            "birth": {
+                "country": "USA",
+                "date": "1996-02-19"
+            },
+            "college": "Michigan",
+            "firstname": "D.J.",
+            "height": {
+                "feets": null,
+                "inches": null,
+                "meters": null
+            },
+            "id": 899,
+            "lastname": "Wilson",
+            "leagues": {
+                "standard": {
+                    "active": true,
+                    "jersey": 9,
+                    "pos": "F"
+                },
+                "vegas": {
+                    "active": true,
+                    "jersey": 9,
+                    "pos": "F-C"
+                }
+            },
+            "nba": {
+                "pro": 0,
+                "start": 2017
+            },
+            "weight": {
+                "kilograms": null,
+                "pounds": null
+            }
+        },
+        {
             "affiliation": "Texas/USA",
             "birth": {
                 "country": "USA",
@@ -513,6 +549,42 @@
             "weight": {
                 "kilograms": "91.6",
                 "pounds": "202"
+            }
+        },
+        {
+            "affiliation": "Texas/Bahamas",
+            "birth": {
+                "country": "Bahamas",
+                "date": "2001-01-19"
+            },
+            "college": "Texas",
+            "firstname": "Kai",
+            "height": {
+                "feets": "6",
+                "inches": "10",
+                "meters": "2.08"
+            },
+            "id": 2823,
+            "lastname": "Jones",
+            "leagues": {
+                "standard": {
+                    "active": true,
+                    "jersey": 23,
+                    "pos": "C-F"
+                },
+                "vegas": {
+                    "active": true,
+                    "jersey": 23,
+                    "pos": "F-C"
+                }
+            },
+            "nba": {
+                "pro": 0,
+                "start": 2021
+            },
+            "weight": {
+                "kilograms": "100.2",
+                "pounds": "221"
             }
         },
         {
@@ -980,5 +1052,5 @@
             }
         }
     ],
-    "results": 28
+    "results": 30
 }

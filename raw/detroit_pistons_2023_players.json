@@ -156,6 +156,47 @@
             }
         },
         {
+            "affiliation": "Southern California/USA",
+            "birth": {
+                "country": "USA",
+                "date": "1997-03-22"
+            },
+            "college": "Southern California",
+            "firstname": "Chimezie",
+            "height": {
+                "feets": "6",
+                "inches": "9",
+                "meters": "2.06"
+            },
+            "id": 999,
+            "lastname": "Metu",
+            "leagues": {
+                "standard": {
+                    "active": true,
+                    "jersey": 7,
+                    "pos": "F-C"
+                },
+                "utah": {
+                    "active": true,
+                    "jersey": 7,
+                    "pos": "F"
+                },
+                "vegas": {
+                    "active": true,
+                    "jersey": 25,
+                    "pos": "F"
+                }
+            },
+            "nba": {
+                "pro": 3,
+                "start": 2018
+            },
+            "weight": {
+                "kilograms": "102.1",
+                "pounds": "225"
+            }
+        },
+        {
             "affiliation": "Southern Methodist/USA",
             "birth": {
                 "country": "USA",
@@ -261,6 +302,42 @@
             "weight": {
                 "kilograms": "95.3",
                 "pounds": "210"
+            }
+        },
+        {
+            "affiliation": "Washington/USA",
+            "birth": {
+                "country": "USA",
+                "date": "1999-07-09"
+            },
+            "college": "Washington",
+            "firstname": "Jaylen",
+            "height": {
+                "feets": "6",
+                "inches": "4",
+                "meters": "1.93"
+            },
+            "id": 1882,
+            "lastname": "Nowell",
+            "leagues": {
+                "standard": {
+                    "active": true,
+                    "jersey": 4,
+                    "pos": "G"
+                },
+                "vegas": {
+                    "active": true,
+                    "jersey": 4,
+                    "pos": "G"
+                }
+            },
+            "nba": {
+                "pro": 2,
+                "start": 2019
+            },
+            "weight": {
+                "kilograms": "91.2",
+                "pounds": "201"
             }
         },
         {
@@ -1093,5 +1170,5 @@
             }
         }
     ],
-    "results": 31
+    "results": 33
 }

@@ -763,37 +763,6 @@
                 "country": null,
                 "date": null
             },
-            "college": "Northwestern",
-            "firstname": "Chase",
-            "height": {
-                "feets": "6",
-                "inches": null,
-                "meters": null
-            },
-            "id": 4035,
-            "lastname": "Audige",
-            "leagues": {
-                "standard": {
-                    "active": true,
-                    "jersey": 17,
-                    "pos": "G"
-                }
-            },
-            "nba": {
-                "pro": 0,
-                "start": 0
-            },
-            "weight": {
-                "kilograms": null,
-                "pounds": "200"
-            }
-        },
-        {
-            "affiliation": null,
-            "birth": {
-                "country": null,
-                "date": null
-            },
             "college": null,
             "firstname": "Bilal",
             "height": {
@@ -817,6 +786,37 @@
             "weight": {
                 "kilograms": null,
                 "pounds": "195"
+            }
+        },
+        {
+            "affiliation": null,
+            "birth": {
+                "country": null,
+                "date": null
+            },
+            "college": null,
+            "firstname": "T.",
+            "height": {
+                "feets": null,
+                "inches": null,
+                "meters": null
+            },
+            "id": 4088,
+            "lastname": "Vukcevic",
+            "leagues": {
+                "standard": {
+                    "active": true,
+                    "jersey": null,
+                    "pos": "PF"
+                }
+            },
+            "nba": {
+                "pro": 0,
+                "start": 0
+            },
+            "weight": {
+                "kilograms": null,
+                "pounds": null
             }
         },
         {

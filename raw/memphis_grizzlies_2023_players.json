@@ -315,6 +315,42 @@
             }
         },
         {
+            "affiliation": "Gonzaga/Canada",
+            "birth": {
+                "country": "Canada",
+                "date": "1996-09-19"
+            },
+            "college": "Gonzaga",
+            "firstname": "Brandon",
+            "height": {
+                "feets": "6",
+                "inches": "8",
+                "meters": "2.03"
+            },
+            "id": 1853,
+            "lastname": "Clarke",
+            "leagues": {
+                "standard": {
+                    "active": true,
+                    "jersey": 15,
+                    "pos": "F"
+                },
+                "vegas": {
+                    "active": true,
+                    "jersey": 15,
+                    "pos": "F"
+                }
+            },
+            "nba": {
+                "pro": 2,
+                "start": 2019
+            },
+            "weight": {
+                "kilograms": "97.5",
+                "pounds": "215"
+            }
+        },
+        {
             "affiliation": "Washington/USA",
             "birth": {
                 "country": "USA",
@@ -543,6 +579,47 @@
             "weight": {
                 "kilograms": "99.3",
                 "pounds": "219"
+            }
+        },
+        {
+            "affiliation": "Michigan/USA",
+            "birth": {
+                "country": "USA",
+                "date": "1997-02-11"
+            },
+            "college": "Michigan",
+            "firstname": "Zavier",
+            "height": {
+                "feets": null,
+                "inches": null,
+                "meters": null
+            },
+            "id": 2678,
+            "lastname": "Simpson",
+            "leagues": {
+                "sacramento": {
+                    "active": true,
+                    "jersey": 35,
+                    "pos": "G"
+                },
+                "standard": {
+                    "active": true,
+                    "jersey": 9,
+                    "pos": "G"
+                },
+                "vegas": {
+                    "active": true,
+                    "jersey": 41,
+                    "pos": "G"
+                }
+            },
+            "nba": {
+                "pro": 0,
+                "start": 2021
+            },
+            "weight": {
+                "kilograms": null,
+                "pounds": null
             }
         },
         {
@@ -916,6 +993,42 @@
                 "date": null
             },
             "college": null,
+            "firstname": "Jack",
+            "height": {
+                "feets": null,
+                "inches": null,
+                "meters": null
+            },
+            "id": 3501,
+            "lastname": "White",
+            "leagues": {
+                "standard": {
+                    "active": true,
+                    "jersey": 10,
+                    "pos": "F"
+                },
+                "vegas": {
+                    "active": true,
+                    "jersey": 41,
+                    "pos": "F"
+                }
+            },
+            "nba": {
+                "pro": 0,
+                "start": 0
+            },
+            "weight": {
+                "kilograms": null,
+                "pounds": null
+            }
+        },
+        {
+            "affiliation": null,
+            "birth": {
+                "country": null,
+                "date": null
+            },
+            "college": null,
             "firstname": "Jacob",
             "height": {
                 "feets": null,
@@ -1062,6 +1175,37 @@
             "weight": {
                 "kilograms": null,
                 "pounds": "260"
+            }
+        },
+        {
+            "affiliation": null,
+            "birth": {
+                "country": null,
+                "date": null
+            },
+            "college": null,
+            "firstname": "M.",
+            "height": {
+                "feets": null,
+                "inches": null,
+                "meters": null
+            },
+            "id": 4086,
+            "lastname": "Pereira",
+            "leagues": {
+                "standard": {
+                    "active": true,
+                    "jersey": null,
+                    "pos": "F"
+                }
+            },
+            "nba": {
+                "pro": 0,
+                "start": 0
+            },
+            "weight": {
+                "kilograms": null,
+                "pounds": null
             }
         },
         {
@@ -1223,7 +1367,38 @@
                 "kilograms": "99.8",
                 "pounds": "220"
             }
+        },
+        {
+            "affiliation": "Oklahoma State/USA",
+            "birth": {
+                "country": "USA",
+                "date": "1982-01-11"
+            },
+            "college": "Oklahoma State",
+            "firstname": "Tony",
+            "height": {
+                "feets": "6",
+                "inches": "4",
+                "meters": "1.93"
+            },
+            "id": 11,
+            "lastname": "Allen",
+            "leagues": {
+                "standard": {
+                    "active": false,
+                    "jersey": 9,
+                    "pos": "G-F"
+                }
+            },
+            "nba": {
+                "pro": 12,
+                "start": 2004
+            },
+            "weight": {
+                "kilograms": "96.6",
+                "pounds": "213"
+            }
         }
     ],
-    "results": 33
+    "results": 38
 }

@@ -592,669 +592,6 @@
             "turnovers": 2
         },
         {
-            "assists": 5,
-            "blocks": 0,
-            "comment": null,
-            "defReb": 4,
-            "fga": 7,
-            "fgm": 5,
-            "fgp": "71.4",
-            "fta": 1,
-            "ftm": 1,
-            "ftp": "100.0",
-            "game": {
-                "id": 12515
-            },
-            "min": "17",
-            "offReb": 3,
-            "pFouls": 2,
-            "player": {
-                "firstname": "Pascal",
-                "id": 479,
-                "lastname": "Siakam"
-            },
-            "plusMinus": "+19",
-            "points": 12,
-            "pos": "PF",
-            "steals": 0,
-            "team": {
-                "code": "TOR",
-                "id": 38,
-                "logo": "https://upload.wikimedia.org/wikipedia/fr/8/89/Raptors2015.png",
-                "name": "Toronto Raptors",
-                "nickname": "Raptors"
-            },
-            "totReb": 7,
-            "tpa": 1,
-            "tpm": 1,
-            "tpp": "100.0",
-            "turnovers": 2
-        },
-        {
-            "assists": 0,
-            "blocks": 1,
-            "comment": null,
-            "defReb": 5,
-            "fga": 6,
-            "fgm": 3,
-            "fgp": "50.0",
-            "fta": 8,
-            "ftm": 6,
-            "ftp": "75.0",
-            "game": {
-                "id": 12515
-            },
-            "min": "13",
-            "offReb": 3,
-            "pFouls": 1,
-            "player": {
-                "firstname": "Chris",
-                "id": 745,
-                "lastname": "Boucher"
-            },
-            "plusMinus": "+15",
-            "points": 12,
-            "pos": "PF",
-            "steals": 2,
-            "team": {
-                "code": "TOR",
-                "id": 38,
-                "logo": "https://upload.wikimedia.org/wikipedia/fr/8/89/Raptors2015.png",
-                "name": "Toronto Raptors",
-                "nickname": "Raptors"
-            },
-            "totReb": 8,
-            "tpa": 2,
-            "tpm": 0,
-            "tpp": "0",
-            "turnovers": 0
-        },
-        {
-            "assists": 1,
-            "blocks": 0,
-            "comment": null,
-            "defReb": 1,
-            "fga": 6,
-            "fgm": 3,
-            "fgp": "50.0",
-            "fta": 2,
-            "ftm": 1,
-            "ftp": "50.0",
-            "game": {
-                "id": 12515
-            },
-            "min": "17",
-            "offReb": 0,
-            "pFouls": 1,
-            "player": {
-                "firstname": "O.G.",
-                "id": 732,
-                "lastname": "Anunoby"
-            },
-            "plusMinus": "+19",
-            "points": 10,
-            "pos": "SF",
-            "steals": 1,
-            "team": {
-                "code": "TOR",
-                "id": 38,
-                "logo": "https://upload.wikimedia.org/wikipedia/fr/8/89/Raptors2015.png",
-                "name": "Toronto Raptors",
-                "nickname": "Raptors"
-            },
-            "totReb": 1,
-            "tpa": 6,
-            "tpm": 3,
-            "tpp": "50.0",
-            "turnovers": 2
-        },
-        {
-            "assists": 4,
-            "blocks": 1,
-            "comment": null,
-            "defReb": 3,
-            "fga": 6,
-            "fgm": 4,
-            "fgp": "66.7",
-            "fta": 6,
-            "ftm": 4,
-            "ftp": "66.7",
-            "game": {
-                "id": 12515
-            },
-            "min": "18",
-            "offReb": 2,
-            "pFouls": 0,
-            "player": {
-                "firstname": "Scottie",
-                "id": 2789,
-                "lastname": "Barnes"
-            },
-            "plusMinus": "+15",
-            "points": 14,
-            "pos": "SF",
-            "steals": 2,
-            "team": {
-                "code": "TOR",
-                "id": 38,
-                "logo": "https://upload.wikimedia.org/wikipedia/fr/8/89/Raptors2015.png",
-                "name": "Toronto Raptors",
-                "nickname": "Raptors"
-            },
-            "totReb": 5,
-            "tpa": 3,
-            "tpm": 2,
-            "tpp": "66.7",
-            "turnovers": 5
-        },
-        {
-            "assists": 3,
-            "blocks": 0,
-            "comment": null,
-            "defReb": 1,
-            "fga": 6,
-            "fgm": 3,
-            "fgp": "50.0",
-            "fta": 0,
-            "ftm": 0,
-            "ftp": "0",
-            "game": {
-                "id": 12515
-            },
-            "min": "17",
-            "offReb": 1,
-            "pFouls": 1,
-            "player": {
-                "firstname": "Dennis",
-                "id": 472,
-                "lastname": "Schroder"
-            },
-            "plusMinus": "+19",
-            "points": 7,
-            "pos": "PG",
-            "steals": 1,
-            "team": {
-                "code": "TOR",
-                "id": 38,
-                "logo": "https://upload.wikimedia.org/wikipedia/fr/8/89/Raptors2015.png",
-                "name": "Toronto Raptors",
-                "nickname": "Raptors"
-            },
-            "totReb": 2,
-            "tpa": 3,
-            "tpm": 1,
-            "tpp": "33.3",
-            "turnovers": 2
-        },
-        {
-            "assists": 2,
-            "blocks": 0,
-            "comment": null,
-            "defReb": 5,
-            "fga": 6,
-            "fgm": 4,
-            "fgp": "66.7",
-            "fta": 1,
-            "ftm": 1,
-            "ftp": "100.0",
-            "game": {
-                "id": 12515
-            },
-            "min": "15",
-            "offReb": 2,
-            "pFouls": 1,
-            "player": {
-                "firstname": "Thaddeus",
-                "id": 570,
-                "lastname": "Young"
-            },
-            "plusMinus": "+8",
-            "points": 9,
-            "pos": "PF",
-            "steals": 1,
-            "team": {
-                "code": "TOR",
-                "id": 38,
-                "logo": "https://upload.wikimedia.org/wikipedia/fr/8/89/Raptors2015.png",
-                "name": "Toronto Raptors",
-                "nickname": "Raptors"
-            },
-            "totReb": 7,
-            "tpa": 0,
-            "tpm": 0,
-            "tpp": "0",
-            "turnovers": 0
-        },
-        {
-            "assists": 0,
-            "blocks": 0,
-            "comment": null,
-            "defReb": 2,
-            "fga": 6,
-            "fgm": 3,
-            "fgp": "50.0",
-            "fta": 2,
-            "ftm": 2,
-            "ftp": "100.0",
-            "game": {
-                "id": 12515
-            },
-            "min": "17",
-            "offReb": 1,
-            "pFouls": 2,
-            "player": {
-                "firstname": "Jalen",
-                "id": 1880,
-                "lastname": "McDaniels"
-            },
-            "plusMinus": "+5",
-            "points": 9,
-            "pos": "PF",
-            "steals": 1,
-            "team": {
-                "code": "TOR",
-                "id": 38,
-                "logo": "https://upload.wikimedia.org/wikipedia/fr/8/89/Raptors2015.png",
-                "name": "Toronto Raptors",
-                "nickname": "Raptors"
-            },
-            "totReb": 3,
-            "tpa": 3,
-            "tpm": 1,
-            "tpp": "33.3",
-            "turnovers": 0
-        },
-        {
-            "assists": 1,
-            "blocks": 1,
-            "comment": null,
-            "defReb": 0,
-            "fga": 2,
-            "fgm": 0,
-            "fgp": "0",
-            "fta": 4,
-            "ftm": 3,
-            "ftp": "75.0",
-            "game": {
-                "id": 12515
-            },
-            "min": "12",
-            "offReb": 0,
-            "pFouls": 0,
-            "player": {
-                "firstname": "Ron",
-                "id": 3447,
-                "lastname": "Harper Jr."
-            },
-            "plusMinus": "+13",
-            "points": 3,
-            "pos": "F",
-            "steals": 0,
-            "team": {
-                "code": "TOR",
-                "id": 38,
-                "logo": "https://upload.wikimedia.org/wikipedia/fr/8/89/Raptors2015.png",
-                "name": "Toronto Raptors",
-                "nickname": "Raptors"
-            },
-            "totReb": 0,
-            "tpa": 2,
-            "tpm": 0,
-            "tpp": "0",
-            "turnovers": 0
-        },
-        {
-            "assists": 3,
-            "blocks": 0,
-            "comment": null,
-            "defReb": 5,
-            "fga": 3,
-            "fgm": 1,
-            "fgp": "33.3",
-            "fta": 0,
-            "ftm": 0,
-            "ftp": "0",
-            "game": {
-                "id": 12515
-            },
-            "min": "12",
-            "offReb": 2,
-            "pFouls": 1,
-            "player": {
-                "firstname": "Mouhamadou",
-                "id": 3445,
-                "lastname": "Gueye"
-            },
-            "plusMinus": "+14",
-            "points": 2,
-            "pos": "F",
-            "steals": 1,
-            "team": {
-                "code": "TOR",
-                "id": 38,
-                "logo": "https://upload.wikimedia.org/wikipedia/fr/8/89/Raptors2015.png",
-                "name": "Toronto Raptors",
-                "nickname": "Raptors"
-            },
-            "totReb": 7,
-            "tpa": 0,
-            "tpm": 0,
-            "tpp": "0",
-            "turnovers": 2
-        },
-        {
-            "assists": 0,
-            "blocks": 1,
-            "comment": null,
-            "defReb": 1,
-            "fga": 2,
-            "fgm": 1,
-            "fgp": "50.0",
-            "fta": 0,
-            "ftm": 0,
-            "ftp": "0",
-            "game": {
-                "id": 12515
-            },
-            "min": "10",
-            "offReb": 0,
-            "pFouls": 1,
-            "player": {
-                "firstname": "Garrett",
-                "id": 507,
-                "lastname": "Temple"
-            },
-            "plusMinus": "-4",
-            "points": 2,
-            "pos": "SF",
-            "steals": 0,
-            "team": {
-                "code": "TOR",
-                "id": 38,
-                "logo": "https://upload.wikimedia.org/wikipedia/fr/8/89/Raptors2015.png",
-                "name": "Toronto Raptors",
-                "nickname": "Raptors"
-            },
-            "totReb": 1,
-            "tpa": 1,
-            "tpm": 0,
-            "tpp": "0",
-            "turnovers": 0
-        },
-        {
-            "assists": 1,
-            "blocks": 0,
-            "comment": null,
-            "defReb": 2,
-            "fga": 4,
-            "fgm": 1,
-            "fgp": "25.0",
-            "fta": 2,
-            "ftm": 2,
-            "ftp": "100.0",
-            "game": {
-                "id": 12515
-            },
-            "min": "8",
-            "offReb": 1,
-            "pFouls": 0,
-            "player": {
-                "firstname": "Makur",
-                "id": 3464,
-                "lastname": "Maker"
-            },
-            "plusMinus": "+16",
-            "points": 4,
-            "pos": "C",
-            "steals": 1,
-            "team": {
-                "code": "TOR",
-                "id": 38,
-                "logo": "https://upload.wikimedia.org/wikipedia/fr/8/89/Raptors2015.png",
-                "name": "Toronto Raptors",
-                "nickname": "Raptors"
-            },
-            "totReb": 3,
-            "tpa": 1,
-            "tpm": 0,
-            "tpp": "0",
-            "turnovers": 0
-        },
-        {
-            "assists": 4,
-            "blocks": 0,
-            "comment": null,
-            "defReb": 1,
-            "fga": 7,
-            "fgm": 4,
-            "fgp": "57.1",
-            "fta": 0,
-            "ftm": 0,
-            "ftp": "0",
-            "game": {
-                "id": 12515
-            },
-            "min": "17",
-            "offReb": 2,
-            "pFouls": 0,
-            "player": {
-                "firstname": "Malachi",
-                "id": 2587,
-                "lastname": "Flynn"
-            },
-            "plusMinus": "+5",
-            "points": 10,
-            "pos": "PG",
-            "steals": 0,
-            "team": {
-                "code": "TOR",
-                "id": 38,
-                "logo": "https://upload.wikimedia.org/wikipedia/fr/8/89/Raptors2015.png",
-                "name": "Toronto Raptors",
-                "nickname": "Raptors"
-            },
-            "totReb": 3,
-            "tpa": 3,
-            "tpm": 2,
-            "tpp": "66.7",
-            "turnovers": 1
-        },
-        {
-            "assists": 1,
-            "blocks": 0,
-            "comment": null,
-            "defReb": 2,
-            "fga": 3,
-            "fgm": 3,
-            "fgp": "100.0",
-            "fta": 2,
-            "ftm": 2,
-            "ftp": "100.0",
-            "game": {
-                "id": 12515
-            },
-            "min": "8",
-            "offReb": 0,
-            "pFouls": 0,
-            "player": {
-                "firstname": "Jeff",
-                "id": 2878,
-                "lastname": "Dowtin"
-            },
-            "plusMinus": "+16",
-            "points": 8,
-            "pos": "PG",
-            "steals": 1,
-            "team": {
-                "code": "TOR",
-                "id": 38,
-                "logo": "https://upload.wikimedia.org/wikipedia/fr/8/89/Raptors2015.png",
-                "name": "Toronto Raptors",
-                "nickname": "Raptors"
-            },
-            "totReb": 2,
-            "tpa": 0,
-            "tpm": 0,
-            "tpp": "0",
-            "turnovers": 1
-        },
-        {
-            "assists": 3,
-            "blocks": 1,
-            "comment": null,
-            "defReb": 1,
-            "fga": 8,
-            "fgm": 2,
-            "fgp": "25.0",
-            "fta": 2,
-            "ftm": 2,
-            "ftp": "100.0",
-            "game": {
-                "id": 12515
-            },
-            "min": "18",
-            "offReb": 0,
-            "pFouls": 1,
-            "player": {
-                "firstname": "Gary",
-                "id": 1058,
-                "lastname": "Trent Jr."
-            },
-            "plusMinus": "+15",
-            "points": 8,
-            "pos": "SG",
-            "steals": 0,
-            "team": {
-                "code": "TOR",
-                "id": 38,
-                "logo": "https://upload.wikimedia.org/wikipedia/fr/8/89/Raptors2015.png",
-                "name": "Toronto Raptors",
-                "nickname": "Raptors"
-            },
-            "totReb": 1,
-            "tpa": 7,
-            "tpm": 2,
-            "tpp": "28.6",
-            "turnovers": 0
-        },
-        {
-            "assists": 0,
-            "blocks": 0,
-            "comment": null,
-            "defReb": 2,
-            "fga": 11,
-            "fgm": 7,
-            "fgp": "63.6",
-            "fta": 0,
-            "ftm": 0,
-            "ftp": "0",
-            "game": {
-                "id": 12515
-            },
-            "min": "14",
-            "offReb": 1,
-            "pFouls": 1,
-            "player": {
-                "firstname": "Javon",
-                "id": 3440,
-                "lastname": "Freeman-Liberty"
-            },
-            "plusMinus": "+17",
-            "points": 15,
-            "pos": "G",
-            "steals": 2,
-            "team": {
-                "code": "TOR",
-                "id": 38,
-                "logo": "https://upload.wikimedia.org/wikipedia/fr/8/89/Raptors2015.png",
-                "name": "Toronto Raptors",
-                "nickname": "Raptors"
-            },
-            "totReb": 3,
-            "tpa": 3,
-            "tpm": 1,
-            "tpp": "33.3",
-            "turnovers": 0
-        },
-        {
-            "assists": 4,
-            "blocks": 1,
-            "comment": null,
-            "defReb": 1,
-            "fga": 4,
-            "fgm": 2,
-            "fgp": "50.0",
-            "fta": 0,
-            "ftm": 0,
-            "ftp": "0",
-            "game": {
-                "id": 12515
-            },
-            "min": "11",
-            "offReb": 1,
-            "pFouls": 3,
-            "player": {
-                "firstname": "Markquis",
-                "id": 4028,
-                "lastname": "Nowell"
-            },
-            "plusMinus": "+8",
-            "points": 4,
-            "pos": "G",
-            "steals": 1,
-            "team": {
-                "code": "TOR",
-                "id": 38,
-                "logo": "https://upload.wikimedia.org/wikipedia/fr/8/89/Raptors2015.png",
-                "name": "Toronto Raptors",
-                "nickname": "Raptors"
-            },
-            "totReb": 2,
-            "tpa": 2,
-            "tpm": 0,
-            "tpp": "0",
-            "turnovers": 2
-        },
-        {
-            "assists": 2,
-            "blocks": 0,
-            "comment": null,
-            "defReb": 2,
-            "fga": 7,
-            "fgm": 2,
-            "fgp": "28.6",
-            "fta": 0,
-            "ftm": 0,
-            "ftp": "0",
-            "game": {
-                "id": 12515
-            },
-            "min": "17",
-            "offReb": 0,
-            "pFouls": 0,
-            "player": {
-                "firstname": "Gradey",
-                "id": 4027,
-                "lastname": "Dick"
-            },
-            "plusMinus": "+5",
-            "points": 5,
-            "pos": "G",
-            "steals": 0,
-            "team": {
-                "code": "TOR",
-                "id": 38,
-                "logo": "https://upload.wikimedia.org/wikipedia/fr/8/89/Raptors2015.png",
-                "name": "Toronto Raptors",
-                "nickname": "Raptors"
-            },
-            "totReb": 2,
-            "tpa": 4,
-            "tpm": 1,
-            "tpp": "25.0",
-            "turnovers": 0
-        },
-        {
             "assists": 0,
             "blocks": 0,
             "comment": null,
@@ -30698,7 +30035,5194 @@
             "tpm": 0,
             "tpp": "0",
             "turnovers": 0
+        },
+        {
+            "assists": 5,
+            "blocks": 0,
+            "comment": null,
+            "defReb": 5,
+            "fga": 9,
+            "fgm": 7,
+            "fgp": "77.8",
+            "fta": 2,
+            "ftm": 1,
+            "ftp": "50.0",
+            "game": {
+                "id": 13560
+            },
+            "min": "27",
+            "offReb": 1,
+            "pFouls": 3,
+            "player": {
+                "firstname": "Kelly",
+                "id": 404,
+                "lastname": "Olynyk"
+            },
+            "plusMinus": "-21",
+            "points": 16,
+            "pos": "PF",
+            "steals": 1,
+            "team": {
+                "code": "TOR",
+                "id": 38,
+                "logo": "https://upload.wikimedia.org/wikipedia/fr/8/89/Raptors2015.png",
+                "name": "Toronto Raptors",
+                "nickname": "Raptors"
+            },
+            "totReb": 6,
+            "tpa": 2,
+            "tpm": 1,
+            "tpp": "50.0",
+            "turnovers": 7
+        },
+        {
+            "assists": 5,
+            "blocks": 0,
+            "comment": null,
+            "defReb": 3,
+            "fga": 8,
+            "fgm": 4,
+            "fgp": "50.0",
+            "fta": 2,
+            "ftm": 1,
+            "ftp": "50.0",
+            "game": {
+                "id": 13560
+            },
+            "min": "28",
+            "offReb": 0,
+            "pFouls": 2,
+            "player": {
+                "firstname": "Bruce",
+                "id": 944,
+                "lastname": "Brown"
+            },
+            "plusMinus": "-19",
+            "points": 10,
+            "pos": "SF",
+            "steals": 0,
+            "team": {
+                "code": "TOR",
+                "id": 38,
+                "logo": "https://upload.wikimedia.org/wikipedia/fr/8/89/Raptors2015.png",
+                "name": "Toronto Raptors",
+                "nickname": "Raptors"
+            },
+            "totReb": 3,
+            "tpa": 2,
+            "tpm": 1,
+            "tpp": "50.0",
+            "turnovers": 2
+        },
+        {
+            "assists": 6,
+            "blocks": 0,
+            "comment": null,
+            "defReb": 5,
+            "fga": 10,
+            "fgm": 4,
+            "fgp": "40.0",
+            "fta": 4,
+            "ftm": 3,
+            "ftp": "75.0",
+            "game": {
+                "id": 13560
+            },
+            "min": "32",
+            "offReb": 2,
+            "pFouls": 3,
+            "player": {
+                "firstname": "Ochai",
+                "id": 3411,
+                "lastname": "Agbaji"
+            },
+            "plusMinus": "-13",
+            "points": 12,
+            "pos": "G",
+            "steals": 3,
+            "team": {
+                "code": "TOR",
+                "id": 38,
+                "logo": "https://upload.wikimedia.org/wikipedia/fr/8/89/Raptors2015.png",
+                "name": "Toronto Raptors",
+                "nickname": "Raptors"
+            },
+            "totReb": 7,
+            "tpa": 5,
+            "tpm": 1,
+            "tpp": "20.0",
+            "turnovers": 2
+        },
+        {
+            "assists": 3,
+            "blocks": 0,
+            "comment": null,
+            "defReb": 4,
+            "fga": 10,
+            "fgm": 4,
+            "fgp": "40.0",
+            "fta": 2,
+            "ftm": 2,
+            "ftp": "100.0",
+            "game": {
+                "id": 13560
+            },
+            "min": "29",
+            "offReb": 0,
+            "pFouls": 1,
+            "player": {
+                "firstname": "Javon",
+                "id": 3440,
+                "lastname": "Freeman-Liberty"
+            },
+            "plusMinus": "-9",
+            "points": 10,
+            "pos": "G",
+            "steals": 0,
+            "team": {
+                "code": "TOR",
+                "id": 38,
+                "logo": "https://upload.wikimedia.org/wikipedia/fr/8/89/Raptors2015.png",
+                "name": "Toronto Raptors",
+                "nickname": "Raptors"
+            },
+            "totReb": 4,
+            "tpa": 3,
+            "tpm": 0,
+            "tpp": "0",
+            "turnovers": 2
+        },
+        {
+            "assists": 1,
+            "blocks": 0,
+            "comment": null,
+            "defReb": 5,
+            "fga": 15,
+            "fgm": 8,
+            "fgp": "53.3",
+            "fta": 3,
+            "ftm": 1,
+            "ftp": "33.3",
+            "game": {
+                "id": 13560
+            },
+            "min": "33",
+            "offReb": 0,
+            "pFouls": 1,
+            "player": {
+                "firstname": "Gradey",
+                "id": 4027,
+                "lastname": "Dick"
+            },
+            "plusMinus": "-11",
+            "points": 21,
+            "pos": "G",
+            "steals": 1,
+            "team": {
+                "code": "TOR",
+                "id": 38,
+                "logo": "https://upload.wikimedia.org/wikipedia/fr/8/89/Raptors2015.png",
+                "name": "Toronto Raptors",
+                "nickname": "Raptors"
+            },
+            "totReb": 5,
+            "tpa": 7,
+            "tpm": 4,
+            "tpp": "57.1",
+            "turnovers": 4
+        },
+        {
+            "assists": 0,
+            "blocks": 0,
+            "comment": null,
+            "defReb": 1,
+            "fga": 2,
+            "fgm": 0,
+            "fgp": "0",
+            "fta": 0,
+            "ftm": 0,
+            "ftp": "0",
+            "game": {
+                "id": 13560
+            },
+            "min": "8",
+            "offReb": 1,
+            "pFouls": 0,
+            "player": {
+                "firstname": "Jalen",
+                "id": 1880,
+                "lastname": "McDaniels"
+            },
+            "plusMinus": "-15",
+            "points": 0,
+            "pos": "PF",
+            "steals": 0,
+            "team": {
+                "code": "TOR",
+                "id": 38,
+                "logo": "https://upload.wikimedia.org/wikipedia/fr/8/89/Raptors2015.png",
+                "name": "Toronto Raptors",
+                "nickname": "Raptors"
+            },
+            "totReb": 2,
+            "tpa": 0,
+            "tpm": 0,
+            "tpp": "0",
+            "turnovers": 1
+        },
+        {
+            "assists": 0,
+            "blocks": 2,
+            "comment": null,
+            "defReb": 0,
+            "fga": 0,
+            "fgm": 0,
+            "fgp": "0",
+            "fta": 0,
+            "ftm": 0,
+            "ftp": "0",
+            "game": {
+                "id": 13560
+            },
+            "min": "3",
+            "offReb": 0,
+            "pFouls": 1,
+            "player": {
+                "firstname": "Mouhamadou",
+                "id": 3445,
+                "lastname": "Gueye"
+            },
+            "plusMinus": "+1",
+            "points": 0,
+            "pos": "F",
+            "steals": 0,
+            "team": {
+                "code": "TOR",
+                "id": 38,
+                "logo": "https://upload.wikimedia.org/wikipedia/fr/8/89/Raptors2015.png",
+                "name": "Toronto Raptors",
+                "nickname": "Raptors"
+            },
+            "totReb": 0,
+            "tpa": 0,
+            "tpm": 0,
+            "tpp": "0",
+            "turnovers": 1
+        },
+        {
+            "assists": 2,
+            "blocks": 0,
+            "comment": null,
+            "defReb": 2,
+            "fga": 2,
+            "fgm": 2,
+            "fgp": "100.0",
+            "fta": 2,
+            "ftm": 2,
+            "ftp": "100.0",
+            "game": {
+                "id": 13560
+            },
+            "min": "18",
+            "offReb": 0,
+            "pFouls": 0,
+            "player": {
+                "firstname": "Garrett",
+                "id": 507,
+                "lastname": "Temple"
+            },
+            "plusMinus": "+10",
+            "points": 8,
+            "pos": "SF",
+            "steals": 2,
+            "team": {
+                "code": "TOR",
+                "id": 38,
+                "logo": "https://upload.wikimedia.org/wikipedia/fr/8/89/Raptors2015.png",
+                "name": "Toronto Raptors",
+                "nickname": "Raptors"
+            },
+            "totReb": 2,
+            "tpa": 2,
+            "tpm": 2,
+            "tpp": "100.0",
+            "turnovers": 0
+        },
+        {
+            "assists": 2,
+            "blocks": 0,
+            "comment": null,
+            "defReb": 4,
+            "fga": 10,
+            "fgm": 6,
+            "fgp": "60.0",
+            "fta": 0,
+            "ftm": 0,
+            "ftp": "0",
+            "game": {
+                "id": 13560
+            },
+            "min": "21",
+            "offReb": 0,
+            "pFouls": 3,
+            "player": {
+                "firstname": "Jordan",
+                "id": 2628,
+                "lastname": "Nwora"
+            },
+            "plusMinus": "-13",
+            "points": 12,
+            "pos": "SF",
+            "steals": 1,
+            "team": {
+                "code": "TOR",
+                "id": 38,
+                "logo": "https://upload.wikimedia.org/wikipedia/fr/8/89/Raptors2015.png",
+                "name": "Toronto Raptors",
+                "nickname": "Raptors"
+            },
+            "totReb": 4,
+            "tpa": 3,
+            "tpm": 0,
+            "tpp": "0",
+            "turnovers": 3
+        },
+        {
+            "assists": 8,
+            "blocks": 1,
+            "comment": null,
+            "defReb": 2,
+            "fga": 3,
+            "fgm": 2,
+            "fgp": "66.7",
+            "fta": 2,
+            "ftm": 2,
+            "ftp": "100.0",
+            "game": {
+                "id": 13560
+            },
+            "min": "21",
+            "offReb": 1,
+            "pFouls": 0,
+            "player": {
+                "firstname": "Jontay",
+                "id": 2557,
+                "lastname": "Porter"
+            },
+            "plusMinus": "+1",
+            "points": 7,
+            "pos": "C",
+            "steals": 2,
+            "team": {
+                "code": "TOR",
+                "id": 38,
+                "logo": "https://upload.wikimedia.org/wikipedia/fr/8/89/Raptors2015.png",
+                "name": "Toronto Raptors",
+                "nickname": "Raptors"
+            },
+            "totReb": 3,
+            "tpa": 2,
+            "tpm": 1,
+            "tpp": "50.0",
+            "turnovers": 3
+        },
+        {
+            "assists": 2,
+            "blocks": 0,
+            "comment": null,
+            "defReb": 0,
+            "fga": 7,
+            "fgm": 3,
+            "fgp": "42.9",
+            "fta": 0,
+            "ftm": 0,
+            "ftp": "0",
+            "game": {
+                "id": 13560
+            },
+            "min": "19",
+            "offReb": 0,
+            "pFouls": 4,
+            "player": {
+                "firstname": "Jahmi'us",
+                "id": 2637,
+                "lastname": "Ramsey"
+            },
+            "plusMinus": "-11",
+            "points": 7,
+            "pos": "SG",
+            "steals": 2,
+            "team": {
+                "code": "TOR",
+                "id": 38,
+                "logo": "https://upload.wikimedia.org/wikipedia/fr/8/89/Raptors2015.png",
+                "name": "Toronto Raptors",
+                "nickname": "Raptors"
+            },
+            "totReb": 0,
+            "tpa": 4,
+            "tpm": 1,
+            "tpp": "25.0",
+            "turnovers": 2
+        },
+        {
+            "assists": 10,
+            "blocks": 1,
+            "comment": null,
+            "defReb": 5,
+            "fga": 11,
+            "fgm": 4,
+            "fgp": "36.4",
+            "fta": 6,
+            "ftm": 6,
+            "ftp": "100.0",
+            "game": {
+                "id": 13570
+            },
+            "min": "32",
+            "offReb": 1,
+            "pFouls": 5,
+            "player": {
+                "firstname": "Kelly",
+                "id": 404,
+                "lastname": "Olynyk"
+            },
+            "plusMinus": "+3",
+            "points": 14,
+            "pos": "PF",
+            "steals": 2,
+            "team": {
+                "code": "TOR",
+                "id": 38,
+                "logo": "https://upload.wikimedia.org/wikipedia/fr/8/89/Raptors2015.png",
+                "name": "Toronto Raptors",
+                "nickname": "Raptors"
+            },
+            "totReb": 6,
+            "tpa": 1,
+            "tpm": 0,
+            "tpp": "0",
+            "turnovers": 3
+        },
+        {
+            "assists": 2,
+            "blocks": 0,
+            "comment": null,
+            "defReb": 3,
+            "fga": 26,
+            "fgm": 10,
+            "fgp": "38.5",
+            "fta": 10,
+            "ftm": 10,
+            "ftp": "100.0",
+            "game": {
+                "id": 13570
+            },
+            "min": "34",
+            "offReb": 1,
+            "pFouls": 2,
+            "player": {
+                "firstname": "Gary",
+                "id": 1058,
+                "lastname": "Trent Jr."
+            },
+            "plusMinus": "+5",
+            "points": 31,
+            "pos": "SG",
+            "steals": 3,
+            "team": {
+                "code": "TOR",
+                "id": 38,
+                "logo": "https://upload.wikimedia.org/wikipedia/fr/8/89/Raptors2015.png",
+                "name": "Toronto Raptors",
+                "nickname": "Raptors"
+            },
+            "totReb": 4,
+            "tpa": 7,
+            "tpm": 1,
+            "tpp": "14.3",
+            "turnovers": 0
+        },
+        {
+            "assists": 1,
+            "blocks": 0,
+            "comment": null,
+            "defReb": 4,
+            "fga": 5,
+            "fgm": 3,
+            "fgp": "60.0",
+            "fta": 0,
+            "ftm": 0,
+            "ftp": "0",
+            "game": {
+                "id": 13570
+            },
+            "min": "18",
+            "offReb": 0,
+            "pFouls": 2,
+            "player": {
+                "firstname": "Jahmi'us",
+                "id": 2637,
+                "lastname": "Ramsey"
+            },
+            "plusMinus": "+9",
+            "points": 8,
+            "pos": "SG",
+            "steals": 0,
+            "team": {
+                "code": "TOR",
+                "id": 38,
+                "logo": "https://upload.wikimedia.org/wikipedia/fr/8/89/Raptors2015.png",
+                "name": "Toronto Raptors",
+                "nickname": "Raptors"
+            },
+            "totReb": 4,
+            "tpa": 4,
+            "tpm": 2,
+            "tpp": "50.0",
+            "turnovers": 0
+        },
+        {
+            "assists": 2,
+            "blocks": 2,
+            "comment": null,
+            "defReb": 4,
+            "fga": 12,
+            "fgm": 6,
+            "fgp": "50.0",
+            "fta": 3,
+            "ftm": 0,
+            "ftp": "0",
+            "game": {
+                "id": 13570
+            },
+            "min": "32",
+            "offReb": 5,
+            "pFouls": 0,
+            "player": {
+                "firstname": "Ochai",
+                "id": 3411,
+                "lastname": "Agbaji"
+            },
+            "plusMinus": "-2",
+            "points": 12,
+            "pos": "G",
+            "steals": 1,
+            "team": {
+                "code": "TOR",
+                "id": 38,
+                "logo": "https://upload.wikimedia.org/wikipedia/fr/8/89/Raptors2015.png",
+                "name": "Toronto Raptors",
+                "nickname": "Raptors"
+            },
+            "totReb": 9,
+            "tpa": 5,
+            "tpm": 0,
+            "tpp": "0",
+            "turnovers": 1
+        },
+        {
+            "assists": 2,
+            "blocks": 1,
+            "comment": null,
+            "defReb": 2,
+            "fga": 13,
+            "fgm": 6,
+            "fgp": "46.2",
+            "fta": 2,
+            "ftm": 2,
+            "ftp": "100.0",
+            "game": {
+                "id": 13570
+            },
+            "min": "34",
+            "offReb": 0,
+            "pFouls": 3,
+            "player": {
+                "firstname": "Gradey",
+                "id": 4027,
+                "lastname": "Dick"
+            },
+            "plusMinus": "-7",
+            "points": 17,
+            "pos": "G",
+            "steals": 0,
+            "team": {
+                "code": "TOR",
+                "id": 38,
+                "logo": "https://upload.wikimedia.org/wikipedia/fr/8/89/Raptors2015.png",
+                "name": "Toronto Raptors",
+                "nickname": "Raptors"
+            },
+            "totReb": 2,
+            "tpa": 8,
+            "tpm": 3,
+            "tpp": "37.5",
+            "turnovers": 0
+        },
+        {
+            "assists": 0,
+            "blocks": 1,
+            "comment": null,
+            "defReb": 0,
+            "fga": 1,
+            "fgm": 1,
+            "fgp": "100.0",
+            "fta": 0,
+            "ftm": 0,
+            "ftp": "0",
+            "game": {
+                "id": 13570
+            },
+            "min": "7",
+            "offReb": 0,
+            "pFouls": 1,
+            "player": {
+                "firstname": "Mouhamadou",
+                "id": 3445,
+                "lastname": "Gueye"
+            },
+            "plusMinus": "-9",
+            "points": 2,
+            "pos": "F",
+            "steals": 0,
+            "team": {
+                "code": "TOR",
+                "id": 38,
+                "logo": "https://upload.wikimedia.org/wikipedia/fr/8/89/Raptors2015.png",
+                "name": "Toronto Raptors",
+                "nickname": "Raptors"
+            },
+            "totReb": 0,
+            "tpa": 0,
+            "tpm": 0,
+            "tpp": "0",
+            "turnovers": 0
+        },
+        {
+            "assists": 2,
+            "blocks": 1,
+            "comment": null,
+            "defReb": 5,
+            "fga": 2,
+            "fgm": 1,
+            "fgp": "50.0",
+            "fta": 0,
+            "ftm": 0,
+            "ftp": "0",
+            "game": {
+                "id": 13570
+            },
+            "min": "11",
+            "offReb": 0,
+            "pFouls": 3,
+            "player": {
+                "firstname": "Garrett",
+                "id": 507,
+                "lastname": "Temple"
+            },
+            "plusMinus": "0",
+            "points": 3,
+            "pos": "SF",
+            "steals": 0,
+            "team": {
+                "code": "TOR",
+                "id": 38,
+                "logo": "https://upload.wikimedia.org/wikipedia/fr/8/89/Raptors2015.png",
+                "name": "Toronto Raptors",
+                "nickname": "Raptors"
+            },
+            "totReb": 5,
+            "tpa": 2,
+            "tpm": 1,
+            "tpp": "50.0",
+            "turnovers": 0
+        },
+        {
+            "assists": 3,
+            "blocks": 0,
+            "comment": null,
+            "defReb": 1,
+            "fga": 13,
+            "fgm": 5,
+            "fgp": "38.5",
+            "fta": 3,
+            "ftm": 1,
+            "ftp": "33.3",
+            "game": {
+                "id": 13570
+            },
+            "min": "33",
+            "offReb": 5,
+            "pFouls": 1,
+            "player": {
+                "firstname": "Bruce",
+                "id": 944,
+                "lastname": "Brown"
+            },
+            "plusMinus": "-6",
+            "points": 11,
+            "pos": "SF",
+            "steals": 1,
+            "team": {
+                "code": "TOR",
+                "id": 38,
+                "logo": "https://upload.wikimedia.org/wikipedia/fr/8/89/Raptors2015.png",
+                "name": "Toronto Raptors",
+                "nickname": "Raptors"
+            },
+            "totReb": 6,
+            "tpa": 1,
+            "tpm": 0,
+            "tpp": "0",
+            "turnovers": 3
+        },
+        {
+            "assists": 1,
+            "blocks": 1,
+            "comment": null,
+            "defReb": 2,
+            "fga": 6,
+            "fgm": 3,
+            "fgp": "50.0",
+            "fta": 0,
+            "ftm": 0,
+            "ftp": "0",
+            "game": {
+                "id": 13570
+            },
+            "min": "16",
+            "offReb": 0,
+            "pFouls": 2,
+            "player": {
+                "firstname": "Jordan",
+                "id": 2628,
+                "lastname": "Nwora"
+            },
+            "plusMinus": "-1",
+            "points": 7,
+            "pos": "SF",
+            "steals": 0,
+            "team": {
+                "code": "TOR",
+                "id": 38,
+                "logo": "https://upload.wikimedia.org/wikipedia/fr/8/89/Raptors2015.png",
+                "name": "Toronto Raptors",
+                "nickname": "Raptors"
+            },
+            "totReb": 2,
+            "tpa": 3,
+            "tpm": 1,
+            "tpp": "33.3",
+            "turnovers": 2
+        },
+        {
+            "assists": 4,
+            "blocks": 0,
+            "comment": null,
+            "defReb": 3,
+            "fga": 5,
+            "fgm": 1,
+            "fgp": "20.0",
+            "fta": 2,
+            "ftm": 2,
+            "ftp": "100.0",
+            "game": {
+                "id": 13570
+            },
+            "min": "23",
+            "offReb": 1,
+            "pFouls": 1,
+            "player": {
+                "firstname": "Javon",
+                "id": 3440,
+                "lastname": "Freeman-Liberty"
+            },
+            "plusMinus": "-7",
+            "points": 4,
+            "pos": "G",
+            "steals": 2,
+            "team": {
+                "code": "TOR",
+                "id": 38,
+                "logo": "https://upload.wikimedia.org/wikipedia/fr/8/89/Raptors2015.png",
+                "name": "Toronto Raptors",
+                "nickname": "Raptors"
+            },
+            "totReb": 4,
+            "tpa": 2,
+            "tpm": 0,
+            "tpp": "0",
+            "turnovers": 3
+        },
+        {
+            "assists": 9,
+            "blocks": 1,
+            "comment": null,
+            "defReb": 2,
+            "fga": 9,
+            "fgm": 4,
+            "fgp": "44.4",
+            "fta": 2,
+            "ftm": 2,
+            "ftp": "100.0",
+            "game": {
+                "id": 13584
+            },
+            "min": "30",
+            "offReb": 2,
+            "pFouls": 3,
+            "player": {
+                "firstname": "Kelly",
+                "id": 404,
+                "lastname": "Olynyk"
+            },
+            "plusMinus": "-9",
+            "points": 10,
+            "pos": "PF",
+            "steals": 1,
+            "team": {
+                "code": "TOR",
+                "id": 38,
+                "logo": "https://upload.wikimedia.org/wikipedia/fr/8/89/Raptors2015.png",
+                "name": "Toronto Raptors",
+                "nickname": "Raptors"
+            },
+            "totReb": 4,
+            "tpa": 3,
+            "tpm": 0,
+            "tpp": "0",
+            "turnovers": 4
+        },
+        {
+            "assists": 2,
+            "blocks": 0,
+            "comment": null,
+            "defReb": 2,
+            "fga": 17,
+            "fgm": 7,
+            "fgp": "41.2",
+            "fta": 2,
+            "ftm": 2,
+            "ftp": "100.0",
+            "game": {
+                "id": 13584
+            },
+            "min": "30",
+            "offReb": 0,
+            "pFouls": 2,
+            "player": {
+                "firstname": "Gary",
+                "id": 1058,
+                "lastname": "Trent Jr."
+            },
+            "plusMinus": "-9",
+            "points": 18,
+            "pos": "SG",
+            "steals": 0,
+            "team": {
+                "code": "TOR",
+                "id": 38,
+                "logo": "https://upload.wikimedia.org/wikipedia/fr/8/89/Raptors2015.png",
+                "name": "Toronto Raptors",
+                "nickname": "Raptors"
+            },
+            "totReb": 2,
+            "tpa": 7,
+            "tpm": 2,
+            "tpp": "28.6",
+            "turnovers": 0
+        },
+        {
+            "assists": 1,
+            "blocks": 1,
+            "comment": null,
+            "defReb": 2,
+            "fga": 11,
+            "fgm": 5,
+            "fgp": "45.5",
+            "fta": 0,
+            "ftm": 0,
+            "ftp": "0",
+            "game": {
+                "id": 13584
+            },
+            "min": "31",
+            "offReb": 3,
+            "pFouls": 1,
+            "player": {
+                "firstname": "Ochai",
+                "id": 3411,
+                "lastname": "Agbaji"
+            },
+            "plusMinus": "-10",
+            "points": 11,
+            "pos": "G",
+            "steals": 1,
+            "team": {
+                "code": "TOR",
+                "id": 38,
+                "logo": "https://upload.wikimedia.org/wikipedia/fr/8/89/Raptors2015.png",
+                "name": "Toronto Raptors",
+                "nickname": "Raptors"
+            },
+            "totReb": 5,
+            "tpa": 2,
+            "tpm": 1,
+            "tpp": "50.0",
+            "turnovers": 0
+        },
+        {
+            "assists": 2,
+            "blocks": 0,
+            "comment": null,
+            "defReb": 3,
+            "fga": 12,
+            "fgm": 7,
+            "fgp": "58.3",
+            "fta": 2,
+            "ftm": 1,
+            "ftp": "50.0",
+            "game": {
+                "id": 13584
+            },
+            "min": "29",
+            "offReb": 1,
+            "pFouls": 2,
+            "player": {
+                "firstname": "Javon",
+                "id": 3440,
+                "lastname": "Freeman-Liberty"
+            },
+            "plusMinus": "-9",
+            "points": 15,
+            "pos": "G",
+            "steals": 1,
+            "team": {
+                "code": "TOR",
+                "id": 38,
+                "logo": "https://upload.wikimedia.org/wikipedia/fr/8/89/Raptors2015.png",
+                "name": "Toronto Raptors",
+                "nickname": "Raptors"
+            },
+            "totReb": 4,
+            "tpa": 2,
+            "tpm": 0,
+            "tpp": "0",
+            "turnovers": 0
+        },
+        {
+            "assists": 2,
+            "blocks": 0,
+            "comment": null,
+            "defReb": 3,
+            "fga": 11,
+            "fgm": 3,
+            "fgp": "27.3",
+            "fta": 2,
+            "ftm": 2,
+            "ftp": "100.0",
+            "game": {
+                "id": 13584
+            },
+            "min": "33",
+            "offReb": 0,
+            "pFouls": 2,
+            "player": {
+                "firstname": "Gradey",
+                "id": 4027,
+                "lastname": "Dick"
+            },
+            "plusMinus": "+6",
+            "points": 8,
+            "pos": "G",
+            "steals": 1,
+            "team": {
+                "code": "TOR",
+                "id": 38,
+                "logo": "https://upload.wikimedia.org/wikipedia/fr/8/89/Raptors2015.png",
+                "name": "Toronto Raptors",
+                "nickname": "Raptors"
+            },
+            "totReb": 3,
+            "tpa": 5,
+            "tpm": 0,
+            "tpp": "0",
+            "turnovers": 2
+        },
+        {
+            "assists": 0,
+            "blocks": 0,
+            "comment": null,
+            "defReb": 0,
+            "fga": 3,
+            "fgm": 1,
+            "fgp": "33.3",
+            "fta": 0,
+            "ftm": 0,
+            "ftp": "0",
+            "game": {
+                "id": 13584
+            },
+            "min": "12",
+            "offReb": 1,
+            "pFouls": 0,
+            "player": {
+                "firstname": "Mouhamadou",
+                "id": 3445,
+                "lastname": "Gueye"
+            },
+            "plusMinus": "-8",
+            "points": 2,
+            "pos": "F",
+            "steals": 0,
+            "team": {
+                "code": "TOR",
+                "id": 38,
+                "logo": "https://upload.wikimedia.org/wikipedia/fr/8/89/Raptors2015.png",
+                "name": "Toronto Raptors",
+                "nickname": "Raptors"
+            },
+            "totReb": 1,
+            "tpa": 1,
+            "tpm": 0,
+            "tpp": "0",
+            "turnovers": 0
+        },
+        {
+            "assists": 4,
+            "blocks": 0,
+            "comment": null,
+            "defReb": 3,
+            "fga": 2,
+            "fgm": 1,
+            "fgp": "50.0",
+            "fta": 0,
+            "ftm": 0,
+            "ftp": "0",
+            "game": {
+                "id": 13584
+            },
+            "min": "16",
+            "offReb": 0,
+            "pFouls": 1,
+            "player": {
+                "firstname": "Garrett",
+                "id": 507,
+                "lastname": "Temple"
+            },
+            "plusMinus": "+4",
+            "points": 2,
+            "pos": "SF",
+            "steals": 1,
+            "team": {
+                "code": "TOR",
+                "id": 38,
+                "logo": "https://upload.wikimedia.org/wikipedia/fr/8/89/Raptors2015.png",
+                "name": "Toronto Raptors",
+                "nickname": "Raptors"
+            },
+            "totReb": 3,
+            "tpa": 1,
+            "tpm": 0,
+            "tpp": "0",
+            "turnovers": 0
+        },
+        {
+            "assists": 1,
+            "blocks": 0,
+            "comment": null,
+            "defReb": 2,
+            "fga": 7,
+            "fgm": 4,
+            "fgp": "57.1",
+            "fta": 2,
+            "ftm": 1,
+            "ftp": "50.0",
+            "game": {
+                "id": 13584
+            },
+            "min": "22",
+            "offReb": 0,
+            "pFouls": 2,
+            "player": {
+                "firstname": "Bruce",
+                "id": 944,
+                "lastname": "Brown"
+            },
+            "plusMinus": "-5",
+            "points": 10,
+            "pos": "SF",
+            "steals": 1,
+            "team": {
+                "code": "TOR",
+                "id": 38,
+                "logo": "https://upload.wikimedia.org/wikipedia/fr/8/89/Raptors2015.png",
+                "name": "Toronto Raptors",
+                "nickname": "Raptors"
+            },
+            "totReb": 2,
+            "tpa": 1,
+            "tpm": 1,
+            "tpp": "100.0",
+            "turnovers": 2
+        },
+        {
+            "assists": 2,
+            "blocks": 0,
+            "comment": null,
+            "defReb": 4,
+            "fga": 7,
+            "fgm": 2,
+            "fgp": "28.6",
+            "fta": 2,
+            "ftm": 1,
+            "ftp": "50.0",
+            "game": {
+                "id": 13584
+            },
+            "min": "20",
+            "offReb": 0,
+            "pFouls": 1,
+            "player": {
+                "firstname": "Jordan",
+                "id": 2628,
+                "lastname": "Nwora"
+            },
+            "plusMinus": "-1",
+            "points": 5,
+            "pos": "SF",
+            "steals": 2,
+            "team": {
+                "code": "TOR",
+                "id": 38,
+                "logo": "https://upload.wikimedia.org/wikipedia/fr/8/89/Raptors2015.png",
+                "name": "Toronto Raptors",
+                "nickname": "Raptors"
+            },
+            "totReb": 4,
+            "tpa": 3,
+            "tpm": 0,
+            "tpp": "0",
+            "turnovers": 1
+        },
+        {
+            "assists": 0,
+            "blocks": 0,
+            "comment": null,
+            "defReb": 1,
+            "fga": 6,
+            "fgm": 3,
+            "fgp": "50.0",
+            "fta": 0,
+            "ftm": 0,
+            "ftp": "0",
+            "game": {
+                "id": 13584
+            },
+            "min": "17",
+            "offReb": 1,
+            "pFouls": 1,
+            "player": {
+                "firstname": "Kobi",
+                "id": 873,
+                "lastname": "Simmons"
+            },
+            "plusMinus": "+1",
+            "points": 7,
+            "pos": "G",
+            "steals": 2,
+            "team": {
+                "code": "TOR",
+                "id": 38,
+                "logo": "https://upload.wikimedia.org/wikipedia/fr/8/89/Raptors2015.png",
+                "name": "Toronto Raptors",
+                "nickname": "Raptors"
+            },
+            "totReb": 2,
+            "tpa": 2,
+            "tpm": 1,
+            "tpp": "50.0",
+            "turnovers": 1
+        },
+        {
+            "assists": 8,
+            "blocks": 0,
+            "comment": null,
+            "defReb": 5,
+            "fga": 9,
+            "fgm": 5,
+            "fgp": "55.6",
+            "fta": 2,
+            "ftm": 2,
+            "ftp": "100.0",
+            "game": {
+                "id": 13601
+            },
+            "min": "27",
+            "offReb": 2,
+            "pFouls": 4,
+            "player": {
+                "firstname": "Kelly",
+                "id": 404,
+                "lastname": "Olynyk"
+            },
+            "plusMinus": "-20",
+            "points": 13,
+            "pos": "PF",
+            "steals": 0,
+            "team": {
+                "code": "TOR",
+                "id": 38,
+                "logo": "https://upload.wikimedia.org/wikipedia/fr/8/89/Raptors2015.png",
+                "name": "Toronto Raptors",
+                "nickname": "Raptors"
+            },
+            "totReb": 7,
+            "tpa": 4,
+            "tpm": 1,
+            "tpp": "25.0",
+            "turnovers": 3
+        },
+        {
+            "assists": 6,
+            "blocks": 0,
+            "comment": null,
+            "defReb": 2,
+            "fga": 11,
+            "fgm": 6,
+            "fgp": "54.5",
+            "fta": 6,
+            "ftm": 5,
+            "ftp": "83.3",
+            "game": {
+                "id": 13601
+            },
+            "min": "31",
+            "offReb": 0,
+            "pFouls": 0,
+            "player": {
+                "firstname": "Gary",
+                "id": 1058,
+                "lastname": "Trent Jr."
+            },
+            "plusMinus": "-32",
+            "points": 18,
+            "pos": "SG",
+            "steals": 0,
+            "team": {
+                "code": "TOR",
+                "id": 38,
+                "logo": "https://upload.wikimedia.org/wikipedia/fr/8/89/Raptors2015.png",
+                "name": "Toronto Raptors",
+                "nickname": "Raptors"
+            },
+            "totReb": 2,
+            "tpa": 2,
+            "tpm": 1,
+            "tpp": "50.0",
+            "turnovers": 1
+        },
+        {
+            "assists": 1,
+            "blocks": 0,
+            "comment": null,
+            "defReb": 0,
+            "fga": 1,
+            "fgm": 0,
+            "fgp": "0",
+            "fta": 0,
+            "ftm": 0,
+            "ftp": "0",
+            "game": {
+                "id": 13601
+            },
+            "min": "5",
+            "offReb": 1,
+            "pFouls": 0,
+            "player": {
+                "firstname": "Ochai",
+                "id": 3411,
+                "lastname": "Agbaji"
+            },
+            "plusMinus": "-8",
+            "points": 0,
+            "pos": "G",
+            "steals": 0,
+            "team": {
+                "code": "TOR",
+                "id": 38,
+                "logo": "https://upload.wikimedia.org/wikipedia/fr/8/89/Raptors2015.png",
+                "name": "Toronto Raptors",
+                "nickname": "Raptors"
+            },
+            "totReb": 1,
+            "tpa": 0,
+            "tpm": 0,
+            "tpp": "0",
+            "turnovers": 1
+        },
+        {
+            "assists": 3,
+            "blocks": 0,
+            "comment": null,
+            "defReb": 3,
+            "fga": 9,
+            "fgm": 5,
+            "fgp": "55.6",
+            "fta": 3,
+            "ftm": 3,
+            "ftp": "100.0",
+            "game": {
+                "id": 13601
+            },
+            "min": "28",
+            "offReb": 2,
+            "pFouls": 2,
+            "player": {
+                "firstname": "Javon",
+                "id": 3440,
+                "lastname": "Freeman-Liberty"
+            },
+            "plusMinus": "-19",
+            "points": 14,
+            "pos": "G",
+            "steals": 0,
+            "team": {
+                "code": "TOR",
+                "id": 38,
+                "logo": "https://upload.wikimedia.org/wikipedia/fr/8/89/Raptors2015.png",
+                "name": "Toronto Raptors",
+                "nickname": "Raptors"
+            },
+            "totReb": 5,
+            "tpa": 4,
+            "tpm": 1,
+            "tpp": "25.0",
+            "turnovers": 3
+        },
+        {
+            "assists": 0,
+            "blocks": 0,
+            "comment": null,
+            "defReb": 0,
+            "fga": 18,
+            "fgm": 10,
+            "fgp": "55.6",
+            "fta": 0,
+            "ftm": 0,
+            "ftp": "0",
+            "game": {
+                "id": 13601
+            },
+            "min": "30",
+            "offReb": 1,
+            "pFouls": 1,
+            "player": {
+                "firstname": "Gradey",
+                "id": 4027,
+                "lastname": "Dick"
+            },
+            "plusMinus": "-26",
+            "points": 23,
+            "pos": "G",
+            "steals": 0,
+            "team": {
+                "code": "TOR",
+                "id": 38,
+                "logo": "https://upload.wikimedia.org/wikipedia/fr/8/89/Raptors2015.png",
+                "name": "Toronto Raptors",
+                "nickname": "Raptors"
+            },
+            "totReb": 1,
+            "tpa": 6,
+            "tpm": 3,
+            "tpp": "50.0",
+            "turnovers": 0
+        },
+        {
+            "assists": 0,
+            "blocks": 1,
+            "comment": null,
+            "defReb": 0,
+            "fga": 7,
+            "fgm": 2,
+            "fgp": "28.6",
+            "fta": 0,
+            "ftm": 0,
+            "ftp": "0",
+            "game": {
+                "id": 13601
+            },
+            "min": "16",
+            "offReb": 0,
+            "pFouls": 3,
+            "player": {
+                "firstname": "Jalen",
+                "id": 1880,
+                "lastname": "McDaniels"
+            },
+            "plusMinus": "-27",
+            "points": 4,
+            "pos": "PF",
+            "steals": 0,
+            "team": {
+                "code": "TOR",
+                "id": 38,
+                "logo": "https://upload.wikimedia.org/wikipedia/fr/8/89/Raptors2015.png",
+                "name": "Toronto Raptors",
+                "nickname": "Raptors"
+            },
+            "totReb": 0,
+            "tpa": 2,
+            "tpm": 0,
+            "tpp": "0",
+            "turnovers": 3
+        },
+        {
+            "assists": 1,
+            "blocks": 1,
+            "comment": null,
+            "defReb": 0,
+            "fga": 4,
+            "fgm": 1,
+            "fgp": "25.0",
+            "fta": 0,
+            "ftm": 0,
+            "ftp": "0",
+            "game": {
+                "id": 13601
+            },
+            "min": "11",
+            "offReb": 2,
+            "pFouls": 1,
+            "player": {
+                "firstname": "Mouhamadou",
+                "id": 3445,
+                "lastname": "Gueye"
+            },
+            "plusMinus": "-10",
+            "points": 2,
+            "pos": "F",
+            "steals": 0,
+            "team": {
+                "code": "TOR",
+                "id": 38,
+                "logo": "https://upload.wikimedia.org/wikipedia/fr/8/89/Raptors2015.png",
+                "name": "Toronto Raptors",
+                "nickname": "Raptors"
+            },
+            "totReb": 2,
+            "tpa": 0,
+            "tpm": 0,
+            "tpp": "0",
+            "turnovers": 2
+        },
+        {
+            "assists": 2,
+            "blocks": 0,
+            "comment": null,
+            "defReb": 3,
+            "fga": 10,
+            "fgm": 5,
+            "fgp": "50.0",
+            "fta": 2,
+            "ftm": 2,
+            "ftp": "100.0",
+            "game": {
+                "id": 13601
+            },
+            "min": "27",
+            "offReb": 3,
+            "pFouls": 2,
+            "player": {
+                "firstname": "Garrett",
+                "id": 507,
+                "lastname": "Temple"
+            },
+            "plusMinus": "-14",
+            "points": 15,
+            "pos": "SF",
+            "steals": 2,
+            "team": {
+                "code": "TOR",
+                "id": 38,
+                "logo": "https://upload.wikimedia.org/wikipedia/fr/8/89/Raptors2015.png",
+                "name": "Toronto Raptors",
+                "nickname": "Raptors"
+            },
+            "totReb": 6,
+            "tpa": 6,
+            "tpm": 3,
+            "tpp": "50.0",
+            "turnovers": 1
+        },
+        {
+            "assists": 1,
+            "blocks": 0,
+            "comment": null,
+            "defReb": 0,
+            "fga": 3,
+            "fgm": 1,
+            "fgp": "33.3",
+            "fta": 0,
+            "ftm": 0,
+            "ftp": "0",
+            "game": {
+                "id": 13601
+            },
+            "min": "20",
+            "offReb": 0,
+            "pFouls": 1,
+            "player": {
+                "firstname": "Bruce",
+                "id": 944,
+                "lastname": "Brown"
+            },
+            "plusMinus": "-19",
+            "points": 3,
+            "pos": "SF",
+            "steals": 0,
+            "team": {
+                "code": "TOR",
+                "id": 38,
+                "logo": "https://upload.wikimedia.org/wikipedia/fr/8/89/Raptors2015.png",
+                "name": "Toronto Raptors",
+                "nickname": "Raptors"
+            },
+            "totReb": 0,
+            "tpa": 2,
+            "tpm": 1,
+            "tpp": "50.0",
+            "turnovers": 2
+        },
+        {
+            "assists": 3,
+            "blocks": 1,
+            "comment": null,
+            "defReb": 3,
+            "fga": 6,
+            "fgm": 3,
+            "fgp": "50.0",
+            "fta": 0,
+            "ftm": 0,
+            "ftp": "0",
+            "game": {
+                "id": 13601
+            },
+            "min": "19",
+            "offReb": 0,
+            "pFouls": 0,
+            "player": {
+                "firstname": "Jordan",
+                "id": 2628,
+                "lastname": "Nwora"
+            },
+            "plusMinus": "-20",
+            "points": 7,
+            "pos": "SF",
+            "steals": 2,
+            "team": {
+                "code": "TOR",
+                "id": 38,
+                "logo": "https://upload.wikimedia.org/wikipedia/fr/8/89/Raptors2015.png",
+                "name": "Toronto Raptors",
+                "nickname": "Raptors"
+            },
+            "totReb": 3,
+            "tpa": 2,
+            "tpm": 1,
+            "tpp": "50.0",
+            "turnovers": 2
+        },
+        {
+            "assists": 6,
+            "blocks": 1,
+            "comment": null,
+            "defReb": 1,
+            "fga": 6,
+            "fgm": 1,
+            "fgp": "16.7",
+            "fta": 0,
+            "ftm": 0,
+            "ftp": "0",
+            "game": {
+                "id": 13601
+            },
+            "min": "24",
+            "offReb": 0,
+            "pFouls": 3,
+            "player": {
+                "firstname": "Kobi",
+                "id": 873,
+                "lastname": "Simmons"
+            },
+            "plusMinus": "-25",
+            "points": 2,
+            "pos": "G",
+            "steals": 3,
+            "team": {
+                "code": "TOR",
+                "id": 38,
+                "logo": "https://upload.wikimedia.org/wikipedia/fr/8/89/Raptors2015.png",
+                "name": "Toronto Raptors",
+                "nickname": "Raptors"
+            },
+            "totReb": 1,
+            "tpa": 3,
+            "tpm": 0,
+            "tpp": "0",
+            "turnovers": 0
+        },
+        {
+            "assists": 11,
+            "blocks": 0,
+            "comment": null,
+            "defReb": 3,
+            "fga": 8,
+            "fgm": 7,
+            "fgp": "87.5",
+            "fta": 4,
+            "ftm": 3,
+            "ftp": "75.0",
+            "game": {
+                "id": 13628
+            },
+            "min": "32",
+            "offReb": 2,
+            "pFouls": 3,
+            "player": {
+                "firstname": "Kelly",
+                "id": 404,
+                "lastname": "Olynyk"
+            },
+            "plusMinus": "-2",
+            "points": 18,
+            "pos": "PF",
+            "steals": 3,
+            "team": {
+                "code": "TOR",
+                "id": 38,
+                "logo": "https://upload.wikimedia.org/wikipedia/fr/8/89/Raptors2015.png",
+                "name": "Toronto Raptors",
+                "nickname": "Raptors"
+            },
+            "totReb": 5,
+            "tpa": 2,
+            "tpm": 1,
+            "tpp": "50.0",
+            "turnovers": 5
+        },
+        {
+            "assists": 6,
+            "blocks": 0,
+            "comment": null,
+            "defReb": 3,
+            "fga": 9,
+            "fgm": 7,
+            "fgp": "77.8",
+            "fta": 2,
+            "ftm": 1,
+            "ftp": "50.0",
+            "game": {
+                "id": 13628
+            },
+            "min": "34",
+            "offReb": 1,
+            "pFouls": 4,
+            "player": {
+                "firstname": "Bruce",
+                "id": 944,
+                "lastname": "Brown"
+            },
+            "plusMinus": "-13",
+            "points": 18,
+            "pos": "SF",
+            "steals": 2,
+            "team": {
+                "code": "TOR",
+                "id": 38,
+                "logo": "https://upload.wikimedia.org/wikipedia/fr/8/89/Raptors2015.png",
+                "name": "Toronto Raptors",
+                "nickname": "Raptors"
+            },
+            "totReb": 4,
+            "tpa": 4,
+            "tpm": 3,
+            "tpp": "75.0",
+            "turnovers": 2
+        },
+        {
+            "assists": 2,
+            "blocks": 0,
+            "comment": null,
+            "defReb": 2,
+            "fga": 20,
+            "fgm": 10,
+            "fgp": "50.0",
+            "fta": 0,
+            "ftm": 0,
+            "ftp": "0",
+            "game": {
+                "id": 13628
+            },
+            "min": "32",
+            "offReb": 0,
+            "pFouls": 1,
+            "player": {
+                "firstname": "Gary",
+                "id": 1058,
+                "lastname": "Trent Jr."
+            },
+            "plusMinus": "-10",
+            "points": 23,
+            "pos": "SG",
+            "steals": 2,
+            "team": {
+                "code": "TOR",
+                "id": 38,
+                "logo": "https://upload.wikimedia.org/wikipedia/fr/8/89/Raptors2015.png",
+                "name": "Toronto Raptors",
+                "nickname": "Raptors"
+            },
+            "totReb": 2,
+            "tpa": 9,
+            "tpm": 3,
+            "tpp": "33.3",
+            "turnovers": 1
+        },
+        {
+            "assists": 2,
+            "blocks": 0,
+            "comment": null,
+            "defReb": 6,
+            "fga": 11,
+            "fgm": 4,
+            "fgp": "36.4",
+            "fta": 2,
+            "ftm": 2,
+            "ftp": "100.0",
+            "game": {
+                "id": 13628
+            },
+            "min": "31",
+            "offReb": 1,
+            "pFouls": 2,
+            "player": {
+                "firstname": "Javon",
+                "id": 3440,
+                "lastname": "Freeman-Liberty"
+            },
+            "plusMinus": "-7",
+            "points": 11,
+            "pos": "G",
+            "steals": 1,
+            "team": {
+                "code": "TOR",
+                "id": 38,
+                "logo": "https://upload.wikimedia.org/wikipedia/fr/8/89/Raptors2015.png",
+                "name": "Toronto Raptors",
+                "nickname": "Raptors"
+            },
+            "totReb": 7,
+            "tpa": 3,
+            "tpm": 1,
+            "tpp": "33.3",
+            "turnovers": 1
+        },
+        {
+            "assists": 2,
+            "blocks": 0,
+            "comment": null,
+            "defReb": 0,
+            "fga": 8,
+            "fgm": 3,
+            "fgp": "37.5",
+            "fta": 7,
+            "ftm": 5,
+            "ftp": "71.4",
+            "game": {
+                "id": 13628
+            },
+            "min": "31",
+            "offReb": 0,
+            "pFouls": 2,
+            "player": {
+                "firstname": "Gradey",
+                "id": 4027,
+                "lastname": "Dick"
+            },
+            "plusMinus": "-14",
+            "points": 12,
+            "pos": "G",
+            "steals": 1,
+            "team": {
+                "code": "TOR",
+                "id": 38,
+                "logo": "https://upload.wikimedia.org/wikipedia/fr/8/89/Raptors2015.png",
+                "name": "Toronto Raptors",
+                "nickname": "Raptors"
+            },
+            "totReb": 0,
+            "tpa": 3,
+            "tpm": 1,
+            "tpp": "33.3",
+            "turnovers": 2
+        },
+        {
+            "assists": 1,
+            "blocks": 0,
+            "comment": null,
+            "defReb": 4,
+            "fga": 6,
+            "fgm": 3,
+            "fgp": "50.0",
+            "fta": 2,
+            "ftm": 2,
+            "ftp": "100.0",
+            "game": {
+                "id": 13628
+            },
+            "min": "18",
+            "offReb": 0,
+            "pFouls": 0,
+            "player": {
+                "firstname": "Jalen",
+                "id": 1880,
+                "lastname": "McDaniels"
+            },
+            "plusMinus": "-4",
+            "points": 8,
+            "pos": "PF",
+            "steals": 0,
+            "team": {
+                "code": "TOR",
+                "id": 38,
+                "logo": "https://upload.wikimedia.org/wikipedia/fr/8/89/Raptors2015.png",
+                "name": "Toronto Raptors",
+                "nickname": "Raptors"
+            },
+            "totReb": 4,
+            "tpa": 1,
+            "tpm": 0,
+            "tpp": "0",
+            "turnovers": 0
+        },
+        {
+            "assists": 1,
+            "blocks": 1,
+            "comment": null,
+            "defReb": 0,
+            "fga": 2,
+            "fgm": 1,
+            "fgp": "50.0",
+            "fta": 2,
+            "ftm": 1,
+            "ftp": "50.0",
+            "game": {
+                "id": 13628
+            },
+            "min": "7",
+            "offReb": 1,
+            "pFouls": 0,
+            "player": {
+                "firstname": "Mouhamadou",
+                "id": 3445,
+                "lastname": "Gueye"
+            },
+            "plusMinus": "-5",
+            "points": 3,
+            "pos": "F",
+            "steals": 0,
+            "team": {
+                "code": "TOR",
+                "id": 38,
+                "logo": "https://upload.wikimedia.org/wikipedia/fr/8/89/Raptors2015.png",
+                "name": "Toronto Raptors",
+                "nickname": "Raptors"
+            },
+            "totReb": 1,
+            "tpa": 0,
+            "tpm": 0,
+            "tpp": "0",
+            "turnovers": 0
+        },
+        {
+            "assists": 0,
+            "blocks": 0,
+            "comment": null,
+            "defReb": 2,
+            "fga": 2,
+            "fgm": 1,
+            "fgp": "50.0",
+            "fta": 0,
+            "ftm": 0,
+            "ftp": "0",
+            "game": {
+                "id": 13628
+            },
+            "min": "9",
+            "offReb": 0,
+            "pFouls": 2,
+            "player": {
+                "firstname": "Garrett",
+                "id": 507,
+                "lastname": "Temple"
+            },
+            "plusMinus": "-8",
+            "points": 2,
+            "pos": "SF",
+            "steals": 0,
+            "team": {
+                "code": "TOR",
+                "id": 38,
+                "logo": "https://upload.wikimedia.org/wikipedia/fr/8/89/Raptors2015.png",
+                "name": "Toronto Raptors",
+                "nickname": "Raptors"
+            },
+            "totReb": 2,
+            "tpa": 0,
+            "tpm": 0,
+            "tpp": "0",
+            "turnovers": 0
+        },
+        {
+            "assists": 3,
+            "blocks": 1,
+            "comment": null,
+            "defReb": 2,
+            "fga": 18,
+            "fgm": 8,
+            "fgp": "44.4",
+            "fta": 1,
+            "ftm": 1,
+            "ftp": "100.0",
+            "game": {
+                "id": 13628
+            },
+            "min": "30",
+            "offReb": 2,
+            "pFouls": 0,
+            "player": {
+                "firstname": "Jordan",
+                "id": 2628,
+                "lastname": "Nwora"
+            },
+            "plusMinus": "-4",
+            "points": 19,
+            "pos": "SF",
+            "steals": 0,
+            "team": {
+                "code": "TOR",
+                "id": 38,
+                "logo": "https://upload.wikimedia.org/wikipedia/fr/8/89/Raptors2015.png",
+                "name": "Toronto Raptors",
+                "nickname": "Raptors"
+            },
+            "totReb": 4,
+            "tpa": 7,
+            "tpm": 2,
+            "tpp": "28.6",
+            "turnovers": 1
+        },
+        {
+            "assists": 3,
+            "blocks": 0,
+            "comment": null,
+            "defReb": 1,
+            "fga": 6,
+            "fgm": 3,
+            "fgp": "50.0",
+            "fta": 0,
+            "ftm": 0,
+            "ftp": "0",
+            "game": {
+                "id": 13628
+            },
+            "min": "16",
+            "offReb": 0,
+            "pFouls": 0,
+            "player": {
+                "firstname": "Kobi",
+                "id": 873,
+                "lastname": "Simmons"
+            },
+            "plusMinus": "-8",
+            "points": 6,
+            "pos": "G",
+            "steals": 0,
+            "team": {
+                "code": "TOR",
+                "id": 38,
+                "logo": "https://upload.wikimedia.org/wikipedia/fr/8/89/Raptors2015.png",
+                "name": "Toronto Raptors",
+                "nickname": "Raptors"
+            },
+            "totReb": 1,
+            "tpa": 1,
+            "tpm": 0,
+            "tpp": "0",
+            "turnovers": 0
+        },
+        {
+            "assists": 4,
+            "blocks": 2,
+            "comment": null,
+            "defReb": 5,
+            "fga": 10,
+            "fgm": 6,
+            "fgp": "60.0",
+            "fta": 2,
+            "ftm": 2,
+            "ftp": "100.0",
+            "game": {
+                "id": 13642
+            },
+            "min": "27",
+            "offReb": 2,
+            "pFouls": 4,
+            "player": {
+                "firstname": "Kelly",
+                "id": 404,
+                "lastname": "Olynyk"
+            },
+            "plusMinus": "-18",
+            "points": 14,
+            "pos": "PF",
+            "steals": 1,
+            "team": {
+                "code": "TOR",
+                "id": 38,
+                "logo": "https://upload.wikimedia.org/wikipedia/fr/8/89/Raptors2015.png",
+                "name": "Toronto Raptors",
+                "nickname": "Raptors"
+            },
+            "totReb": 7,
+            "tpa": 2,
+            "tpm": 0,
+            "tpp": "0",
+            "turnovers": 1
+        },
+        {
+            "assists": 1,
+            "blocks": 0,
+            "comment": null,
+            "defReb": 5,
+            "fga": 6,
+            "fgm": 2,
+            "fgp": "33.3",
+            "fta": 1,
+            "ftm": 1,
+            "ftp": "100.0",
+            "game": {
+                "id": 13642
+            },
+            "min": "28",
+            "offReb": 1,
+            "pFouls": 3,
+            "player": {
+                "firstname": "Bruce",
+                "id": 944,
+                "lastname": "Brown"
+            },
+            "plusMinus": "-12",
+            "points": 5,
+            "pos": "SF",
+            "steals": 2,
+            "team": {
+                "code": "TOR",
+                "id": 38,
+                "logo": "https://upload.wikimedia.org/wikipedia/fr/8/89/Raptors2015.png",
+                "name": "Toronto Raptors",
+                "nickname": "Raptors"
+            },
+            "totReb": 6,
+            "tpa": 2,
+            "tpm": 0,
+            "tpp": "0",
+            "turnovers": 1
+        },
+        {
+            "assists": 6,
+            "blocks": 0,
+            "comment": null,
+            "defReb": 6,
+            "fga": 18,
+            "fgm": 11,
+            "fgp": "61.1",
+            "fta": 7,
+            "ftm": 4,
+            "ftp": "57.1",
+            "game": {
+                "id": 13642
+            },
+            "min": "26",
+            "offReb": 0,
+            "pFouls": 3,
+            "player": {
+                "firstname": "RJ",
+                "id": 1846,
+                "lastname": "Barrett"
+            },
+            "plusMinus": "-9",
+            "points": 28,
+            "pos": "SG",
+            "steals": 0,
+            "team": {
+                "code": "TOR",
+                "id": 38,
+                "logo": "https://upload.wikimedia.org/wikipedia/fr/8/89/Raptors2015.png",
+                "name": "Toronto Raptors",
+                "nickname": "Raptors"
+            },
+            "totReb": 6,
+            "tpa": 3,
+            "tpm": 2,
+            "tpp": "66.7",
+            "turnovers": 0
+        },
+        {
+            "assists": 6,
+            "blocks": 0,
+            "comment": null,
+            "defReb": 3,
+            "fga": 12,
+            "fgm": 7,
+            "fgp": "58.3",
+            "fta": 3,
+            "ftm": 3,
+            "ftp": "100.0",
+            "game": {
+                "id": 13642
+            },
+            "min": "27",
+            "offReb": 0,
+            "pFouls": 1,
+            "player": {
+                "firstname": "Immanuel",
+                "id": 2636,
+                "lastname": "Quickley"
+            },
+            "plusMinus": "-8",
+            "points": 20,
+            "pos": "SG",
+            "steals": 1,
+            "team": {
+                "code": "TOR",
+                "id": 38,
+                "logo": "https://upload.wikimedia.org/wikipedia/fr/8/89/Raptors2015.png",
+                "name": "Toronto Raptors",
+                "nickname": "Raptors"
+            },
+            "totReb": 3,
+            "tpa": 7,
+            "tpm": 3,
+            "tpp": "42.9",
+            "turnovers": 3
+        },
+        {
+            "assists": 0,
+            "blocks": 0,
+            "comment": null,
+            "defReb": 1,
+            "fga": 14,
+            "fgm": 6,
+            "fgp": "42.9",
+            "fta": 0,
+            "ftm": 0,
+            "ftp": "0",
+            "game": {
+                "id": 13642
+            },
+            "min": "32",
+            "offReb": 1,
+            "pFouls": 0,
+            "player": {
+                "firstname": "Gradey",
+                "id": 4027,
+                "lastname": "Dick"
+            },
+            "plusMinus": "-14",
+            "points": 14,
+            "pos": "G",
+            "steals": 0,
+            "team": {
+                "code": "TOR",
+                "id": 38,
+                "logo": "https://upload.wikimedia.org/wikipedia/fr/8/89/Raptors2015.png",
+                "name": "Toronto Raptors",
+                "nickname": "Raptors"
+            },
+            "totReb": 2,
+            "tpa": 5,
+            "tpm": 2,
+            "tpp": "40.0",
+            "turnovers": 0
+        },
+        {
+            "assists": 1,
+            "blocks": 0,
+            "comment": null,
+            "defReb": 0,
+            "fga": 0,
+            "fgm": 0,
+            "fgp": "0",
+            "fta": 2,
+            "ftm": 2,
+            "ftp": "100.0",
+            "game": {
+                "id": 13642
+            },
+            "min": "7",
+            "offReb": 0,
+            "pFouls": 0,
+            "player": {
+                "firstname": "Jalen",
+                "id": 1880,
+                "lastname": "McDaniels"
+            },
+            "plusMinus": "+12",
+            "points": 2,
+            "pos": "PF",
+            "steals": 0,
+            "team": {
+                "code": "TOR",
+                "id": 38,
+                "logo": "https://upload.wikimedia.org/wikipedia/fr/8/89/Raptors2015.png",
+                "name": "Toronto Raptors",
+                "nickname": "Raptors"
+            },
+            "totReb": 0,
+            "tpa": 0,
+            "tpm": 0,
+            "tpp": "0",
+            "turnovers": 0
+        },
+        {
+            "assists": 2,
+            "blocks": 3,
+            "comment": null,
+            "defReb": 2,
+            "fga": 7,
+            "fgm": 3,
+            "fgp": "42.9",
+            "fta": 0,
+            "ftm": 0,
+            "ftp": "0",
+            "game": {
+                "id": 13642
+            },
+            "min": "14",
+            "offReb": 0,
+            "pFouls": 2,
+            "player": {
+                "firstname": "Mouhamadou",
+                "id": 3445,
+                "lastname": "Gueye"
+            },
+            "plusMinus": "-3",
+            "points": 6,
+            "pos": "F",
+            "steals": 1,
+            "team": {
+                "code": "TOR",
+                "id": 38,
+                "logo": "https://upload.wikimedia.org/wikipedia/fr/8/89/Raptors2015.png",
+                "name": "Toronto Raptors",
+                "nickname": "Raptors"
+            },
+            "totReb": 2,
+            "tpa": 1,
+            "tpm": 0,
+            "tpp": "0",
+            "turnovers": 5
+        },
+        {
+            "assists": 0,
+            "blocks": 0,
+            "comment": null,
+            "defReb": 1,
+            "fga": 8,
+            "fgm": 2,
+            "fgp": "25.0",
+            "fta": 4,
+            "ftm": 2,
+            "ftp": "50.0",
+            "game": {
+                "id": 13642
+            },
+            "min": "28",
+            "offReb": 0,
+            "pFouls": 3,
+            "player": {
+                "firstname": "Garrett",
+                "id": 507,
+                "lastname": "Temple"
+            },
+            "plusMinus": "-5",
+            "points": 6,
+            "pos": "SF",
+            "steals": 2,
+            "team": {
+                "code": "TOR",
+                "id": 38,
+                "logo": "https://upload.wikimedia.org/wikipedia/fr/8/89/Raptors2015.png",
+                "name": "Toronto Raptors",
+                "nickname": "Raptors"
+            },
+            "totReb": 1,
+            "tpa": 5,
+            "tpm": 0,
+            "tpp": "0",
+            "turnovers": 2
+        },
+        {
+            "assists": 1,
+            "blocks": 0,
+            "comment": null,
+            "defReb": 5,
+            "fga": 6,
+            "fgm": 2,
+            "fgp": "33.3",
+            "fta": 0,
+            "ftm": 0,
+            "ftp": "0",
+            "game": {
+                "id": 13642
+            },
+            "min": "26",
+            "offReb": 0,
+            "pFouls": 0,
+            "player": {
+                "firstname": "Jordan",
+                "id": 2628,
+                "lastname": "Nwora"
+            },
+            "plusMinus": "-8",
+            "points": 6,
+            "pos": "SF",
+            "steals": 1,
+            "team": {
+                "code": "TOR",
+                "id": 38,
+                "logo": "https://upload.wikimedia.org/wikipedia/fr/8/89/Raptors2015.png",
+                "name": "Toronto Raptors",
+                "nickname": "Raptors"
+            },
+            "totReb": 5,
+            "tpa": 4,
+            "tpm": 2,
+            "tpp": "50.0",
+            "turnovers": 4
+        },
+        {
+            "assists": 3,
+            "blocks": 1,
+            "comment": null,
+            "defReb": 3,
+            "fga": 3,
+            "fgm": 2,
+            "fgp": "66.7",
+            "fta": 0,
+            "ftm": 0,
+            "ftp": "0",
+            "game": {
+                "id": 13642
+            },
+            "min": "10",
+            "offReb": 0,
+            "pFouls": 1,
+            "player": {
+                "firstname": "Kobi",
+                "id": 873,
+                "lastname": "Simmons"
+            },
+            "plusMinus": "+1",
+            "points": 5,
+            "pos": "G",
+            "steals": 1,
+            "team": {
+                "code": "TOR",
+                "id": 38,
+                "logo": "https://upload.wikimedia.org/wikipedia/fr/8/89/Raptors2015.png",
+                "name": "Toronto Raptors",
+                "nickname": "Raptors"
+            },
+            "totReb": 3,
+            "tpa": 2,
+            "tpm": 1,
+            "tpp": "50.0",
+            "turnovers": 0
+        },
+        {
+            "assists": 1,
+            "blocks": 0,
+            "comment": null,
+            "defReb": 4,
+            "fga": 5,
+            "fgm": 2,
+            "fgp": "40.0",
+            "fta": 2,
+            "ftm": 1,
+            "ftp": "50.0",
+            "game": {
+                "id": 13642
+            },
+            "min": "14",
+            "offReb": 1,
+            "pFouls": 2,
+            "player": {
+                "firstname": "Javon",
+                "id": 3440,
+                "lastname": "Freeman-Liberty"
+            },
+            "plusMinus": "-21",
+            "points": 5,
+            "pos": "G",
+            "steals": 2,
+            "team": {
+                "code": "TOR",
+                "id": 38,
+                "logo": "https://upload.wikimedia.org/wikipedia/fr/8/89/Raptors2015.png",
+                "name": "Toronto Raptors",
+                "nickname": "Raptors"
+            },
+            "totReb": 5,
+            "tpa": 1,
+            "tpm": 0,
+            "tpp": "0",
+            "turnovers": 1
+        },
+        {
+            "assists": 4,
+            "blocks": 0,
+            "comment": null,
+            "defReb": 6,
+            "fga": 15,
+            "fgm": 6,
+            "fgp": "40.0",
+            "fta": 1,
+            "ftm": 1,
+            "ftp": "100.0",
+            "game": {
+                "id": 13656
+            },
+            "min": "37",
+            "offReb": 2,
+            "pFouls": 4,
+            "player": {
+                "firstname": "Jalen",
+                "id": 1880,
+                "lastname": "McDaniels"
+            },
+            "plusMinus": "-28",
+            "points": 13,
+            "pos": "PF",
+            "steals": 0,
+            "team": {
+                "code": "TOR",
+                "id": 38,
+                "logo": "https://upload.wikimedia.org/wikipedia/fr/8/89/Raptors2015.png",
+                "name": "Toronto Raptors",
+                "nickname": "Raptors"
+            },
+            "totReb": 8,
+            "tpa": 1,
+            "tpm": 0,
+            "tpp": "0",
+            "turnovers": 3
+        },
+        {
+            "assists": 0,
+            "blocks": 1,
+            "comment": null,
+            "defReb": 1,
+            "fga": 11,
+            "fgm": 3,
+            "fgp": "27.3",
+            "fta": 0,
+            "ftm": 0,
+            "ftp": "0",
+            "game": {
+                "id": 13656
+            },
+            "min": "34",
+            "offReb": 1,
+            "pFouls": 3,
+            "player": {
+                "firstname": "Garrett",
+                "id": 507,
+                "lastname": "Temple"
+            },
+            "plusMinus": "-38",
+            "points": 7,
+            "pos": "SF",
+            "steals": 0,
+            "team": {
+                "code": "TOR",
+                "id": 38,
+                "logo": "https://upload.wikimedia.org/wikipedia/fr/8/89/Raptors2015.png",
+                "name": "Toronto Raptors",
+                "nickname": "Raptors"
+            },
+            "totReb": 2,
+            "tpa": 5,
+            "tpm": 1,
+            "tpp": "20.0",
+            "turnovers": 1
+        },
+        {
+            "assists": 1,
+            "blocks": 2,
+            "comment": null,
+            "defReb": 4,
+            "fga": 7,
+            "fgm": 0,
+            "fgp": "0",
+            "fta": 0,
+            "ftm": 0,
+            "ftp": "0",
+            "game": {
+                "id": 13656
+            },
+            "min": "31",
+            "offReb": 1,
+            "pFouls": 1,
+            "player": {
+                "firstname": "M.",
+                "id": 4089,
+                "lastname": "Williams"
+            },
+            "plusMinus": "-24",
+            "points": 0,
+            "pos": "C",
+            "steals": 1,
+            "team": {
+                "code": "TOR",
+                "id": 38,
+                "logo": "https://upload.wikimedia.org/wikipedia/fr/8/89/Raptors2015.png",
+                "name": "Toronto Raptors",
+                "nickname": "Raptors"
+            },
+            "totReb": 5,
+            "tpa": 2,
+            "tpm": 0,
+            "tpp": "0",
+            "turnovers": 1
+        },
+        {
+            "assists": 3,
+            "blocks": 0,
+            "comment": null,
+            "defReb": 1,
+            "fga": 17,
+            "fgm": 7,
+            "fgp": "41.2",
+            "fta": 0,
+            "ftm": 0,
+            "ftp": "0",
+            "game": {
+                "id": 13656
+            },
+            "min": "29",
+            "offReb": 0,
+            "pFouls": 1,
+            "player": {
+                "firstname": "Immanuel",
+                "id": 2636,
+                "lastname": "Quickley"
+            },
+            "plusMinus": "-24",
+            "points": 16,
+            "pos": "SG",
+            "steals": 1,
+            "team": {
+                "code": "TOR",
+                "id": 38,
+                "logo": "https://upload.wikimedia.org/wikipedia/fr/8/89/Raptors2015.png",
+                "name": "Toronto Raptors",
+                "nickname": "Raptors"
+            },
+            "totReb": 1,
+            "tpa": 7,
+            "tpm": 2,
+            "tpp": "28.6",
+            "turnovers": 1
+        },
+        {
+            "assists": 0,
+            "blocks": 0,
+            "comment": null,
+            "defReb": 8,
+            "fga": 17,
+            "fgm": 6,
+            "fgp": "35.3",
+            "fta": 3,
+            "ftm": 3,
+            "ftp": "100.0",
+            "game": {
+                "id": 13656
+            },
+            "min": "34",
+            "offReb": 0,
+            "pFouls": 2,
+            "player": {
+                "firstname": "Gradey",
+                "id": 4027,
+                "lastname": "Dick"
+            },
+            "plusMinus": "-37",
+            "points": 16,
+            "pos": "G",
+            "steals": 1,
+            "team": {
+                "code": "TOR",
+                "id": 38,
+                "logo": "https://upload.wikimedia.org/wikipedia/fr/8/89/Raptors2015.png",
+                "name": "Toronto Raptors",
+                "nickname": "Raptors"
+            },
+            "totReb": 8,
+            "tpa": 6,
+            "tpm": 1,
+            "tpp": "16.7",
+            "turnovers": 4
+        },
+        {
+            "assists": 0,
+            "blocks": 3,
+            "comment": null,
+            "defReb": 3,
+            "fga": 4,
+            "fgm": 1,
+            "fgp": "25.0",
+            "fta": 2,
+            "ftm": 1,
+            "ftp": "50.0",
+            "game": {
+                "id": 13656
+            },
+            "min": "19",
+            "offReb": 3,
+            "pFouls": 3,
+            "player": {
+                "firstname": "Mouhamadou",
+                "id": 3445,
+                "lastname": "Gueye"
+            },
+            "plusMinus": "-24",
+            "points": 3,
+            "pos": "F",
+            "steals": 0,
+            "team": {
+                "code": "TOR",
+                "id": 38,
+                "logo": "https://upload.wikimedia.org/wikipedia/fr/8/89/Raptors2015.png",
+                "name": "Toronto Raptors",
+                "nickname": "Raptors"
+            },
+            "totReb": 6,
+            "tpa": 1,
+            "tpm": 0,
+            "tpp": "0",
+            "turnovers": 1
+        },
+        {
+            "assists": 5,
+            "blocks": 0,
+            "comment": null,
+            "defReb": 10,
+            "fga": 9,
+            "fgm": 4,
+            "fgp": "44.4",
+            "fta": 6,
+            "ftm": 5,
+            "ftp": "83.3",
+            "game": {
+                "id": 13656
+            },
+            "min": "30",
+            "offReb": 3,
+            "pFouls": 0,
+            "player": {
+                "firstname": "Jordan",
+                "id": 2628,
+                "lastname": "Nwora"
+            },
+            "plusMinus": "-29",
+            "points": 14,
+            "pos": "SF",
+            "steals": 0,
+            "team": {
+                "code": "TOR",
+                "id": 38,
+                "logo": "https://upload.wikimedia.org/wikipedia/fr/8/89/Raptors2015.png",
+                "name": "Toronto Raptors",
+                "nickname": "Raptors"
+            },
+            "totReb": 13,
+            "tpa": 4,
+            "tpm": 1,
+            "tpp": "25.0",
+            "turnovers": 4
+        },
+        {
+            "assists": 0,
+            "blocks": 0,
+            "comment": null,
+            "defReb": 0,
+            "fga": 0,
+            "fgm": 0,
+            "fgp": "0",
+            "fta": 0,
+            "ftm": 0,
+            "ftp": "0",
+            "game": {
+                "id": 13656
+            },
+            "min": "0",
+            "offReb": 0,
+            "pFouls": 0,
+            "player": {
+                "firstname": "Kobi",
+                "id": 873,
+                "lastname": "Simmons"
+            },
+            "plusMinus": "0",
+            "points": 0,
+            "pos": "G",
+            "steals": 0,
+            "team": {
+                "code": "TOR",
+                "id": 38,
+                "logo": "https://upload.wikimedia.org/wikipedia/fr/8/89/Raptors2015.png",
+                "name": "Toronto Raptors",
+                "nickname": "Raptors"
+            },
+            "totReb": 0,
+            "tpa": 0,
+            "tpm": 0,
+            "tpp": "0",
+            "turnovers": 0
+        },
+        {
+            "assists": 6,
+            "blocks": 0,
+            "comment": null,
+            "defReb": 5,
+            "fga": 10,
+            "fgm": 6,
+            "fgp": "60.0",
+            "fta": 2,
+            "ftm": 2,
+            "ftp": "100.0",
+            "game": {
+                "id": 13656
+            },
+            "min": "27",
+            "offReb": 0,
+            "pFouls": 1,
+            "player": {
+                "firstname": "Javon",
+                "id": 3440,
+                "lastname": "Freeman-Liberty"
+            },
+            "plusMinus": "-36",
+            "points": 16,
+            "pos": "G",
+            "steals": 1,
+            "team": {
+                "code": "TOR",
+                "id": 38,
+                "logo": "https://upload.wikimedia.org/wikipedia/fr/8/89/Raptors2015.png",
+                "name": "Toronto Raptors",
+                "nickname": "Raptors"
+            },
+            "totReb": 5,
+            "tpa": 4,
+            "tpm": 2,
+            "tpp": "50.0",
+            "turnovers": 5
+        },
+        {
+            "assists": 2,
+            "blocks": 0,
+            "comment": null,
+            "defReb": 6,
+            "fga": 6,
+            "fgm": 3,
+            "fgp": "50.0",
+            "fta": 6,
+            "ftm": 5,
+            "ftp": "83.3",
+            "game": {
+                "id": 13670
+            },
+            "min": "33",
+            "offReb": 1,
+            "pFouls": 3,
+            "player": {
+                "firstname": "Kelly",
+                "id": 404,
+                "lastname": "Olynyk"
+            },
+            "plusMinus": "+19",
+            "points": 12,
+            "pos": "PF",
+            "steals": 0,
+            "team": {
+                "code": "TOR",
+                "id": 38,
+                "logo": "https://upload.wikimedia.org/wikipedia/fr/8/89/Raptors2015.png",
+                "name": "Toronto Raptors",
+                "nickname": "Raptors"
+            },
+            "totReb": 7,
+            "tpa": 3,
+            "tpm": 1,
+            "tpp": "33.3",
+            "turnovers": 2
+        },
+        {
+            "assists": 3,
+            "blocks": 0,
+            "comment": null,
+            "defReb": 5,
+            "fga": 22,
+            "fgm": 11,
+            "fgp": "50.0",
+            "fta": 2,
+            "ftm": 2,
+            "ftp": "100.0",
+            "game": {
+                "id": 13670
+            },
+            "min": "37",
+            "offReb": 0,
+            "pFouls": 2,
+            "player": {
+                "firstname": "Gary",
+                "id": 1058,
+                "lastname": "Trent Jr."
+            },
+            "plusMinus": "+11",
+            "points": 31,
+            "pos": "SG",
+            "steals": 2,
+            "team": {
+                "code": "TOR",
+                "id": 38,
+                "logo": "https://upload.wikimedia.org/wikipedia/fr/8/89/Raptors2015.png",
+                "name": "Toronto Raptors",
+                "nickname": "Raptors"
+            },
+            "totReb": 5,
+            "tpa": 15,
+            "tpm": 7,
+            "tpp": "46.7",
+            "turnovers": 2
+        },
+        {
+            "assists": 2,
+            "blocks": 1,
+            "comment": null,
+            "defReb": 5,
+            "fga": 18,
+            "fgm": 8,
+            "fgp": "44.4",
+            "fta": 11,
+            "ftm": 9,
+            "ftp": "81.8",
+            "game": {
+                "id": 13670
+            },
+            "min": "34",
+            "offReb": 2,
+            "pFouls": 4,
+            "player": {
+                "firstname": "RJ",
+                "id": 1846,
+                "lastname": "Barrett"
+            },
+            "plusMinus": "+1",
+            "points": 26,
+            "pos": "SG",
+            "steals": 2,
+            "team": {
+                "code": "TOR",
+                "id": 38,
+                "logo": "https://upload.wikimedia.org/wikipedia/fr/8/89/Raptors2015.png",
+                "name": "Toronto Raptors",
+                "nickname": "Raptors"
+            },
+            "totReb": 7,
+            "tpa": 4,
+            "tpm": 1,
+            "tpp": "25.0",
+            "turnovers": 5
+        },
+        {
+            "assists": 9,
+            "blocks": 0,
+            "comment": null,
+            "defReb": 10,
+            "fga": 12,
+            "fgm": 4,
+            "fgp": "33.3",
+            "fta": 15,
+            "ftm": 14,
+            "ftp": "93.3",
+            "game": {
+                "id": 13670
+            },
+            "min": "36",
+            "offReb": 1,
+            "pFouls": 1,
+            "player": {
+                "firstname": "Immanuel",
+                "id": 2636,
+                "lastname": "Quickley"
+            },
+            "plusMinus": "+14",
+            "points": 25,
+            "pos": "SG",
+            "steals": 3,
+            "team": {
+                "code": "TOR",
+                "id": 38,
+                "logo": "https://upload.wikimedia.org/wikipedia/fr/8/89/Raptors2015.png",
+                "name": "Toronto Raptors",
+                "nickname": "Raptors"
+            },
+            "totReb": 11,
+            "tpa": 8,
+            "tpm": 3,
+            "tpp": "37.5",
+            "turnovers": 1
+        },
+        {
+            "assists": 3,
+            "blocks": 0,
+            "comment": null,
+            "defReb": 5,
+            "fga": 2,
+            "fgm": 1,
+            "fgp": "50.0",
+            "fta": 2,
+            "ftm": 1,
+            "ftp": "50.0",
+            "game": {
+                "id": 13670
+            },
+            "min": "35",
+            "offReb": 3,
+            "pFouls": 4,
+            "player": {
+                "firstname": "Ochai",
+                "id": 3411,
+                "lastname": "Agbaji"
+            },
+            "plusMinus": "+20",
+            "points": 3,
+            "pos": "G",
+            "steals": 1,
+            "team": {
+                "code": "TOR",
+                "id": 38,
+                "logo": "https://upload.wikimedia.org/wikipedia/fr/8/89/Raptors2015.png",
+                "name": "Toronto Raptors",
+                "nickname": "Raptors"
+            },
+            "totReb": 8,
+            "tpa": 0,
+            "tpm": 0,
+            "tpp": "0",
+            "turnovers": 4
+        },
+        {
+            "assists": 4,
+            "blocks": 1,
+            "comment": null,
+            "defReb": 1,
+            "fga": 4,
+            "fgm": 1,
+            "fgp": "25.0",
+            "fta": 0,
+            "ftm": 0,
+            "ftp": "0",
+            "game": {
+                "id": 13670
+            },
+            "min": "13",
+            "offReb": 0,
+            "pFouls": 0,
+            "player": {
+                "firstname": "Jalen",
+                "id": 1880,
+                "lastname": "McDaniels"
+            },
+            "plusMinus": "-9",
+            "points": 2,
+            "pos": "PF",
+            "steals": 0,
+            "team": {
+                "code": "TOR",
+                "id": 38,
+                "logo": "https://upload.wikimedia.org/wikipedia/fr/8/89/Raptors2015.png",
+                "name": "Toronto Raptors",
+                "nickname": "Raptors"
+            },
+            "totReb": 1,
+            "tpa": 1,
+            "tpm": 0,
+            "tpp": "0",
+            "turnovers": 0
+        },
+        {
+            "assists": 1,
+            "blocks": 0,
+            "comment": null,
+            "defReb": 1,
+            "fga": 4,
+            "fgm": 2,
+            "fgp": "50.0",
+            "fta": 0,
+            "ftm": 0,
+            "ftp": "0",
+            "game": {
+                "id": 13670
+            },
+            "min": "12",
+            "offReb": 0,
+            "pFouls": 0,
+            "player": {
+                "firstname": "Jordan",
+                "id": 2628,
+                "lastname": "Nwora"
+            },
+            "plusMinus": "-11",
+            "points": 4,
+            "pos": "SF",
+            "steals": 0,
+            "team": {
+                "code": "TOR",
+                "id": 38,
+                "logo": "https://upload.wikimedia.org/wikipedia/fr/8/89/Raptors2015.png",
+                "name": "Toronto Raptors",
+                "nickname": "Raptors"
+            },
+            "totReb": 1,
+            "tpa": 1,
+            "tpm": 0,
+            "tpp": "0",
+            "turnovers": 1
+        },
+        {
+            "assists": 0,
+            "blocks": 1,
+            "comment": null,
+            "defReb": 0,
+            "fga": 0,
+            "fgm": 0,
+            "fgp": "0",
+            "fta": 0,
+            "ftm": 0,
+            "ftp": "0",
+            "game": {
+                "id": 13670
+            },
+            "min": "2",
+            "offReb": 0,
+            "pFouls": 0,
+            "player": {
+                "firstname": "M.",
+                "id": 4089,
+                "lastname": "Williams"
+            },
+            "plusMinus": "-4",
+            "points": 0,
+            "pos": "C",
+            "steals": 0,
+            "team": {
+                "code": "TOR",
+                "id": 38,
+                "logo": "https://upload.wikimedia.org/wikipedia/fr/8/89/Raptors2015.png",
+                "name": "Toronto Raptors",
+                "nickname": "Raptors"
+            },
+            "totReb": 0,
+            "tpa": 0,
+            "tpm": 0,
+            "tpp": "0",
+            "turnovers": 0
+        },
+        {
+            "assists": 0,
+            "blocks": 0,
+            "comment": null,
+            "defReb": 0,
+            "fga": 0,
+            "fgm": 0,
+            "fgp": "0",
+            "fta": 0,
+            "ftm": 0,
+            "ftp": "0",
+            "game": {
+                "id": 13670
+            },
+            "min": "0",
+            "offReb": 0,
+            "pFouls": 0,
+            "player": {
+                "firstname": "Kobi",
+                "id": 873,
+                "lastname": "Simmons"
+            },
+            "plusMinus": "0",
+            "points": 0,
+            "pos": "G",
+            "steals": 0,
+            "team": {
+                "code": "TOR",
+                "id": 38,
+                "logo": "https://upload.wikimedia.org/wikipedia/fr/8/89/Raptors2015.png",
+                "name": "Toronto Raptors",
+                "nickname": "Raptors"
+            },
+            "totReb": 0,
+            "tpa": 0,
+            "tpm": 0,
+            "tpp": "0",
+            "turnovers": 0
+        },
+        {
+            "assists": 0,
+            "blocks": 0,
+            "comment": null,
+            "defReb": 1,
+            "fga": 4,
+            "fgm": 2,
+            "fgp": "50.0",
+            "fta": 0,
+            "ftm": 0,
+            "ftp": "0",
+            "game": {
+                "id": 13670
+            },
+            "min": "12",
+            "offReb": 1,
+            "pFouls": 2,
+            "player": {
+                "firstname": "Javon",
+                "id": 3440,
+                "lastname": "Freeman-Liberty"
+            },
+            "plusMinus": "-8",
+            "points": 4,
+            "pos": "G",
+            "steals": 0,
+            "team": {
+                "code": "TOR",
+                "id": 38,
+                "logo": "https://upload.wikimedia.org/wikipedia/fr/8/89/Raptors2015.png",
+                "name": "Toronto Raptors",
+                "nickname": "Raptors"
+            },
+            "totReb": 2,
+            "tpa": 0,
+            "tpm": 0,
+            "tpp": "0",
+            "turnovers": 1
+        },
+        {
+            "assists": 0,
+            "blocks": 0,
+            "comment": null,
+            "defReb": 4,
+            "fga": 7,
+            "fgm": 4,
+            "fgp": "57.1",
+            "fta": 0,
+            "ftm": 0,
+            "ftp": "0",
+            "game": {
+                "id": 13670
+            },
+            "min": "26",
+            "offReb": 1,
+            "pFouls": 2,
+            "player": {
+                "firstname": "Gradey",
+                "id": 4027,
+                "lastname": "Dick"
+            },
+            "plusMinus": "-3",
+            "points": 10,
+            "pos": "G",
+            "steals": 1,
+            "team": {
+                "code": "TOR",
+                "id": 38,
+                "logo": "https://upload.wikimedia.org/wikipedia/fr/8/89/Raptors2015.png",
+                "name": "Toronto Raptors",
+                "nickname": "Raptors"
+            },
+            "totReb": 5,
+            "tpa": 4,
+            "tpm": 2,
+            "tpp": "50.0",
+            "turnovers": 0
+        },
+        {
+            "assists": 5,
+            "blocks": 1,
+            "comment": null,
+            "defReb": 7,
+            "fga": 12,
+            "fgm": 8,
+            "fgp": "66.7",
+            "fta": 4,
+            "ftm": 3,
+            "ftp": "75.0",
+            "game": {
+                "id": 13685
+            },
+            "min": "35",
+            "offReb": 2,
+            "pFouls": 4,
+            "player": {
+                "firstname": "Kelly",
+                "id": 404,
+                "lastname": "Olynyk"
+            },
+            "plusMinus": "+17",
+            "points": 21,
+            "pos": "PF",
+            "steals": 3,
+            "team": {
+                "code": "TOR",
+                "id": 38,
+                "logo": "https://upload.wikimedia.org/wikipedia/fr/8/89/Raptors2015.png",
+                "name": "Toronto Raptors",
+                "nickname": "Raptors"
+            },
+            "totReb": 9,
+            "tpa": 5,
+            "tpm": 2,
+            "tpp": "40.0",
+            "turnovers": 2
+        },
+        {
+            "assists": 5,
+            "blocks": 0,
+            "comment": null,
+            "defReb": 7,
+            "fga": 16,
+            "fgm": 9,
+            "fgp": "56.3",
+            "fta": 0,
+            "ftm": 0,
+            "ftp": "0",
+            "game": {
+                "id": 13685
+            },
+            "min": "35",
+            "offReb": 0,
+            "pFouls": 0,
+            "player": {
+                "firstname": "Gary",
+                "id": 1058,
+                "lastname": "Trent Jr."
+            },
+            "plusMinus": "+18",
+            "points": 20,
+            "pos": "SG",
+            "steals": 3,
+            "team": {
+                "code": "TOR",
+                "id": 38,
+                "logo": "https://upload.wikimedia.org/wikipedia/fr/8/89/Raptors2015.png",
+                "name": "Toronto Raptors",
+                "nickname": "Raptors"
+            },
+            "totReb": 7,
+            "tpa": 4,
+            "tpm": 2,
+            "tpp": "50.0",
+            "turnovers": 0
+        },
+        {
+            "assists": 7,
+            "blocks": 1,
+            "comment": null,
+            "defReb": 6,
+            "fga": 19,
+            "fgm": 9,
+            "fgp": "47.4",
+            "fta": 6,
+            "ftm": 4,
+            "ftp": "66.7",
+            "game": {
+                "id": 13685
+            },
+            "min": "36",
+            "offReb": 2,
+            "pFouls": 3,
+            "player": {
+                "firstname": "RJ",
+                "id": 1846,
+                "lastname": "Barrett"
+            },
+            "plusMinus": "-4",
+            "points": 22,
+            "pos": "SG",
+            "steals": 0,
+            "team": {
+                "code": "TOR",
+                "id": 38,
+                "logo": "https://upload.wikimedia.org/wikipedia/fr/8/89/Raptors2015.png",
+                "name": "Toronto Raptors",
+                "nickname": "Raptors"
+            },
+            "totReb": 8,
+            "tpa": 3,
+            "tpm": 0,
+            "tpp": "0",
+            "turnovers": 6
+        },
+        {
+            "assists": 13,
+            "blocks": 0,
+            "comment": null,
+            "defReb": 7,
+            "fga": 15,
+            "fgm": 9,
+            "fgp": "60.0",
+            "fta": 10,
+            "ftm": 10,
+            "ftp": "100.0",
+            "game": {
+                "id": 13685
+            },
+            "min": "36",
+            "offReb": 0,
+            "pFouls": 5,
+            "player": {
+                "firstname": "Immanuel",
+                "id": 2636,
+                "lastname": "Quickley"
+            },
+            "plusMinus": "+22",
+            "points": 31,
+            "pos": "SG",
+            "steals": 1,
+            "team": {
+                "code": "TOR",
+                "id": 38,
+                "logo": "https://upload.wikimedia.org/wikipedia/fr/8/89/Raptors2015.png",
+                "name": "Toronto Raptors",
+                "nickname": "Raptors"
+            },
+            "totReb": 7,
+            "tpa": 7,
+            "tpm": 3,
+            "tpp": "42.9",
+            "turnovers": 4
+        },
+        {
+            "assists": 1,
+            "blocks": 1,
+            "comment": null,
+            "defReb": 3,
+            "fga": 7,
+            "fgm": 3,
+            "fgp": "42.9",
+            "fta": 6,
+            "ftm": 3,
+            "ftp": "50.0",
+            "game": {
+                "id": 13685
+            },
+            "min": "28",
+            "offReb": 0,
+            "pFouls": 3,
+            "player": {
+                "firstname": "Ochai",
+                "id": 3411,
+                "lastname": "Agbaji"
+            },
+            "plusMinus": "+17",
+            "points": 9,
+            "pos": "G",
+            "steals": 1,
+            "team": {
+                "code": "TOR",
+                "id": 38,
+                "logo": "https://upload.wikimedia.org/wikipedia/fr/8/89/Raptors2015.png",
+                "name": "Toronto Raptors",
+                "nickname": "Raptors"
+            },
+            "totReb": 3,
+            "tpa": 3,
+            "tpm": 0,
+            "tpp": "0",
+            "turnovers": 0
+        },
+        {
+            "assists": 0,
+            "blocks": 0,
+            "comment": null,
+            "defReb": 0,
+            "fga": 3,
+            "fgm": 0,
+            "fgp": "0",
+            "fta": 0,
+            "ftm": 0,
+            "ftp": "0",
+            "game": {
+                "id": 13685
+            },
+            "min": "4",
+            "offReb": 1,
+            "pFouls": 0,
+            "player": {
+                "firstname": "Jalen",
+                "id": 1880,
+                "lastname": "McDaniels"
+            },
+            "plusMinus": "-10",
+            "points": 0,
+            "pos": "PF",
+            "steals": 0,
+            "team": {
+                "code": "TOR",
+                "id": 38,
+                "logo": "https://upload.wikimedia.org/wikipedia/fr/8/89/Raptors2015.png",
+                "name": "Toronto Raptors",
+                "nickname": "Raptors"
+            },
+            "totReb": 1,
+            "tpa": 0,
+            "tpm": 0,
+            "tpp": "0",
+            "turnovers": 0
+        },
+        {
+            "assists": 1,
+            "blocks": 1,
+            "comment": null,
+            "defReb": 0,
+            "fga": 3,
+            "fgm": 2,
+            "fgp": "66.7",
+            "fta": 0,
+            "ftm": 0,
+            "ftp": "0",
+            "game": {
+                "id": 13685
+            },
+            "min": "9",
+            "offReb": 2,
+            "pFouls": 3,
+            "player": {
+                "firstname": "Garrett",
+                "id": 507,
+                "lastname": "Temple"
+            },
+            "plusMinus": "-4",
+            "points": 5,
+            "pos": "SF",
+            "steals": 0,
+            "team": {
+                "code": "TOR",
+                "id": 38,
+                "logo": "https://upload.wikimedia.org/wikipedia/fr/8/89/Raptors2015.png",
+                "name": "Toronto Raptors",
+                "nickname": "Raptors"
+            },
+            "totReb": 2,
+            "tpa": 1,
+            "tpm": 1,
+            "tpp": "100.0",
+            "turnovers": 1
+        },
+        {
+            "assists": 1,
+            "blocks": 0,
+            "comment": null,
+            "defReb": 2,
+            "fga": 7,
+            "fgm": 4,
+            "fgp": "57.1",
+            "fta": 2,
+            "ftm": 1,
+            "ftp": "50.0",
+            "game": {
+                "id": 13685
+            },
+            "min": "20",
+            "offReb": 0,
+            "pFouls": 3,
+            "player": {
+                "firstname": "Bruce",
+                "id": 944,
+                "lastname": "Brown"
+            },
+            "plusMinus": "-7",
+            "points": 9,
+            "pos": "SF",
+            "steals": 1,
+            "team": {
+                "code": "TOR",
+                "id": 38,
+                "logo": "https://upload.wikimedia.org/wikipedia/fr/8/89/Raptors2015.png",
+                "name": "Toronto Raptors",
+                "nickname": "Raptors"
+            },
+            "totReb": 2,
+            "tpa": 2,
+            "tpm": 0,
+            "tpp": "0",
+            "turnovers": 0
+        },
+        {
+            "assists": 0,
+            "blocks": 0,
+            "comment": null,
+            "defReb": 2,
+            "fga": 0,
+            "fgm": 0,
+            "fgp": "0",
+            "fta": 0,
+            "ftm": 0,
+            "ftp": "0",
+            "game": {
+                "id": 13685
+            },
+            "min": "5",
+            "offReb": 0,
+            "pFouls": 2,
+            "player": {
+                "firstname": "M.",
+                "id": 4089,
+                "lastname": "Williams"
+            },
+            "plusMinus": "-1",
+            "points": 0,
+            "pos": "C",
+            "steals": 0,
+            "team": {
+                "code": "TOR",
+                "id": 38,
+                "logo": "https://upload.wikimedia.org/wikipedia/fr/8/89/Raptors2015.png",
+                "name": "Toronto Raptors",
+                "nickname": "Raptors"
+            },
+            "totReb": 2,
+            "tpa": 0,
+            "tpm": 0,
+            "tpp": "0",
+            "turnovers": 0
+        },
+        {
+            "assists": 0,
+            "blocks": 0,
+            "comment": null,
+            "defReb": 3,
+            "fga": 5,
+            "fgm": 0,
+            "fgp": "0",
+            "fta": 0,
+            "ftm": 0,
+            "ftp": "0",
+            "game": {
+                "id": 13685
+            },
+            "min": "9",
+            "offReb": 1,
+            "pFouls": 1,
+            "player": {
+                "firstname": "Javon",
+                "id": 3440,
+                "lastname": "Freeman-Liberty"
+            },
+            "plusMinus": "-12",
+            "points": 0,
+            "pos": "G",
+            "steals": 0,
+            "team": {
+                "code": "TOR",
+                "id": 38,
+                "logo": "https://upload.wikimedia.org/wikipedia/fr/8/89/Raptors2015.png",
+                "name": "Toronto Raptors",
+                "nickname": "Raptors"
+            },
+            "totReb": 4,
+            "tpa": 1,
+            "tpm": 0,
+            "tpp": "0",
+            "turnovers": 0
+        },
+        {
+            "assists": 0,
+            "blocks": 0,
+            "comment": null,
+            "defReb": 4,
+            "fga": 9,
+            "fgm": 5,
+            "fgp": "55.6",
+            "fta": 0,
+            "ftm": 0,
+            "ftp": "0",
+            "game": {
+                "id": 13685
+            },
+            "min": "25",
+            "offReb": 0,
+            "pFouls": 2,
+            "player": {
+                "firstname": "Gradey",
+                "id": 4027,
+                "lastname": "Dick"
+            },
+            "plusMinus": "+4",
+            "points": 13,
+            "pos": "G",
+            "steals": 0,
+            "team": {
+                "code": "TOR",
+                "id": 38,
+                "logo": "https://upload.wikimedia.org/wikipedia/fr/8/89/Raptors2015.png",
+                "name": "Toronto Raptors",
+                "nickname": "Raptors"
+            },
+            "totReb": 4,
+            "tpa": 5,
+            "tpm": 3,
+            "tpp": "60.0",
+            "turnovers": 0
+        },
+        {
+            "assists": 4,
+            "blocks": 0,
+            "comment": null,
+            "defReb": 4,
+            "fga": 7,
+            "fgm": 6,
+            "fgp": "85.7",
+            "fta": 10,
+            "ftm": 9,
+            "ftp": "90.0",
+            "game": {
+                "id": 13694
+            },
+            "min": "34",
+            "offReb": 1,
+            "pFouls": 2,
+            "player": {
+                "firstname": "Kelly",
+                "id": 404,
+                "lastname": "Olynyk"
+            },
+            "plusMinus": "-17",
+            "points": 22,
+            "pos": "PF",
+            "steals": 1,
+            "team": {
+                "code": "TOR",
+                "id": 38,
+                "logo": "https://upload.wikimedia.org/wikipedia/fr/8/89/Raptors2015.png",
+                "name": "Toronto Raptors",
+                "nickname": "Raptors"
+            },
+            "totReb": 5,
+            "tpa": 1,
+            "tpm": 1,
+            "tpp": "100.0",
+            "turnovers": 1
+        },
+        {
+            "assists": 4,
+            "blocks": 0,
+            "comment": null,
+            "defReb": 2,
+            "fga": 19,
+            "fgm": 7,
+            "fgp": "36.8",
+            "fta": 4,
+            "ftm": 2,
+            "ftp": "50.0",
+            "game": {
+                "id": 13694
+            },
+            "min": "34",
+            "offReb": 1,
+            "pFouls": 5,
+            "player": {
+                "firstname": "Gary",
+                "id": 1058,
+                "lastname": "Trent Jr."
+            },
+            "plusMinus": "-9",
+            "points": 16,
+            "pos": "SG",
+            "steals": 4,
+            "team": {
+                "code": "TOR",
+                "id": 38,
+                "logo": "https://upload.wikimedia.org/wikipedia/fr/8/89/Raptors2015.png",
+                "name": "Toronto Raptors",
+                "nickname": "Raptors"
+            },
+            "totReb": 3,
+            "tpa": 7,
+            "tpm": 0,
+            "tpp": "0",
+            "turnovers": 3
+        },
+        {
+            "assists": 4,
+            "blocks": 0,
+            "comment": null,
+            "defReb": 2,
+            "fga": 19,
+            "fgm": 10,
+            "fgp": "52.6",
+            "fta": 3,
+            "ftm": 3,
+            "ftp": "100.0",
+            "game": {
+                "id": 13694
+            },
+            "min": "33",
+            "offReb": 2,
+            "pFouls": 2,
+            "player": {
+                "firstname": "RJ",
+                "id": 1846,
+                "lastname": "Barrett"
+            },
+            "plusMinus": "-12",
+            "points": 23,
+            "pos": "SG",
+            "steals": 1,
+            "team": {
+                "code": "TOR",
+                "id": 38,
+                "logo": "https://upload.wikimedia.org/wikipedia/fr/8/89/Raptors2015.png",
+                "name": "Toronto Raptors",
+                "nickname": "Raptors"
+            },
+            "totReb": 4,
+            "tpa": 3,
+            "tpm": 0,
+            "tpp": "0",
+            "turnovers": 5
+        },
+        {
+            "assists": 1,
+            "blocks": 3,
+            "comment": null,
+            "defReb": 2,
+            "fga": 6,
+            "fgm": 0,
+            "fgp": "0",
+            "fta": 2,
+            "ftm": 2,
+            "ftp": "100.0",
+            "game": {
+                "id": 13694
+            },
+            "min": "29",
+            "offReb": 1,
+            "pFouls": 3,
+            "player": {
+                "firstname": "Ochai",
+                "id": 3411,
+                "lastname": "Agbaji"
+            },
+            "plusMinus": "-7",
+            "points": 2,
+            "pos": "G",
+            "steals": 0,
+            "team": {
+                "code": "TOR",
+                "id": 38,
+                "logo": "https://upload.wikimedia.org/wikipedia/fr/8/89/Raptors2015.png",
+                "name": "Toronto Raptors",
+                "nickname": "Raptors"
+            },
+            "totReb": 3,
+            "tpa": 2,
+            "tpm": 0,
+            "tpp": "0",
+            "turnovers": 1
+        },
+        {
+            "assists": 1,
+            "blocks": 0,
+            "comment": null,
+            "defReb": 5,
+            "fga": 10,
+            "fgm": 7,
+            "fgp": "70.0",
+            "fta": 4,
+            "ftm": 4,
+            "ftp": "100.0",
+            "game": {
+                "id": 13694
+            },
+            "min": "33",
+            "offReb": 3,
+            "pFouls": 3,
+            "player": {
+                "firstname": "Javon",
+                "id": 3440,
+                "lastname": "Freeman-Liberty"
+            },
+            "plusMinus": "-11",
+            "points": 20,
+            "pos": "G",
+            "steals": 1,
+            "team": {
+                "code": "TOR",
+                "id": 38,
+                "logo": "https://upload.wikimedia.org/wikipedia/fr/8/89/Raptors2015.png",
+                "name": "Toronto Raptors",
+                "nickname": "Raptors"
+            },
+            "totReb": 8,
+            "tpa": 3,
+            "tpm": 2,
+            "tpp": "66.7",
+            "turnovers": 1
+        },
+        {
+            "assists": 0,
+            "blocks": 0,
+            "comment": null,
+            "defReb": 1,
+            "fga": 7,
+            "fgm": 3,
+            "fgp": "42.9",
+            "fta": 2,
+            "ftm": 1,
+            "ftp": "50.0",
+            "game": {
+                "id": 13694
+            },
+            "min": "16",
+            "offReb": 1,
+            "pFouls": 1,
+            "player": {
+                "firstname": "Jalen",
+                "id": 1880,
+                "lastname": "McDaniels"
+            },
+            "plusMinus": "-6",
+            "points": 7,
+            "pos": "PF",
+            "steals": 0,
+            "team": {
+                "code": "TOR",
+                "id": 38,
+                "logo": "https://upload.wikimedia.org/wikipedia/fr/8/89/Raptors2015.png",
+                "name": "Toronto Raptors",
+                "nickname": "Raptors"
+            },
+            "totReb": 2,
+            "tpa": 1,
+            "tpm": 0,
+            "tpp": "0",
+            "turnovers": 0
+        },
+        {
+            "assists": 5,
+            "blocks": 0,
+            "comment": null,
+            "defReb": 3,
+            "fga": 12,
+            "fgm": 7,
+            "fgp": "58.3",
+            "fta": 4,
+            "ftm": 2,
+            "ftp": "50.0",
+            "game": {
+                "id": 13694
+            },
+            "min": "28",
+            "offReb": 0,
+            "pFouls": 0,
+            "player": {
+                "firstname": "Bruce",
+                "id": 944,
+                "lastname": "Brown"
+            },
+            "plusMinus": "-16",
+            "points": 16,
+            "pos": "SF",
+            "steals": 0,
+            "team": {
+                "code": "TOR",
+                "id": 38,
+                "logo": "https://upload.wikimedia.org/wikipedia/fr/8/89/Raptors2015.png",
+                "name": "Toronto Raptors",
+                "nickname": "Raptors"
+            },
+            "totReb": 3,
+            "tpa": 1,
+            "tpm": 0,
+            "tpp": "0",
+            "turnovers": 2
+        },
+        {
+            "assists": 2,
+            "blocks": 2,
+            "comment": null,
+            "defReb": 1,
+            "fga": 6,
+            "fgm": 4,
+            "fgp": "66.7",
+            "fta": 2,
+            "ftm": 1,
+            "ftp": "50.0",
+            "game": {
+                "id": 13694
+            },
+            "min": "19",
+            "offReb": 2,
+            "pFouls": 1,
+            "player": {
+                "firstname": "Jordan",
+                "id": 2628,
+                "lastname": "Nwora"
+            },
+            "plusMinus": "-7",
+            "points": 11,
+            "pos": "SF",
+            "steals": 1,
+            "team": {
+                "code": "TOR",
+                "id": 38,
+                "logo": "https://upload.wikimedia.org/wikipedia/fr/8/89/Raptors2015.png",
+                "name": "Toronto Raptors",
+                "nickname": "Raptors"
+            },
+            "totReb": 3,
+            "tpa": 2,
+            "tpm": 2,
+            "tpp": "100.0",
+            "turnovers": 2
+        },
+        {
+            "assists": 0,
+            "blocks": 1,
+            "comment": null,
+            "defReb": 4,
+            "fga": 8,
+            "fgm": 3,
+            "fgp": "37.5",
+            "fta": 2,
+            "ftm": 0,
+            "ftp": "0",
+            "game": {
+                "id": 13694
+            },
+            "min": "14",
+            "offReb": 5,
+            "pFouls": 3,
+            "player": {
+                "firstname": "M.",
+                "id": 4089,
+                "lastname": "Williams"
+            },
+            "plusMinus": "0",
+            "points": 6,
+            "pos": "C",
+            "steals": 0,
+            "team": {
+                "code": "TOR",
+                "id": 38,
+                "logo": "https://upload.wikimedia.org/wikipedia/fr/8/89/Raptors2015.png",
+                "name": "Toronto Raptors",
+                "nickname": "Raptors"
+            },
+            "totReb": 9,
+            "tpa": 1,
+            "tpm": 0,
+            "tpp": "0",
+            "turnovers": 0
+        },
+        {
+            "assists": 4,
+            "blocks": 0,
+            "comment": null,
+            "defReb": 2,
+            "fga": 6,
+            "fgm": 1,
+            "fgp": "16.7",
+            "fta": 0,
+            "ftm": 0,
+            "ftp": "0",
+            "game": {
+                "id": 13708
+            },
+            "min": "36",
+            "offReb": 4,
+            "pFouls": 1,
+            "player": {
+                "firstname": "Garrett",
+                "id": 507,
+                "lastname": "Temple"
+            },
+            "plusMinus": "-11",
+            "points": 3,
+            "pos": "SF",
+            "steals": 2,
+            "team": {
+                "code": "TOR",
+                "id": 38,
+                "logo": "https://upload.wikimedia.org/wikipedia/fr/8/89/Raptors2015.png",
+                "name": "Toronto Raptors",
+                "nickname": "Raptors"
+            },
+            "totReb": 6,
+            "tpa": 3,
+            "tpm": 1,
+            "tpp": "33.3",
+            "turnovers": 3
+        },
+        {
+            "assists": 1,
+            "blocks": 0,
+            "comment": null,
+            "defReb": 9,
+            "fga": 10,
+            "fgm": 3,
+            "fgp": "30.0",
+            "fta": 0,
+            "ftm": 0,
+            "ftp": "0",
+            "game": {
+                "id": 13708
+            },
+            "min": "24",
+            "offReb": 5,
+            "pFouls": 4,
+            "player": {
+                "firstname": "M.",
+                "id": 4089,
+                "lastname": "Williams"
+            },
+            "plusMinus": "0",
+            "points": 7,
+            "pos": "C",
+            "steals": 2,
+            "team": {
+                "code": "TOR",
+                "id": 38,
+                "logo": "https://upload.wikimedia.org/wikipedia/fr/8/89/Raptors2015.png",
+                "name": "Toronto Raptors",
+                "nickname": "Raptors"
+            },
+            "totReb": 14,
+            "tpa": 1,
+            "tpm": 1,
+            "tpp": "100.0",
+            "turnovers": 1
+        },
+        {
+            "assists": 9,
+            "blocks": 1,
+            "comment": null,
+            "defReb": 6,
+            "fga": 24,
+            "fgm": 10,
+            "fgp": "41.7",
+            "fta": 8,
+            "ftm": 8,
+            "ftp": "100.0",
+            "game": {
+                "id": 13708
+            },
+            "min": "34",
+            "offReb": 1,
+            "pFouls": 5,
+            "player": {
+                "firstname": "Immanuel",
+                "id": 2636,
+                "lastname": "Quickley"
+            },
+            "plusMinus": "+5",
+            "points": 32,
+            "pos": "SG",
+            "steals": 1,
+            "team": {
+                "code": "TOR",
+                "id": 38,
+                "logo": "https://upload.wikimedia.org/wikipedia/fr/8/89/Raptors2015.png",
+                "name": "Toronto Raptors",
+                "nickname": "Raptors"
+            },
+            "totReb": 7,
+            "tpa": 11,
+            "tpm": 4,
+            "tpp": "36.4",
+            "turnovers": 4
+        },
+        {
+            "assists": 1,
+            "blocks": 0,
+            "comment": null,
+            "defReb": 1,
+            "fga": 6,
+            "fgm": 3,
+            "fgp": "50.0",
+            "fta": 1,
+            "ftm": 1,
+            "ftp": "100.0",
+            "game": {
+                "id": 13708
+            },
+            "min": "34",
+            "offReb": 0,
+            "pFouls": 1,
+            "player": {
+                "firstname": "Ochai",
+                "id": 3411,
+                "lastname": "Agbaji"
+            },
+            "plusMinus": "-4",
+            "points": 7,
+            "pos": "G",
+            "steals": 0,
+            "team": {
+                "code": "TOR",
+                "id": 38,
+                "logo": "https://upload.wikimedia.org/wikipedia/fr/8/89/Raptors2015.png",
+                "name": "Toronto Raptors",
+                "nickname": "Raptors"
+            },
+            "totReb": 1,
+            "tpa": 1,
+            "tpm": 0,
+            "tpp": "0",
+            "turnovers": 0
+        },
+        {
+            "assists": 0,
+            "blocks": 0,
+            "comment": null,
+            "defReb": 3,
+            "fga": 20,
+            "fgm": 9,
+            "fgp": "45.0",
+            "fta": 0,
+            "ftm": 0,
+            "ftp": "0",
+            "game": {
+                "id": 13708
+            },
+            "min": "34",
+            "offReb": 1,
+            "pFouls": 3,
+            "player": {
+                "firstname": "Gradey",
+                "id": 4027,
+                "lastname": "Dick"
+            },
+            "plusMinus": "-2",
+            "points": 24,
+            "pos": "G",
+            "steals": 0,
+            "team": {
+                "code": "TOR",
+                "id": 38,
+                "logo": "https://upload.wikimedia.org/wikipedia/fr/8/89/Raptors2015.png",
+                "name": "Toronto Raptors",
+                "nickname": "Raptors"
+            },
+            "totReb": 4,
+            "tpa": 14,
+            "tpm": 6,
+            "tpp": "42.9",
+            "turnovers": 1
+        },
+        {
+            "assists": 0,
+            "blocks": 0,
+            "comment": null,
+            "defReb": 0,
+            "fga": 3,
+            "fgm": 0,
+            "fgp": "0",
+            "fta": 4,
+            "ftm": 3,
+            "ftp": "75.0",
+            "game": {
+                "id": 13708
+            },
+            "min": "14",
+            "offReb": 1,
+            "pFouls": 3,
+            "player": {
+                "firstname": "Jalen",
+                "id": 1880,
+                "lastname": "McDaniels"
+            },
+            "plusMinus": "0",
+            "points": 3,
+            "pos": "PF",
+            "steals": 1,
+            "team": {
+                "code": "TOR",
+                "id": 38,
+                "logo": "https://upload.wikimedia.org/wikipedia/fr/8/89/Raptors2015.png",
+                "name": "Toronto Raptors",
+                "nickname": "Raptors"
+            },
+            "totReb": 1,
+            "tpa": 1,
+            "tpm": 0,
+            "tpp": "0",
+            "turnovers": 0
+        },
+        {
+            "assists": 1,
+            "blocks": 3,
+            "comment": null,
+            "defReb": 3,
+            "fga": 7,
+            "fgm": 1,
+            "fgp": "14.3",
+            "fta": 1,
+            "ftm": 1,
+            "ftp": "100.0",
+            "game": {
+                "id": 13708
+            },
+            "min": "23",
+            "offReb": 1,
+            "pFouls": 4,
+            "player": {
+                "firstname": "Mouhamadou",
+                "id": 3445,
+                "lastname": "Gueye"
+            },
+            "plusMinus": "-4",
+            "points": 3,
+            "pos": "F",
+            "steals": 1,
+            "team": {
+                "code": "TOR",
+                "id": 38,
+                "logo": "https://upload.wikimedia.org/wikipedia/fr/8/89/Raptors2015.png",
+                "name": "Toronto Raptors",
+                "nickname": "Raptors"
+            },
+            "totReb": 4,
+            "tpa": 0,
+            "tpm": 0,
+            "tpp": "0",
+            "turnovers": 0
+        },
+        {
+            "assists": 2,
+            "blocks": 1,
+            "comment": null,
+            "defReb": 3,
+            "fga": 10,
+            "fgm": 4,
+            "fgp": "40.0",
+            "fta": 2,
+            "ftm": 1,
+            "ftp": "50.0",
+            "game": {
+                "id": 13708
+            },
+            "min": "18",
+            "offReb": 1,
+            "pFouls": 1,
+            "player": {
+                "firstname": "Jordan",
+                "id": 2628,
+                "lastname": "Nwora"
+            },
+            "plusMinus": "-6",
+            "points": 11,
+            "pos": "SF",
+            "steals": 0,
+            "team": {
+                "code": "TOR",
+                "id": 38,
+                "logo": "https://upload.wikimedia.org/wikipedia/fr/8/89/Raptors2015.png",
+                "name": "Toronto Raptors",
+                "nickname": "Raptors"
+            },
+            "totReb": 4,
+            "tpa": 5,
+            "tpm": 2,
+            "tpp": "40.0",
+            "turnovers": 0
+        },
+        {
+            "assists": 1,
+            "blocks": 0,
+            "comment": null,
+            "defReb": 3,
+            "fga": 8,
+            "fgm": 4,
+            "fgp": "50.0",
+            "fta": 2,
+            "ftm": 2,
+            "ftp": "100.0",
+            "game": {
+                "id": 13708
+            },
+            "min": "24",
+            "offReb": 1,
+            "pFouls": 0,
+            "player": {
+                "firstname": "Javon",
+                "id": 3440,
+                "lastname": "Freeman-Liberty"
+            },
+            "plusMinus": "+2",
+            "points": 12,
+            "pos": "G",
+            "steals": 1,
+            "team": {
+                "code": "TOR",
+                "id": 38,
+                "logo": "https://upload.wikimedia.org/wikipedia/fr/8/89/Raptors2015.png",
+                "name": "Toronto Raptors",
+                "nickname": "Raptors"
+            },
+            "totReb": 4,
+            "tpa": 4,
+            "tpm": 2,
+            "tpp": "50.0",
+            "turnovers": 0
+        },
+        {
+            "assists": 6,
+            "blocks": 0,
+            "comment": null,
+            "defReb": 8,
+            "fga": 7,
+            "fgm": 3,
+            "fgp": "42.9",
+            "fta": 2,
+            "ftm": 2,
+            "ftp": "100.0",
+            "game": {
+                "id": 13724
+            },
+            "min": "25",
+            "offReb": 3,
+            "pFouls": 3,
+            "player": {
+                "firstname": "Kelly",
+                "id": 404,
+                "lastname": "Olynyk"
+            },
+            "plusMinus": "-1",
+            "points": 8,
+            "pos": "PF",
+            "steals": 0,
+            "team": {
+                "code": "TOR",
+                "id": 38,
+                "logo": "https://upload.wikimedia.org/wikipedia/fr/8/89/Raptors2015.png",
+                "name": "Toronto Raptors",
+                "nickname": "Raptors"
+            },
+            "totReb": 11,
+            "tpa": 0,
+            "tpm": 0,
+            "tpp": "0",
+            "turnovers": 4
+        },
+        {
+            "assists": 1,
+            "blocks": 0,
+            "comment": null,
+            "defReb": 1,
+            "fga": 13,
+            "fgm": 3,
+            "fgp": "23.1",
+            "fta": 0,
+            "ftm": 0,
+            "ftp": "0",
+            "game": {
+                "id": 13724
+            },
+            "min": "29",
+            "offReb": 0,
+            "pFouls": 2,
+            "player": {
+                "firstname": "Gary",
+                "id": 1058,
+                "lastname": "Trent Jr."
+            },
+            "plusMinus": "-5",
+            "points": 7,
+            "pos": "SG",
+            "steals": 0,
+            "team": {
+                "code": "TOR",
+                "id": 38,
+                "logo": "https://upload.wikimedia.org/wikipedia/fr/8/89/Raptors2015.png",
+                "name": "Toronto Raptors",
+                "nickname": "Raptors"
+            },
+            "totReb": 1,
+            "tpa": 7,
+            "tpm": 1,
+            "tpp": "14.3",
+            "turnovers": 1
+        },
+        {
+            "assists": 3,
+            "blocks": 0,
+            "comment": null,
+            "defReb": 10,
+            "fga": 18,
+            "fgm": 13,
+            "fgp": "72.2",
+            "fta": 10,
+            "ftm": 8,
+            "ftp": "80.0",
+            "game": {
+                "id": 13724
+            },
+            "min": "33",
+            "offReb": 1,
+            "pFouls": 3,
+            "player": {
+                "firstname": "RJ",
+                "id": 1846,
+                "lastname": "Barrett"
+            },
+            "plusMinus": "-9",
+            "points": 35,
+            "pos": "SG",
+            "steals": 0,
+            "team": {
+                "code": "TOR",
+                "id": 38,
+                "logo": "https://upload.wikimedia.org/wikipedia/fr/8/89/Raptors2015.png",
+                "name": "Toronto Raptors",
+                "nickname": "Raptors"
+            },
+            "totReb": 11,
+            "tpa": 4,
+            "tpm": 1,
+            "tpp": "25.0",
+            "turnovers": 3
+        },
+        {
+            "assists": 5,
+            "blocks": 0,
+            "comment": null,
+            "defReb": 4,
+            "fga": 11,
+            "fgm": 4,
+            "fgp": "36.4",
+            "fta": 4,
+            "ftm": 4,
+            "ftp": "100.0",
+            "game": {
+                "id": 13724
+            },
+            "min": "30",
+            "offReb": 0,
+            "pFouls": 4,
+            "player": {
+                "firstname": "Immanuel",
+                "id": 2636,
+                "lastname": "Quickley"
+            },
+            "plusMinus": "-15",
+            "points": 15,
+            "pos": "SG",
+            "steals": 0,
+            "team": {
+                "code": "TOR",
+                "id": 38,
+                "logo": "https://upload.wikimedia.org/wikipedia/fr/8/89/Raptors2015.png",
+                "name": "Toronto Raptors",
+                "nickname": "Raptors"
+            },
+            "totReb": 4,
+            "tpa": 7,
+            "tpm": 3,
+            "tpp": "42.9",
+            "turnovers": 3
+        },
+        {
+            "assists": 0,
+            "blocks": 0,
+            "comment": null,
+            "defReb": 1,
+            "fga": 7,
+            "fgm": 3,
+            "fgp": "42.9",
+            "fta": 0,
+            "ftm": 0,
+            "ftp": "0",
+            "game": {
+                "id": 13724
+            },
+            "min": "31",
+            "offReb": 0,
+            "pFouls": 0,
+            "player": {
+                "firstname": "Gradey",
+                "id": 4027,
+                "lastname": "Dick"
+            },
+            "plusMinus": "-3",
+            "points": 8,
+            "pos": "G",
+            "steals": 0,
+            "team": {
+                "code": "TOR",
+                "id": 38,
+                "logo": "https://upload.wikimedia.org/wikipedia/fr/8/89/Raptors2015.png",
+                "name": "Toronto Raptors",
+                "nickname": "Raptors"
+            },
+            "totReb": 1,
+            "tpa": 5,
+            "tpm": 2,
+            "tpp": "40.0",
+            "turnovers": 0
+        },
+        {
+            "assists": 0,
+            "blocks": 0,
+            "comment": null,
+            "defReb": 1,
+            "fga": 3,
+            "fgm": 2,
+            "fgp": "66.7",
+            "fta": 2,
+            "ftm": 1,
+            "ftp": "50.0",
+            "game": {
+                "id": 13724
+            },
+            "min": "8",
+            "offReb": 1,
+            "pFouls": 1,
+            "player": {
+                "firstname": "Garrett",
+                "id": 507,
+                "lastname": "Temple"
+            },
+            "plusMinus": "-6",
+            "points": 5,
+            "pos": "SF",
+            "steals": 0,
+            "team": {
+                "code": "TOR",
+                "id": 38,
+                "logo": "https://upload.wikimedia.org/wikipedia/fr/8/89/Raptors2015.png",
+                "name": "Toronto Raptors",
+                "nickname": "Raptors"
+            },
+            "totReb": 2,
+            "tpa": 1,
+            "tpm": 0,
+            "tpp": "0",
+            "turnovers": 0
+        },
+        {
+            "assists": 4,
+            "blocks": 0,
+            "comment": null,
+            "defReb": 4,
+            "fga": 6,
+            "fgm": 5,
+            "fgp": "83.3",
+            "fta": 2,
+            "ftm": 2,
+            "ftp": "100.0",
+            "game": {
+                "id": 13724
+            },
+            "min": "22",
+            "offReb": 0,
+            "pFouls": 3,
+            "player": {
+                "firstname": "Bruce",
+                "id": 944,
+                "lastname": "Brown"
+            },
+            "plusMinus": "-22",
+            "points": 14,
+            "pos": "SF",
+            "steals": 0,
+            "team": {
+                "code": "TOR",
+                "id": 38,
+                "logo": "https://upload.wikimedia.org/wikipedia/fr/8/89/Raptors2015.png",
+                "name": "Toronto Raptors",
+                "nickname": "Raptors"
+            },
+            "totReb": 4,
+            "tpa": 2,
+            "tpm": 2,
+            "tpp": "100.0",
+            "turnovers": 2
+        },
+        {
+            "assists": 0,
+            "blocks": 0,
+            "comment": null,
+            "defReb": 1,
+            "fga": 0,
+            "fgm": 0,
+            "fgp": "0",
+            "fta": 0,
+            "ftm": 0,
+            "ftp": "0",
+            "game": {
+                "id": 13724
+            },
+            "min": "4",
+            "offReb": 0,
+            "pFouls": 0,
+            "player": {
+                "firstname": "Jordan",
+                "id": 2628,
+                "lastname": "Nwora"
+            },
+            "plusMinus": "0",
+            "points": 0,
+            "pos": "SF",
+            "steals": 0,
+            "team": {
+                "code": "TOR",
+                "id": 38,
+                "logo": "https://upload.wikimedia.org/wikipedia/fr/8/89/Raptors2015.png",
+                "name": "Toronto Raptors",
+                "nickname": "Raptors"
+            },
+            "totReb": 1,
+            "tpa": 0,
+            "tpm": 0,
+            "tpp": "0",
+            "turnovers": 1
+        },
+        {
+            "assists": 0,
+            "blocks": 0,
+            "comment": null,
+            "defReb": 2,
+            "fga": 2,
+            "fgm": 0,
+            "fgp": "0",
+            "fta": 0,
+            "ftm": 0,
+            "ftp": "0",
+            "game": {
+                "id": 13724
+            },
+            "min": "19",
+            "offReb": 2,
+            "pFouls": 3,
+            "player": {
+                "firstname": "M.",
+                "id": 4089,
+                "lastname": "Williams"
+            },
+            "plusMinus": "-15",
+            "points": 0,
+            "pos": "C",
+            "steals": 0,
+            "team": {
+                "code": "TOR",
+                "id": 38,
+                "logo": "https://upload.wikimedia.org/wikipedia/fr/8/89/Raptors2015.png",
+                "name": "Toronto Raptors",
+                "nickname": "Raptors"
+            },
+            "totReb": 4,
+            "tpa": 0,
+            "tpm": 0,
+            "tpp": "0",
+            "turnovers": 1
+        },
+        {
+            "assists": 2,
+            "blocks": 1,
+            "comment": null,
+            "defReb": 1,
+            "fga": 5,
+            "fgm": 3,
+            "fgp": "60.0",
+            "fta": 0,
+            "ftm": 0,
+            "ftp": "0",
+            "game": {
+                "id": 13724
+            },
+            "min": "25",
+            "offReb": 0,
+            "pFouls": 1,
+            "player": {
+                "firstname": "Ochai",
+                "id": 3411,
+                "lastname": "Agbaji"
+            },
+            "plusMinus": "-28",
+            "points": 7,
+            "pos": "G",
+            "steals": 1,
+            "team": {
+                "code": "TOR",
+                "id": 38,
+                "logo": "https://upload.wikimedia.org/wikipedia/fr/8/89/Raptors2015.png",
+                "name": "Toronto Raptors",
+                "nickname": "Raptors"
+            },
+            "totReb": 1,
+            "tpa": 2,
+            "tpm": 1,
+            "tpp": "50.0",
+            "turnovers": 0
+        },
+        {
+            "assists": 2,
+            "blocks": 0,
+            "comment": null,
+            "defReb": 1,
+            "fga": 5,
+            "fgm": 1,
+            "fgp": "20.0",
+            "fta": 2,
+            "ftm": 2,
+            "ftp": "100.0",
+            "game": {
+                "id": 13724
+            },
+            "min": "15",
+            "offReb": 0,
+            "pFouls": 1,
+            "player": {
+                "firstname": "Javon",
+                "id": 3440,
+                "lastname": "Freeman-Liberty"
+            },
+            "plusMinus": "-6",
+            "points": 4,
+            "pos": "G",
+            "steals": 0,
+            "team": {
+                "code": "TOR",
+                "id": 38,
+                "logo": "https://upload.wikimedia.org/wikipedia/fr/8/89/Raptors2015.png",
+                "name": "Toronto Raptors",
+                "nickname": "Raptors"
+            },
+            "totReb": 1,
+            "tpa": 3,
+            "tpm": 0,
+            "tpp": "0",
+            "turnovers": 2
+        },
+        {
+            "assists": 2,
+            "blocks": 0,
+            "comment": null,
+            "defReb": 7,
+            "fga": 9,
+            "fgm": 5,
+            "fgp": "55.6",
+            "fta": 0,
+            "ftm": 0,
+            "ftp": "0",
+            "game": {
+                "id": 13737
+            },
+            "min": "22",
+            "offReb": 1,
+            "pFouls": 4,
+            "player": {
+                "firstname": "Kelly",
+                "id": 404,
+                "lastname": "Olynyk"
+            },
+            "plusMinus": "-13",
+            "points": 11,
+            "pos": "PF",
+            "steals": 1,
+            "team": {
+                "code": "TOR",
+                "id": 38,
+                "logo": "https://upload.wikimedia.org/wikipedia/fr/8/89/Raptors2015.png",
+                "name": "Toronto Raptors",
+                "nickname": "Raptors"
+            },
+            "totReb": 8,
+            "tpa": 3,
+            "tpm": 1,
+            "tpp": "33.3",
+            "turnovers": 4
+        },
+        {
+            "assists": 1,
+            "blocks": 0,
+            "comment": null,
+            "defReb": 3,
+            "fga": 14,
+            "fgm": 6,
+            "fgp": "42.9",
+            "fta": 3,
+            "ftm": 3,
+            "ftp": "100.0",
+            "game": {
+                "id": 13737
+            },
+            "min": "23",
+            "offReb": 1,
+            "pFouls": 1,
+            "player": {
+                "firstname": "Gary",
+                "id": 1058,
+                "lastname": "Trent Jr."
+            },
+            "plusMinus": "-18",
+            "points": 18,
+            "pos": "SG",
+            "steals": 0,
+            "team": {
+                "code": "TOR",
+                "id": 38,
+                "logo": "https://upload.wikimedia.org/wikipedia/fr/8/89/Raptors2015.png",
+                "name": "Toronto Raptors",
+                "nickname": "Raptors"
+            },
+            "totReb": 4,
+            "tpa": 8,
+            "tpm": 3,
+            "tpp": "37.5",
+            "turnovers": 0
+        },
+        {
+            "assists": 2,
+            "blocks": 1,
+            "comment": null,
+            "defReb": 2,
+            "fga": 11,
+            "fgm": 4,
+            "fgp": "36.4",
+            "fta": 3,
+            "ftm": 2,
+            "ftp": "66.7",
+            "game": {
+                "id": 13737
+            },
+            "min": "33",
+            "offReb": 4,
+            "pFouls": 3,
+            "player": {
+                "firstname": "Ochai",
+                "id": 3411,
+                "lastname": "Agbaji"
+            },
+            "plusMinus": "+1",
+            "points": 10,
+            "pos": "G",
+            "steals": 2,
+            "team": {
+                "code": "TOR",
+                "id": 38,
+                "logo": "https://upload.wikimedia.org/wikipedia/fr/8/89/Raptors2015.png",
+                "name": "Toronto Raptors",
+                "nickname": "Raptors"
+            },
+            "totReb": 6,
+            "tpa": 3,
+            "tpm": 0,
+            "tpp": "0",
+            "turnovers": 4
+        },
+        {
+            "assists": 7,
+            "blocks": 2,
+            "comment": null,
+            "defReb": 0,
+            "fga": 6,
+            "fgm": 3,
+            "fgp": "50.0",
+            "fta": 2,
+            "ftm": 2,
+            "ftp": "100.0",
+            "game": {
+                "id": 13737
+            },
+            "min": "33",
+            "offReb": 1,
+            "pFouls": 1,
+            "player": {
+                "firstname": "Javon",
+                "id": 3440,
+                "lastname": "Freeman-Liberty"
+            },
+            "plusMinus": "+1",
+            "points": 8,
+            "pos": "G",
+            "steals": 0,
+            "team": {
+                "code": "TOR",
+                "id": 38,
+                "logo": "https://upload.wikimedia.org/wikipedia/fr/8/89/Raptors2015.png",
+                "name": "Toronto Raptors",
+                "nickname": "Raptors"
+            },
+            "totReb": 1,
+            "tpa": 2,
+            "tpm": 0,
+            "tpp": "0",
+            "turnovers": 3
+        },
+        {
+            "assists": 1,
+            "blocks": 0,
+            "comment": null,
+            "defReb": 2,
+            "fga": 13,
+            "fgm": 5,
+            "fgp": "38.5",
+            "fta": 4,
+            "ftm": 3,
+            "ftp": "75.0",
+            "game": {
+                "id": 13737
+            },
+            "min": "29",
+            "offReb": 0,
+            "pFouls": 1,
+            "player": {
+                "firstname": "Gradey",
+                "id": 4027,
+                "lastname": "Dick"
+            },
+            "plusMinus": "-16",
+            "points": 14,
+            "pos": "G",
+            "steals": 2,
+            "team": {
+                "code": "TOR",
+                "id": 38,
+                "logo": "https://upload.wikimedia.org/wikipedia/fr/8/89/Raptors2015.png",
+                "name": "Toronto Raptors",
+                "nickname": "Raptors"
+            },
+            "totReb": 2,
+            "tpa": 5,
+            "tpm": 1,
+            "tpp": "20.0",
+            "turnovers": 2
+        },
+        {
+            "assists": 2,
+            "blocks": 0,
+            "comment": null,
+            "defReb": 2,
+            "fga": 7,
+            "fgm": 2,
+            "fgp": "28.6",
+            "fta": 2,
+            "ftm": 2,
+            "ftp": "100.0",
+            "game": {
+                "id": 13737
+            },
+            "min": "23",
+            "offReb": 0,
+            "pFouls": 3,
+            "player": {
+                "firstname": "Jalen",
+                "id": 1880,
+                "lastname": "McDaniels"
+            },
+            "plusMinus": "-1",
+            "points": 7,
+            "pos": "PF",
+            "steals": 1,
+            "team": {
+                "code": "TOR",
+                "id": 38,
+                "logo": "https://upload.wikimedia.org/wikipedia/fr/8/89/Raptors2015.png",
+                "name": "Toronto Raptors",
+                "nickname": "Raptors"
+            },
+            "totReb": 2,
+            "tpa": 2,
+            "tpm": 1,
+            "tpp": "50.0",
+            "turnovers": 2
+        },
+        {
+            "assists": 7,
+            "blocks": 0,
+            "comment": null,
+            "defReb": 1,
+            "fga": 8,
+            "fgm": 1,
+            "fgp": "12.5",
+            "fta": 6,
+            "ftm": 6,
+            "ftp": "100.0",
+            "game": {
+                "id": 13737
+            },
+            "min": "25",
+            "offReb": 2,
+            "pFouls": 3,
+            "player": {
+                "firstname": "Garrett",
+                "id": 507,
+                "lastname": "Temple"
+            },
+            "plusMinus": "+3",
+            "points": 9,
+            "pos": "SF",
+            "steals": 0,
+            "team": {
+                "code": "TOR",
+                "id": 38,
+                "logo": "https://upload.wikimedia.org/wikipedia/fr/8/89/Raptors2015.png",
+                "name": "Toronto Raptors",
+                "nickname": "Raptors"
+            },
+            "totReb": 3,
+            "tpa": 5,
+            "tpm": 1,
+            "tpp": "20.0",
+            "turnovers": 1
+        },
+        {
+            "assists": 0,
+            "blocks": 0,
+            "comment": null,
+            "defReb": 0,
+            "fga": 5,
+            "fgm": 3,
+            "fgp": "60.0",
+            "fta": 1,
+            "ftm": 0,
+            "ftp": "0",
+            "game": {
+                "id": 13737
+            },
+            "min": "20",
+            "offReb": 0,
+            "pFouls": 2,
+            "player": {
+                "firstname": "Bruce",
+                "id": 944,
+                "lastname": "Brown"
+            },
+            "plusMinus": "-16",
+            "points": 6,
+            "pos": "SF",
+            "steals": 0,
+            "team": {
+                "code": "TOR",
+                "id": 38,
+                "logo": "https://upload.wikimedia.org/wikipedia/fr/8/89/Raptors2015.png",
+                "name": "Toronto Raptors",
+                "nickname": "Raptors"
+            },
+            "totReb": 0,
+            "tpa": 1,
+            "tpm": 0,
+            "tpp": "0",
+            "turnovers": 1
+        },
+        {
+            "assists": 1,
+            "blocks": 0,
+            "comment": null,
+            "defReb": 9,
+            "fga": 10,
+            "fgm": 6,
+            "fgp": "60.0",
+            "fta": 0,
+            "ftm": 0,
+            "ftp": "0",
+            "game": {
+                "id": 13737
+            },
+            "min": "21",
+            "offReb": 2,
+            "pFouls": 1,
+            "player": {
+                "firstname": "Jordan",
+                "id": 2628,
+                "lastname": "Nwora"
+            },
+            "plusMinus": "-4",
+            "points": 14,
+            "pos": "SF",
+            "steals": 0,
+            "team": {
+                "code": "TOR",
+                "id": 38,
+                "logo": "https://upload.wikimedia.org/wikipedia/fr/8/89/Raptors2015.png",
+                "name": "Toronto Raptors",
+                "nickname": "Raptors"
+            },
+            "totReb": 11,
+            "tpa": 4,
+            "tpm": 2,
+            "tpp": "50.0",
+            "turnovers": 2
+        },
+        {
+            "assists": 0,
+            "blocks": 0,
+            "comment": null,
+            "defReb": 2,
+            "fga": 7,
+            "fgm": 3,
+            "fgp": "42.9",
+            "fta": 0,
+            "ftm": 0,
+            "ftp": "0",
+            "game": {
+                "id": 13737
+            },
+            "min": "11",
+            "offReb": 2,
+            "pFouls": 2,
+            "player": {
+                "firstname": "M.",
+                "id": 4089,
+                "lastname": "Williams"
+            },
+            "plusMinus": "-12",
+            "points": 6,
+            "pos": "C",
+            "steals": 0,
+            "team": {
+                "code": "TOR",
+                "id": 38,
+                "logo": "https://upload.wikimedia.org/wikipedia/fr/8/89/Raptors2015.png",
+                "name": "Toronto Raptors",
+                "nickname": "Raptors"
+            },
+            "totReb": 4,
+            "tpa": 1,
+            "tpm": 0,
+            "tpp": "0",
+            "turnovers": 0
         }
     ],
-    "results": 787
+    "results": 903
 }
