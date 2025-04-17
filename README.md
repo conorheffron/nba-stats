@@ -22,11 +22,13 @@ This includes:
 # Version 3
 ### Renewed versions including 2024 data (Analysis in progress)
 
-- https://conorheffron.github.io/nba-stats/part1-V2.html (Part 1 Notebook - download data for analysis via sports API - NBA V2)
-
-- https://conorheffron.github.io/nba-stats/part2-download-data-V3.htnml (Part 2 Notebook - read & clean raw data stored on disk then download processed data into single CSV file `nba-stats-data.csv`)
+- [part1-V2](https://conorheffron.github.io/nba-stats/part1-V2.html) (Part 1 Notebook - download data for analysis via sports API - NBA V2)
 
 - Data used available at `/raw` dir with all teams/seasons data, please contact `conorheffron` to collaborate on this analysis etc.
+
+- [part2-download-data-V3](https://conorheffron.github.io/nba-stats/part2-download-data-V3.html) (Part 2 Notebook - read & clean raw data stored on disk then download processed data into single CSV file `nba-stats-data.csv`)
+
 - Intermediary file format to speed up development/analysis phase available in root folder at `./nba-stats-data.csv`
 
-- https://conorheffron.github.io/nba-stats/part3-analysis-V3.html (Part 3 Notebook - Analyse & visualise data stored in single CSV file from part 2 notebook.)
+- [part3-analysis-V3](https://conorheffron.github.io/nba-stats/part3-analysis-V3.html) (Part 3 Notebook - Analyse & visualise data stored in single CSV file from part 2 notebook.)
+
