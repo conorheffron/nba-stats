@@ -17,13 +17,17 @@
 # Version 2
 ### Bug fixes, formatting, & other updates to final analysis (part 2).
 
+- [part1-V2](https://conorheffron.github.io/nba-stats/part1-V2.html) (Part 1 Notebook - download data for analysis via sports API - NBA V2)
+
+- Data used available at `/raw` dir with all teams/seasons data, please contact `conorheffron` to collaborate on this analysis etc.
+
 - [part2-V2.ipynb](https://conorheffron.github.io/nba-stats/part2-V2.html) (Part 2 Notebook - read, clean, analyse and visualise data stored on disk)
 
 
 # Version 3
 ### Renewed versions including 2024 NBA games/players data.
 
-- [part1-V2](https://conorheffron.github.io/nba-stats/part1-V2.html) (Part 1 Notebook - download data for analysis via sports API - NBA V2)
+- [part1-V3](https://conorheffron.github.io/nba-stats/part1-V3.html) (Part 1 Notebook - download data for analysis via sports API - NBA V2)
 
 - Data used available at `/raw` dir with all teams/seasons data, please contact `conorheffron` to collaborate on this analysis etc.
 
@@ -32,4 +36,3 @@
 - Intermediary file format to speed up development/analysis phase available in root folder at `./nba-stats-data.csv`
 
 - [part3-analysis-V3](https://conorheffron.github.io/nba-stats/part3-analysis-V3.html) (Part 3 Notebook - Analyse & visualise data stored in single CSV file from part 2 notebook)
-
