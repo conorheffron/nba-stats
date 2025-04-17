@@ -27,7 +27,7 @@
 
 - Data used available at `/raw` dir with all teams/seasons data, please contact `conorheffron` to collaborate on this analysis etc.
 
-- [part2-download-data-V3](https://conorheffron.github.io/nba-stats/part2-download-data-V3.html) (Part 2 Notebook - read & clean raw data stored on disk then download processed data into single CSV file `nba-stats-data.csv`)
+- [part2-download-data-V3](https://conorheffron.github.io/nba-stats/part2-download-data-V3.html) (Part 2 Notebook - read & clean raw data stored on disk then download processed data into single CSV file)
 
 - Intermediary file format to speed up development/analysis phase available in root folder at `./nba-stats-data.csv`
 
