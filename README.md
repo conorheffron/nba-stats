@@ -30,5 +30,5 @@ This includes:
 
 - Intermediary file format to speed up development/analysis phase available in root folder at `./nba-stats-data.csv`
 
-- [part3-analysis-V3](https://conorheffron.github.io/nba-stats/part3-analysis-V3.html) (Part 3 Notebook - Analyse & visualise data stored in single CSV file from part 2 notebook.)
+- [part3-analysis-V3](https://conorheffron.github.io/nba-stats/part3-analysis-V3.html) (Part 3 Notebook - Analyse & visualise data stored in single CSV file from part 2 notebook)
 
