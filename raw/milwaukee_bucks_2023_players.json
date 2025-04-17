@@ -291,6 +291,47 @@
                 "date": null
             },
             "college": null,
+            "firstname": "Ryan",
+            "height": {
+                "feets": null,
+                "inches": null,
+                "meters": null
+            },
+            "id": 3484,
+            "lastname": "Rollins",
+            "leagues": {
+                "sacramento": {
+                    "active": true,
+                    "jersey": 2,
+                    "pos": "G"
+                },
+                "standard": {
+                    "active": true,
+                    "jersey": 2,
+                    "pos": "G"
+                },
+                "vegas": {
+                    "active": true,
+                    "jersey": 2,
+                    "pos": "G"
+                }
+            },
+            "nba": {
+                "pro": 0,
+                "start": 0
+            },
+            "weight": {
+                "kilograms": null,
+                "pounds": null
+            }
+        },
+        {
+            "affiliation": null,
+            "birth": {
+                "country": null,
+                "date": null
+            },
+            "college": null,
             "firstname": "A.J.",
             "height": {
                 "feets": null,
@@ -765,5 +806,5 @@
             }
         }
     ],
-    "results": 23
+    "results": 24
 }

@@ -156,6 +156,37 @@
             }
         },
         {
+            "affiliation": "Radford/USA",
+            "birth": {
+                "country": "USA",
+                "date": "1993-07-23"
+            },
+            "college": "Radford",
+            "firstname": "Javonte",
+            "height": {
+                "feets": "6",
+                "inches": "5",
+                "meters": "1.96"
+            },
+            "id": 2404,
+            "lastname": "Green",
+            "leagues": {
+                "standard": {
+                    "active": true,
+                    "jersey": 24,
+                    "pos": "G-F"
+                }
+            },
+            "nba": {
+                "pro": 2,
+                "start": 2019
+            },
+            "weight": {
+                "kilograms": "93.0",
+                "pounds": "205"
+            }
+        },
+        {
             "affiliation": "Florida State/USA",
             "birth": {
                 "country": "USA",
@@ -718,5 +749,5 @@
             }
         }
     ],
-    "results": 21
+    "results": 22
 }

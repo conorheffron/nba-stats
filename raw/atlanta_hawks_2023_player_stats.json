@@ -28670,7 +28670,5779 @@
             "tpm": 0,
             "tpp": "0",
             "turnovers": 1
+        },
+        {
+            "assists": 1,
+            "blocks": 0,
+            "comment": null,
+            "defReb": 4,
+            "fga": 13,
+            "fgm": 5,
+            "fgp": "38.5",
+            "fta": 10,
+            "ftm": 9,
+            "ftp": "90.0",
+            "game": {
+                "id": 13558
+            },
+            "min": "34",
+            "offReb": 0,
+            "pFouls": 2,
+            "player": {
+                "firstname": "De'Andre",
+                "id": 1868,
+                "lastname": "Hunter"
+            },
+            "plusMinus": "+3",
+            "points": 22,
+            "pos": "SF",
+            "steals": 2,
+            "team": {
+                "code": "ATL",
+                "id": 1,
+                "logo": "https://upload.wikimedia.org/wikipedia/fr/e/ee/Hawks_2016.png",
+                "name": "Atlanta Hawks",
+                "nickname": "Hawks"
+            },
+            "totReb": 4,
+            "tpa": 7,
+            "tpm": 3,
+            "tpp": "42.9",
+            "turnovers": 1
+        },
+        {
+            "assists": 2,
+            "blocks": 2,
+            "comment": null,
+            "defReb": 5,
+            "fga": 10,
+            "fgm": 5,
+            "fgp": "50.0",
+            "fta": 5,
+            "ftm": 3,
+            "ftp": "60.0",
+            "game": {
+                "id": 13558
+            },
+            "min": "25",
+            "offReb": 5,
+            "pFouls": 2,
+            "player": {
+                "firstname": "Clint",
+                "id": 92,
+                "lastname": "Capela"
+            },
+            "plusMinus": "+12",
+            "points": 13,
+            "pos": "C",
+            "steals": 0,
+            "team": {
+                "code": "ATL",
+                "id": 1,
+                "logo": "https://upload.wikimedia.org/wikipedia/fr/e/ee/Hawks_2016.png",
+                "name": "Atlanta Hawks",
+                "nickname": "Hawks"
+            },
+            "totReb": 10,
+            "tpa": 0,
+            "tpm": 0,
+            "tpp": "0",
+            "turnovers": 0
+        },
+        {
+            "assists": 3,
+            "blocks": 0,
+            "comment": null,
+            "defReb": 1,
+            "fga": 13,
+            "fgm": 6,
+            "fgp": "46.2",
+            "fta": 1,
+            "ftm": 0,
+            "ftp": "0",
+            "game": {
+                "id": 13558
+            },
+            "min": "36",
+            "offReb": 1,
+            "pFouls": 3,
+            "player": {
+                "firstname": "Bogdan",
+                "id": 743,
+                "lastname": "Bogdanovic"
+            },
+            "plusMinus": "-17",
+            "points": 16,
+            "pos": "SG",
+            "steals": 1,
+            "team": {
+                "code": "ATL",
+                "id": 1,
+                "logo": "https://upload.wikimedia.org/wikipedia/fr/e/ee/Hawks_2016.png",
+                "name": "Atlanta Hawks",
+                "nickname": "Hawks"
+            },
+            "totReb": 2,
+            "tpa": 7,
+            "tpm": 4,
+            "tpp": "57.1",
+            "turnovers": 0
+        },
+        {
+            "assists": 10,
+            "blocks": 0,
+            "comment": null,
+            "defReb": 7,
+            "fga": 26,
+            "fgm": 11,
+            "fgp": "42.3",
+            "fta": 5,
+            "ftm": 4,
+            "ftp": "80.0",
+            "game": {
+                "id": 13558
+            },
+            "min": "40",
+            "offReb": 2,
+            "pFouls": 2,
+            "player": {
+                "firstname": "Dejounte",
+                "id": 382,
+                "lastname": "Murray"
+            },
+            "plusMinus": "-5",
+            "points": 29,
+            "pos": "SG",
+            "steals": 4,
+            "team": {
+                "code": "ATL",
+                "id": 1,
+                "logo": "https://upload.wikimedia.org/wikipedia/fr/e/ee/Hawks_2016.png",
+                "name": "Atlanta Hawks",
+                "nickname": "Hawks"
+            },
+            "totReb": 9,
+            "tpa": 10,
+            "tpm": 3,
+            "tpp": "30.0",
+            "turnovers": 5
+        },
+        {
+            "assists": 4,
+            "blocks": 0,
+            "comment": null,
+            "defReb": 1,
+            "fga": 9,
+            "fgm": 4,
+            "fgp": "44.4",
+            "fta": 0,
+            "ftm": 0,
+            "ftp": "0",
+            "game": {
+                "id": 13558
+            },
+            "min": "38",
+            "offReb": 0,
+            "pFouls": 3,
+            "player": {
+                "firstname": "Vit",
+                "id": 2608,
+                "lastname": "Krejci"
+            },
+            "plusMinus": "+8",
+            "points": 9,
+            "pos": "G",
+            "steals": 1,
+            "team": {
+                "code": "ATL",
+                "id": 1,
+                "logo": "https://upload.wikimedia.org/wikipedia/fr/e/ee/Hawks_2016.png",
+                "name": "Atlanta Hawks",
+                "nickname": "Hawks"
+            },
+            "totReb": 1,
+            "tpa": 5,
+            "tpm": 1,
+            "tpp": "20.0",
+            "turnovers": 1
+        },
+        {
+            "assists": 0,
+            "blocks": 0,
+            "comment": null,
+            "defReb": 1,
+            "fga": 2,
+            "fgm": 1,
+            "fgp": "50.0",
+            "fta": 2,
+            "ftm": 2,
+            "ftp": "100.0",
+            "game": {
+                "id": 13558
+            },
+            "min": "4",
+            "offReb": 2,
+            "pFouls": 0,
+            "player": {
+                "firstname": "Bruno",
+                "id": 1858,
+                "lastname": "Fernando"
+            },
+            "plusMinus": "-6",
+            "points": 4,
+            "pos": "PF",
+            "steals": 0,
+            "team": {
+                "code": "ATL",
+                "id": 1,
+                "logo": "https://upload.wikimedia.org/wikipedia/fr/e/ee/Hawks_2016.png",
+                "name": "Atlanta Hawks",
+                "nickname": "Hawks"
+            },
+            "totReb": 3,
+            "tpa": 0,
+            "tpm": 0,
+            "tpp": "0",
+            "turnovers": 0
+        },
+        {
+            "assists": 1,
+            "blocks": 1,
+            "comment": null,
+            "defReb": 2,
+            "fga": 7,
+            "fgm": 4,
+            "fgp": "57.1",
+            "fta": 0,
+            "ftm": 0,
+            "ftp": "0",
+            "game": {
+                "id": 13558
+            },
+            "min": "19",
+            "offReb": 1,
+            "pFouls": 4,
+            "player": {
+                "firstname": "Onyeka",
+                "id": 2629,
+                "lastname": "Okongwu"
+            },
+            "plusMinus": "-19",
+            "points": 8,
+            "pos": "PF",
+            "steals": 1,
+            "team": {
+                "code": "ATL",
+                "id": 1,
+                "logo": "https://upload.wikimedia.org/wikipedia/fr/e/ee/Hawks_2016.png",
+                "name": "Atlanta Hawks",
+                "nickname": "Hawks"
+            },
+            "totReb": 3,
+            "tpa": 1,
+            "tpm": 0,
+            "tpp": "0",
+            "turnovers": 0
+        },
+        {
+            "assists": 0,
+            "blocks": 0,
+            "comment": null,
+            "defReb": 1,
+            "fga": 4,
+            "fgm": 1,
+            "fgp": "25.0",
+            "fta": 0,
+            "ftm": 0,
+            "ftp": "0",
+            "game": {
+                "id": 13558
+            },
+            "min": "14",
+            "offReb": 0,
+            "pFouls": 3,
+            "player": {
+                "firstname": "Wesley",
+                "id": 341,
+                "lastname": "Matthews"
+            },
+            "plusMinus": "-16",
+            "points": 3,
+            "pos": "SG",
+            "steals": 0,
+            "team": {
+                "code": "ATL",
+                "id": 1,
+                "logo": "https://upload.wikimedia.org/wikipedia/fr/e/ee/Hawks_2016.png",
+                "name": "Atlanta Hawks",
+                "nickname": "Hawks"
+            },
+            "totReb": 1,
+            "tpa": 2,
+            "tpm": 1,
+            "tpp": "50.0",
+            "turnovers": 0
+        },
+        {
+            "assists": 2,
+            "blocks": 0,
+            "comment": null,
+            "defReb": 2,
+            "fga": 5,
+            "fgm": 2,
+            "fgp": "40.0",
+            "fta": 6,
+            "ftm": 5,
+            "ftp": "83.3",
+            "game": {
+                "id": 13558
+            },
+            "min": "21",
+            "offReb": 0,
+            "pFouls": 3,
+            "player": {
+                "firstname": "Garrison",
+                "id": 2327,
+                "lastname": "Mathews"
+            },
+            "plusMinus": "-16",
+            "points": 9,
+            "pos": "SG",
+            "steals": 1,
+            "team": {
+                "code": "ATL",
+                "id": 1,
+                "logo": "https://upload.wikimedia.org/wikipedia/fr/e/ee/Hawks_2016.png",
+                "name": "Atlanta Hawks",
+                "nickname": "Hawks"
+            },
+            "totReb": 2,
+            "tpa": 2,
+            "tpm": 0,
+            "tpp": "0",
+            "turnovers": 0
+        },
+        {
+            "assists": 4,
+            "blocks": 0,
+            "comment": null,
+            "defReb": 0,
+            "fga": 2,
+            "fgm": 1,
+            "fgp": "50.0",
+            "fta": 0,
+            "ftm": 0,
+            "ftp": "0",
+            "game": {
+                "id": 13558
+            },
+            "min": "10",
+            "offReb": 1,
+            "pFouls": 1,
+            "player": {
+                "firstname": "Trent",
+                "id": 2589,
+                "lastname": "Forrest"
+            },
+            "plusMinus": "-9",
+            "points": 2,
+            "pos": "G",
+            "steals": 1,
+            "team": {
+                "code": "ATL",
+                "id": 1,
+                "logo": "https://upload.wikimedia.org/wikipedia/fr/e/ee/Hawks_2016.png",
+                "name": "Atlanta Hawks",
+                "nickname": "Hawks"
+            },
+            "totReb": 1,
+            "tpa": 1,
+            "tpm": 0,
+            "tpp": "0",
+            "turnovers": 1
+        },
+        {
+            "assists": 3,
+            "blocks": 0,
+            "comment": null,
+            "defReb": 1,
+            "fga": 14,
+            "fgm": 4,
+            "fgp": "28.6",
+            "fta": 2,
+            "ftm": 2,
+            "ftp": "100.0",
+            "game": {
+                "id": 13569
+            },
+            "min": "28",
+            "offReb": 0,
+            "pFouls": 1,
+            "player": {
+                "firstname": "De'Andre",
+                "id": 1868,
+                "lastname": "Hunter"
+            },
+            "plusMinus": "+21",
+            "points": 11,
+            "pos": "SF",
+            "steals": 0,
+            "team": {
+                "code": "ATL",
+                "id": 1,
+                "logo": "https://upload.wikimedia.org/wikipedia/fr/e/ee/Hawks_2016.png",
+                "name": "Atlanta Hawks",
+                "nickname": "Hawks"
+            },
+            "totReb": 1,
+            "tpa": 8,
+            "tpm": 1,
+            "tpp": "12.5",
+            "turnovers": 0
+        },
+        {
+            "assists": 1,
+            "blocks": 1,
+            "comment": null,
+            "defReb": 5,
+            "fga": 11,
+            "fgm": 5,
+            "fgp": "45.5",
+            "fta": 2,
+            "ftm": 2,
+            "ftp": "100.0",
+            "game": {
+                "id": 13569
+            },
+            "min": "22",
+            "offReb": 5,
+            "pFouls": 0,
+            "player": {
+                "firstname": "Clint",
+                "id": 92,
+                "lastname": "Capela"
+            },
+            "plusMinus": "+22",
+            "points": 12,
+            "pos": "C",
+            "steals": 0,
+            "team": {
+                "code": "ATL",
+                "id": 1,
+                "logo": "https://upload.wikimedia.org/wikipedia/fr/e/ee/Hawks_2016.png",
+                "name": "Atlanta Hawks",
+                "nickname": "Hawks"
+            },
+            "totReb": 10,
+            "tpa": 1,
+            "tpm": 0,
+            "tpp": "0",
+            "turnovers": 0
+        },
+        {
+            "assists": 6,
+            "blocks": 0,
+            "comment": null,
+            "defReb": 2,
+            "fga": 10,
+            "fgm": 5,
+            "fgp": "50.0",
+            "fta": 0,
+            "ftm": 0,
+            "ftp": "0",
+            "game": {
+                "id": 13569
+            },
+            "min": "26",
+            "offReb": 1,
+            "pFouls": 0,
+            "player": {
+                "firstname": "Bogdan",
+                "id": 743,
+                "lastname": "Bogdanovic"
+            },
+            "plusMinus": "+15",
+            "points": 12,
+            "pos": "SG",
+            "steals": 0,
+            "team": {
+                "code": "ATL",
+                "id": 1,
+                "logo": "https://upload.wikimedia.org/wikipedia/fr/e/ee/Hawks_2016.png",
+                "name": "Atlanta Hawks",
+                "nickname": "Hawks"
+            },
+            "totReb": 3,
+            "tpa": 4,
+            "tpm": 2,
+            "tpp": "50.0",
+            "turnovers": 0
+        },
+        {
+            "assists": 12,
+            "blocks": 0,
+            "comment": null,
+            "defReb": 7,
+            "fga": 14,
+            "fgm": 10,
+            "fgp": "71.4",
+            "fta": 1,
+            "ftm": 1,
+            "ftp": "100.0",
+            "game": {
+                "id": 13569
+            },
+            "min": "31",
+            "offReb": 0,
+            "pFouls": 1,
+            "player": {
+                "firstname": "Dejounte",
+                "id": 382,
+                "lastname": "Murray"
+            },
+            "plusMinus": "+23",
+            "points": 28,
+            "pos": "SG",
+            "steals": 4,
+            "team": {
+                "code": "ATL",
+                "id": 1,
+                "logo": "https://upload.wikimedia.org/wikipedia/fr/e/ee/Hawks_2016.png",
+                "name": "Atlanta Hawks",
+                "nickname": "Hawks"
+            },
+            "totReb": 7,
+            "tpa": 9,
+            "tpm": 7,
+            "tpp": "77.8",
+            "turnovers": 4
+        },
+        {
+            "assists": 4,
+            "blocks": 0,
+            "comment": null,
+            "defReb": 4,
+            "fga": 4,
+            "fgm": 3,
+            "fgp": "75.0",
+            "fta": 0,
+            "ftm": 0,
+            "ftp": "0",
+            "game": {
+                "id": 13569
+            },
+            "min": "31",
+            "offReb": 0,
+            "pFouls": 3,
+            "player": {
+                "firstname": "Vit",
+                "id": 2608,
+                "lastname": "Krejci"
+            },
+            "plusMinus": "+28",
+            "points": 9,
+            "pos": "G",
+            "steals": 0,
+            "team": {
+                "code": "ATL",
+                "id": 1,
+                "logo": "https://upload.wikimedia.org/wikipedia/fr/e/ee/Hawks_2016.png",
+                "name": "Atlanta Hawks",
+                "nickname": "Hawks"
+            },
+            "totReb": 4,
+            "tpa": 4,
+            "tpm": 3,
+            "tpp": "75.0",
+            "turnovers": 2
+        },
+        {
+            "assists": 1,
+            "blocks": 1,
+            "comment": null,
+            "defReb": 2,
+            "fga": 14,
+            "fgm": 11,
+            "fgp": "78.6",
+            "fta": 4,
+            "ftm": 3,
+            "ftp": "75.0",
+            "game": {
+                "id": 13569
+            },
+            "min": "26",
+            "offReb": 4,
+            "pFouls": 4,
+            "player": {
+                "firstname": "Bruno",
+                "id": 1858,
+                "lastname": "Fernando"
+            },
+            "plusMinus": "+19",
+            "points": 25,
+            "pos": "PF",
+            "steals": 1,
+            "team": {
+                "code": "ATL",
+                "id": 1,
+                "logo": "https://upload.wikimedia.org/wikipedia/fr/e/ee/Hawks_2016.png",
+                "name": "Atlanta Hawks",
+                "nickname": "Hawks"
+            },
+            "totReb": 6,
+            "tpa": 1,
+            "tpm": 0,
+            "tpp": "0",
+            "turnovers": 0
+        },
+        {
+            "assists": 0,
+            "blocks": 2,
+            "comment": null,
+            "defReb": 4,
+            "fga": 5,
+            "fgm": 2,
+            "fgp": "40.0",
+            "fta": 0,
+            "ftm": 0,
+            "ftp": "0",
+            "game": {
+                "id": 13569
+            },
+            "min": "13",
+            "offReb": 0,
+            "pFouls": 1,
+            "player": {
+                "firstname": "Wesley",
+                "id": 341,
+                "lastname": "Matthews"
+            },
+            "plusMinus": "+11",
+            "points": 6,
+            "pos": "SG",
+            "steals": 1,
+            "team": {
+                "code": "ATL",
+                "id": 1,
+                "logo": "https://upload.wikimedia.org/wikipedia/fr/e/ee/Hawks_2016.png",
+                "name": "Atlanta Hawks",
+                "nickname": "Hawks"
+            },
+            "totReb": 4,
+            "tpa": 4,
+            "tpm": 2,
+            "tpp": "50.0",
+            "turnovers": 0
+        },
+        {
+            "assists": 2,
+            "blocks": 1,
+            "comment": null,
+            "defReb": 3,
+            "fga": 8,
+            "fgm": 6,
+            "fgp": "75.0",
+            "fta": 5,
+            "ftm": 4,
+            "ftp": "80.0",
+            "game": {
+                "id": 13569
+            },
+            "min": "27",
+            "offReb": 0,
+            "pFouls": 3,
+            "player": {
+                "firstname": "Garrison",
+                "id": 2327,
+                "lastname": "Mathews"
+            },
+            "plusMinus": "+31",
+            "points": 20,
+            "pos": "SG",
+            "steals": 0,
+            "team": {
+                "code": "ATL",
+                "id": 1,
+                "logo": "https://upload.wikimedia.org/wikipedia/fr/e/ee/Hawks_2016.png",
+                "name": "Atlanta Hawks",
+                "nickname": "Hawks"
+            },
+            "totReb": 3,
+            "tpa": 6,
+            "tpm": 4,
+            "tpp": "66.7",
+            "turnovers": 0
+        },
+        {
+            "assists": 2,
+            "blocks": 0,
+            "comment": null,
+            "defReb": 3,
+            "fga": 5,
+            "fgm": 2,
+            "fgp": "40.0",
+            "fta": 0,
+            "ftm": 0,
+            "ftp": "0",
+            "game": {
+                "id": 13569
+            },
+            "min": "19",
+            "offReb": 1,
+            "pFouls": 1,
+            "player": {
+                "firstname": "Dylan",
+                "id": 1903,
+                "lastname": "Windler"
+            },
+            "plusMinus": "+17",
+            "points": 5,
+            "pos": "G",
+            "steals": 1,
+            "team": {
+                "code": "ATL",
+                "id": 1,
+                "logo": "https://upload.wikimedia.org/wikipedia/fr/e/ee/Hawks_2016.png",
+                "name": "Atlanta Hawks",
+                "nickname": "Hawks"
+            },
+            "totReb": 4,
+            "tpa": 4,
+            "tpm": 1,
+            "tpp": "25.0",
+            "turnovers": 1
+        },
+        {
+            "assists": 9,
+            "blocks": 0,
+            "comment": null,
+            "defReb": 1,
+            "fga": 5,
+            "fgm": 2,
+            "fgp": "40.0",
+            "fta": 0,
+            "ftm": 0,
+            "ftp": "0",
+            "game": {
+                "id": 13569
+            },
+            "min": "17",
+            "offReb": 0,
+            "pFouls": 0,
+            "player": {
+                "firstname": "Trent",
+                "id": 2589,
+                "lastname": "Forrest"
+            },
+            "plusMinus": "+18",
+            "points": 4,
+            "pos": "G",
+            "steals": 2,
+            "team": {
+                "code": "ATL",
+                "id": 1,
+                "logo": "https://upload.wikimedia.org/wikipedia/fr/e/ee/Hawks_2016.png",
+                "name": "Atlanta Hawks",
+                "nickname": "Hawks"
+            },
+            "totReb": 1,
+            "tpa": 1,
+            "tpm": 0,
+            "tpp": "0",
+            "turnovers": 1
+        },
+        {
+            "assists": 3,
+            "blocks": 0,
+            "comment": null,
+            "defReb": 4,
+            "fga": 14,
+            "fgm": 8,
+            "fgp": "57.1",
+            "fta": 4,
+            "ftm": 4,
+            "ftp": "100.0",
+            "game": {
+                "id": 13582
+            },
+            "min": "34",
+            "offReb": 3,
+            "pFouls": 3,
+            "player": {
+                "firstname": "De'Andre",
+                "id": 1868,
+                "lastname": "Hunter"
+            },
+            "plusMinus": "+2",
+            "points": 24,
+            "pos": "SF",
+            "steals": 0,
+            "team": {
+                "code": "ATL",
+                "id": 1,
+                "logo": "https://upload.wikimedia.org/wikipedia/fr/e/ee/Hawks_2016.png",
+                "name": "Atlanta Hawks",
+                "nickname": "Hawks"
+            },
+            "totReb": 7,
+            "tpa": 8,
+            "tpm": 4,
+            "tpp": "50.0",
+            "turnovers": 2
+        },
+        {
+            "assists": 3,
+            "blocks": 2,
+            "comment": null,
+            "defReb": 7,
+            "fga": 10,
+            "fgm": 6,
+            "fgp": "60.0",
+            "fta": 4,
+            "ftm": 2,
+            "ftp": "50.0",
+            "game": {
+                "id": 13582
+            },
+            "min": "29",
+            "offReb": 5,
+            "pFouls": 3,
+            "player": {
+                "firstname": "Clint",
+                "id": 92,
+                "lastname": "Capela"
+            },
+            "plusMinus": "+6",
+            "points": 14,
+            "pos": "C",
+            "steals": 0,
+            "team": {
+                "code": "ATL",
+                "id": 1,
+                "logo": "https://upload.wikimedia.org/wikipedia/fr/e/ee/Hawks_2016.png",
+                "name": "Atlanta Hawks",
+                "nickname": "Hawks"
+            },
+            "totReb": 12,
+            "tpa": 0,
+            "tpm": 0,
+            "tpp": "0",
+            "turnovers": 1
+        },
+        {
+            "assists": 3,
+            "blocks": 0,
+            "comment": null,
+            "defReb": 4,
+            "fga": 15,
+            "fgm": 8,
+            "fgp": "53.3",
+            "fta": 3,
+            "ftm": 2,
+            "ftp": "66.7",
+            "game": {
+                "id": 13582
+            },
+            "min": "40",
+            "offReb": 0,
+            "pFouls": 3,
+            "player": {
+                "firstname": "Bogdan",
+                "id": 743,
+                "lastname": "Bogdanovic"
+            },
+            "plusMinus": "+7",
+            "points": 22,
+            "pos": "SG",
+            "steals": 1,
+            "team": {
+                "code": "ATL",
+                "id": 1,
+                "logo": "https://upload.wikimedia.org/wikipedia/fr/e/ee/Hawks_2016.png",
+                "name": "Atlanta Hawks",
+                "nickname": "Hawks"
+            },
+            "totReb": 4,
+            "tpa": 7,
+            "tpm": 4,
+            "tpp": "57.1",
+            "turnovers": 2
+        },
+        {
+            "assists": 15,
+            "blocks": 0,
+            "comment": null,
+            "defReb": 4,
+            "fga": 22,
+            "fgm": 8,
+            "fgp": "36.4",
+            "fta": 4,
+            "ftm": 1,
+            "ftp": "25.0",
+            "game": {
+                "id": 13582
+            },
+            "min": "41",
+            "offReb": 1,
+            "pFouls": 0,
+            "player": {
+                "firstname": "Dejounte",
+                "id": 382,
+                "lastname": "Murray"
+            },
+            "plusMinus": "+6",
+            "points": 19,
+            "pos": "SG",
+            "steals": 3,
+            "team": {
+                "code": "ATL",
+                "id": 1,
+                "logo": "https://upload.wikimedia.org/wikipedia/fr/e/ee/Hawks_2016.png",
+                "name": "Atlanta Hawks",
+                "nickname": "Hawks"
+            },
+            "totReb": 5,
+            "tpa": 9,
+            "tpm": 2,
+            "tpp": "22.2",
+            "turnovers": 1
+        },
+        {
+            "assists": 2,
+            "blocks": 0,
+            "comment": null,
+            "defReb": 4,
+            "fga": 11,
+            "fgm": 6,
+            "fgp": "54.5",
+            "fta": 0,
+            "ftm": 0,
+            "ftp": "0",
+            "game": {
+                "id": 13582
+            },
+            "min": "33",
+            "offReb": 2,
+            "pFouls": 3,
+            "player": {
+                "firstname": "Vit",
+                "id": 2608,
+                "lastname": "Krejci"
+            },
+            "plusMinus": "-5",
+            "points": 16,
+            "pos": "G",
+            "steals": 1,
+            "team": {
+                "code": "ATL",
+                "id": 1,
+                "logo": "https://upload.wikimedia.org/wikipedia/fr/e/ee/Hawks_2016.png",
+                "name": "Atlanta Hawks",
+                "nickname": "Hawks"
+            },
+            "totReb": 6,
+            "tpa": 7,
+            "tpm": 4,
+            "tpp": "57.1",
+            "turnovers": 3
+        },
+        {
+            "assists": 3,
+            "blocks": 0,
+            "comment": null,
+            "defReb": 1,
+            "fga": 7,
+            "fgm": 6,
+            "fgp": "85.7",
+            "fta": 2,
+            "ftm": 1,
+            "ftp": "50.0",
+            "game": {
+                "id": 13582
+            },
+            "min": "19",
+            "offReb": 2,
+            "pFouls": 3,
+            "player": {
+                "firstname": "Bruno",
+                "id": 1858,
+                "lastname": "Fernando"
+            },
+            "plusMinus": "-4",
+            "points": 13,
+            "pos": "PF",
+            "steals": 0,
+            "team": {
+                "code": "ATL",
+                "id": 1,
+                "logo": "https://upload.wikimedia.org/wikipedia/fr/e/ee/Hawks_2016.png",
+                "name": "Atlanta Hawks",
+                "nickname": "Hawks"
+            },
+            "totReb": 3,
+            "tpa": 0,
+            "tpm": 0,
+            "tpp": "0",
+            "turnovers": 2
+        },
+        {
+            "assists": 0,
+            "blocks": 0,
+            "comment": null,
+            "defReb": 3,
+            "fga": 4,
+            "fgm": 2,
+            "fgp": "50.0",
+            "fta": 0,
+            "ftm": 0,
+            "ftp": "0",
+            "game": {
+                "id": 13582
+            },
+            "min": "17",
+            "offReb": 1,
+            "pFouls": 0,
+            "player": {
+                "firstname": "Wesley",
+                "id": 341,
+                "lastname": "Matthews"
+            },
+            "plusMinus": "+3",
+            "points": 6,
+            "pos": "SG",
+            "steals": 0,
+            "team": {
+                "code": "ATL",
+                "id": 1,
+                "logo": "https://upload.wikimedia.org/wikipedia/fr/e/ee/Hawks_2016.png",
+                "name": "Atlanta Hawks",
+                "nickname": "Hawks"
+            },
+            "totReb": 4,
+            "tpa": 3,
+            "tpm": 2,
+            "tpp": "66.7",
+            "turnovers": 1
+        },
+        {
+            "assists": 0,
+            "blocks": 0,
+            "comment": null,
+            "defReb": 1,
+            "fga": 2,
+            "fgm": 2,
+            "fgp": "100.0",
+            "fta": 0,
+            "ftm": 0,
+            "ftp": "0",
+            "game": {
+                "id": 13582
+            },
+            "min": "19",
+            "offReb": 0,
+            "pFouls": 3,
+            "player": {
+                "firstname": "Garrison",
+                "id": 2327,
+                "lastname": "Mathews"
+            },
+            "plusMinus": "+3",
+            "points": 6,
+            "pos": "SG",
+            "steals": 0,
+            "team": {
+                "code": "ATL",
+                "id": 1,
+                "logo": "https://upload.wikimedia.org/wikipedia/fr/e/ee/Hawks_2016.png",
+                "name": "Atlanta Hawks",
+                "nickname": "Hawks"
+            },
+            "totReb": 1,
+            "tpa": 2,
+            "tpm": 2,
+            "tpp": "100.0",
+            "turnovers": 0
+        },
+        {
+            "assists": 0,
+            "blocks": 0,
+            "comment": null,
+            "defReb": 0,
+            "fga": 0,
+            "fgm": 0,
+            "fgp": "0",
+            "fta": 0,
+            "ftm": 0,
+            "ftp": "0",
+            "game": {
+                "id": 13582
+            },
+            "min": "2",
+            "offReb": 0,
+            "pFouls": 0,
+            "player": {
+                "firstname": "Dylan",
+                "id": 1903,
+                "lastname": "Windler"
+            },
+            "plusMinus": "-4",
+            "points": 0,
+            "pos": "G",
+            "steals": 0,
+            "team": {
+                "code": "ATL",
+                "id": 1,
+                "logo": "https://upload.wikimedia.org/wikipedia/fr/e/ee/Hawks_2016.png",
+                "name": "Atlanta Hawks",
+                "nickname": "Hawks"
+            },
+            "totReb": 0,
+            "tpa": 0,
+            "tpm": 0,
+            "tpp": "0",
+            "turnovers": 0
+        },
+        {
+            "assists": 1,
+            "blocks": 1,
+            "comment": null,
+            "defReb": 1,
+            "fga": 2,
+            "fgm": 0,
+            "fgp": "0",
+            "fta": 0,
+            "ftm": 0,
+            "ftp": "0",
+            "game": {
+                "id": 13582
+            },
+            "min": "7",
+            "offReb": 1,
+            "pFouls": 0,
+            "player": {
+                "firstname": "Trent",
+                "id": 2589,
+                "lastname": "Forrest"
+            },
+            "plusMinus": "-4",
+            "points": 0,
+            "pos": "G",
+            "steals": 0,
+            "team": {
+                "code": "ATL",
+                "id": 1,
+                "logo": "https://upload.wikimedia.org/wikipedia/fr/e/ee/Hawks_2016.png",
+                "name": "Atlanta Hawks",
+                "nickname": "Hawks"
+            },
+            "totReb": 2,
+            "tpa": 0,
+            "tpm": 0,
+            "tpp": "0",
+            "turnovers": 1
+        },
+        {
+            "assists": 1,
+            "blocks": 0,
+            "comment": null,
+            "defReb": 4,
+            "fga": 12,
+            "fgm": 5,
+            "fgp": "41.7",
+            "fta": 2,
+            "ftm": 2,
+            "ftp": "100.0",
+            "game": {
+                "id": 13599
+            },
+            "min": "31",
+            "offReb": 1,
+            "pFouls": 2,
+            "player": {
+                "firstname": "De'Andre",
+                "id": 1868,
+                "lastname": "Hunter"
+            },
+            "plusMinus": "+20",
+            "points": 13,
+            "pos": "SF",
+            "steals": 0,
+            "team": {
+                "code": "ATL",
+                "id": 1,
+                "logo": "https://upload.wikimedia.org/wikipedia/fr/e/ee/Hawks_2016.png",
+                "name": "Atlanta Hawks",
+                "nickname": "Hawks"
+            },
+            "totReb": 5,
+            "tpa": 6,
+            "tpm": 1,
+            "tpp": "16.7",
+            "turnovers": 3
+        },
+        {
+            "assists": 1,
+            "blocks": 3,
+            "comment": null,
+            "defReb": 9,
+            "fga": 5,
+            "fgm": 5,
+            "fgp": "100.0",
+            "fta": 6,
+            "ftm": 3,
+            "ftp": "50.0",
+            "game": {
+                "id": 13599
+            },
+            "min": "27",
+            "offReb": 1,
+            "pFouls": 2,
+            "player": {
+                "firstname": "Clint",
+                "id": 92,
+                "lastname": "Capela"
+            },
+            "plusMinus": "+7",
+            "points": 13,
+            "pos": "C",
+            "steals": 4,
+            "team": {
+                "code": "ATL",
+                "id": 1,
+                "logo": "https://upload.wikimedia.org/wikipedia/fr/e/ee/Hawks_2016.png",
+                "name": "Atlanta Hawks",
+                "nickname": "Hawks"
+            },
+            "totReb": 10,
+            "tpa": 0,
+            "tpm": 0,
+            "tpp": "0",
+            "turnovers": 4
+        },
+        {
+            "assists": 5,
+            "blocks": 0,
+            "comment": null,
+            "defReb": 2,
+            "fga": 16,
+            "fgm": 7,
+            "fgp": "43.8",
+            "fta": 0,
+            "ftm": 0,
+            "ftp": "0",
+            "game": {
+                "id": 13599
+            },
+            "min": "37",
+            "offReb": 2,
+            "pFouls": 1,
+            "player": {
+                "firstname": "Bogdan",
+                "id": 743,
+                "lastname": "Bogdanovic"
+            },
+            "plusMinus": "+19",
+            "points": 16,
+            "pos": "SG",
+            "steals": 3,
+            "team": {
+                "code": "ATL",
+                "id": 1,
+                "logo": "https://upload.wikimedia.org/wikipedia/fr/e/ee/Hawks_2016.png",
+                "name": "Atlanta Hawks",
+                "nickname": "Hawks"
+            },
+            "totReb": 4,
+            "tpa": 7,
+            "tpm": 2,
+            "tpp": "28.6",
+            "turnovers": 0
+        },
+        {
+            "assists": 7,
+            "blocks": 2,
+            "comment": null,
+            "defReb": 3,
+            "fga": 20,
+            "fgm": 13,
+            "fgp": "65.0",
+            "fta": 0,
+            "ftm": 0,
+            "ftp": "0",
+            "game": {
+                "id": 13599
+            },
+            "min": "36",
+            "offReb": 0,
+            "pFouls": 0,
+            "player": {
+                "firstname": "Dejounte",
+                "id": 382,
+                "lastname": "Murray"
+            },
+            "plusMinus": "+13",
+            "points": 30,
+            "pos": "SG",
+            "steals": 2,
+            "team": {
+                "code": "ATL",
+                "id": 1,
+                "logo": "https://upload.wikimedia.org/wikipedia/fr/e/ee/Hawks_2016.png",
+                "name": "Atlanta Hawks",
+                "nickname": "Hawks"
+            },
+            "totReb": 3,
+            "tpa": 8,
+            "tpm": 4,
+            "tpp": "50.0",
+            "turnovers": 1
+        },
+        {
+            "assists": 3,
+            "blocks": 2,
+            "comment": null,
+            "defReb": 3,
+            "fga": 7,
+            "fgm": 3,
+            "fgp": "42.9",
+            "fta": 0,
+            "ftm": 0,
+            "ftp": "0",
+            "game": {
+                "id": 13599
+            },
+            "min": "33",
+            "offReb": 1,
+            "pFouls": 1,
+            "player": {
+                "firstname": "Vit",
+                "id": 2608,
+                "lastname": "Krejci"
+            },
+            "plusMinus": "+11",
+            "points": 7,
+            "pos": "G",
+            "steals": 0,
+            "team": {
+                "code": "ATL",
+                "id": 1,
+                "logo": "https://upload.wikimedia.org/wikipedia/fr/e/ee/Hawks_2016.png",
+                "name": "Atlanta Hawks",
+                "nickname": "Hawks"
+            },
+            "totReb": 4,
+            "tpa": 5,
+            "tpm": 1,
+            "tpp": "20.0",
+            "turnovers": 2
+        },
+        {
+            "assists": 1,
+            "blocks": 2,
+            "comment": null,
+            "defReb": 6,
+            "fga": 4,
+            "fgm": 2,
+            "fgp": "50.0",
+            "fta": 4,
+            "ftm": 3,
+            "ftp": "75.0",
+            "game": {
+                "id": 13599
+            },
+            "min": "21",
+            "offReb": 3,
+            "pFouls": 5,
+            "player": {
+                "firstname": "Bruno",
+                "id": 1858,
+                "lastname": "Fernando"
+            },
+            "plusMinus": "+7",
+            "points": 7,
+            "pos": "PF",
+            "steals": 2,
+            "team": {
+                "code": "ATL",
+                "id": 1,
+                "logo": "https://upload.wikimedia.org/wikipedia/fr/e/ee/Hawks_2016.png",
+                "name": "Atlanta Hawks",
+                "nickname": "Hawks"
+            },
+            "totReb": 9,
+            "tpa": 0,
+            "tpm": 0,
+            "tpp": "0",
+            "turnovers": 5
+        },
+        {
+            "assists": 1,
+            "blocks": 0,
+            "comment": null,
+            "defReb": 2,
+            "fga": 11,
+            "fgm": 5,
+            "fgp": "45.5",
+            "fta": 6,
+            "ftm": 6,
+            "ftp": "100.0",
+            "game": {
+                "id": 13599
+            },
+            "min": "22",
+            "offReb": 0,
+            "pFouls": 6,
+            "player": {
+                "firstname": "Garrison",
+                "id": 2327,
+                "lastname": "Mathews"
+            },
+            "plusMinus": "+4",
+            "points": 21,
+            "pos": "SG",
+            "steals": 0,
+            "team": {
+                "code": "ATL",
+                "id": 1,
+                "logo": "https://upload.wikimedia.org/wikipedia/fr/e/ee/Hawks_2016.png",
+                "name": "Atlanta Hawks",
+                "nickname": "Hawks"
+            },
+            "totReb": 2,
+            "tpa": 9,
+            "tpm": 5,
+            "tpp": "55.6",
+            "turnovers": 1
+        },
+        {
+            "assists": 0,
+            "blocks": 0,
+            "comment": null,
+            "defReb": 2,
+            "fga": 6,
+            "fgm": 4,
+            "fgp": "66.7",
+            "fta": 0,
+            "ftm": 0,
+            "ftp": "0",
+            "game": {
+                "id": 13599
+            },
+            "min": "17",
+            "offReb": 0,
+            "pFouls": 0,
+            "player": {
+                "firstname": "Dylan",
+                "id": 1903,
+                "lastname": "Windler"
+            },
+            "plusMinus": "-6",
+            "points": 11,
+            "pos": "G",
+            "steals": 1,
+            "team": {
+                "code": "ATL",
+                "id": 1,
+                "logo": "https://upload.wikimedia.org/wikipedia/fr/e/ee/Hawks_2016.png",
+                "name": "Atlanta Hawks",
+                "nickname": "Hawks"
+            },
+            "totReb": 2,
+            "tpa": 5,
+            "tpm": 3,
+            "tpp": "60.0",
+            "turnovers": 0
+        },
+        {
+            "assists": 4,
+            "blocks": 0,
+            "comment": null,
+            "defReb": 2,
+            "fga": 4,
+            "fgm": 0,
+            "fgp": "0",
+            "fta": 2,
+            "ftm": 2,
+            "ftp": "100.0",
+            "game": {
+                "id": 13599
+            },
+            "min": "16",
+            "offReb": 0,
+            "pFouls": 0,
+            "player": {
+                "firstname": "Trent",
+                "id": 2589,
+                "lastname": "Forrest"
+            },
+            "plusMinus": "-5",
+            "points": 2,
+            "pos": "G",
+            "steals": 0,
+            "team": {
+                "code": "ATL",
+                "id": 1,
+                "logo": "https://upload.wikimedia.org/wikipedia/fr/e/ee/Hawks_2016.png",
+                "name": "Atlanta Hawks",
+                "nickname": "Hawks"
+            },
+            "totReb": 2,
+            "tpa": 1,
+            "tpm": 0,
+            "tpp": "0",
+            "turnovers": 0
+        },
+        {
+            "assists": 1,
+            "blocks": 0,
+            "comment": null,
+            "defReb": 11,
+            "fga": 16,
+            "fgm": 8,
+            "fgp": "50.0",
+            "fta": 3,
+            "ftm": 0,
+            "ftp": "0",
+            "game": {
+                "id": 13608
+            },
+            "min": "40",
+            "offReb": 2,
+            "pFouls": 0,
+            "player": {
+                "firstname": "De'Andre",
+                "id": 1868,
+                "lastname": "Hunter"
+            },
+            "plusMinus": "+1",
+            "points": 21,
+            "pos": "SF",
+            "steals": 0,
+            "team": {
+                "code": "ATL",
+                "id": 1,
+                "logo": "https://upload.wikimedia.org/wikipedia/fr/e/ee/Hawks_2016.png",
+                "name": "Atlanta Hawks",
+                "nickname": "Hawks"
+            },
+            "totReb": 13,
+            "tpa": 9,
+            "tpm": 5,
+            "tpp": "55.6",
+            "turnovers": 1
+        },
+        {
+            "assists": 3,
+            "blocks": 2,
+            "comment": null,
+            "defReb": 6,
+            "fga": 8,
+            "fgm": 6,
+            "fgp": "75.0",
+            "fta": 0,
+            "ftm": 0,
+            "ftp": "0",
+            "game": {
+                "id": 13608
+            },
+            "min": "33",
+            "offReb": 7,
+            "pFouls": 2,
+            "player": {
+                "firstname": "Clint",
+                "id": 92,
+                "lastname": "Capela"
+            },
+            "plusMinus": "0",
+            "points": 12,
+            "pos": "C",
+            "steals": 0,
+            "team": {
+                "code": "ATL",
+                "id": 1,
+                "logo": "https://upload.wikimedia.org/wikipedia/fr/e/ee/Hawks_2016.png",
+                "name": "Atlanta Hawks",
+                "nickname": "Hawks"
+            },
+            "totReb": 13,
+            "tpa": 0,
+            "tpm": 0,
+            "tpp": "0",
+            "turnovers": 2
+        },
+        {
+            "assists": 5,
+            "blocks": 0,
+            "comment": null,
+            "defReb": 4,
+            "fga": 19,
+            "fgm": 9,
+            "fgp": "47.4",
+            "fta": 4,
+            "ftm": 4,
+            "ftp": "100.0",
+            "game": {
+                "id": 13608
+            },
+            "min": "43",
+            "offReb": 3,
+            "pFouls": 1,
+            "player": {
+                "firstname": "Bogdan",
+                "id": 743,
+                "lastname": "Bogdanovic"
+            },
+            "plusMinus": "+3",
+            "points": 24,
+            "pos": "SG",
+            "steals": 1,
+            "team": {
+                "code": "ATL",
+                "id": 1,
+                "logo": "https://upload.wikimedia.org/wikipedia/fr/e/ee/Hawks_2016.png",
+                "name": "Atlanta Hawks",
+                "nickname": "Hawks"
+            },
+            "totReb": 7,
+            "tpa": 8,
+            "tpm": 2,
+            "tpp": "25.0",
+            "turnovers": 2
+        },
+        {
+            "assists": 7,
+            "blocks": 1,
+            "comment": null,
+            "defReb": 7,
+            "fga": 44,
+            "fgm": 18,
+            "fgp": "40.9",
+            "fta": 2,
+            "ftm": 2,
+            "ftp": "100.0",
+            "game": {
+                "id": 13608
+            },
+            "min": "47",
+            "offReb": 0,
+            "pFouls": 2,
+            "player": {
+                "firstname": "Dejounte",
+                "id": 382,
+                "lastname": "Murray"
+            },
+            "plusMinus": "+3",
+            "points": 44,
+            "pos": "SG",
+            "steals": 2,
+            "team": {
+                "code": "ATL",
+                "id": 1,
+                "logo": "https://upload.wikimedia.org/wikipedia/fr/e/ee/Hawks_2016.png",
+                "name": "Atlanta Hawks",
+                "nickname": "Hawks"
+            },
+            "totReb": 7,
+            "tpa": 19,
+            "tpm": 6,
+            "tpp": "31.6",
+            "turnovers": 3
+        },
+        {
+            "assists": 1,
+            "blocks": 0,
+            "comment": null,
+            "defReb": 2,
+            "fga": 1,
+            "fgm": 1,
+            "fgp": "100.0",
+            "fta": 0,
+            "ftm": 0,
+            "ftp": "0",
+            "game": {
+                "id": 13608
+            },
+            "min": "35",
+            "offReb": 1,
+            "pFouls": 6,
+            "player": {
+                "firstname": "Vit",
+                "id": 2608,
+                "lastname": "Krejci"
+            },
+            "plusMinus": "0",
+            "points": 2,
+            "pos": "G",
+            "steals": 0,
+            "team": {
+                "code": "ATL",
+                "id": 1,
+                "logo": "https://upload.wikimedia.org/wikipedia/fr/e/ee/Hawks_2016.png",
+                "name": "Atlanta Hawks",
+                "nickname": "Hawks"
+            },
+            "totReb": 3,
+            "tpa": 0,
+            "tpm": 0,
+            "tpp": "0",
+            "turnovers": 0
+        },
+        {
+            "assists": 2,
+            "blocks": 1,
+            "comment": null,
+            "defReb": 3,
+            "fga": 3,
+            "fgm": 3,
+            "fgp": "100.0",
+            "fta": 1,
+            "ftm": 0,
+            "ftp": "0",
+            "game": {
+                "id": 13608
+            },
+            "min": "20",
+            "offReb": 1,
+            "pFouls": 3,
+            "player": {
+                "firstname": "Bruno",
+                "id": 1858,
+                "lastname": "Fernando"
+            },
+            "plusMinus": "+1",
+            "points": 6,
+            "pos": "PF",
+            "steals": 1,
+            "team": {
+                "code": "ATL",
+                "id": 1,
+                "logo": "https://upload.wikimedia.org/wikipedia/fr/e/ee/Hawks_2016.png",
+                "name": "Atlanta Hawks",
+                "nickname": "Hawks"
+            },
+            "totReb": 4,
+            "tpa": 0,
+            "tpm": 0,
+            "tpp": "0",
+            "turnovers": 0
+        },
+        {
+            "assists": 3,
+            "blocks": 1,
+            "comment": null,
+            "defReb": 2,
+            "fga": 6,
+            "fgm": 1,
+            "fgp": "16.7",
+            "fta": 0,
+            "ftm": 0,
+            "ftp": "0",
+            "game": {
+                "id": 13608
+            },
+            "min": "24",
+            "offReb": 3,
+            "pFouls": 3,
+            "player": {
+                "firstname": "Wesley",
+                "id": 341,
+                "lastname": "Matthews"
+            },
+            "plusMinus": "-1",
+            "points": 3,
+            "pos": "SG",
+            "steals": 1,
+            "team": {
+                "code": "ATL",
+                "id": 1,
+                "logo": "https://upload.wikimedia.org/wikipedia/fr/e/ee/Hawks_2016.png",
+                "name": "Atlanta Hawks",
+                "nickname": "Hawks"
+            },
+            "totReb": 5,
+            "tpa": 5,
+            "tpm": 1,
+            "tpp": "20.0",
+            "turnovers": 1
+        },
+        {
+            "assists": 1,
+            "blocks": 0,
+            "comment": null,
+            "defReb": 1,
+            "fga": 5,
+            "fgm": 3,
+            "fgp": "60.0",
+            "fta": 0,
+            "ftm": 0,
+            "ftp": "0",
+            "game": {
+                "id": 13608
+            },
+            "min": "17",
+            "offReb": 0,
+            "pFouls": 0,
+            "player": {
+                "firstname": "Garrison",
+                "id": 2327,
+                "lastname": "Mathews"
+            },
+            "plusMinus": "0",
+            "points": 7,
+            "pos": "SG",
+            "steals": 0,
+            "team": {
+                "code": "ATL",
+                "id": 1,
+                "logo": "https://upload.wikimedia.org/wikipedia/fr/e/ee/Hawks_2016.png",
+                "name": "Atlanta Hawks",
+                "nickname": "Hawks"
+            },
+            "totReb": 1,
+            "tpa": 3,
+            "tpm": 1,
+            "tpp": "33.3",
+            "turnovers": 1
+        },
+        {
+            "assists": 1,
+            "blocks": 0,
+            "comment": null,
+            "defReb": 0,
+            "fga": 2,
+            "fgm": 2,
+            "fgp": "100.0",
+            "fta": 0,
+            "ftm": 0,
+            "ftp": "0",
+            "game": {
+                "id": 13608
+            },
+            "min": "6",
+            "offReb": 0,
+            "pFouls": 0,
+            "player": {
+                "firstname": "Trent",
+                "id": 2589,
+                "lastname": "Forrest"
+            },
+            "plusMinus": "-2",
+            "points": 4,
+            "pos": "G",
+            "steals": 0,
+            "team": {
+                "code": "ATL",
+                "id": 1,
+                "logo": "https://upload.wikimedia.org/wikipedia/fr/e/ee/Hawks_2016.png",
+                "name": "Atlanta Hawks",
+                "nickname": "Hawks"
+            },
+            "totReb": 0,
+            "tpa": 0,
+            "tpm": 0,
+            "tpp": "0",
+            "turnovers": 1
+        },
+        {
+            "assists": 1,
+            "blocks": 0,
+            "comment": null,
+            "defReb": 2,
+            "fga": 13,
+            "fgm": 5,
+            "fgp": "38.5",
+            "fta": 1,
+            "ftm": 1,
+            "ftp": "100.0",
+            "game": {
+                "id": 13624
+            },
+            "min": "35",
+            "offReb": 0,
+            "pFouls": 3,
+            "player": {
+                "firstname": "De'Andre",
+                "id": 1868,
+                "lastname": "Hunter"
+            },
+            "plusMinus": "-11",
+            "points": 13,
+            "pos": "SF",
+            "steals": 1,
+            "team": {
+                "code": "ATL",
+                "id": 1,
+                "logo": "https://upload.wikimedia.org/wikipedia/fr/e/ee/Hawks_2016.png",
+                "name": "Atlanta Hawks",
+                "nickname": "Hawks"
+            },
+            "totReb": 2,
+            "tpa": 5,
+            "tpm": 2,
+            "tpp": "40.0",
+            "turnovers": 1
+        },
+        {
+            "assists": 2,
+            "blocks": 2,
+            "comment": null,
+            "defReb": 5,
+            "fga": 9,
+            "fgm": 5,
+            "fgp": "55.6",
+            "fta": 0,
+            "ftm": 0,
+            "ftp": "0",
+            "game": {
+                "id": 13624
+            },
+            "min": "27",
+            "offReb": 3,
+            "pFouls": 2,
+            "player": {
+                "firstname": "Clint",
+                "id": 92,
+                "lastname": "Capela"
+            },
+            "plusMinus": "-6",
+            "points": 10,
+            "pos": "C",
+            "steals": 1,
+            "team": {
+                "code": "ATL",
+                "id": 1,
+                "logo": "https://upload.wikimedia.org/wikipedia/fr/e/ee/Hawks_2016.png",
+                "name": "Atlanta Hawks",
+                "nickname": "Hawks"
+            },
+            "totReb": 8,
+            "tpa": 0,
+            "tpm": 0,
+            "tpp": "0",
+            "turnovers": 0
+        },
+        {
+            "assists": 4,
+            "blocks": 0,
+            "comment": null,
+            "defReb": 9,
+            "fga": 23,
+            "fgm": 12,
+            "fgp": "52.2",
+            "fta": 10,
+            "ftm": 9,
+            "ftp": "90.0",
+            "game": {
+                "id": 13624
+            },
+            "min": "37",
+            "offReb": 1,
+            "pFouls": 5,
+            "player": {
+                "firstname": "Bogdan",
+                "id": 743,
+                "lastname": "Bogdanovic"
+            },
+            "plusMinus": "-1",
+            "points": 38,
+            "pos": "SG",
+            "steals": 1,
+            "team": {
+                "code": "ATL",
+                "id": 1,
+                "logo": "https://upload.wikimedia.org/wikipedia/fr/e/ee/Hawks_2016.png",
+                "name": "Atlanta Hawks",
+                "nickname": "Hawks"
+            },
+            "totReb": 10,
+            "tpa": 9,
+            "tpm": 5,
+            "tpp": "55.6",
+            "turnovers": 3
+        },
+        {
+            "assists": 12,
+            "blocks": 0,
+            "comment": null,
+            "defReb": 7,
+            "fga": 19,
+            "fgm": 7,
+            "fgp": "36.8",
+            "fta": 4,
+            "ftm": 3,
+            "ftp": "75.0",
+            "game": {
+                "id": 13624
+            },
+            "min": "42",
+            "offReb": 1,
+            "pFouls": 5,
+            "player": {
+                "firstname": "Dejounte",
+                "id": 382,
+                "lastname": "Murray"
+            },
+            "plusMinus": "-10",
+            "points": 20,
+            "pos": "SG",
+            "steals": 0,
+            "team": {
+                "code": "ATL",
+                "id": 1,
+                "logo": "https://upload.wikimedia.org/wikipedia/fr/e/ee/Hawks_2016.png",
+                "name": "Atlanta Hawks",
+                "nickname": "Hawks"
+            },
+            "totReb": 8,
+            "tpa": 10,
+            "tpm": 3,
+            "tpp": "30.0",
+            "turnovers": 5
+        },
+        {
+            "assists": 1,
+            "blocks": 0,
+            "comment": null,
+            "defReb": 2,
+            "fga": 5,
+            "fgm": 3,
+            "fgp": "60.0",
+            "fta": 0,
+            "ftm": 0,
+            "ftp": "0",
+            "game": {
+                "id": 13624
+            },
+            "min": "32",
+            "offReb": 0,
+            "pFouls": 3,
+            "player": {
+                "firstname": "Vit",
+                "id": 2608,
+                "lastname": "Krejci"
+            },
+            "plusMinus": "-9",
+            "points": 8,
+            "pos": "G",
+            "steals": 1,
+            "team": {
+                "code": "ATL",
+                "id": 1,
+                "logo": "https://upload.wikimedia.org/wikipedia/fr/e/ee/Hawks_2016.png",
+                "name": "Atlanta Hawks",
+                "nickname": "Hawks"
+            },
+            "totReb": 2,
+            "tpa": 4,
+            "tpm": 2,
+            "tpp": "50.0",
+            "turnovers": 0
+        },
+        {
+            "assists": 2,
+            "blocks": 1,
+            "comment": null,
+            "defReb": 2,
+            "fga": 7,
+            "fgm": 4,
+            "fgp": "57.1",
+            "fta": 3,
+            "ftm": 2,
+            "ftp": "66.7",
+            "game": {
+                "id": 13624
+            },
+            "min": "21",
+            "offReb": 2,
+            "pFouls": 4,
+            "player": {
+                "firstname": "Bruno",
+                "id": 1858,
+                "lastname": "Fernando"
+            },
+            "plusMinus": "-3",
+            "points": 10,
+            "pos": "PF",
+            "steals": 0,
+            "team": {
+                "code": "ATL",
+                "id": 1,
+                "logo": "https://upload.wikimedia.org/wikipedia/fr/e/ee/Hawks_2016.png",
+                "name": "Atlanta Hawks",
+                "nickname": "Hawks"
+            },
+            "totReb": 4,
+            "tpa": 0,
+            "tpm": 0,
+            "tpp": "0",
+            "turnovers": 1
+        },
+        {
+            "assists": 1,
+            "blocks": 0,
+            "comment": null,
+            "defReb": 0,
+            "fga": 9,
+            "fgm": 4,
+            "fgp": "44.4",
+            "fta": 0,
+            "ftm": 0,
+            "ftp": "0",
+            "game": {
+                "id": 13624
+            },
+            "min": "18",
+            "offReb": 1,
+            "pFouls": 3,
+            "player": {
+                "firstname": "Wesley",
+                "id": 341,
+                "lastname": "Matthews"
+            },
+            "plusMinus": "+2",
+            "points": 9,
+            "pos": "SG",
+            "steals": 1,
+            "team": {
+                "code": "ATL",
+                "id": 1,
+                "logo": "https://upload.wikimedia.org/wikipedia/fr/e/ee/Hawks_2016.png",
+                "name": "Atlanta Hawks",
+                "nickname": "Hawks"
+            },
+            "totReb": 1,
+            "tpa": 3,
+            "tpm": 1,
+            "tpp": "33.3",
+            "turnovers": 0
+        },
+        {
+            "assists": 1,
+            "blocks": 0,
+            "comment": null,
+            "defReb": 1,
+            "fga": 3,
+            "fgm": 1,
+            "fgp": "33.3",
+            "fta": 0,
+            "ftm": 0,
+            "ftp": "0",
+            "game": {
+                "id": 13624
+            },
+            "min": "17",
+            "offReb": 0,
+            "pFouls": 1,
+            "player": {
+                "firstname": "Garrison",
+                "id": 2327,
+                "lastname": "Mathews"
+            },
+            "plusMinus": "-6",
+            "points": 3,
+            "pos": "SG",
+            "steals": 0,
+            "team": {
+                "code": "ATL",
+                "id": 1,
+                "logo": "https://upload.wikimedia.org/wikipedia/fr/e/ee/Hawks_2016.png",
+                "name": "Atlanta Hawks",
+                "nickname": "Hawks"
+            },
+            "totReb": 1,
+            "tpa": 3,
+            "tpm": 1,
+            "tpp": "33.3",
+            "turnovers": 0
+        },
+        {
+            "assists": 0,
+            "blocks": 0,
+            "comment": null,
+            "defReb": 2,
+            "fga": 1,
+            "fgm": 0,
+            "fgp": "0",
+            "fta": 0,
+            "ftm": 0,
+            "ftp": "0",
+            "game": {
+                "id": 13624
+            },
+            "min": "4",
+            "offReb": 0,
+            "pFouls": 0,
+            "player": {
+                "firstname": "Dylan",
+                "id": 1903,
+                "lastname": "Windler"
+            },
+            "plusMinus": "-2",
+            "points": 0,
+            "pos": "G",
+            "steals": 0,
+            "team": {
+                "code": "ATL",
+                "id": 1,
+                "logo": "https://upload.wikimedia.org/wikipedia/fr/e/ee/Hawks_2016.png",
+                "name": "Atlanta Hawks",
+                "nickname": "Hawks"
+            },
+            "totReb": 2,
+            "tpa": 1,
+            "tpm": 0,
+            "tpp": "0",
+            "turnovers": 0
+        },
+        {
+            "assists": 0,
+            "blocks": 0,
+            "comment": null,
+            "defReb": 0,
+            "fga": 3,
+            "fgm": 1,
+            "fgp": "33.3",
+            "fta": 0,
+            "ftm": 0,
+            "ftp": "0",
+            "game": {
+                "id": 13624
+            },
+            "min": "6",
+            "offReb": 1,
+            "pFouls": 0,
+            "player": {
+                "firstname": "Trent",
+                "id": 2589,
+                "lastname": "Forrest"
+            },
+            "plusMinus": "+1",
+            "points": 2,
+            "pos": "G",
+            "steals": 0,
+            "team": {
+                "code": "ATL",
+                "id": 1,
+                "logo": "https://upload.wikimedia.org/wikipedia/fr/e/ee/Hawks_2016.png",
+                "name": "Atlanta Hawks",
+                "nickname": "Hawks"
+            },
+            "totReb": 1,
+            "tpa": 0,
+            "tpm": 0,
+            "tpp": "0",
+            "turnovers": 1
+        },
+        {
+            "assists": 4,
+            "blocks": 0,
+            "comment": null,
+            "defReb": 6,
+            "fga": 12,
+            "fgm": 3,
+            "fgp": "25.0",
+            "fta": 0,
+            "ftm": 0,
+            "ftp": "0",
+            "game": {
+                "id": 13639
+            },
+            "min": "33",
+            "offReb": 0,
+            "pFouls": 2,
+            "player": {
+                "firstname": "De'Andre",
+                "id": 1868,
+                "lastname": "Hunter"
+            },
+            "plusMinus": "+8",
+            "points": 8,
+            "pos": "SF",
+            "steals": 0,
+            "team": {
+                "code": "ATL",
+                "id": 1,
+                "logo": "https://upload.wikimedia.org/wikipedia/fr/e/ee/Hawks_2016.png",
+                "name": "Atlanta Hawks",
+                "nickname": "Hawks"
+            },
+            "totReb": 6,
+            "tpa": 10,
+            "tpm": 2,
+            "tpp": "20.0",
+            "turnovers": 2
+        },
+        {
+            "assists": 1,
+            "blocks": 2,
+            "comment": null,
+            "defReb": 6,
+            "fga": 9,
+            "fgm": 6,
+            "fgp": "66.7",
+            "fta": 7,
+            "ftm": 3,
+            "ftp": "42.9",
+            "game": {
+                "id": 13639
+            },
+            "min": "26",
+            "offReb": 5,
+            "pFouls": 2,
+            "player": {
+                "firstname": "Clint",
+                "id": 92,
+                "lastname": "Capela"
+            },
+            "plusMinus": "+12",
+            "points": 15,
+            "pos": "C",
+            "steals": 1,
+            "team": {
+                "code": "ATL",
+                "id": 1,
+                "logo": "https://upload.wikimedia.org/wikipedia/fr/e/ee/Hawks_2016.png",
+                "name": "Atlanta Hawks",
+                "nickname": "Hawks"
+            },
+            "totReb": 11,
+            "tpa": 0,
+            "tpm": 0,
+            "tpp": "0",
+            "turnovers": 1
+        },
+        {
+            "assists": 6,
+            "blocks": 2,
+            "comment": null,
+            "defReb": 4,
+            "fga": 7,
+            "fgm": 6,
+            "fgp": "85.7",
+            "fta": 6,
+            "ftm": 6,
+            "ftp": "100.0",
+            "game": {
+                "id": 13639
+            },
+            "min": "34",
+            "offReb": 0,
+            "pFouls": 1,
+            "player": {
+                "firstname": "Bogdan",
+                "id": 743,
+                "lastname": "Bogdanovic"
+            },
+            "plusMinus": "+19",
+            "points": 20,
+            "pos": "SG",
+            "steals": 0,
+            "team": {
+                "code": "ATL",
+                "id": 1,
+                "logo": "https://upload.wikimedia.org/wikipedia/fr/e/ee/Hawks_2016.png",
+                "name": "Atlanta Hawks",
+                "nickname": "Hawks"
+            },
+            "totReb": 4,
+            "tpa": 2,
+            "tpm": 2,
+            "tpp": "100.0",
+            "turnovers": 1
+        },
+        {
+            "assists": 6,
+            "blocks": 0,
+            "comment": null,
+            "defReb": 7,
+            "fga": 17,
+            "fgm": 7,
+            "fgp": "41.2",
+            "fta": 0,
+            "ftm": 0,
+            "ftp": "0",
+            "game": {
+                "id": 13639
+            },
+            "min": "33",
+            "offReb": 1,
+            "pFouls": 5,
+            "player": {
+                "firstname": "Dejounte",
+                "id": 382,
+                "lastname": "Murray"
+            },
+            "plusMinus": "+11",
+            "points": 17,
+            "pos": "SG",
+            "steals": 0,
+            "team": {
+                "code": "ATL",
+                "id": 1,
+                "logo": "https://upload.wikimedia.org/wikipedia/fr/e/ee/Hawks_2016.png",
+                "name": "Atlanta Hawks",
+                "nickname": "Hawks"
+            },
+            "totReb": 8,
+            "tpa": 6,
+            "tpm": 3,
+            "tpp": "50.0",
+            "turnovers": 5
+        },
+        {
+            "assists": 3,
+            "blocks": 0,
+            "comment": null,
+            "defReb": 4,
+            "fga": 6,
+            "fgm": 6,
+            "fgp": "100.0",
+            "fta": 0,
+            "ftm": 0,
+            "ftp": "0",
+            "game": {
+                "id": 13639
+            },
+            "min": "25",
+            "offReb": 0,
+            "pFouls": 1,
+            "player": {
+                "firstname": "Vit",
+                "id": 2608,
+                "lastname": "Krejci"
+            },
+            "plusMinus": "+1",
+            "points": 18,
+            "pos": "G",
+            "steals": 0,
+            "team": {
+                "code": "ATL",
+                "id": 1,
+                "logo": "https://upload.wikimedia.org/wikipedia/fr/e/ee/Hawks_2016.png",
+                "name": "Atlanta Hawks",
+                "nickname": "Hawks"
+            },
+            "totReb": 4,
+            "tpa": 6,
+            "tpm": 6,
+            "tpp": "100.0",
+            "turnovers": 1
+        },
+        {
+            "assists": 4,
+            "blocks": 0,
+            "comment": null,
+            "defReb": 3,
+            "fga": 6,
+            "fgm": 4,
+            "fgp": "66.7",
+            "fta": 3,
+            "ftm": 2,
+            "ftp": "66.7",
+            "game": {
+                "id": 13639
+            },
+            "min": "22",
+            "offReb": 1,
+            "pFouls": 4,
+            "player": {
+                "firstname": "Bruno",
+                "id": 1858,
+                "lastname": "Fernando"
+            },
+            "plusMinus": "0",
+            "points": 10,
+            "pos": "PF",
+            "steals": 1,
+            "team": {
+                "code": "ATL",
+                "id": 1,
+                "logo": "https://upload.wikimedia.org/wikipedia/fr/e/ee/Hawks_2016.png",
+                "name": "Atlanta Hawks",
+                "nickname": "Hawks"
+            },
+            "totReb": 4,
+            "tpa": 0,
+            "tpm": 0,
+            "tpp": "0",
+            "turnovers": 2
+        },
+        {
+            "assists": 1,
+            "blocks": 0,
+            "comment": null,
+            "defReb": 3,
+            "fga": 12,
+            "fgm": 4,
+            "fgp": "33.3",
+            "fta": 2,
+            "ftm": 1,
+            "ftp": "50.0",
+            "game": {
+                "id": 13639
+            },
+            "min": "25",
+            "offReb": 1,
+            "pFouls": 2,
+            "player": {
+                "firstname": "Jalen",
+                "id": 2819,
+                "lastname": "Johnson"
+            },
+            "plusMinus": "+15",
+            "points": 11,
+            "pos": "SF",
+            "steals": 2,
+            "team": {
+                "code": "ATL",
+                "id": 1,
+                "logo": "https://upload.wikimedia.org/wikipedia/fr/e/ee/Hawks_2016.png",
+                "name": "Atlanta Hawks",
+                "nickname": "Hawks"
+            },
+            "totReb": 4,
+            "tpa": 5,
+            "tpm": 2,
+            "tpp": "40.0",
+            "turnovers": 1
+        },
+        {
+            "assists": 0,
+            "blocks": 0,
+            "comment": null,
+            "defReb": 1,
+            "fga": 2,
+            "fgm": 1,
+            "fgp": "50.0",
+            "fta": 0,
+            "ftm": 0,
+            "ftp": "0",
+            "game": {
+                "id": 13639
+            },
+            "min": "8",
+            "offReb": 0,
+            "pFouls": 1,
+            "player": {
+                "firstname": "Wesley",
+                "id": 341,
+                "lastname": "Matthews"
+            },
+            "plusMinus": "-6",
+            "points": 2,
+            "pos": "SG",
+            "steals": 0,
+            "team": {
+                "code": "ATL",
+                "id": 1,
+                "logo": "https://upload.wikimedia.org/wikipedia/fr/e/ee/Hawks_2016.png",
+                "name": "Atlanta Hawks",
+                "nickname": "Hawks"
+            },
+            "totReb": 1,
+            "tpa": 1,
+            "tpm": 0,
+            "tpp": "0",
+            "turnovers": 0
+        },
+        {
+            "assists": 1,
+            "blocks": 0,
+            "comment": null,
+            "defReb": 1,
+            "fga": 7,
+            "fgm": 3,
+            "fgp": "42.9",
+            "fta": 0,
+            "ftm": 0,
+            "ftp": "0",
+            "game": {
+                "id": 13639
+            },
+            "min": "17",
+            "offReb": 0,
+            "pFouls": 2,
+            "player": {
+                "firstname": "Garrison",
+                "id": 2327,
+                "lastname": "Mathews"
+            },
+            "plusMinus": "0",
+            "points": 9,
+            "pos": "SG",
+            "steals": 0,
+            "team": {
+                "code": "ATL",
+                "id": 1,
+                "logo": "https://upload.wikimedia.org/wikipedia/fr/e/ee/Hawks_2016.png",
+                "name": "Atlanta Hawks",
+                "nickname": "Hawks"
+            },
+            "totReb": 1,
+            "tpa": 7,
+            "tpm": 3,
+            "tpp": "42.9",
+            "turnovers": 0
+        },
+        {
+            "assists": 3,
+            "blocks": 1,
+            "comment": null,
+            "defReb": 2,
+            "fga": 4,
+            "fgm": 1,
+            "fgp": "25.0",
+            "fta": 0,
+            "ftm": 0,
+            "ftp": "0",
+            "game": {
+                "id": 13639
+            },
+            "min": "17",
+            "offReb": 0,
+            "pFouls": 1,
+            "player": {
+                "firstname": "Kobe",
+                "id": 3938,
+                "lastname": "Bufkin"
+            },
+            "plusMinus": "0",
+            "points": 3,
+            "pos": "G",
+            "steals": 0,
+            "team": {
+                "code": "ATL",
+                "id": 1,
+                "logo": "https://upload.wikimedia.org/wikipedia/fr/e/ee/Hawks_2016.png",
+                "name": "Atlanta Hawks",
+                "nickname": "Hawks"
+            },
+            "totReb": 2,
+            "tpa": 3,
+            "tpm": 1,
+            "tpp": "33.3",
+            "turnovers": 1
+        },
+        {
+            "assists": 4,
+            "blocks": 0,
+            "comment": null,
+            "defReb": 7,
+            "fga": 16,
+            "fgm": 11,
+            "fgp": "68.8",
+            "fta": 3,
+            "ftm": 1,
+            "ftp": "33.3",
+            "game": {
+                "id": 13652
+            },
+            "min": "35",
+            "offReb": 0,
+            "pFouls": 1,
+            "player": {
+                "firstname": "De'Andre",
+                "id": 1868,
+                "lastname": "Hunter"
+            },
+            "plusMinus": "+14",
+            "points": 26,
+            "pos": "SF",
+            "steals": 0,
+            "team": {
+                "code": "ATL",
+                "id": 1,
+                "logo": "https://upload.wikimedia.org/wikipedia/fr/e/ee/Hawks_2016.png",
+                "name": "Atlanta Hawks",
+                "nickname": "Hawks"
+            },
+            "totReb": 7,
+            "tpa": 6,
+            "tpm": 3,
+            "tpp": "50.0",
+            "turnovers": 5
+        },
+        {
+            "assists": 11,
+            "blocks": 1,
+            "comment": null,
+            "defReb": 12,
+            "fga": 14,
+            "fgm": 10,
+            "fgp": "71.4",
+            "fta": 7,
+            "ftm": 6,
+            "ftp": "85.7",
+            "game": {
+                "id": 13652
+            },
+            "min": "37",
+            "offReb": 2,
+            "pFouls": 0,
+            "player": {
+                "firstname": "Jalen",
+                "id": 2819,
+                "lastname": "Johnson"
+            },
+            "plusMinus": "+12",
+            "points": 28,
+            "pos": "SF",
+            "steals": 4,
+            "team": {
+                "code": "ATL",
+                "id": 1,
+                "logo": "https://upload.wikimedia.org/wikipedia/fr/e/ee/Hawks_2016.png",
+                "name": "Atlanta Hawks",
+                "nickname": "Hawks"
+            },
+            "totReb": 14,
+            "tpa": 4,
+            "tpm": 2,
+            "tpp": "50.0",
+            "turnovers": 3
+        },
+        {
+            "assists": 1,
+            "blocks": 2,
+            "comment": null,
+            "defReb": 14,
+            "fga": 9,
+            "fgm": 5,
+            "fgp": "55.6",
+            "fta": 2,
+            "ftm": 1,
+            "ftp": "50.0",
+            "game": {
+                "id": 13652
+            },
+            "min": "30",
+            "offReb": 2,
+            "pFouls": 1,
+            "player": {
+                "firstname": "Clint",
+                "id": 92,
+                "lastname": "Capela"
+            },
+            "plusMinus": "+30",
+            "points": 11,
+            "pos": "C",
+            "steals": 0,
+            "team": {
+                "code": "ATL",
+                "id": 1,
+                "logo": "https://upload.wikimedia.org/wikipedia/fr/e/ee/Hawks_2016.png",
+                "name": "Atlanta Hawks",
+                "nickname": "Hawks"
+            },
+            "totReb": 16,
+            "tpa": 0,
+            "tpm": 0,
+            "tpp": "0",
+            "turnovers": 1
+        },
+        {
+            "assists": 4,
+            "blocks": 2,
+            "comment": null,
+            "defReb": 2,
+            "fga": 15,
+            "fgm": 4,
+            "fgp": "26.7",
+            "fta": 0,
+            "ftm": 0,
+            "ftp": "0",
+            "game": {
+                "id": 13652
+            },
+            "min": "33",
+            "offReb": 0,
+            "pFouls": 2,
+            "player": {
+                "firstname": "Bogdan",
+                "id": 743,
+                "lastname": "Bogdanovic"
+            },
+            "plusMinus": "+9",
+            "points": 10,
+            "pos": "SG",
+            "steals": 2,
+            "team": {
+                "code": "ATL",
+                "id": 1,
+                "logo": "https://upload.wikimedia.org/wikipedia/fr/e/ee/Hawks_2016.png",
+                "name": "Atlanta Hawks",
+                "nickname": "Hawks"
+            },
+            "totReb": 2,
+            "tpa": 10,
+            "tpm": 2,
+            "tpp": "20.0",
+            "turnovers": 1
+        },
+        {
+            "assists": 11,
+            "blocks": 0,
+            "comment": null,
+            "defReb": 3,
+            "fga": 21,
+            "fgm": 10,
+            "fgp": "47.6",
+            "fta": 3,
+            "ftm": 2,
+            "ftp": "66.7",
+            "game": {
+                "id": 13652
+            },
+            "min": "35",
+            "offReb": 1,
+            "pFouls": 1,
+            "player": {
+                "firstname": "Dejounte",
+                "id": 382,
+                "lastname": "Murray"
+            },
+            "plusMinus": "+20",
+            "points": 24,
+            "pos": "SG",
+            "steals": 1,
+            "team": {
+                "code": "ATL",
+                "id": 1,
+                "logo": "https://upload.wikimedia.org/wikipedia/fr/e/ee/Hawks_2016.png",
+                "name": "Atlanta Hawks",
+                "nickname": "Hawks"
+            },
+            "totReb": 4,
+            "tpa": 8,
+            "tpm": 2,
+            "tpp": "25.0",
+            "turnovers": 5
+        },
+        {
+            "assists": 3,
+            "blocks": 1,
+            "comment": null,
+            "defReb": 1,
+            "fga": 0,
+            "fgm": 0,
+            "fgp": "0",
+            "fta": 0,
+            "ftm": 0,
+            "ftp": "0",
+            "game": {
+                "id": 13652
+            },
+            "min": "18",
+            "offReb": 0,
+            "pFouls": 4,
+            "player": {
+                "firstname": "Bruno",
+                "id": 1858,
+                "lastname": "Fernando"
+            },
+            "plusMinus": "-22",
+            "points": 0,
+            "pos": "PF",
+            "steals": 0,
+            "team": {
+                "code": "ATL",
+                "id": 1,
+                "logo": "https://upload.wikimedia.org/wikipedia/fr/e/ee/Hawks_2016.png",
+                "name": "Atlanta Hawks",
+                "nickname": "Hawks"
+            },
+            "totReb": 1,
+            "tpa": 0,
+            "tpm": 0,
+            "tpp": "0",
+            "turnovers": 0
+        },
+        {
+            "assists": 0,
+            "blocks": 0,
+            "comment": null,
+            "defReb": 3,
+            "fga": 3,
+            "fgm": 3,
+            "fgp": "100.0",
+            "fta": 0,
+            "ftm": 0,
+            "ftp": "0",
+            "game": {
+                "id": 13652
+            },
+            "min": "19",
+            "offReb": 0,
+            "pFouls": 2,
+            "player": {
+                "firstname": "Garrison",
+                "id": 2327,
+                "lastname": "Mathews"
+            },
+            "plusMinus": "-17",
+            "points": 9,
+            "pos": "SG",
+            "steals": 0,
+            "team": {
+                "code": "ATL",
+                "id": 1,
+                "logo": "https://upload.wikimedia.org/wikipedia/fr/e/ee/Hawks_2016.png",
+                "name": "Atlanta Hawks",
+                "nickname": "Hawks"
+            },
+            "totReb": 3,
+            "tpa": 3,
+            "tpm": 3,
+            "tpp": "100.0",
+            "turnovers": 0
+        },
+        {
+            "assists": 1,
+            "blocks": 0,
+            "comment": null,
+            "defReb": 0,
+            "fga": 4,
+            "fgm": 2,
+            "fgp": "50.0",
+            "fta": 0,
+            "ftm": 0,
+            "ftp": "0",
+            "game": {
+                "id": 13652
+            },
+            "min": "20",
+            "offReb": 0,
+            "pFouls": 1,
+            "player": {
+                "firstname": "Vit",
+                "id": 2608,
+                "lastname": "Krejci"
+            },
+            "plusMinus": "+6",
+            "points": 4,
+            "pos": "G",
+            "steals": 0,
+            "team": {
+                "code": "ATL",
+                "id": 1,
+                "logo": "https://upload.wikimedia.org/wikipedia/fr/e/ee/Hawks_2016.png",
+                "name": "Atlanta Hawks",
+                "nickname": "Hawks"
+            },
+            "totReb": 0,
+            "tpa": 2,
+            "tpm": 0,
+            "tpp": "0",
+            "turnovers": 1
+        },
+        {
+            "assists": 1,
+            "blocks": 2,
+            "comment": null,
+            "defReb": 0,
+            "fga": 8,
+            "fgm": 4,
+            "fgp": "50.0",
+            "fta": 0,
+            "ftm": 0,
+            "ftp": "0",
+            "game": {
+                "id": 13652
+            },
+            "min": "13",
+            "offReb": 1,
+            "pFouls": 1,
+            "player": {
+                "firstname": "Kobe",
+                "id": 3938,
+                "lastname": "Bufkin"
+            },
+            "plusMinus": "-12",
+            "points": 9,
+            "pos": "G",
+            "steals": 2,
+            "team": {
+                "code": "ATL",
+                "id": 1,
+                "logo": "https://upload.wikimedia.org/wikipedia/fr/e/ee/Hawks_2016.png",
+                "name": "Atlanta Hawks",
+                "nickname": "Hawks"
+            },
+            "totReb": 1,
+            "tpa": 5,
+            "tpm": 1,
+            "tpp": "20.0",
+            "turnovers": 0
+        },
+        {
+            "assists": 3,
+            "blocks": 0,
+            "comment": null,
+            "defReb": 3,
+            "fga": 10,
+            "fgm": 3,
+            "fgp": "30.0",
+            "fta": 7,
+            "ftm": 5,
+            "ftp": "71.4",
+            "game": {
+                "id": 13672
+            },
+            "min": "37",
+            "offReb": 0,
+            "pFouls": 5,
+            "player": {
+                "firstname": "De'Andre",
+                "id": 1868,
+                "lastname": "Hunter"
+            },
+            "plusMinus": "-16",
+            "points": 13,
+            "pos": "SF",
+            "steals": 1,
+            "team": {
+                "code": "ATL",
+                "id": 1,
+                "logo": "https://upload.wikimedia.org/wikipedia/fr/e/ee/Hawks_2016.png",
+                "name": "Atlanta Hawks",
+                "nickname": "Hawks"
+            },
+            "totReb": 3,
+            "tpa": 7,
+            "tpm": 2,
+            "tpp": "28.6",
+            "turnovers": 4
+        },
+        {
+            "assists": 4,
+            "blocks": 0,
+            "comment": null,
+            "defReb": 15,
+            "fga": 12,
+            "fgm": 3,
+            "fgp": "25.0",
+            "fta": 0,
+            "ftm": 0,
+            "ftp": "0",
+            "game": {
+                "id": 13672
+            },
+            "min": "36",
+            "offReb": 1,
+            "pFouls": 1,
+            "player": {
+                "firstname": "Jalen",
+                "id": 2819,
+                "lastname": "Johnson"
+            },
+            "plusMinus": "-11",
+            "points": 6,
+            "pos": "SF",
+            "steals": 1,
+            "team": {
+                "code": "ATL",
+                "id": 1,
+                "logo": "https://upload.wikimedia.org/wikipedia/fr/e/ee/Hawks_2016.png",
+                "name": "Atlanta Hawks",
+                "nickname": "Hawks"
+            },
+            "totReb": 16,
+            "tpa": 1,
+            "tpm": 0,
+            "tpp": "0",
+            "turnovers": 2
+        },
+        {
+            "assists": 2,
+            "blocks": 1,
+            "comment": null,
+            "defReb": 8,
+            "fga": 7,
+            "fgm": 3,
+            "fgp": "42.9",
+            "fta": 2,
+            "ftm": 0,
+            "ftp": "0",
+            "game": {
+                "id": 13672
+            },
+            "min": "29",
+            "offReb": 5,
+            "pFouls": 2,
+            "player": {
+                "firstname": "Clint",
+                "id": 92,
+                "lastname": "Capela"
+            },
+            "plusMinus": "-25",
+            "points": 6,
+            "pos": "C",
+            "steals": 1,
+            "team": {
+                "code": "ATL",
+                "id": 1,
+                "logo": "https://upload.wikimedia.org/wikipedia/fr/e/ee/Hawks_2016.png",
+                "name": "Atlanta Hawks",
+                "nickname": "Hawks"
+            },
+            "totReb": 13,
+            "tpa": 0,
+            "tpm": 0,
+            "tpp": "0",
+            "turnovers": 5
+        },
+        {
+            "assists": 2,
+            "blocks": 0,
+            "comment": null,
+            "defReb": 6,
+            "fga": 15,
+            "fgm": 6,
+            "fgp": "40.0",
+            "fta": 2,
+            "ftm": 2,
+            "ftp": "100.0",
+            "game": {
+                "id": 13672
+            },
+            "min": "36",
+            "offReb": 1,
+            "pFouls": 3,
+            "player": {
+                "firstname": "Bogdan",
+                "id": 743,
+                "lastname": "Bogdanovic"
+            },
+            "plusMinus": "-19",
+            "points": 17,
+            "pos": "SG",
+            "steals": 1,
+            "team": {
+                "code": "ATL",
+                "id": 1,
+                "logo": "https://upload.wikimedia.org/wikipedia/fr/e/ee/Hawks_2016.png",
+                "name": "Atlanta Hawks",
+                "nickname": "Hawks"
+            },
+            "totReb": 7,
+            "tpa": 10,
+            "tpm": 3,
+            "tpp": "30.0",
+            "turnovers": 4
+        },
+        {
+            "assists": 4,
+            "blocks": 0,
+            "comment": null,
+            "defReb": 3,
+            "fga": 17,
+            "fgm": 6,
+            "fgp": "35.3",
+            "fta": 2,
+            "ftm": 1,
+            "ftp": "50.0",
+            "game": {
+                "id": 13672
+            },
+            "min": "35",
+            "offReb": 2,
+            "pFouls": 1,
+            "player": {
+                "firstname": "Dejounte",
+                "id": 382,
+                "lastname": "Murray"
+            },
+            "plusMinus": "-16",
+            "points": 16,
+            "pos": "SG",
+            "steals": 1,
+            "team": {
+                "code": "ATL",
+                "id": 1,
+                "logo": "https://upload.wikimedia.org/wikipedia/fr/e/ee/Hawks_2016.png",
+                "name": "Atlanta Hawks",
+                "nickname": "Hawks"
+            },
+            "totReb": 5,
+            "tpa": 9,
+            "tpm": 3,
+            "tpp": "33.3",
+            "turnovers": 4
+        },
+        {
+            "assists": 2,
+            "blocks": 1,
+            "comment": null,
+            "defReb": 4,
+            "fga": 6,
+            "fgm": 3,
+            "fgp": "50.0",
+            "fta": 6,
+            "ftm": 4,
+            "ftp": "66.7",
+            "game": {
+                "id": 13672
+            },
+            "min": "19",
+            "offReb": 1,
+            "pFouls": 2,
+            "player": {
+                "firstname": "Bruno",
+                "id": 1858,
+                "lastname": "Fernando"
+            },
+            "plusMinus": "+11",
+            "points": 10,
+            "pos": "PF",
+            "steals": 1,
+            "team": {
+                "code": "ATL",
+                "id": 1,
+                "logo": "https://upload.wikimedia.org/wikipedia/fr/e/ee/Hawks_2016.png",
+                "name": "Atlanta Hawks",
+                "nickname": "Hawks"
+            },
+            "totReb": 5,
+            "tpa": 0,
+            "tpm": 0,
+            "tpp": "0",
+            "turnovers": 1
+        },
+        {
+            "assists": 0,
+            "blocks": 0,
+            "comment": null,
+            "defReb": 0,
+            "fga": 2,
+            "fgm": 0,
+            "fgp": "0",
+            "fta": 0,
+            "ftm": 0,
+            "ftp": "0",
+            "game": {
+                "id": 13672
+            },
+            "min": "4",
+            "offReb": 0,
+            "pFouls": 1,
+            "player": {
+                "firstname": "Wesley",
+                "id": 341,
+                "lastname": "Matthews"
+            },
+            "plusMinus": "+2",
+            "points": 0,
+            "pos": "SG",
+            "steals": 0,
+            "team": {
+                "code": "ATL",
+                "id": 1,
+                "logo": "https://upload.wikimedia.org/wikipedia/fr/e/ee/Hawks_2016.png",
+                "name": "Atlanta Hawks",
+                "nickname": "Hawks"
+            },
+            "totReb": 0,
+            "tpa": 2,
+            "tpm": 0,
+            "tpp": "0",
+            "turnovers": 0
+        },
+        {
+            "assists": 0,
+            "blocks": 0,
+            "comment": null,
+            "defReb": 1,
+            "fga": 6,
+            "fgm": 5,
+            "fgp": "83.3",
+            "fta": 1,
+            "ftm": 1,
+            "ftp": "100.0",
+            "game": {
+                "id": 13672
+            },
+            "min": "15",
+            "offReb": 1,
+            "pFouls": 2,
+            "player": {
+                "firstname": "Garrison",
+                "id": 2327,
+                "lastname": "Mathews"
+            },
+            "plusMinus": "0",
+            "points": 14,
+            "pos": "SG",
+            "steals": 0,
+            "team": {
+                "code": "ATL",
+                "id": 1,
+                "logo": "https://upload.wikimedia.org/wikipedia/fr/e/ee/Hawks_2016.png",
+                "name": "Atlanta Hawks",
+                "nickname": "Hawks"
+            },
+            "totReb": 2,
+            "tpa": 3,
+            "tpm": 3,
+            "tpp": "100.0",
+            "turnovers": 1
+        },
+        {
+            "assists": 3,
+            "blocks": 0,
+            "comment": null,
+            "defReb": 2,
+            "fga": 2,
+            "fgm": 1,
+            "fgp": "50.0",
+            "fta": 1,
+            "ftm": 1,
+            "ftp": "100.0",
+            "game": {
+                "id": 13672
+            },
+            "min": "15",
+            "offReb": 0,
+            "pFouls": 2,
+            "player": {
+                "firstname": "Vit",
+                "id": 2608,
+                "lastname": "Krejci"
+            },
+            "plusMinus": "+2",
+            "points": 4,
+            "pos": "G",
+            "steals": 0,
+            "team": {
+                "code": "ATL",
+                "id": 1,
+                "logo": "https://upload.wikimedia.org/wikipedia/fr/e/ee/Hawks_2016.png",
+                "name": "Atlanta Hawks",
+                "nickname": "Hawks"
+            },
+            "totReb": 2,
+            "tpa": 2,
+            "tpm": 1,
+            "tpp": "50.0",
+            "turnovers": 0
+        },
+        {
+            "assists": 1,
+            "blocks": 0,
+            "comment": null,
+            "defReb": 3,
+            "fga": 8,
+            "fgm": 4,
+            "fgp": "50.0",
+            "fta": 0,
+            "ftm": 0,
+            "ftp": "0",
+            "game": {
+                "id": 13672
+            },
+            "min": "13",
+            "offReb": 0,
+            "pFouls": 3,
+            "player": {
+                "firstname": "Kobe",
+                "id": 3938,
+                "lastname": "Bufkin"
+            },
+            "plusMinus": "+2",
+            "points": 9,
+            "pos": "G",
+            "steals": 1,
+            "team": {
+                "code": "ATL",
+                "id": 1,
+                "logo": "https://upload.wikimedia.org/wikipedia/fr/e/ee/Hawks_2016.png",
+                "name": "Atlanta Hawks",
+                "nickname": "Hawks"
+            },
+            "totReb": 3,
+            "tpa": 4,
+            "tpm": 1,
+            "tpp": "25.0",
+            "turnovers": 0
+        },
+        {
+            "assists": 2,
+            "blocks": 0,
+            "comment": null,
+            "defReb": 1,
+            "fga": 11,
+            "fgm": 5,
+            "fgp": "45.5",
+            "fta": 7,
+            "ftm": 6,
+            "ftp": "85.7",
+            "game": {
+                "id": 13678
+            },
+            "min": "29",
+            "offReb": 0,
+            "pFouls": 2,
+            "player": {
+                "firstname": "De'Andre",
+                "id": 1868,
+                "lastname": "Hunter"
+            },
+            "plusMinus": "-20",
+            "points": 18,
+            "pos": "SF",
+            "steals": 1,
+            "team": {
+                "code": "ATL",
+                "id": 1,
+                "logo": "https://upload.wikimedia.org/wikipedia/fr/e/ee/Hawks_2016.png",
+                "name": "Atlanta Hawks",
+                "nickname": "Hawks"
+            },
+            "totReb": 1,
+            "tpa": 8,
+            "tpm": 2,
+            "tpp": "25.0",
+            "turnovers": 3
+        },
+        {
+            "assists": 4,
+            "blocks": 0,
+            "comment": null,
+            "defReb": 5,
+            "fga": 18,
+            "fgm": 8,
+            "fgp": "44.4",
+            "fta": 0,
+            "ftm": 0,
+            "ftp": "0",
+            "game": {
+                "id": 13678
+            },
+            "min": "34",
+            "offReb": 1,
+            "pFouls": 0,
+            "player": {
+                "firstname": "Jalen",
+                "id": 2819,
+                "lastname": "Johnson"
+            },
+            "plusMinus": "-8",
+            "points": 17,
+            "pos": "SF",
+            "steals": 1,
+            "team": {
+                "code": "ATL",
+                "id": 1,
+                "logo": "https://upload.wikimedia.org/wikipedia/fr/e/ee/Hawks_2016.png",
+                "name": "Atlanta Hawks",
+                "nickname": "Hawks"
+            },
+            "totReb": 6,
+            "tpa": 5,
+            "tpm": 1,
+            "tpp": "20.0",
+            "turnovers": 6
+        },
+        {
+            "assists": 3,
+            "blocks": 0,
+            "comment": null,
+            "defReb": 7,
+            "fga": 6,
+            "fgm": 5,
+            "fgp": "83.3",
+            "fta": 12,
+            "ftm": 9,
+            "ftp": "75.0",
+            "game": {
+                "id": 13678
+            },
+            "min": "30",
+            "offReb": 5,
+            "pFouls": 2,
+            "player": {
+                "firstname": "Clint",
+                "id": 92,
+                "lastname": "Capela"
+            },
+            "plusMinus": "-4",
+            "points": 19,
+            "pos": "C",
+            "steals": 1,
+            "team": {
+                "code": "ATL",
+                "id": 1,
+                "logo": "https://upload.wikimedia.org/wikipedia/fr/e/ee/Hawks_2016.png",
+                "name": "Atlanta Hawks",
+                "nickname": "Hawks"
+            },
+            "totReb": 12,
+            "tpa": 0,
+            "tpm": 0,
+            "tpp": "0",
+            "turnovers": 1
+        },
+        {
+            "assists": 2,
+            "blocks": 1,
+            "comment": null,
+            "defReb": 1,
+            "fga": 10,
+            "fgm": 6,
+            "fgp": "60.0",
+            "fta": 3,
+            "ftm": 3,
+            "ftp": "100.0",
+            "game": {
+                "id": 13678
+            },
+            "min": "31",
+            "offReb": 1,
+            "pFouls": 4,
+            "player": {
+                "firstname": "Bogdan",
+                "id": 743,
+                "lastname": "Bogdanovic"
+            },
+            "plusMinus": "-8",
+            "points": 18,
+            "pos": "SG",
+            "steals": 1,
+            "team": {
+                "code": "ATL",
+                "id": 1,
+                "logo": "https://upload.wikimedia.org/wikipedia/fr/e/ee/Hawks_2016.png",
+                "name": "Atlanta Hawks",
+                "nickname": "Hawks"
+            },
+            "totReb": 2,
+            "tpa": 4,
+            "tpm": 3,
+            "tpp": "75.0",
+            "turnovers": 2
+        },
+        {
+            "assists": 12,
+            "blocks": 1,
+            "comment": null,
+            "defReb": 2,
+            "fga": 15,
+            "fgm": 4,
+            "fgp": "26.7",
+            "fta": 4,
+            "ftm": 3,
+            "ftp": "75.0",
+            "game": {
+                "id": 13678
+            },
+            "min": "36",
+            "offReb": 0,
+            "pFouls": 2,
+            "player": {
+                "firstname": "Dejounte",
+                "id": 382,
+                "lastname": "Murray"
+            },
+            "plusMinus": "-27",
+            "points": 14,
+            "pos": "SG",
+            "steals": 1,
+            "team": {
+                "code": "ATL",
+                "id": 1,
+                "logo": "https://upload.wikimedia.org/wikipedia/fr/e/ee/Hawks_2016.png",
+                "name": "Atlanta Hawks",
+                "nickname": "Hawks"
+            },
+            "totReb": 2,
+            "tpa": 8,
+            "tpm": 3,
+            "tpp": "37.5",
+            "turnovers": 2
+        },
+        {
+            "assists": 2,
+            "blocks": 0,
+            "comment": null,
+            "defReb": 4,
+            "fga": 9,
+            "fgm": 3,
+            "fgp": "33.3",
+            "fta": 0,
+            "ftm": 0,
+            "ftp": "0",
+            "game": {
+                "id": 13678
+            },
+            "min": "18",
+            "offReb": 2,
+            "pFouls": 5,
+            "player": {
+                "firstname": "Bruno",
+                "id": 1858,
+                "lastname": "Fernando"
+            },
+            "plusMinus": "-28",
+            "points": 6,
+            "pos": "PF",
+            "steals": 0,
+            "team": {
+                "code": "ATL",
+                "id": 1,
+                "logo": "https://upload.wikimedia.org/wikipedia/fr/e/ee/Hawks_2016.png",
+                "name": "Atlanta Hawks",
+                "nickname": "Hawks"
+            },
+            "totReb": 6,
+            "tpa": 0,
+            "tpm": 0,
+            "tpp": "0",
+            "turnovers": 1
+        },
+        {
+            "assists": 0,
+            "blocks": 0,
+            "comment": null,
+            "defReb": 0,
+            "fga": 3,
+            "fgm": 0,
+            "fgp": "0",
+            "fta": 0,
+            "ftm": 0,
+            "ftp": "0",
+            "game": {
+                "id": 13678
+            },
+            "min": "4",
+            "offReb": 1,
+            "pFouls": 0,
+            "player": {
+                "firstname": "Mouhamed",
+                "id": 3939,
+                "lastname": "Gueye"
+            },
+            "plusMinus": "-7",
+            "points": 0,
+            "pos": "F",
+            "steals": 0,
+            "team": {
+                "code": "ATL",
+                "id": 1,
+                "logo": "https://upload.wikimedia.org/wikipedia/fr/e/ee/Hawks_2016.png",
+                "name": "Atlanta Hawks",
+                "nickname": "Hawks"
+            },
+            "totReb": 1,
+            "tpa": 2,
+            "tpm": 0,
+            "tpp": "0",
+            "turnovers": 1
+        },
+        {
+            "assists": 0,
+            "blocks": 0,
+            "comment": null,
+            "defReb": 0,
+            "fga": 6,
+            "fgm": 3,
+            "fgp": "50.0",
+            "fta": 3,
+            "ftm": 3,
+            "ftp": "100.0",
+            "game": {
+                "id": 13678
+            },
+            "min": "19",
+            "offReb": 0,
+            "pFouls": 0,
+            "player": {
+                "firstname": "Garrison",
+                "id": 2327,
+                "lastname": "Mathews"
+            },
+            "plusMinus": "-29",
+            "points": 11,
+            "pos": "SG",
+            "steals": 2,
+            "team": {
+                "code": "ATL",
+                "id": 1,
+                "logo": "https://upload.wikimedia.org/wikipedia/fr/e/ee/Hawks_2016.png",
+                "name": "Atlanta Hawks",
+                "nickname": "Hawks"
+            },
+            "totReb": 0,
+            "tpa": 5,
+            "tpm": 2,
+            "tpp": "40.0",
+            "turnovers": 0
+        },
+        {
+            "assists": 2,
+            "blocks": 0,
+            "comment": null,
+            "defReb": 4,
+            "fga": 3,
+            "fgm": 1,
+            "fgp": "33.3",
+            "fta": 0,
+            "ftm": 0,
+            "ftp": "0",
+            "game": {
+                "id": 13678
+            },
+            "min": "25",
+            "offReb": 1,
+            "pFouls": 2,
+            "player": {
+                "firstname": "Vit",
+                "id": 2608,
+                "lastname": "Krejci"
+            },
+            "plusMinus": "-24",
+            "points": 3,
+            "pos": "G",
+            "steals": 1,
+            "team": {
+                "code": "ATL",
+                "id": 1,
+                "logo": "https://upload.wikimedia.org/wikipedia/fr/e/ee/Hawks_2016.png",
+                "name": "Atlanta Hawks",
+                "nickname": "Hawks"
+            },
+            "totReb": 5,
+            "tpa": 2,
+            "tpm": 1,
+            "tpp": "50.0",
+            "turnovers": 0
+        },
+        {
+            "assists": 3,
+            "blocks": 0,
+            "comment": null,
+            "defReb": 3,
+            "fga": 6,
+            "fgm": 2,
+            "fgp": "33.3",
+            "fta": 0,
+            "ftm": 0,
+            "ftp": "0",
+            "game": {
+                "id": 13678
+            },
+            "min": "14",
+            "offReb": 0,
+            "pFouls": 1,
+            "player": {
+                "firstname": "Kobe",
+                "id": 3938,
+                "lastname": "Bufkin"
+            },
+            "plusMinus": "-5",
+            "points": 4,
+            "pos": "G",
+            "steals": 0,
+            "team": {
+                "code": "ATL",
+                "id": 1,
+                "logo": "https://upload.wikimedia.org/wikipedia/fr/e/ee/Hawks_2016.png",
+                "name": "Atlanta Hawks",
+                "nickname": "Hawks"
+            },
+            "totReb": 3,
+            "tpa": 3,
+            "tpm": 0,
+            "tpp": "0",
+            "turnovers": 0
+        },
+        {
+            "assists": 3,
+            "blocks": 1,
+            "comment": null,
+            "defReb": 10,
+            "fga": 23,
+            "fgm": 10,
+            "fgp": "43.5",
+            "fta": 2,
+            "ftm": 1,
+            "ftp": "50.0",
+            "game": {
+                "id": 13695
+            },
+            "min": "47",
+            "offReb": 1,
+            "pFouls": 4,
+            "player": {
+                "firstname": "De'Andre",
+                "id": 1868,
+                "lastname": "Hunter"
+            },
+            "plusMinus": "0",
+            "points": 23,
+            "pos": "SF",
+            "steals": 2,
+            "team": {
+                "code": "ATL",
+                "id": 1,
+                "logo": "https://upload.wikimedia.org/wikipedia/fr/e/ee/Hawks_2016.png",
+                "name": "Atlanta Hawks",
+                "nickname": "Hawks"
+            },
+            "totReb": 11,
+            "tpa": 8,
+            "tpm": 2,
+            "tpp": "25.0",
+            "turnovers": 0
+        },
+        {
+            "assists": 3,
+            "blocks": 0,
+            "comment": null,
+            "defReb": 6,
+            "fga": 7,
+            "fgm": 6,
+            "fgp": "85.7",
+            "fta": 0,
+            "ftm": 0,
+            "ftp": "0",
+            "game": {
+                "id": 13695
+            },
+            "min": "24",
+            "offReb": 2,
+            "pFouls": 2,
+            "player": {
+                "firstname": "Jalen",
+                "id": 2819,
+                "lastname": "Johnson"
+            },
+            "plusMinus": "-14",
+            "points": 13,
+            "pos": "SF",
+            "steals": 1,
+            "team": {
+                "code": "ATL",
+                "id": 1,
+                "logo": "https://upload.wikimedia.org/wikipedia/fr/e/ee/Hawks_2016.png",
+                "name": "Atlanta Hawks",
+                "nickname": "Hawks"
+            },
+            "totReb": 8,
+            "tpa": 1,
+            "tpm": 1,
+            "tpp": "100.0",
+            "turnovers": 1
+        },
+        {
+            "assists": 2,
+            "blocks": 0,
+            "comment": null,
+            "defReb": 5,
+            "fga": 8,
+            "fgm": 3,
+            "fgp": "37.5",
+            "fta": 0,
+            "ftm": 0,
+            "ftp": "0",
+            "game": {
+                "id": 13695
+            },
+            "min": "37",
+            "offReb": 6,
+            "pFouls": 1,
+            "player": {
+                "firstname": "Clint",
+                "id": 92,
+                "lastname": "Capela"
+            },
+            "plusMinus": "-11",
+            "points": 6,
+            "pos": "C",
+            "steals": 0,
+            "team": {
+                "code": "ATL",
+                "id": 1,
+                "logo": "https://upload.wikimedia.org/wikipedia/fr/e/ee/Hawks_2016.png",
+                "name": "Atlanta Hawks",
+                "nickname": "Hawks"
+            },
+            "totReb": 11,
+            "tpa": 0,
+            "tpm": 0,
+            "tpp": "0",
+            "turnovers": 1
+        },
+        {
+            "assists": 2,
+            "blocks": 1,
+            "comment": null,
+            "defReb": 1,
+            "fga": 17,
+            "fgm": 4,
+            "fgp": "23.5",
+            "fta": 2,
+            "ftm": 2,
+            "ftp": "100.0",
+            "game": {
+                "id": 13695
+            },
+            "min": "45",
+            "offReb": 0,
+            "pFouls": 3,
+            "player": {
+                "firstname": "Bogdan",
+                "id": 743,
+                "lastname": "Bogdanovic"
+            },
+            "plusMinus": "-22",
+            "points": 11,
+            "pos": "SG",
+            "steals": 1,
+            "team": {
+                "code": "ATL",
+                "id": 1,
+                "logo": "https://upload.wikimedia.org/wikipedia/fr/e/ee/Hawks_2016.png",
+                "name": "Atlanta Hawks",
+                "nickname": "Hawks"
+            },
+            "totReb": 1,
+            "tpa": 11,
+            "tpm": 1,
+            "tpp": "9.1",
+            "turnovers": 5
+        },
+        {
+            "assists": 13,
+            "blocks": 0,
+            "comment": null,
+            "defReb": 9,
+            "fga": 31,
+            "fgm": 12,
+            "fgp": "38.7",
+            "fta": 2,
+            "ftm": 2,
+            "ftp": "100.0",
+            "game": {
+                "id": 13695
+            },
+            "min": "49",
+            "offReb": 4,
+            "pFouls": 4,
+            "player": {
+                "firstname": "Dejounte",
+                "id": 382,
+                "lastname": "Murray"
+            },
+            "plusMinus": "+4",
+            "points": 29,
+            "pos": "SG",
+            "steals": 4,
+            "team": {
+                "code": "ATL",
+                "id": 1,
+                "logo": "https://upload.wikimedia.org/wikipedia/fr/e/ee/Hawks_2016.png",
+                "name": "Atlanta Hawks",
+                "nickname": "Hawks"
+            },
+            "totReb": 13,
+            "tpa": 12,
+            "tpm": 3,
+            "tpp": "25.0",
+            "turnovers": 4
+        },
+        {
+            "assists": 0,
+            "blocks": 0,
+            "comment": null,
+            "defReb": 4,
+            "fga": 5,
+            "fgm": 4,
+            "fgp": "80.0",
+            "fta": 4,
+            "ftm": 4,
+            "ftp": "100.0",
+            "game": {
+                "id": 13695
+            },
+            "min": "21",
+            "offReb": 0,
+            "pFouls": 2,
+            "player": {
+                "firstname": "Bruno",
+                "id": 1858,
+                "lastname": "Fernando"
+            },
+            "plusMinus": "+5",
+            "points": 12,
+            "pos": "PF",
+            "steals": 0,
+            "team": {
+                "code": "ATL",
+                "id": 1,
+                "logo": "https://upload.wikimedia.org/wikipedia/fr/e/ee/Hawks_2016.png",
+                "name": "Atlanta Hawks",
+                "nickname": "Hawks"
+            },
+            "totReb": 4,
+            "tpa": 0,
+            "tpm": 0,
+            "tpp": "0",
+            "turnovers": 0
+        },
+        {
+            "assists": 1,
+            "blocks": 0,
+            "comment": null,
+            "defReb": 0,
+            "fga": 0,
+            "fgm": 0,
+            "fgp": "0",
+            "fta": 2,
+            "ftm": 2,
+            "ftp": "100.0",
+            "game": {
+                "id": 13695
+            },
+            "min": "5",
+            "offReb": 0,
+            "pFouls": 0,
+            "player": {
+                "firstname": "Wesley",
+                "id": 341,
+                "lastname": "Matthews"
+            },
+            "plusMinus": "-1",
+            "points": 2,
+            "pos": "SG",
+            "steals": 1,
+            "team": {
+                "code": "ATL",
+                "id": 1,
+                "logo": "https://upload.wikimedia.org/wikipedia/fr/e/ee/Hawks_2016.png",
+                "name": "Atlanta Hawks",
+                "nickname": "Hawks"
+            },
+            "totReb": 0,
+            "tpa": 0,
+            "tpm": 0,
+            "tpp": "0",
+            "turnovers": 0
+        },
+        {
+            "assists": 0,
+            "blocks": 0,
+            "comment": null,
+            "defReb": 1,
+            "fga": 10,
+            "fgm": 4,
+            "fgp": "40.0",
+            "fta": 1,
+            "ftm": 0,
+            "ftp": "0",
+            "game": {
+                "id": 13695
+            },
+            "min": "21",
+            "offReb": 2,
+            "pFouls": 2,
+            "player": {
+                "firstname": "Garrison",
+                "id": 2327,
+                "lastname": "Mathews"
+            },
+            "plusMinus": "+10",
+            "points": 11,
+            "pos": "SG",
+            "steals": 1,
+            "team": {
+                "code": "ATL",
+                "id": 1,
+                "logo": "https://upload.wikimedia.org/wikipedia/fr/e/ee/Hawks_2016.png",
+                "name": "Atlanta Hawks",
+                "nickname": "Hawks"
+            },
+            "totReb": 3,
+            "tpa": 9,
+            "tpm": 3,
+            "tpp": "33.3",
+            "turnovers": 1
+        },
+        {
+            "assists": 1,
+            "blocks": 0,
+            "comment": null,
+            "defReb": 3,
+            "fga": 3,
+            "fgm": 0,
+            "fgp": "0",
+            "fta": 0,
+            "ftm": 0,
+            "ftp": "0",
+            "game": {
+                "id": 13695
+            },
+            "min": "32",
+            "offReb": 1,
+            "pFouls": 4,
+            "player": {
+                "firstname": "Vit",
+                "id": 2608,
+                "lastname": "Krejci"
+            },
+            "plusMinus": "+7",
+            "points": 0,
+            "pos": "G",
+            "steals": 2,
+            "team": {
+                "code": "ATL",
+                "id": 1,
+                "logo": "https://upload.wikimedia.org/wikipedia/fr/e/ee/Hawks_2016.png",
+                "name": "Atlanta Hawks",
+                "nickname": "Hawks"
+            },
+            "totReb": 4,
+            "tpa": 2,
+            "tpm": 0,
+            "tpp": "0",
+            "turnovers": 1
+        },
+        {
+            "assists": 3,
+            "blocks": 0,
+            "comment": null,
+            "defReb": 3,
+            "fga": 9,
+            "fgm": 2,
+            "fgp": "22.2",
+            "fta": 1,
+            "ftm": 0,
+            "ftp": "0",
+            "game": {
+                "id": 13695
+            },
+            "min": "11",
+            "offReb": 1,
+            "pFouls": 1,
+            "player": {
+                "firstname": "Kobe",
+                "id": 3938,
+                "lastname": "Bufkin"
+            },
+            "plusMinus": "-8",
+            "points": 4,
+            "pos": "G",
+            "steals": 1,
+            "team": {
+                "code": "ATL",
+                "id": 1,
+                "logo": "https://upload.wikimedia.org/wikipedia/fr/e/ee/Hawks_2016.png",
+                "name": "Atlanta Hawks",
+                "nickname": "Hawks"
+            },
+            "totReb": 4,
+            "tpa": 3,
+            "tpm": 0,
+            "tpp": "0",
+            "turnovers": 2
+        },
+        {
+            "assists": 0,
+            "blocks": 0,
+            "comment": null,
+            "defReb": 6,
+            "fga": 10,
+            "fgm": 7,
+            "fgp": "70.0",
+            "fta": 2,
+            "ftm": 1,
+            "ftp": "50.0",
+            "game": {
+                "id": 13707
+            },
+            "min": "21",
+            "offReb": 0,
+            "pFouls": 0,
+            "player": {
+                "firstname": "Clint",
+                "id": 92,
+                "lastname": "Capela"
+            },
+            "plusMinus": "+14",
+            "points": 15,
+            "pos": "C",
+            "steals": 1,
+            "team": {
+                "code": "ATL",
+                "id": 1,
+                "logo": "https://upload.wikimedia.org/wikipedia/fr/e/ee/Hawks_2016.png",
+                "name": "Atlanta Hawks",
+                "nickname": "Hawks"
+            },
+            "totReb": 6,
+            "tpa": 0,
+            "tpm": 0,
+            "tpp": "0",
+            "turnovers": 0
+        },
+        {
+            "assists": 11,
+            "blocks": 0,
+            "comment": null,
+            "defReb": 4,
+            "fga": 5,
+            "fgm": 5,
+            "fgp": "100.0",
+            "fta": 2,
+            "ftm": 2,
+            "ftp": "100.0",
+            "game": {
+                "id": 13707
+            },
+            "min": "21",
+            "offReb": 0,
+            "pFouls": 1,
+            "player": {
+                "firstname": "Trae",
+                "id": 1046,
+                "lastname": "Young"
+            },
+            "plusMinus": "+16",
+            "points": 14,
+            "pos": "PG",
+            "steals": 1,
+            "team": {
+                "code": "ATL",
+                "id": 1,
+                "logo": "https://upload.wikimedia.org/wikipedia/fr/e/ee/Hawks_2016.png",
+                "name": "Atlanta Hawks",
+                "nickname": "Hawks"
+            },
+            "totReb": 4,
+            "tpa": 2,
+            "tpm": 2,
+            "tpp": "100.0",
+            "turnovers": 5
+        },
+        {
+            "assists": 8,
+            "blocks": 0,
+            "comment": null,
+            "defReb": 1,
+            "fga": 11,
+            "fgm": 6,
+            "fgp": "54.5",
+            "fta": 2,
+            "ftm": 2,
+            "ftp": "100.0",
+            "game": {
+                "id": 13707
+            },
+            "min": "22",
+            "offReb": 0,
+            "pFouls": 2,
+            "player": {
+                "firstname": "Bogdan",
+                "id": 743,
+                "lastname": "Bogdanovic"
+            },
+            "plusMinus": "+12",
+            "points": 19,
+            "pos": "SG",
+            "steals": 1,
+            "team": {
+                "code": "ATL",
+                "id": 1,
+                "logo": "https://upload.wikimedia.org/wikipedia/fr/e/ee/Hawks_2016.png",
+                "name": "Atlanta Hawks",
+                "nickname": "Hawks"
+            },
+            "totReb": 1,
+            "tpa": 10,
+            "tpm": 5,
+            "tpp": "50.0",
+            "turnovers": 2
+        },
+        {
+            "assists": 4,
+            "blocks": 0,
+            "comment": null,
+            "defReb": 3,
+            "fga": 12,
+            "fgm": 4,
+            "fgp": "33.3",
+            "fta": 0,
+            "ftm": 0,
+            "ftp": "0",
+            "game": {
+                "id": 13707
+            },
+            "min": "31",
+            "offReb": 0,
+            "pFouls": 0,
+            "player": {
+                "firstname": "Garrison",
+                "id": 2327,
+                "lastname": "Mathews"
+            },
+            "plusMinus": "+14",
+            "points": 10,
+            "pos": "SG",
+            "steals": 0,
+            "team": {
+                "code": "ATL",
+                "id": 1,
+                "logo": "https://upload.wikimedia.org/wikipedia/fr/e/ee/Hawks_2016.png",
+                "name": "Atlanta Hawks",
+                "nickname": "Hawks"
+            },
+            "totReb": 3,
+            "tpa": 9,
+            "tpm": 2,
+            "tpp": "22.2",
+            "turnovers": 0
+        },
+        {
+            "assists": 2,
+            "blocks": 0,
+            "comment": null,
+            "defReb": 3,
+            "fga": 14,
+            "fgm": 8,
+            "fgp": "57.1",
+            "fta": 0,
+            "ftm": 0,
+            "ftp": "0",
+            "game": {
+                "id": 13707
+            },
+            "min": "33",
+            "offReb": 1,
+            "pFouls": 2,
+            "player": {
+                "firstname": "Vit",
+                "id": 2608,
+                "lastname": "Krejci"
+            },
+            "plusMinus": "-5",
+            "points": 19,
+            "pos": "G",
+            "steals": 2,
+            "team": {
+                "code": "ATL",
+                "id": 1,
+                "logo": "https://upload.wikimedia.org/wikipedia/fr/e/ee/Hawks_2016.png",
+                "name": "Atlanta Hawks",
+                "nickname": "Hawks"
+            },
+            "totReb": 4,
+            "tpa": 8,
+            "tpm": 3,
+            "tpp": "37.5",
+            "turnovers": 3
+        },
+        {
+            "assists": 0,
+            "blocks": 0,
+            "comment": null,
+            "defReb": 6,
+            "fga": 3,
+            "fgm": 1,
+            "fgp": "33.3",
+            "fta": 6,
+            "ftm": 3,
+            "ftp": "50.0",
+            "game": {
+                "id": 13707
+            },
+            "min": "25",
+            "offReb": 0,
+            "pFouls": 5,
+            "player": {
+                "firstname": "Bruno",
+                "id": 1858,
+                "lastname": "Fernando"
+            },
+            "plusMinus": "-14",
+            "points": 5,
+            "pos": "PF",
+            "steals": 0,
+            "team": {
+                "code": "ATL",
+                "id": 1,
+                "logo": "https://upload.wikimedia.org/wikipedia/fr/e/ee/Hawks_2016.png",
+                "name": "Atlanta Hawks",
+                "nickname": "Hawks"
+            },
+            "totReb": 6,
+            "tpa": 0,
+            "tpm": 0,
+            "tpp": "0",
+            "turnovers": 2
+        },
+        {
+            "assists": 3,
+            "blocks": 1,
+            "comment": null,
+            "defReb": 5,
+            "fga": 3,
+            "fgm": 1,
+            "fgp": "33.3",
+            "fta": 0,
+            "ftm": 0,
+            "ftp": "0",
+            "game": {
+                "id": 13707
+            },
+            "min": "17",
+            "offReb": 2,
+            "pFouls": 4,
+            "player": {
+                "firstname": "Mouhamed",
+                "id": 3939,
+                "lastname": "Gueye"
+            },
+            "plusMinus": "0",
+            "points": 3,
+            "pos": "F",
+            "steals": 1,
+            "team": {
+                "code": "ATL",
+                "id": 1,
+                "logo": "https://upload.wikimedia.org/wikipedia/fr/e/ee/Hawks_2016.png",
+                "name": "Atlanta Hawks",
+                "nickname": "Hawks"
+            },
+            "totReb": 7,
+            "tpa": 1,
+            "tpm": 1,
+            "tpp": "100.0",
+            "turnovers": 0
+        },
+        {
+            "assists": 1,
+            "blocks": 0,
+            "comment": null,
+            "defReb": 1,
+            "fga": 7,
+            "fgm": 4,
+            "fgp": "57.1",
+            "fta": 0,
+            "ftm": 0,
+            "ftp": "0",
+            "game": {
+                "id": 13707
+            },
+            "min": "26",
+            "offReb": 2,
+            "pFouls": 1,
+            "player": {
+                "firstname": "Dylan",
+                "id": 1903,
+                "lastname": "Windler"
+            },
+            "plusMinus": "-20",
+            "points": 12,
+            "pos": "G",
+            "steals": 0,
+            "team": {
+                "code": "ATL",
+                "id": 1,
+                "logo": "https://upload.wikimedia.org/wikipedia/fr/e/ee/Hawks_2016.png",
+                "name": "Atlanta Hawks",
+                "nickname": "Hawks"
+            },
+            "totReb": 3,
+            "tpa": 7,
+            "tpm": 4,
+            "tpp": "57.1",
+            "turnovers": 1
+        },
+        {
+            "assists": 5,
+            "blocks": 0,
+            "comment": null,
+            "defReb": 1,
+            "fga": 5,
+            "fgm": 3,
+            "fgp": "60.0",
+            "fta": 1,
+            "ftm": 0,
+            "ftp": "0",
+            "game": {
+                "id": 13707
+            },
+            "min": "20",
+            "offReb": 1,
+            "pFouls": 0,
+            "player": {
+                "firstname": "Trent",
+                "id": 2589,
+                "lastname": "Forrest"
+            },
+            "plusMinus": "-13",
+            "points": 6,
+            "pos": "G",
+            "steals": 1,
+            "team": {
+                "code": "ATL",
+                "id": 1,
+                "logo": "https://upload.wikimedia.org/wikipedia/fr/e/ee/Hawks_2016.png",
+                "name": "Atlanta Hawks",
+                "nickname": "Hawks"
+            },
+            "totReb": 2,
+            "tpa": 0,
+            "tpm": 0,
+            "tpp": "0",
+            "turnovers": 2
+        },
+        {
+            "assists": 1,
+            "blocks": 1,
+            "comment": null,
+            "defReb": 1,
+            "fga": 12,
+            "fgm": 4,
+            "fgp": "33.3",
+            "fta": 3,
+            "ftm": 2,
+            "ftp": "66.7",
+            "game": {
+                "id": 13707
+            },
+            "min": "24",
+            "offReb": 1,
+            "pFouls": 5,
+            "player": {
+                "firstname": "Kobe",
+                "id": 3938,
+                "lastname": "Bufkin"
+            },
+            "plusMinus": "-9",
+            "points": 11,
+            "pos": "G",
+            "steals": 0,
+            "team": {
+                "code": "ATL",
+                "id": 1,
+                "logo": "https://upload.wikimedia.org/wikipedia/fr/e/ee/Hawks_2016.png",
+                "name": "Atlanta Hawks",
+                "nickname": "Hawks"
+            },
+            "totReb": 2,
+            "tpa": 3,
+            "tpm": 1,
+            "tpp": "33.3",
+            "turnovers": 1
+        },
+        {
+            "assists": 1,
+            "blocks": 0,
+            "comment": null,
+            "defReb": 1,
+            "fga": 14,
+            "fgm": 5,
+            "fgp": "35.7",
+            "fta": 3,
+            "ftm": 3,
+            "ftp": "100.0",
+            "game": {
+                "id": 13726
+            },
+            "min": "25",
+            "offReb": 1,
+            "pFouls": 4,
+            "player": {
+                "firstname": "De'Andre",
+                "id": 1868,
+                "lastname": "Hunter"
+            },
+            "plusMinus": "+4",
+            "points": 15,
+            "pos": "SF",
+            "steals": 0,
+            "team": {
+                "code": "ATL",
+                "id": 1,
+                "logo": "https://upload.wikimedia.org/wikipedia/fr/e/ee/Hawks_2016.png",
+                "name": "Atlanta Hawks",
+                "nickname": "Hawks"
+            },
+            "totReb": 2,
+            "tpa": 6,
+            "tpm": 2,
+            "tpp": "33.3",
+            "turnovers": 1
+        },
+        {
+            "assists": 3,
+            "blocks": 1,
+            "comment": null,
+            "defReb": 9,
+            "fga": 8,
+            "fgm": 6,
+            "fgp": "75.0",
+            "fta": 2,
+            "ftm": 1,
+            "ftp": "50.0",
+            "game": {
+                "id": 13726
+            },
+            "min": "26",
+            "offReb": 2,
+            "pFouls": 2,
+            "player": {
+                "firstname": "Clint",
+                "id": 92,
+                "lastname": "Capela"
+            },
+            "plusMinus": "+4",
+            "points": 13,
+            "pos": "C",
+            "steals": 1,
+            "team": {
+                "code": "ATL",
+                "id": 1,
+                "logo": "https://upload.wikimedia.org/wikipedia/fr/e/ee/Hawks_2016.png",
+                "name": "Atlanta Hawks",
+                "nickname": "Hawks"
+            },
+            "totReb": 11,
+            "tpa": 0,
+            "tpm": 0,
+            "tpp": "0",
+            "turnovers": 1
+        },
+        {
+            "assists": 7,
+            "blocks": 0,
+            "comment": null,
+            "defReb": 2,
+            "fga": 12,
+            "fgm": 6,
+            "fgp": "50.0",
+            "fta": 6,
+            "ftm": 4,
+            "ftp": "66.7",
+            "game": {
+                "id": 13726
+            },
+            "min": "27",
+            "offReb": 0,
+            "pFouls": 1,
+            "player": {
+                "firstname": "Trae",
+                "id": 1046,
+                "lastname": "Young"
+            },
+            "plusMinus": "+16",
+            "points": 19,
+            "pos": "PG",
+            "steals": 1,
+            "team": {
+                "code": "ATL",
+                "id": 1,
+                "logo": "https://upload.wikimedia.org/wikipedia/fr/e/ee/Hawks_2016.png",
+                "name": "Atlanta Hawks",
+                "nickname": "Hawks"
+            },
+            "totReb": 2,
+            "tpa": 7,
+            "tpm": 3,
+            "tpp": "42.9",
+            "turnovers": 2
+        },
+        {
+            "assists": 2,
+            "blocks": 0,
+            "comment": null,
+            "defReb": 2,
+            "fga": 10,
+            "fgm": 5,
+            "fgp": "50.0",
+            "fta": 5,
+            "ftm": 5,
+            "ftp": "100.0",
+            "game": {
+                "id": 13726
+            },
+            "min": "29",
+            "offReb": 0,
+            "pFouls": 0,
+            "player": {
+                "firstname": "Bogdan",
+                "id": 743,
+                "lastname": "Bogdanovic"
+            },
+            "plusMinus": "-5",
+            "points": 17,
+            "pos": "SG",
+            "steals": 0,
+            "team": {
+                "code": "ATL",
+                "id": 1,
+                "logo": "https://upload.wikimedia.org/wikipedia/fr/e/ee/Hawks_2016.png",
+                "name": "Atlanta Hawks",
+                "nickname": "Hawks"
+            },
+            "totReb": 2,
+            "tpa": 4,
+            "tpm": 2,
+            "tpp": "50.0",
+            "turnovers": 1
+        },
+        {
+            "assists": 4,
+            "blocks": 0,
+            "comment": null,
+            "defReb": 4,
+            "fga": 14,
+            "fgm": 5,
+            "fgp": "35.7",
+            "fta": 4,
+            "ftm": 2,
+            "ftp": "50.0",
+            "game": {
+                "id": 13726
+            },
+            "min": "31",
+            "offReb": 1,
+            "pFouls": 3,
+            "player": {
+                "firstname": "Dejounte",
+                "id": 382,
+                "lastname": "Murray"
+            },
+            "plusMinus": "-5",
+            "points": 12,
+            "pos": "SG",
+            "steals": 0,
+            "team": {
+                "code": "ATL",
+                "id": 1,
+                "logo": "https://upload.wikimedia.org/wikipedia/fr/e/ee/Hawks_2016.png",
+                "name": "Atlanta Hawks",
+                "nickname": "Hawks"
+            },
+            "totReb": 5,
+            "tpa": 3,
+            "tpm": 0,
+            "tpp": "0",
+            "turnovers": 3
+        },
+        {
+            "assists": 2,
+            "blocks": 0,
+            "comment": null,
+            "defReb": 4,
+            "fga": 9,
+            "fgm": 6,
+            "fgp": "66.7",
+            "fta": 5,
+            "ftm": 2,
+            "ftp": "40.0",
+            "game": {
+                "id": 13726
+            },
+            "min": "22",
+            "offReb": 1,
+            "pFouls": 5,
+            "player": {
+                "firstname": "Bruno",
+                "id": 1858,
+                "lastname": "Fernando"
+            },
+            "plusMinus": "-7",
+            "points": 14,
+            "pos": "PF",
+            "steals": 0,
+            "team": {
+                "code": "ATL",
+                "id": 1,
+                "logo": "https://upload.wikimedia.org/wikipedia/fr/e/ee/Hawks_2016.png",
+                "name": "Atlanta Hawks",
+                "nickname": "Hawks"
+            },
+            "totReb": 5,
+            "tpa": 0,
+            "tpm": 0,
+            "tpp": "0",
+            "turnovers": 2
+        },
+        {
+            "assists": 1,
+            "blocks": 0,
+            "comment": null,
+            "defReb": 4,
+            "fga": 3,
+            "fgm": 1,
+            "fgp": "33.3",
+            "fta": 0,
+            "ftm": 0,
+            "ftp": "0",
+            "game": {
+                "id": 13726
+            },
+            "min": "18",
+            "offReb": 0,
+            "pFouls": 0,
+            "player": {
+                "firstname": "AJ",
+                "id": 3444,
+                "lastname": "Griffin"
+            },
+            "plusMinus": "-6",
+            "points": 3,
+            "pos": "F",
+            "steals": 0,
+            "team": {
+                "code": "ATL",
+                "id": 1,
+                "logo": "https://upload.wikimedia.org/wikipedia/fr/e/ee/Hawks_2016.png",
+                "name": "Atlanta Hawks",
+                "nickname": "Hawks"
+            },
+            "totReb": 4,
+            "tpa": 1,
+            "tpm": 1,
+            "tpp": "100.0",
+            "turnovers": 1
+        },
+        {
+            "assists": 1,
+            "blocks": 0,
+            "comment": null,
+            "defReb": 2,
+            "fga": 5,
+            "fgm": 1,
+            "fgp": "20.0",
+            "fta": 0,
+            "ftm": 0,
+            "ftp": "0",
+            "game": {
+                "id": 13726
+            },
+            "min": "21",
+            "offReb": 3,
+            "pFouls": 4,
+            "player": {
+                "firstname": "Mouhamed",
+                "id": 3939,
+                "lastname": "Gueye"
+            },
+            "plusMinus": "-3",
+            "points": 2,
+            "pos": "F",
+            "steals": 1,
+            "team": {
+                "code": "ATL",
+                "id": 1,
+                "logo": "https://upload.wikimedia.org/wikipedia/fr/e/ee/Hawks_2016.png",
+                "name": "Atlanta Hawks",
+                "nickname": "Hawks"
+            },
+            "totReb": 5,
+            "tpa": 2,
+            "tpm": 0,
+            "tpp": "0",
+            "turnovers": 0
+        },
+        {
+            "assists": 0,
+            "blocks": 0,
+            "comment": null,
+            "defReb": 1,
+            "fga": 4,
+            "fgm": 0,
+            "fgp": "0",
+            "fta": 0,
+            "ftm": 0,
+            "ftp": "0",
+            "game": {
+                "id": 13726
+            },
+            "min": "23",
+            "offReb": 0,
+            "pFouls": 3,
+            "player": {
+                "firstname": "Garrison",
+                "id": 2327,
+                "lastname": "Mathews"
+            },
+            "plusMinus": "-6",
+            "points": 0,
+            "pos": "SG",
+            "steals": 1,
+            "team": {
+                "code": "ATL",
+                "id": 1,
+                "logo": "https://upload.wikimedia.org/wikipedia/fr/e/ee/Hawks_2016.png",
+                "name": "Atlanta Hawks",
+                "nickname": "Hawks"
+            },
+            "totReb": 1,
+            "tpa": 3,
+            "tpm": 0,
+            "tpp": "0",
+            "turnovers": 0
+        },
+        {
+            "assists": 2,
+            "blocks": 0,
+            "comment": null,
+            "defReb": 0,
+            "fga": 6,
+            "fgm": 2,
+            "fgp": "33.3",
+            "fta": 0,
+            "ftm": 0,
+            "ftp": "0",
+            "game": {
+                "id": 13726
+            },
+            "min": "8",
+            "offReb": 0,
+            "pFouls": 1,
+            "player": {
+                "firstname": "Vit",
+                "id": 2608,
+                "lastname": "Krejci"
+            },
+            "plusMinus": "-3",
+            "points": 5,
+            "pos": "G",
+            "steals": 0,
+            "team": {
+                "code": "ATL",
+                "id": 1,
+                "logo": "https://upload.wikimedia.org/wikipedia/fr/e/ee/Hawks_2016.png",
+                "name": "Atlanta Hawks",
+                "nickname": "Hawks"
+            },
+            "totReb": 0,
+            "tpa": 3,
+            "tpm": 1,
+            "tpp": "33.3",
+            "turnovers": 2
+        },
+        {
+            "assists": 0,
+            "blocks": 0,
+            "comment": null,
+            "defReb": 2,
+            "fga": 5,
+            "fgm": 3,
+            "fgp": "60.0",
+            "fta": 0,
+            "ftm": 0,
+            "ftp": "0",
+            "game": {
+                "id": 13726
+            },
+            "min": "10",
+            "offReb": 1,
+            "pFouls": 2,
+            "player": {
+                "firstname": "Kobe",
+                "id": 3938,
+                "lastname": "Bufkin"
+            },
+            "plusMinus": "-4",
+            "points": 6,
+            "pos": "G",
+            "steals": 0,
+            "team": {
+                "code": "ATL",
+                "id": 1,
+                "logo": "https://upload.wikimedia.org/wikipedia/fr/e/ee/Hawks_2016.png",
+                "name": "Atlanta Hawks",
+                "nickname": "Hawks"
+            },
+            "totReb": 3,
+            "tpa": 1,
+            "tpm": 0,
+            "tpp": "0",
+            "turnovers": 1
+        },
+        {
+            "assists": 1,
+            "blocks": 0,
+            "comment": null,
+            "defReb": 2,
+            "fga": 5,
+            "fgm": 3,
+            "fgp": "60.0",
+            "fta": 6,
+            "ftm": 6,
+            "ftp": "100.0",
+            "game": {
+                "id": 13736
+            },
+            "min": "21",
+            "offReb": 0,
+            "pFouls": 2,
+            "player": {
+                "firstname": "Bruno",
+                "id": 1858,
+                "lastname": "Fernando"
+            },
+            "plusMinus": "-24",
+            "points": 12,
+            "pos": "PF",
+            "steals": 0,
+            "team": {
+                "code": "ATL",
+                "id": 1,
+                "logo": "https://upload.wikimedia.org/wikipedia/fr/e/ee/Hawks_2016.png",
+                "name": "Atlanta Hawks",
+                "nickname": "Hawks"
+            },
+            "totReb": 2,
+            "tpa": 0,
+            "tpm": 0,
+            "tpp": "0",
+            "turnovers": 1
+        },
+        {
+            "assists": 1,
+            "blocks": 0,
+            "comment": null,
+            "defReb": 2,
+            "fga": 6,
+            "fgm": 0,
+            "fgp": "0",
+            "fta": 6,
+            "ftm": 6,
+            "ftp": "100.0",
+            "game": {
+                "id": 13736
+            },
+            "min": "27",
+            "offReb": 0,
+            "pFouls": 1,
+            "player": {
+                "firstname": "De'Andre",
+                "id": 1868,
+                "lastname": "Hunter"
+            },
+            "plusMinus": "-29",
+            "points": 6,
+            "pos": "SF",
+            "steals": 0,
+            "team": {
+                "code": "ATL",
+                "id": 1,
+                "logo": "https://upload.wikimedia.org/wikipedia/fr/e/ee/Hawks_2016.png",
+                "name": "Atlanta Hawks",
+                "nickname": "Hawks"
+            },
+            "totReb": 2,
+            "tpa": 2,
+            "tpm": 0,
+            "tpp": "0",
+            "turnovers": 1
+        },
+        {
+            "assists": 12,
+            "blocks": 0,
+            "comment": null,
+            "defReb": 2,
+            "fga": 9,
+            "fgm": 4,
+            "fgp": "44.4",
+            "fta": 3,
+            "ftm": 3,
+            "ftp": "100.0",
+            "game": {
+                "id": 13736
+            },
+            "min": "32",
+            "offReb": 1,
+            "pFouls": 1,
+            "player": {
+                "firstname": "Trae",
+                "id": 1046,
+                "lastname": "Young"
+            },
+            "plusMinus": "-35",
+            "points": 12,
+            "pos": "PG",
+            "steals": 0,
+            "team": {
+                "code": "ATL",
+                "id": 1,
+                "logo": "https://upload.wikimedia.org/wikipedia/fr/e/ee/Hawks_2016.png",
+                "name": "Atlanta Hawks",
+                "nickname": "Hawks"
+            },
+            "totReb": 3,
+            "tpa": 4,
+            "tpm": 1,
+            "tpp": "25.0",
+            "turnovers": 8
+        },
+        {
+            "assists": 1,
+            "blocks": 0,
+            "comment": null,
+            "defReb": 3,
+            "fga": 15,
+            "fgm": 6,
+            "fgp": "40.0",
+            "fta": 3,
+            "ftm": 3,
+            "ftp": "100.0",
+            "game": {
+                "id": 13736
+            },
+            "min": "27",
+            "offReb": 1,
+            "pFouls": 2,
+            "player": {
+                "firstname": "Bogdan",
+                "id": 743,
+                "lastname": "Bogdanovic"
+            },
+            "plusMinus": "-31",
+            "points": 18,
+            "pos": "SG",
+            "steals": 2,
+            "team": {
+                "code": "ATL",
+                "id": 1,
+                "logo": "https://upload.wikimedia.org/wikipedia/fr/e/ee/Hawks_2016.png",
+                "name": "Atlanta Hawks",
+                "nickname": "Hawks"
+            },
+            "totReb": 4,
+            "tpa": 8,
+            "tpm": 3,
+            "tpp": "37.5",
+            "turnovers": 0
+        },
+        {
+            "assists": 3,
+            "blocks": 0,
+            "comment": null,
+            "defReb": 2,
+            "fga": 19,
+            "fgm": 13,
+            "fgp": "68.4",
+            "fta": 3,
+            "ftm": 2,
+            "ftp": "66.7",
+            "game": {
+                "id": 13736
+            },
+            "min": "31",
+            "offReb": 1,
+            "pFouls": 1,
+            "player": {
+                "firstname": "Dejounte",
+                "id": 382,
+                "lastname": "Murray"
+            },
+            "plusMinus": "-30",
+            "points": 32,
+            "pos": "SG",
+            "steals": 1,
+            "team": {
+                "code": "ATL",
+                "id": 1,
+                "logo": "https://upload.wikimedia.org/wikipedia/fr/e/ee/Hawks_2016.png",
+                "name": "Atlanta Hawks",
+                "nickname": "Hawks"
+            },
+            "totReb": 3,
+            "tpa": 6,
+            "tpm": 4,
+            "tpp": "66.7",
+            "turnovers": 3
+        },
+        {
+            "assists": 0,
+            "blocks": 1,
+            "comment": null,
+            "defReb": 0,
+            "fga": 14,
+            "fgm": 4,
+            "fgp": "28.6",
+            "fta": 0,
+            "ftm": 0,
+            "ftp": "0",
+            "game": {
+                "id": 13736
+            },
+            "min": "20",
+            "offReb": 0,
+            "pFouls": 0,
+            "player": {
+                "firstname": "AJ",
+                "id": 3444,
+                "lastname": "Griffin"
+            },
+            "plusMinus": "-17",
+            "points": 8,
+            "pos": "F",
+            "steals": 0,
+            "team": {
+                "code": "ATL",
+                "id": 1,
+                "logo": "https://upload.wikimedia.org/wikipedia/fr/e/ee/Hawks_2016.png",
+                "name": "Atlanta Hawks",
+                "nickname": "Hawks"
+            },
+            "totReb": 0,
+            "tpa": 5,
+            "tpm": 0,
+            "tpp": "0",
+            "turnovers": 1
+        },
+        {
+            "assists": 0,
+            "blocks": 3,
+            "comment": null,
+            "defReb": 5,
+            "fga": 11,
+            "fgm": 6,
+            "fgp": "54.5",
+            "fta": 6,
+            "ftm": 5,
+            "ftp": "83.3",
+            "game": {
+                "id": 13736
+            },
+            "min": "27",
+            "offReb": 4,
+            "pFouls": 4,
+            "player": {
+                "firstname": "Mouhamed",
+                "id": 3939,
+                "lastname": "Gueye"
+            },
+            "plusMinus": "-18",
+            "points": 19,
+            "pos": "F",
+            "steals": 2,
+            "team": {
+                "code": "ATL",
+                "id": 1,
+                "logo": "https://upload.wikimedia.org/wikipedia/fr/e/ee/Hawks_2016.png",
+                "name": "Atlanta Hawks",
+                "nickname": "Hawks"
+            },
+            "totReb": 9,
+            "tpa": 3,
+            "tpm": 2,
+            "tpp": "66.7",
+            "turnovers": 0
+        },
+        {
+            "assists": 0,
+            "blocks": 1,
+            "comment": null,
+            "defReb": 0,
+            "fga": 5,
+            "fgm": 2,
+            "fgp": "40.0",
+            "fta": 0,
+            "ftm": 0,
+            "ftp": "0",
+            "game": {
+                "id": 13736
+            },
+            "min": "21",
+            "offReb": 0,
+            "pFouls": 0,
+            "player": {
+                "firstname": "Garrison",
+                "id": 2327,
+                "lastname": "Mathews"
+            },
+            "plusMinus": "-5",
+            "points": 6,
+            "pos": "SG",
+            "steals": 1,
+            "team": {
+                "code": "ATL",
+                "id": 1,
+                "logo": "https://upload.wikimedia.org/wikipedia/fr/e/ee/Hawks_2016.png",
+                "name": "Atlanta Hawks",
+                "nickname": "Hawks"
+            },
+            "totReb": 0,
+            "tpa": 5,
+            "tpm": 2,
+            "tpp": "40.0",
+            "turnovers": 0
+        },
+        {
+            "assists": 2,
+            "blocks": 0,
+            "comment": null,
+            "defReb": 3,
+            "fga": 0,
+            "fgm": 0,
+            "fgp": "0",
+            "fta": 0,
+            "ftm": 0,
+            "ftp": "0",
+            "game": {
+                "id": 13736
+            },
+            "min": "6",
+            "offReb": 0,
+            "pFouls": 0,
+            "player": {
+                "firstname": "Trent",
+                "id": 2589,
+                "lastname": "Forrest"
+            },
+            "plusMinus": "-6",
+            "points": 0,
+            "pos": "G",
+            "steals": 0,
+            "team": {
+                "code": "ATL",
+                "id": 1,
+                "logo": "https://upload.wikimedia.org/wikipedia/fr/e/ee/Hawks_2016.png",
+                "name": "Atlanta Hawks",
+                "nickname": "Hawks"
+            },
+            "totReb": 3,
+            "tpa": 0,
+            "tpm": 0,
+            "tpp": "0",
+            "turnovers": 0
+        },
+        {
+            "assists": 5,
+            "blocks": 0,
+            "comment": null,
+            "defReb": 3,
+            "fga": 2,
+            "fgm": 0,
+            "fgp": "0",
+            "fta": 0,
+            "ftm": 0,
+            "ftp": "0",
+            "game": {
+                "id": 13736
+            },
+            "min": "22",
+            "offReb": 2,
+            "pFouls": 1,
+            "player": {
+                "firstname": "Vit",
+                "id": 2608,
+                "lastname": "Krejci"
+            },
+            "plusMinus": "-9",
+            "points": 0,
+            "pos": "G",
+            "steals": 0,
+            "team": {
+                "code": "ATL",
+                "id": 1,
+                "logo": "https://upload.wikimedia.org/wikipedia/fr/e/ee/Hawks_2016.png",
+                "name": "Atlanta Hawks",
+                "nickname": "Hawks"
+            },
+            "totReb": 5,
+            "tpa": 2,
+            "tpm": 0,
+            "tpp": "0",
+            "turnovers": 1
+        },
+        {
+            "assists": 0,
+            "blocks": 0,
+            "comment": null,
+            "defReb": 1,
+            "fga": 3,
+            "fgm": 1,
+            "fgp": "33.3",
+            "fta": 0,
+            "ftm": 0,
+            "ftp": "0",
+            "game": {
+                "id": 13736
+            },
+            "min": "7",
+            "offReb": 0,
+            "pFouls": 0,
+            "player": {
+                "firstname": "Kobe",
+                "id": 3938,
+                "lastname": "Bufkin"
+            },
+            "plusMinus": "-6",
+            "points": 2,
+            "pos": "G",
+            "steals": 0,
+            "team": {
+                "code": "ATL",
+                "id": 1,
+                "logo": "https://upload.wikimedia.org/wikipedia/fr/e/ee/Hawks_2016.png",
+                "name": "Atlanta Hawks",
+                "nickname": "Hawks"
+            },
+            "totReb": 1,
+            "tpa": 1,
+            "tpm": 0,
+            "tpp": "0",
+            "turnovers": 0
+        },
+        {
+            "assists": 4,
+            "blocks": 0,
+            "comment": null,
+            "defReb": 1,
+            "fga": 16,
+            "fgm": 3,
+            "fgp": "18.8",
+            "fta": 3,
+            "ftm": 2,
+            "ftp": "66.7",
+            "game": {
+                "id": 13934
+            },
+            "min": "42",
+            "offReb": 1,
+            "pFouls": 1,
+            "player": {
+                "firstname": "De'Andre",
+                "id": 1868,
+                "lastname": "Hunter"
+            },
+            "plusMinus": "-16",
+            "points": 8,
+            "pos": "SF",
+            "steals": 0,
+            "team": {
+                "code": "ATL",
+                "id": 1,
+                "logo": "https://upload.wikimedia.org/wikipedia/fr/e/ee/Hawks_2016.png",
+                "name": "Atlanta Hawks",
+                "nickname": "Hawks"
+            },
+            "totReb": 2,
+            "tpa": 7,
+            "tpm": 0,
+            "tpp": "0",
+            "turnovers": 1
+        },
+        {
+            "assists": 4,
+            "blocks": 0,
+            "comment": null,
+            "defReb": 13,
+            "fga": 15,
+            "fgm": 11,
+            "fgp": "73.3",
+            "fta": 0,
+            "ftm": 0,
+            "ftp": "0",
+            "game": {
+                "id": 13934
+            },
+            "min": "38",
+            "offReb": 4,
+            "pFouls": 0,
+            "player": {
+                "firstname": "Clint",
+                "id": 92,
+                "lastname": "Capela"
+            },
+            "plusMinus": "-5",
+            "points": 22,
+            "pos": "C",
+            "steals": 0,
+            "team": {
+                "code": "ATL",
+                "id": 1,
+                "logo": "https://upload.wikimedia.org/wikipedia/fr/e/ee/Hawks_2016.png",
+                "name": "Atlanta Hawks",
+                "nickname": "Hawks"
+            },
+            "totReb": 17,
+            "tpa": 0,
+            "tpm": 0,
+            "tpp": "0",
+            "turnovers": 0
+        },
+        {
+            "assists": 10,
+            "blocks": 0,
+            "comment": null,
+            "defReb": 1,
+            "fga": 12,
+            "fgm": 4,
+            "fgp": "33.3",
+            "fta": 13,
+            "ftm": 11,
+            "ftp": "84.6",
+            "game": {
+                "id": 13934
+            },
+            "min": "43",
+            "offReb": 1,
+            "pFouls": 2,
+            "player": {
+                "firstname": "Trae",
+                "id": 1046,
+                "lastname": "Young"
+            },
+            "plusMinus": "-27",
+            "points": 22,
+            "pos": "PG",
+            "steals": 0,
+            "team": {
+                "code": "ATL",
+                "id": 1,
+                "logo": "https://upload.wikimedia.org/wikipedia/fr/e/ee/Hawks_2016.png",
+                "name": "Atlanta Hawks",
+                "nickname": "Hawks"
+            },
+            "totReb": 2,
+            "tpa": 8,
+            "tpm": 3,
+            "tpp": "37.5",
+            "turnovers": 6
+        },
+        {
+            "assists": 4,
+            "blocks": 2,
+            "comment": null,
+            "defReb": 4,
+            "fga": 18,
+            "fgm": 8,
+            "fgp": "44.4",
+            "fta": 2,
+            "ftm": 2,
+            "ftp": "100.0",
+            "game": {
+                "id": 13934
+            },
+            "min": "37",
+            "offReb": 1,
+            "pFouls": 5,
+            "player": {
+                "firstname": "Bogdan",
+                "id": 743,
+                "lastname": "Bogdanovic"
+            },
+            "plusMinus": "+1",
+            "points": 21,
+            "pos": "SG",
+            "steals": 2,
+            "team": {
+                "code": "ATL",
+                "id": 1,
+                "logo": "https://upload.wikimedia.org/wikipedia/fr/e/ee/Hawks_2016.png",
+                "name": "Atlanta Hawks",
+                "nickname": "Hawks"
+            },
+            "totReb": 5,
+            "tpa": 10,
+            "tpm": 3,
+            "tpp": "30.0",
+            "turnovers": 0
+        },
+        {
+            "assists": 6,
+            "blocks": 0,
+            "comment": null,
+            "defReb": 6,
+            "fga": 21,
+            "fgm": 11,
+            "fgp": "52.4",
+            "fta": 6,
+            "ftm": 5,
+            "ftp": "83.3",
+            "game": {
+                "id": 13934
+            },
+            "min": "46",
+            "offReb": 1,
+            "pFouls": 2,
+            "player": {
+                "firstname": "Dejounte",
+                "id": 382,
+                "lastname": "Murray"
+            },
+            "plusMinus": "-6",
+            "points": 30,
+            "pos": "SG",
+            "steals": 2,
+            "team": {
+                "code": "ATL",
+                "id": 1,
+                "logo": "https://upload.wikimedia.org/wikipedia/fr/e/ee/Hawks_2016.png",
+                "name": "Atlanta Hawks",
+                "nickname": "Hawks"
+            },
+            "totReb": 7,
+            "tpa": 6,
+            "tpm": 3,
+            "tpp": "50.0",
+            "turnovers": 1
+        },
+        {
+            "assists": 1,
+            "blocks": 0,
+            "comment": null,
+            "defReb": 1,
+            "fga": 3,
+            "fgm": 2,
+            "fgp": "66.7",
+            "fta": 1,
+            "ftm": 1,
+            "ftp": "100.0",
+            "game": {
+                "id": 13934
+            },
+            "min": "10",
+            "offReb": 0,
+            "pFouls": 2,
+            "player": {
+                "firstname": "Bruno",
+                "id": 1858,
+                "lastname": "Fernando"
+            },
+            "plusMinus": "-10",
+            "points": 5,
+            "pos": "PF",
+            "steals": 0,
+            "team": {
+                "code": "ATL",
+                "id": 1,
+                "logo": "https://upload.wikimedia.org/wikipedia/fr/e/ee/Hawks_2016.png",
+                "name": "Atlanta Hawks",
+                "nickname": "Hawks"
+            },
+            "totReb": 1,
+            "tpa": 0,
+            "tpm": 0,
+            "tpp": "0",
+            "turnovers": 0
+        },
+        {
+            "assists": 0,
+            "blocks": 0,
+            "comment": null,
+            "defReb": 0,
+            "fga": 0,
+            "fgm": 0,
+            "fgp": "0",
+            "fta": 0,
+            "ftm": 0,
+            "ftp": "0",
+            "game": {
+                "id": 13934
+            },
+            "min": "2",
+            "offReb": 0,
+            "pFouls": 0,
+            "player": {
+                "firstname": "Mouhamed",
+                "id": 3939,
+                "lastname": "Gueye"
+            },
+            "plusMinus": "-9",
+            "points": 0,
+            "pos": "F",
+            "steals": 0,
+            "team": {
+                "code": "ATL",
+                "id": 1,
+                "logo": "https://upload.wikimedia.org/wikipedia/fr/e/ee/Hawks_2016.png",
+                "name": "Atlanta Hawks",
+                "nickname": "Hawks"
+            },
+            "totReb": 0,
+            "tpa": 0,
+            "tpm": 0,
+            "tpp": "0",
+            "turnovers": 0
+        },
+        {
+            "assists": 1,
+            "blocks": 0,
+            "comment": null,
+            "defReb": 0,
+            "fga": 2,
+            "fgm": 0,
+            "fgp": "0",
+            "fta": 0,
+            "ftm": 0,
+            "ftp": "0",
+            "game": {
+                "id": 13934
+            },
+            "min": "10",
+            "offReb": 0,
+            "pFouls": 0,
+            "player": {
+                "firstname": "Wesley",
+                "id": 341,
+                "lastname": "Matthews"
+            },
+            "plusMinus": "-7",
+            "points": 0,
+            "pos": "SG",
+            "steals": 0,
+            "team": {
+                "code": "ATL",
+                "id": 1,
+                "logo": "https://upload.wikimedia.org/wikipedia/fr/e/ee/Hawks_2016.png",
+                "name": "Atlanta Hawks",
+                "nickname": "Hawks"
+            },
+            "totReb": 0,
+            "tpa": 2,
+            "tpm": 0,
+            "tpp": "0",
+            "turnovers": 0
+        },
+        {
+            "assists": 0,
+            "blocks": 0,
+            "comment": null,
+            "defReb": 0,
+            "fga": 4,
+            "fgm": 2,
+            "fgp": "50.0",
+            "fta": 3,
+            "ftm": 2,
+            "ftp": "66.7",
+            "game": {
+                "id": 13934
+            },
+            "min": "13",
+            "offReb": 0,
+            "pFouls": 4,
+            "player": {
+                "firstname": "Garrison",
+                "id": 2327,
+                "lastname": "Mathews"
+            },
+            "plusMinus": "+4",
+            "points": 8,
+            "pos": "SG",
+            "steals": 0,
+            "team": {
+                "code": "ATL",
+                "id": 1,
+                "logo": "https://upload.wikimedia.org/wikipedia/fr/e/ee/Hawks_2016.png",
+                "name": "Atlanta Hawks",
+                "nickname": "Hawks"
+            },
+            "totReb": 0,
+            "tpa": 4,
+            "tpm": 2,
+            "tpp": "50.0",
+            "turnovers": 1
         }
     ],
-    "results": 735
+    "results": 883
 }

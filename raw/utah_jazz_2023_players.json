@@ -151,30 +151,25 @@
             }
         },
         {
-            "affiliation": "Indiana/USA",
+            "affiliation": "Princeton HS (OH)/USA",
             "birth": {
                 "country": "USA",
-                "date": "1999-10-25"
+                "date": "2000-06-12"
             },
-            "college": "Indiana",
-            "firstname": "Romeo",
+            "college": "Princeton HS (OH)",
+            "firstname": "Darius",
             "height": {
                 "feets": "6",
-                "inches": "5",
-                "meters": "1.96"
+                "inches": "8",
+                "meters": "2.03"
             },
-            "id": 1874,
-            "lastname": "Langford",
+            "id": 1847,
+            "lastname": "Bazley",
             "leagues": {
                 "standard": {
                     "active": true,
-                    "jersey": 35,
-                    "pos": "G-F"
-                },
-                "vegas": {
-                    "active": true,
-                    "jersey": 9,
-                    "pos": "G"
+                    "jersey": 55,
+                    "pos": "F"
                 }
             },
             "nba": {
@@ -182,8 +177,8 @@
                 "start": 2019
             },
             "weight": {
-                "kilograms": "98.0",
-                "pounds": "216"
+                "kilograms": "94.3",
+                "pounds": "208"
             }
         },
         {
@@ -568,6 +563,47 @@
                 "date": null
             },
             "college": null,
+            "firstname": "Kenneth",
+            "height": {
+                "feets": null,
+                "inches": null,
+                "meters": null
+            },
+            "id": 3463,
+            "lastname": "Lofton Jr.",
+            "leagues": {
+                "standard": {
+                    "active": true,
+                    "jersey": 6,
+                    "pos": "F"
+                },
+                "utah": {
+                    "active": true,
+                    "jersey": 6,
+                    "pos": "F-C"
+                },
+                "vegas": {
+                    "active": true,
+                    "jersey": 6,
+                    "pos": "F-C"
+                }
+            },
+            "nba": {
+                "pro": 0,
+                "start": 0
+            },
+            "weight": {
+                "kilograms": null,
+                "pounds": null
+            }
+        },
+        {
+            "affiliation": null,
+            "birth": {
+                "country": null,
+                "date": null
+            },
+            "college": null,
             "firstname": "Simone",
             "height": {
                 "feets": null,
@@ -779,5 +815,5 @@
             }
         }
     ],
-    "results": 22
+    "results": 23
 }

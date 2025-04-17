@@ -315,6 +315,78 @@
             }
         },
         {
+            "affiliation": "Providence/USA",
+            "birth": {
+                "country": "USA",
+                "date": "1999-10-13"
+            },
+            "college": "Providence",
+            "firstname": "David",
+            "height": {
+                "feets": "6",
+                "inches": "4",
+                "meters": "1.93"
+            },
+            "id": 2804,
+            "lastname": "Duke Jr.",
+            "leagues": {
+                "standard": {
+                    "active": true,
+                    "jersey": 6,
+                    "pos": "G"
+                },
+                "vegas": {
+                    "active": true,
+                    "jersey": 6,
+                    "pos": "G"
+                }
+            },
+            "nba": {
+                "pro": 0,
+                "start": 2021
+            },
+            "weight": {
+                "kilograms": "92.5",
+                "pounds": "204"
+            }
+        },
+        {
+            "affiliation": null,
+            "birth": {
+                "country": null,
+                "date": null
+            },
+            "college": null,
+            "firstname": "RaiQuan",
+            "height": {
+                "feets": null,
+                "inches": null,
+                "meters": null
+            },
+            "id": 2809,
+            "lastname": "Gray",
+            "leagues": {
+                "standard": {
+                    "active": true,
+                    "jersey": null,
+                    "pos": "F"
+                },
+                "vegas": {
+                    "active": true,
+                    "jersey": 4,
+                    "pos": "F"
+                }
+            },
+            "nba": {
+                "pro": 0,
+                "start": 0
+            },
+            "weight": {
+                "kilograms": null,
+                "pounds": null
+            }
+        },
+        {
             "affiliation": "Seton Hall/Georgia",
             "birth": {
                 "country": "Georgia",
@@ -488,6 +560,47 @@
                     "active": true,
                     "jersey": 10,
                     "pos": "F"
+                }
+            },
+            "nba": {
+                "pro": 0,
+                "start": 0
+            },
+            "weight": {
+                "kilograms": null,
+                "pounds": null
+            }
+        },
+        {
+            "affiliation": null,
+            "birth": {
+                "country": null,
+                "date": null
+            },
+            "college": null,
+            "firstname": "Jamaree",
+            "height": {
+                "feets": null,
+                "inches": null,
+                "meters": null
+            },
+            "id": 3418,
+            "lastname": "Bouyea",
+            "leagues": {
+                "sacramento": {
+                    "active": true,
+                    "jersey": 52,
+                    "pos": "G"
+                },
+                "standard": {
+                    "active": true,
+                    "jersey": 11,
+                    "pos": "G"
+                },
+                "vegas": {
+                    "active": true,
+                    "jersey": 52,
+                    "pos": "G"
                 }
             },
             "nba": {
@@ -727,5 +840,5 @@
             }
         }
     ],
-    "results": 20
+    "results": 23
 }

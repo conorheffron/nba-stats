@@ -747,6 +747,37 @@
             }
         },
         {
+            "affiliation": null,
+            "birth": {
+                "country": null,
+                "date": null
+            },
+            "college": null,
+            "firstname": "Jamie Jr.",
+            "height": {
+                "feets": null,
+                "inches": null,
+                "meters": null
+            },
+            "id": 4085,
+            "lastname": "Jaquez",
+            "leagues": {
+                "standard": {
+                    "active": true,
+                    "jersey": null,
+                    "pos": "G"
+                }
+            },
+            "nba": {
+                "pro": 0,
+                "start": 0
+            },
+            "weight": {
+                "kilograms": null,
+                "pounds": null
+            }
+        },
+        {
             "affiliation": "Villanova/USA",
             "birth": {
                 "country": "USA",
@@ -871,5 +902,5 @@
             }
         }
     ],
-    "results": 24
+    "results": 25
 }

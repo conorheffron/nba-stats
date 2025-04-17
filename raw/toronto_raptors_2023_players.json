@@ -110,6 +110,47 @@
             }
         },
         {
+            "affiliation": null,
+            "birth": {
+                "country": null,
+                "date": null
+            },
+            "college": null,
+            "firstname": "Kobi",
+            "height": {
+                "feets": null,
+                "inches": null,
+                "meters": null
+            },
+            "id": 873,
+            "lastname": "Simmons",
+            "leagues": {
+                "standard": {
+                    "active": true,
+                    "jersey": 23,
+                    "pos": "G"
+                },
+                "utah": {
+                    "active": true,
+                    "jersey": 2,
+                    "pos": "G"
+                },
+                "vegas": {
+                    "active": true,
+                    "jersey": 42,
+                    "pos": "G"
+                }
+            },
+            "nba": {
+                "pro": 0,
+                "start": 0
+            },
+            "weight": {
+                "kilograms": null,
+                "pounds": null
+            }
+        },
+        {
             "affiliation": "Oregon/Saint Lucia",
             "birth": {
                 "country": "Saint Lucia",
@@ -552,47 +593,6 @@
             }
         },
         {
-            "affiliation": "Rhode Island/USA",
-            "birth": {
-                "country": "USA",
-                "date": "1997-05-10"
-            },
-            "college": "Rhode Island",
-            "firstname": "Jeff",
-            "height": {
-                "feets": "6",
-                "inches": "3",
-                "meters": "1.9"
-            },
-            "id": 2878,
-            "lastname": "Dowtin",
-            "leagues": {
-                "sacramento": {
-                    "active": true,
-                    "jersey": 25,
-                    "pos": "G"
-                },
-                "standard": {
-                    "active": true,
-                    "jersey": 15,
-                    "pos": "G"
-                },
-                "vegas": {
-                    "active": true,
-                    "jersey": 20,
-                    "pos": "G"
-                }
-            },
-            "nba": {
-                "pro": 0,
-                "start": 2021
-            },
-            "weight": {
-                "kilograms": "81.6",
-                "pounds": "180"
-            }
-        },
-        {
             "affiliation": null,
             "birth": {
                 "country": null,
@@ -902,6 +902,37 @@
             }
         },
         {
+            "affiliation": null,
+            "birth": {
+                "country": null,
+                "date": null
+            },
+            "college": null,
+            "firstname": "M.",
+            "height": {
+                "feets": null,
+                "inches": null,
+                "meters": null
+            },
+            "id": 4089,
+            "lastname": "Williams",
+            "leagues": {
+                "standard": {
+                    "active": true,
+                    "jersey": null,
+                    "pos": "C"
+                }
+            },
+            "nba": {
+                "pro": 0,
+                "start": 0
+            },
+            "weight": {
+                "kilograms": null,
+                "pounds": null
+            }
+        },
+        {
             "affiliation": "Georgia Tech/USA",
             "birth": {
                 "country": "USA",
@@ -1057,5 +1088,5 @@
             }
         }
     ],
-    "results": 30
+    "results": 31
 }

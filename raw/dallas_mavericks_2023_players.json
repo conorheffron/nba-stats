@@ -578,6 +578,37 @@
                 "country": null,
                 "date": null
             },
+            "college": "Florida",
+            "firstname": "Alex",
+            "height": {
+                "feets": "6",
+                "inches": null,
+                "meters": null
+            },
+            "id": 3988,
+            "lastname": "Fudge",
+            "leagues": {
+                "standard": {
+                    "active": true,
+                    "jersey": 17,
+                    "pos": "F"
+                }
+            },
+            "nba": {
+                "pro": 0,
+                "start": 0
+            },
+            "weight": {
+                "kilograms": null,
+                "pounds": "189"
+            }
+        },
+        {
+            "affiliation": null,
+            "birth": {
+                "country": null,
+                "date": null
+            },
             "college": "Duke",
             "firstname": "Dereck II",
             "height": {
@@ -821,5 +852,5 @@
             }
         }
     ],
-    "results": 24
+    "results": 25
 }
