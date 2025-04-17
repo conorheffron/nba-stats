@@ -17,6 +17,6 @@ This includes:
 - [part2-V2.ipynb](https://conorheffron.github.io/nba-stats/part2-V2.html) (Part 2 Notebook - read, clean, analyse and visualise data stored on disk)
 
 Renewed versions including 2024 data (Analysis in progress)
-- https://conorheffron.github.io/nba-stats/part1-V2.html
-- https://conorheffron.github.io/nba-stats/part2-download-data-V3.htnml
-- https://conorheffron.github.io/nba-stats/part3-analysis-V3.html
+- [part1-V2](https://conorheffron.github.io/nba-stats/part1-V2.html)
+- [part2-download-data-V3](https://conorheffron.github.io/nba-stats/part2-download-data-V3.html)
+- [part3-analysis-V3](https://conorheffron.github.io/nba-stats/part3-analysis-V3.html)
