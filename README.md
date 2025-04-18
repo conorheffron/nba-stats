@@ -7,11 +7,11 @@
 # Version 1 
 ### Please see the inital version of this analysis in 2 parts (Jupyter notebooks using various Python 3 libraries).
 
-- [part1.ipynb](https://conorheffron.github.io/nba-stats/part1.ipynb) (Part 1 Notebook - download data for analysis via sports API - NBA V2)
+- [part1](https://conorheffron.github.io/nba-stats/part1.ipynb) (Part 1 Notebook - download data for analysis via sports API - NBA V2)
 
-- Data used available at `/raw` dir with all teams/seasons data, please contact `conorheffron` to collaborate on this analysis etc.
+- Raw data pulled from NBA sports API calls available at `/raw` dir with all teams/seasons data, please contact `conorheffron` to collaborate on this analysis etc.
 
-- [part2-V1.ipynb](https://conorheffron.github.io/nba-stats/part2-V1.html) (Part 2 Notebook - read, clean, analyse and visualise data stored on disk)
+- [part2-V1](https://conorheffron.github.io/nba-stats/part2-V1.html) (Part 2 Notebook - read, clean, analyse, & visualise raw data stored on disk)
 
 
 # Version 2
@@ -19,9 +19,9 @@
 
 - [part1-V2](https://conorheffron.github.io/nba-stats/part1-V2.html) (Part 1 Notebook - download data for analysis via sports API - NBA V2)
 
-- Data used available at `/raw` dir with all teams/seasons data, please contact `conorheffron` to collaborate on this analysis etc.
+- Raw data pulled from NBA sports API calls available at `/raw` dir with all teams/seasons data, please contact `conorheffron` to collaborate on this analysis etc.
 
-- [part2-V2.ipynb](https://conorheffron.github.io/nba-stats/part2-V2.html) (Part 2 Notebook - read, clean, analyse and visualise data stored on disk)
+- [part2-V2](https://conorheffron.github.io/nba-stats/part2-V2.html) (Part 2 Notebook - read, clean, analyse, & visualise the raw data stored on disk)
 
 
 # Version 3
@@ -29,10 +29,10 @@
 
 - [part1-V3](https://conorheffron.github.io/nba-stats/part1-V3.html) (Part 1 Notebook - download data for analysis via sports API - NBA V2)
 
-- Data used available at `/raw` dir with all teams/seasons data, please contact `conorheffron` to collaborate on this analysis etc.
+- The data pulled from NBA sports API calls is dumped & stored at `./raw` dir with all teams/seasons data, please contact `conorheffron` to collaborate on this analysis etc.
 
-- [part2-download-data-V3](https://conorheffron.github.io/nba-stats/part2-download-data-V3.html) (Part 2 Notebook - read & clean raw data stored on disk then download processed data into single CSV file)
+- [part2-download-data-V3](https://conorheffron.github.io/nba-stats/part2-download-data-V3.html) (Part 2 Notebook - Read & clean raw data stored on disk then download processed data into single CSV file)
 
-- Intermediary file format to speed up development/analysis phase available in root folder at `./nba-stats-data.csv`
+- Intermediary file format to speed up development/analysis phase available in root folder at `./nba-stats-data.csv`. This file is produced by running part 2 notebook.
 
-- [part3-analysis-V3](https://conorheffron.github.io/nba-stats/part3-analysis-V3.html) (Part 3 Notebook - Analyse & visualise data stored in single CSV file from part 2 notebook)
+- [part3-analysis-V3](https://conorheffron.github.io/nba-stats/part3-analysis-V3.html) (Part 3 Notebook - Analyse & visualise pre-processed data stored in single CSV file from part 2 notebook)
